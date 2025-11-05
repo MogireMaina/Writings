@@ -1,12 +1,10 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_file
 from flask_cors import CORS
-import firebase_admin
-from firebase_admin import credentials, firestore
 import nltk
 from nltk.tokenize import sent_tokenize
-import os
 import json
 from datetime import datetime
+import io
 
 # Download NLTK data (only needed first time)
 try:
@@ -17,32 +15,14 @@ except LookupError:
 app = Flask(__name__)
 CORS(app)  # Enable CORS for frontend communication
 
-# Firebase initialization
-db = None
-
-def initialize_firebase():
-    """Initialize Firebase with credentials"""
-    global db
-    try:
-        if not firebase_admin._apps:
-            # Check if firebase config exists
-            if os.path.exists('firebase-key.json'):
-                cred = credentials.Certificate('firebase-key.json')
-                firebase_admin.initialize_app(cred)
-                db = firestore.client()
-                print("✓ Firebase initialized successfully")
-            else:
-                print("⚠ Warning: firebase-key.json not found. Firebase features disabled.")
-                print("  Download your service account key from Firebase Console")
-    except Exception as e:
-        print(f"⚠ Firebase initialization error: {e}")
+# In-memory storage for the current session
+current_dataset = None
 
 @app.route('/health', methods=['GET'])
 def health_check():
     """Health check endpoint"""
     return jsonify({
         'status': 'healthy',
-        'firebase_connected': db is not None,
         'port': 44445
     })
 
@@ -78,7 +58,9 @@ def upload_text():
 
 @app.route('/process', methods=['POST'])
 def process_sentences():
-    """Process and save selected sentences to Firebase"""
+    """Process and prepare selected sentences for training"""
+    global current_dataset
+
     try:
         data = request.json
         sentences = data.get('sentences', [])
@@ -98,96 +80,54 @@ def process_sentences():
             }
         }
 
-        # Save to Firebase if available
-        doc_id = None
-        if db:
-            doc_ref = db.collection('training_data').add(training_data)
-            doc_id = doc_ref[1].id
-            training_data['id'] = doc_id
+        # Store in memory for download
+        current_dataset = training_data
 
         return jsonify({
             'success': True,
             'selected_count': len(selected_sentences),
-            'firebase_saved': db is not None,
-            'document_id': doc_id,
             'data': training_data
         })
 
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
-@app.route('/datasets', methods=['GET'])
-def get_datasets():
-    """Get all saved datasets from Firebase"""
+@app.route('/export/json', methods=['GET'])
+def export_json():
+    """Export current dataset as JSON"""
     try:
-        if not db:
-            return jsonify({'error': 'Firebase not initialized'}), 500
+        if not current_dataset:
+            return jsonify({'error': 'No dataset available. Process sentences first.'}), 404
 
-        datasets = []
-        docs = db.collection('training_data').order_by('created_at', direction=firestore.Query.DESCENDING).limit(50).stream()
-
-        for doc in docs:
-            data = doc.to_dict()
-            data['id'] = doc.id
-            # Don't send full sentences list, just metadata
-            data['sentences'] = f"{len(data.get('sentences', []))} sentences"
-            datasets.append(data)
+        # Create JSON file in memory
+        json_data = json.dumps(current_dataset, indent=2)
 
         return jsonify({
             'success': True,
-            'datasets': datasets
+            'data': current_dataset,
+            'download_url': '/download/json'
         })
 
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
-@app.route('/dataset/<dataset_id>', methods=['GET'])
-def get_dataset(dataset_id):
-    """Get a specific dataset by ID"""
+@app.route('/export/jsonl', methods=['GET'])
+def export_jsonl():
+    """Export current dataset in JSONL format (one JSON object per line)"""
     try:
-        if not db:
-            return jsonify({'error': 'Firebase not initialized'}), 500
+        if not current_dataset:
+            return jsonify({'error': 'No dataset available. Process sentences first.'}), 404
 
-        doc = db.collection('training_data').document(dataset_id).get()
+        sentences = current_dataset.get('sentences', [])
 
-        if not doc.exists:
-            return jsonify({'error': 'Dataset not found'}), 404
-
-        data = doc.to_dict()
-        data['id'] = doc.id
-
-        return jsonify({
-            'success': True,
-            'dataset': data
-        })
-
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
-
-@app.route('/export/<dataset_id>', methods=['GET'])
-def export_dataset(dataset_id):
-    """Export dataset in training format (JSONL)"""
-    try:
-        if not db:
-            return jsonify({'error': 'Firebase not initialized'}), 500
-
-        doc = db.collection('training_data').document(dataset_id).get()
-
-        if not doc.exists:
-            return jsonify({'error': 'Dataset not found'}), 404
-
-        data = doc.to_dict()
-        sentences = data.get('sentences', [])
-
-        # Format for fine-tuning (adjust based on your model)
-        # Common formats: JSONL with {"text": "sentence"}
+        # Format for fine-tuning: JSONL with {"text": "sentence"}
         training_format = []
         for sentence in sentences:
             training_format.append({
                 "text": sentence,
                 "metadata": {
                     "source": "custom_upload",
-                    "created_at": data.get('created_at')
+                    "created_at": current_dataset.get('created_at')
                 }
             })
 
@@ -195,8 +135,111 @@ def export_dataset(dataset_id):
             'success': True,
             'format': 'jsonl',
             'data': training_format,
-            'count': len(training_format)
+            'count': len(training_format),
+            'download_url': '/download/jsonl'
         })
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/download/json', methods=['GET'])
+def download_json():
+    """Download current dataset as JSON file"""
+    try:
+        if not current_dataset:
+            return jsonify({'error': 'No dataset available'}), 404
+
+        # Create JSON string
+        json_str = json.dumps(current_dataset, indent=2)
+
+        # Create file in memory
+        mem_file = io.BytesIO()
+        mem_file.write(json_str.encode('utf-8'))
+        mem_file.seek(0)
+
+        # Generate filename with timestamp
+        timestamp = datetime.utcnow().strftime('%Y%m%d_%H%M%S')
+        filename = f'training_data_{timestamp}.json'
+
+        return send_file(
+            mem_file,
+            mimetype='application/json',
+            as_attachment=True,
+            download_name=filename
+        )
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/download/jsonl', methods=['GET'])
+def download_jsonl():
+    """Download current dataset as JSONL file"""
+    try:
+        if not current_dataset:
+            return jsonify({'error': 'No dataset available'}), 404
+
+        sentences = current_dataset.get('sentences', [])
+
+        # Create JSONL format (one JSON per line)
+        jsonl_lines = []
+        for sentence in sentences:
+            line = json.dumps({
+                "text": sentence,
+                "metadata": {
+                    "source": "custom_upload",
+                    "created_at": current_dataset.get('created_at')
+                }
+            })
+            jsonl_lines.append(line)
+
+        jsonl_str = '\n'.join(jsonl_lines)
+
+        # Create file in memory
+        mem_file = io.BytesIO()
+        mem_file.write(jsonl_str.encode('utf-8'))
+        mem_file.seek(0)
+
+        # Generate filename with timestamp
+        timestamp = datetime.utcnow().strftime('%Y%m%d_%H%M%S')
+        filename = f'training_data_{timestamp}.jsonl'
+
+        return send_file(
+            mem_file,
+            mimetype='application/x-ndjson',
+            as_attachment=True,
+            download_name=filename
+        )
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/download/txt', methods=['GET'])
+def download_txt():
+    """Download current dataset as plain text file (one sentence per line)"""
+    try:
+        if not current_dataset:
+            return jsonify({'error': 'No dataset available'}), 404
+
+        sentences = current_dataset.get('sentences', [])
+
+        # Create plain text (one sentence per line)
+        text_str = '\n'.join(sentences)
+
+        # Create file in memory
+        mem_file = io.BytesIO()
+        mem_file.write(text_str.encode('utf-8'))
+        mem_file.seek(0)
+
+        # Generate filename with timestamp
+        timestamp = datetime.utcnow().strftime('%Y%m%d_%H%M%S')
+        filename = f'training_data_{timestamp}.txt'
+
+        return send_file(
+            mem_file,
+            mimetype='text/plain',
+            as_attachment=True,
+            download_name=filename
+        )
 
     except Exception as e:
         return jsonify({'error': str(e)}), 500
@@ -205,7 +248,6 @@ if __name__ == '__main__':
     print("=" * 60)
     print("AI Fine-tuning Data Preparation Backend")
     print("=" * 60)
-    initialize_firebase()
     print(f"Starting server on http://localhost:44445")
     print("=" * 60)
     app.run(host='0.0.0.0', port=44445, debug=True)

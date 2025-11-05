@@ -12,16 +12,13 @@ const fileInfo = document.getElementById('fileInfo');
 const uploadSection = document.getElementById('upload-section');
 const configSection = document.getElementById('config-section');
 const resultsSection = document.getElementById('results-section');
-const datasetsSection = document.getElementById('datasets-section');
 const stats = document.getElementById('stats');
 const sentenceCount = document.getElementById('sentenceCount');
 const sentenceSlider = document.getElementById('sentenceSlider');
 const sliderValue = document.getElementById('sliderValue');
 const processBtn = document.getElementById('processBtn');
 const results = document.getElementById('results');
-const viewDatasetsBtn = document.getElementById('viewDatasetsBtn');
 const newUploadBtn = document.getElementById('newUploadBtn');
-const backBtn = document.getElementById('backBtn');
 const backendStatus = document.getElementById('backendStatus');
 const statusDiv = document.getElementById('status');
 
@@ -40,15 +37,11 @@ async function checkBackendHealth() {
         if (data.status === 'healthy') {
             backendStatus.textContent = `Online (Port ${data.port})`;
             backendStatus.classList.add('online');
-
-            if (!data.firebase_connected) {
-                showStatus('Warning: Firebase not configured. Data will not be saved.', 'error');
-            }
         }
     } catch (error) {
         backendStatus.textContent = 'Offline';
         backendStatus.classList.add('offline');
-        showStatus('Backend server not running. Start it with: python backend/app.py', 'error');
+        showStatus('Backend server not running. Start it with: cd backend && ./start.sh', 'error');
     }
 }
 
@@ -75,10 +68,8 @@ function setupEventListeners() {
     });
 
     // Buttons
-    processBtn.addEventListener('click', processAndSave);
-    viewDatasetsBtn.addEventListener('click', showDatasets);
+    processBtn.addEventListener('click', processData);
     newUploadBtn.addEventListener('click', resetApp);
-    backBtn.addEventListener('click', resetApp);
 }
 
 // Drag and drop handlers
@@ -193,8 +184,8 @@ function showConfigSection() {
     configSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
-// Process and save to Firebase
-async function processAndSave() {
+// Process data
+async function processData() {
     const count = parseInt(sentenceCount.value);
 
     if (count > currentSentences.length) {
@@ -225,12 +216,12 @@ async function processAndSave() {
         } else {
             showStatus(`Error: ${data.error}`, 'error');
             processBtn.disabled = false;
-            processBtn.textContent = 'Process & Save to Firebase';
+            processBtn.textContent = 'Process Data';
         }
     } catch (error) {
         showStatus(`Error: ${error.message}`, 'error');
         processBtn.disabled = false;
-        processBtn.textContent = 'Process & Save to Firebase';
+        processBtn.textContent = 'Process Data';
     }
 }
 
@@ -240,60 +231,48 @@ function showResults(data) {
 
     results.innerHTML = `
         <div class="results-card">
-            <h3>✓ Dataset Created</h3>
+            <h3>✓ Training Data Ready</h3>
             <p><strong>Selected Sentences:</strong> ${data.selected_count.toLocaleString()}</p>
-            <p><strong>Firebase Status:</strong> ${data.firebase_saved ? '✓ Saved' : '✗ Not saved (Firebase not configured)'}</p>
-            ${data.document_id ? `<p><strong>Document ID:</strong> <code>${data.document_id}</code></p>` : ''}
+            <p><strong>Created:</strong> ${new Date(data.data.created_at).toLocaleString()}</p>
 
             <h4 style="margin-top: 1.5rem;">Sample (First 3 sentences):</h4>
             <pre>${JSON.stringify(data.data.sentences.slice(0, 3), null, 2)}</pre>
 
-            <h4 style="margin-top: 1.5rem;">Full Data Preview:</h4>
-            <pre>${JSON.stringify({
-                count: data.data.count,
-                created_at: data.data.created_at,
-                metadata: data.data.metadata,
-                sentences: '[... ' + data.data.sentences.length + ' sentences ...]'
-            }, null, 2)}</pre>
+            <h4 style="margin-top: 1.5rem;">Download Options:</h4>
+            <div class="download-buttons">
+                <button class="btn btn-download" onclick="downloadJSON()">
+                    📥 Download JSON
+                </button>
+                <button class="btn btn-download" onclick="downloadJSONL()">
+                    📥 Download JSONL
+                </button>
+                <button class="btn btn-download" onclick="downloadTXT()">
+                    📥 Download TXT
+                </button>
+            </div>
+
+            <div class="format-info">
+                <p><strong>JSON:</strong> Full dataset with metadata</p>
+                <p><strong>JSONL:</strong> JSON Lines format (common for AI training)</p>
+                <p><strong>TXT:</strong> Plain text, one sentence per line</p>
+            </div>
         </div>
     `;
 
     resultsSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
-// Show datasets
-async function showDatasets() {
-    datasetsSection.style.display = 'block';
-    const datasetsList = document.getElementById('datasetsList');
+// Download functions
+function downloadJSON() {
+    window.location.href = `${API_URL}/download/json`;
+}
 
-    datasetsList.innerHTML = '<p>Loading datasets...</p>';
+function downloadJSONL() {
+    window.location.href = `${API_URL}/download/jsonl`;
+}
 
-    try {
-        const response = await fetch(`${API_URL}/datasets`);
-        const data = await response.json();
-
-        if (data.success && data.datasets.length > 0) {
-            datasetsList.innerHTML = data.datasets.map(dataset => `
-                <div class="dataset-item">
-                    <div class="dataset-header">
-                        <strong>${dataset.count || 0} sentences</strong>
-                        <span class="dataset-id">ID: ${dataset.id}</span>
-                    </div>
-                    <div class="dataset-meta">
-                        Created: ${new Date(dataset.created_at).toLocaleString()}
-                        <br>
-                        Total available: ${dataset.metadata?.total_available || 'N/A'}
-                    </div>
-                </div>
-            `).join('');
-        } else {
-            datasetsList.innerHTML = '<p>No datasets found. Upload and process some text first!</p>';
-        }
-    } catch (error) {
-        datasetsList.innerHTML = `<p class="error">Error loading datasets: ${error.message}</p>`;
-    }
-
-    datasetsSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+function downloadTXT() {
+    window.location.href = `${API_URL}/download/txt`;
 }
 
 // Reset app
@@ -301,13 +280,12 @@ function resetApp() {
     uploadSection.style.display = 'block';
     configSection.style.display = 'none';
     resultsSection.style.display = 'none';
-    datasetsSection.style.display = 'none';
     fileInfo.style.display = 'none';
     fileInput.value = '';
     currentSentences = [];
     currentStats = {};
     processBtn.disabled = false;
-    processBtn.textContent = 'Process & Save to Firebase';
+    processBtn.textContent = 'Process Data';
     statusDiv.innerHTML = '';
     uploadSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }

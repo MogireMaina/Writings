@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-Get up and running in 3 minutes!
+Get up and running in 2 minutes!
 
 ## 🚀 Quick Setup
 
@@ -33,24 +33,20 @@ That's it! 🎉
 
 1. **Drop a text file** (100 pages of text!)
 2. **Select number of sentences** (e.g., 1000)
-3. **Click "Process & Save"**
-4. **Done!** Your training data is ready
+3. **Click "Process Data"**
+4. **Download** in your preferred format (JSON, JSONL, or TXT)
 
-## 🔥 Firebase Setup (Optional)
+## 📥 Export Formats
 
-Want to save your datasets? Add Firebase:
-
-1. Go to https://console.firebase.google.com/
-2. Create project → Settings → Service Accounts
-3. Click "Generate New Private Key"
-4. Save as `backend/firebase-key.json`
-5. Restart backend
+- **JSON**: Full dataset with metadata
+- **JSONL**: JSON Lines (standard for AI training)
+- **TXT**: Plain text, one sentence per line
 
 ## 🐛 Troubleshooting
 
 **Backend won't start?**
 ```bash
-pip install Flask flask-cors firebase-admin nltk
+pip install Flask flask-cors nltk
 ```
 
 **Frontend shows offline?**
@@ -66,13 +62,21 @@ pip install Flask flask-cors firebase-admin nltk
 ```
 1. Upload: 100-page research paper (10,000 sentences)
 2. Select: 1,000 sentences for training
-3. Save: To Firebase for later use
-4. Export: In JSONL format for your AI model
+3. Process: Extract and prepare data
+4. Download: JSONL format for your AI model
 ```
 
 ## 📦 Ports
 
 - Backend: `44445`
-- Frontend: Open `index.html` directly (or use any port with HTTP server)
+- Frontend: Open `index.html` directly
+
+## ⚡ Features
+
+- No database required
+- No cloud services needed
+- Runs 100% locally
+- Simple and fast
+- Multiple export formats
 
 Happy fine-tuning! 🤖
