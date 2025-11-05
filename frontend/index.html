@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Fine-tuning Data Prep</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤖 AI Model Fine-tuning Data Preparation</h1>
+            <p class="subtitle">Upload text, select sentences, and prepare training data</p>
+            <div id="status" class="status"></div>
+        </header>
+
+        <main>
+            <!-- Step 1: Upload -->
+            <section class="card" id="upload-section">
+                <h2>Step 1: Upload Text</h2>
+                <div class="drop-zone" id="dropZone">
+                    <div class="drop-zone-content">
+                        <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="17 8 12 3 7 8"></polyline>
+                            <line x1="12" y1="3" x2="12" y2="15"></line>
+                        </svg>
+                        <p>Drag & drop your text file here</p>
+                        <p class="small">or click to browse</p>
+                        <input type="file" id="fileInput" accept=".txt,.md,.text" hidden>
+                    </div>
+                </div>
+                <div id="fileInfo" class="file-info" style="display: none;"></div>
+            </section>
+
+            <!-- Step 2: Configure -->
+            <section class="card" id="config-section" style="display: none;">
+                <h2>Step 2: Configure Training Data</h2>
+                <div class="stats" id="stats"></div>
+
+                <div class="form-group">
+                    <label for="sentenceCount">Number of Sentences to Use:</label>
+                    <input type="number" id="sentenceCount" min="1" value="1000">
+                    <div class="slider-container">
+                        <input type="range" id="sentenceSlider" min="1" max="10000" value="1000">
+                        <span class="slider-value" id="sliderValue">1000</span>
+                    </div>
+                </div>
+
+                <button class="btn btn-primary" id="processBtn">Process & Save to Firebase</button>
+            </section>
+
+            <!-- Step 3: Results -->
+            <section class="card" id="results-section" style="display: none;">
+                <h2>Step 3: Results</h2>
+                <div id="results"></div>
+                <div class="actions">
+                    <button class="btn btn-secondary" id="viewDatasetsBtn">View All Datasets</button>
+                    <button class="btn btn-secondary" id="newUploadBtn">Upload New File</button>
+                </div>
+            </section>
+
+            <!-- Datasets View -->
+            <section class="card" id="datasets-section" style="display: none;">
+                <h2>Saved Datasets</h2>
+                <div id="datasetsList"></div>
+                <button class="btn btn-secondary" id="backBtn">Back to Upload</button>
+            </section>
+        </main>
+
+        <footer>
+            <p>Backend: <span id="backendStatus">Checking...</span></p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
