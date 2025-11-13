@@ -1,0 +1,372 @@
+Source: LING324 Lecture 9 - Empirical Methods.pdf
+================================================================================
+
+--- Page 1 ---
+LING324 Cognitive Linguistics
+Professor Christopher Hart
+Lecture 9: Empirical Methods
+
+--- Page 2 ---
+Overview•Introduction
+•Simulation
+•Encyclopaedic knowledge
+•Perspective
+•Dynamicity 
+•Metaphor
+•A word of caution …
+2
+
+--- Page 3 ---
+Introduction
+•Introspection  main method of cognitive linguistics
+3The method of introspection can be justified in much the same way as the 
+methods settled on by any science. In any science, a researcher must go to 
+where the relevant data under study are to be found. For example, if one’s area 
+of scientific study is geology, one must go examine the earth. Here, “going to 
+where the data are” entails physical travel to terrestrial sites. In the same way, if 
+one’s area of scientific study is linguistic meaning, one must go to where 
+meaning is located. And meaning is located in conscious experience. In the case 
+of such subjective data, “going” to their location consists of introspection. (Talmy  
+2000a: 5 -6)
+
+
+--- Page 4 ---
+Introduction
+•CL committed to psychological reality of theoretical 
+constructs
+•However, growing awareness that “linguistic theory 
+should be grounded in observation of language usage, 
+in experimental tests of its validity, and in general 
+knowledge of cognitive function” (Gonzalez -Marquez et 
+al. 2007: xxii)
+4
+Because cognitive linguistics does not assume isolation for linguistic processes, 
+most of the methods used to study cognition can potentially be adapted to 
+investigating language. At the same time, language usage data, including co -
+speech gesture and signed languages, are sources of overt manifestations of 
+cognitive processing. (Gonzalez -Marquez et al. 2007: xxii)
+
+--- Page 5 ---
+Introduction
+•Three lines of evidence:
+•Corpus linguistics
+•Behavioural experiments
+•Cross -modal priming effects
+•Eye-tracking
+•Neuroimaging
+•Gesture analysis
+5
+
+
+--- Page 6 ---
+Simulation
+•Behavioural and gestural methods reveal simulations
+•Mental “re -enactments” of experience
+•Perceptual vs. motor
+•Meaning not propositional but modal (mental imagery)
+•Size, shape, orientation, colour, weight, smell, texture …
+•Speed, force, direction …
+•Necessarily also viewpointed
+•Supports and enhances domain -general, embodied 
+view of language 
+6experience resembling perceptual or motor 
+experience occurring in the absence of the 
+relevant external stimuli, in the case of 
+perceptual experience; or without actual 
+execution of motor actions, in the case of 
+motor imagery (Bergen 2007: 735) 
+
+--- Page 7 ---
+Encyclopaedic Knowledge
+•Meaning includes world knowledge
+•Meaning, in the form of mental imagery, sensitive to context
+•Cross -modal priming effects
+•Image -sentence compatibility effects (ICE)
+•Subjects respond faster in trials where picture and mental image 
+correspond compared to trials where do not
+•Sentence -first vs. picture -first judgement task
+7
+
+--- Page 8 ---
+Encyclopaedic Knowledge
+•(a) The ranger saw the eagle in its nest
+•(b) The ranger saw the eagle in the sky
+•Exp.1: Was the object mentioned in the preceding 
+sentence?
+•Exp. 2: Name the object
+8
+Subjects represented the implied shape of the object when 
+comprehending the sentence, so that responses to the picture 
+were slower when the picture mismatched the implied shape 
+than when there was a match between the pictured and implied 
+shapes (p.169)
+(Zwaan et al. 2002)
+
+--- Page 9 ---
+Encyclopaedic Knowledge
+•(a) Mary hammered the nail into the wall
+•(b) Mary hammered the nail into the floor
+•Was the object mentioned in the 
+preceding sentence?
+9
+The recognition of an object mentioned in a sentence was influenced by the 
+orientation of the object. Specifically, recognition latencies were shorter for 
+pictures of objects whose orientation matched the orientation suggested by 
+the prior text than for pictures of objects whose orientation did not match 
+the one suggested by the prior text. (p.155)Participants responded more quickly ( M = 838, SD = 331 vs. 
+M = 882, SD = 329) when the picture matched the implied 
+orientation of the sentence than when it did not, F(1, 36) = 
+6.36, p  < .05.
+(Stanfield & Zwaan 2001)
+
+--- Page 10 ---
+Perspective
+•Meaning includes perspective
+•Viewpoint from which conceptual content construed
+•Dimensions of perspective: internal vs. external, anchor, 
+angle, distance
+•Implicated in meaning of locative PPs, deictic expressions, 
+verbs and perfective vs. imperfective aspect 
+10Many expressions undeniably invoke a vantage point as part of 
+their meaning (arguably, all expressions do) (Langacker 2008: 75)
+(Hart 2015)
+
+--- Page 11 ---
+Perspective
+•Transitive vs. reciprocal verbs
+•Sentence -image matching task
+a) The circle attacked the square
+b) The circle clashed with the square
+11
+○ VERBED □ □ was VERBED by ○
+○ VERBED with □ □ VERBED with ○
+(Hart 2019)Sagittal = 0 °
+Transversal = 90 °Mean axis angles
+
+--- Page 12 ---
+Perspective
+•(a) You are looking at a fire hydrant right in front of you
+•(b) You are looking at a fire hydrant from afar
+•Was the object mentioned in the preceding 
+sentence?
+12
+ (Bergen & Winter 2012)When reading sentences about distant objects, 
+comprehenders simulate smaller objects, and when they 
+read sentences about nearby objects, they simulate larger 
+objects (p.7)
+
+--- Page 13 ---
+Perspective
+•Actor vs. onlooker perspective
+•Modulated by pronouns
+a)I am slicing the tomato
+b)You are slicing the tomato
+c)He is slicing the tomato
+•Does the picture match the event 
+described?
+13
+(Brunyé  et al. 2009)
+
+
+--- Page 14 ---
+Perspective
+•Action -sentence compatibility effects (ACE)
+•Motor simulations
+•Subjects faster in trials where action and imagined 
+action consistent compared to trials where not
+•Sentence -first vs. action first
+a) Courtney handed you the notebook
+b) You handed Courtney the notebook
+•Does the sentence make sense?
+14
+(Glenberg  & Kaschak  2002)
+
+--- Page 15 ---
+Perspective
+•Eye movements follow (or facilitate) 
+mental simulations
+•Measured in eye-tracking  studies
+•Fixations
+•Saccades
+•Perfective vs. progressive aspect
+•John was on a bike ride yesterday. After he  sped / was 
+speeding  across the valley, he climbed / was climbing a 
+mountain range. Then he pedalled / was pedalling along a river 
+and finally, he coasted / was coasting into a campground.
+15The actual eye movement patterns are in line with what was 
+predicted based on linguistic analyses of aspect and previous 
+experimental work: past progressive appears to emphasize the 
+ongoing motion of described actions and the details of described 
+events, such that sentences with past progressive induce eye 
+movements to be shorter and more dispersed. (p.5)
+
+
+--- Page 16 ---
+Perspective
+•Gesture as simulated action (Hostetter & Alibali  
+2008)
+•Gestures reflect spatial properties of mental 
+simulations, including perspective
+16gestures emerge from the perceptual and motor simulations 
+that underlie embodied language and mental imagery (p.502)
+(Hostetter & Alibali  2008)
+
+--- Page 17 ---
+Perspective
+•Perfective vs. progressive aspect
+•There was a trail through the woods. A woman was hiking/had hiked down 
+a little hill on the winding path. Afterwards, she had walked/was walking up 
+to a little stream. A big stick was floating/had floated down the stream in 
+front of a pair of ducks. The ducks had paddled/were paddling around it. 
+Then they were bobbing/had bobbed around a bend in the stream out of 
+sight. The woman had leapt/was leaping along some rocks to the other side 
+of the stream
+•When presented in progressive aspect, speakers 
+retelling story used progressive aspect plus longer 
+and more complex gestures reflecting event -
+internal perspective 
+17
+Speech: the stick was 
+floating downstreamSpeech: it had floated 
+down
+(Parrill , Bergen & Lichtenstein 2013)
+
+--- Page 18 ---
+Dynamicity
+•Conceptualisation involves dynamic construal
+•Narrative
+•Fictive motion
+•Reflected in eye -movements
+•Upward, downward, leftward, rightward stories
+•Imagine that you are standing across the street from a 40 story 
+apartment building. At the bottom there is a doorman in blue. On the 10th 
+floor, a woman is hanging her laundry out the window. On the 29th floor, 
+two kids are sitting on the fire escape smoking cigarettes. On the very 
+top floor, two people are screaming.
+18
+(Spivey & Geng 2001)
+
+--- Page 19 ---
+Dynamicity
+a) The books are on the wall
+b) The books run along the wall
+a) The cord is on the wall
+b) The cord runs along the wall
+19
+Gaze durations in regions 2 -7 and 8 -13 
+(Matlock & Richardson 2004)
+
+--- Page 20 ---
+Dynamicity
+•Functional magnetic resonance imaging (fMRI) 
+shows brain activity during language processing
+•Brain areas associated with perception and motor 
+execution activated in sentence comprehension
+a) I drove from Modesto to Fresno (motion)
+b) The highway runs from Modesto to Fresno (fictive)
+c) Modesto and Fresno are in California (static)
+•Motion -sensitive visual areas (MT+) activated in 
+motion and fictive motion sentence processing
+20
+(Saygin  et al. 2009)
+
+--- Page 21 ---
+Metaphor
+•Metaphor interpretation as embodied simulation (Gibbs 
+2006)
+•Action -sentence compatibility effect:
+•Comprehension speed increased when metaphor preceded 
+by corresponding physical action compared to mismatching 
+action and no action
+21Our ability to make sense of metaphorical language … resides in the automatic 
+construction of a simulation whereby we imagine performing the bodily actions 
+referred to in the language. Thus, understanding metaphorical expressions like 
+‘grasp a concept’ or ‘get over’ an emotion involve simulating what it must be 
+like to engage in these specific activities, even though these actions are, 
+strictly speaking, impossible to physically perform. (p.434)
+(Wilson & Gibbs 2007)Comprehension times in the matching prime condition 
+(m = 2629 milliseconds,sd  = 874) were significantly 
+faster than in the mismatching prime condition (m = 
+3172 milliseconds, sd = 864), t(48) = 3.3, p < 0.01 and 
+the no prime condition (m = 2927 milliseconds, sd = 
+687), t(48) = 4.4, p < 0.001. The times for the no prime 
+and mismatching prime conditions did not significantly 
+differ. These data support the idea that engaging in 
+appropriate body movements primes people’s speeded 
+comprehension of certain metaphorical phrases (i.e., an 
+action metaphor compatibility effect).
+
+--- Page 22 ---
+Metaphor
+•Brain areas associated with source -domain 
+activated when processing metaphor
+•E.g. texture -selective somatosensory cortex 
+activated in processing textural metaphors
+a)She had a bad day
+b)She had a rough day
+•Psychological reality of metaphors with 
+neurological basis
+22
+Textural metaphor activations (green) overlaid on same 
+individual’s haptic (red) and visual (yellow) texture -selective 
+regions
+(Lacey, Stilla  & Sathian  2012)
+
+--- Page 23 ---
+Metaphor
+•Source -domain in conceptual metaphors 
+represented iconically in co -speech gestures
+•Active figurativity  of metaphorical expressions – 
+metaphors very much alive and reflected in 
+gestures (Müller 2008)
+•E.g. QUANTITY  IS SIZE
+•When referring to greater vs. lesser quantities speakers 
+more likely to gesture ( i) with open vs closed hand 
+shape, (2) with outward vs. inward motion, (3) with 
+greater distance between hands
+23
+(Winter et al. 2020)
+
+--- Page 24 ---
+A Word of Caution …
+•Action -sentence compatibility effect (ACE) 
+hallmark finding in favour of embodied language 
+processing
+•Glenberg  & Kaschak  (2002) cited 3218 times as 
+of November 2024 ( Google Scholar )
+•Effect reported in several follow -up studies (e.g. 
+Borreggine  & Kaschak  2006; de Vega & Urritia  2011; de 
+Vega et al. 2013; Glenberg  et al. 2008; Kaschak  & 
+Borreggine  2008; Taylor & Zwaan 2008; Zwaan & Taylor 
+2006)
+•However, recent failures to replicate effect and 
+re-analysis of data in original studies shows only 
+weak support for ACE or support for null 
+hypothesis (Morey et al. 2022; Papesh  2015) 
+24
+(Papesh  2015)
+
+--- Page 25 ---
+Thank
+youSelected References
+Bergen,  B. (2007 ). Experimental  methods  for simulation  semantics . In M. 
+Gonzalez -Marquez,  I. Mittelberg,  S. Coulson  and M.J. Spivey  (eds .), Methods  
+in Cognitive  Linguistics . John  Benjamins . pp.277-301.
+Bergen,  B. (2012 ). Louder  than  Words : The New  Sciences  of How  the Mind  Makes  
+Meaning . Basic  Books .
+Cienki,  A. (2022 ). The study  of gesture  in cognitive  linguistics : How  it could  inform  
+and inspire  other  research  in cognitive  science . WIRE’s  Cognitive  Science  13 
+(6): e1623 .
+Gibbs,  R.W. Jr. (2006 ). Metaphor  interpretation  as embodied  simulation . Mind  & 
+Language  21 (3): 434-458.
+Hostetter,  A.B. and Alibali , M.W. (2008 ). Visible  embodiment : Gestures  as 
+simulated  action . Psychonomic  Bulletin  & Review  15: 495-514.
+Matlock,  T. and Winter,  B. (2015 ). Experimental  semantics . In B. Heine  & H. 
+Narrog  (eds .), Oxford  Handbook  of Linguistic  Analysis . Oxford  University  
+Press . pp. 771-790.
+Müller,  C. (2008 ). Metaphors  Dead  and Alive,  Sleeping  and Waking  – A Dynamic  
+View . University  of Chicago  Press .
+Richardson,  D.C., Dale,  R. and Spivey,  M.J. (2007 ). Eye movements  in language  
+and cognition : A brief  introduction . In M. Gonzalez -Marquez,  I. Mittelberg,  S. 
+Coulson  and M.J. Spivey  (eds .), Methods  in Cognitive  Linguistics . John  
+Benjamins . pp.323-444.

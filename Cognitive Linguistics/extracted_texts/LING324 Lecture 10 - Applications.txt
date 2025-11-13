@@ -1,0 +1,342 @@
+Source: LING324 Lecture 10 - Applications.pdf
+================================================================================
+
+--- Page 1 ---
+LING324 Cognitive Linguistics
+Professor Christopher Hart
+Lecture 10: Applications
+
+--- Page 2 ---
+Overview•Introduction
+•Image Schemas
+•Viewpoint
+•Grammatical Aspect
+•Attention
+•Metaphor
+2
+
+--- Page 3 ---
+Introduction
+•Cognitive linguistics applied to language 
+use in various social domains:
+•Education
+•Literature/poetry
+•Politics and Rhetoric
+•Health
+•Environment
+3
+
+
+--- Page 4 ---
+Construal and Ideology
+•Ideology  = “systematically organised presentation of 
+reality”  (Hodge & Kress 1993: 15) usually in the interests of 
+existing power structures
+•Made possible in language through construal – “our 
+manifest ability to conceive and portray the same situation 
+in alternate ways”  (Langacker 2008: 43)
+•Dimensions of construal: image schemas, viewpoint, 
+attention, metaphor
+•Cognitive CDA (e.g. Hart 2024) considers ideological functions 
+of construal operations in political and media communication
+4
+
+
+--- Page 5 ---
+Image Schemas
+•Events construed as ACTION , FORCE  or 
+MOTION  events
+1) A number of police officers were injured as 
+they came under attack from  the protesters 
+(The Times, 10 Nov. 2010)
+2) Pockets of demonstrators pushed forward and 
+were held back  by police (The Independent, 24 
+Nov. 2010)
+3) About 50 riot police moved in  just after 5pm as 
+the majority of the protesters began to leave 
+(The Independent, 10. Nov. 2010)
+5MLOC+AGO ANT
+>A P
+
+--- Page 6 ---
+Image Schemas
+•In media reports of political protest, 
+e.g. Student Fee Protest 2010, 
+protesters construed as agent in 
+ACTION  event while police construed as 
+antagonist in FORCE  event or mover in 
+MOTION  event (Hart 2013)
+•Protest paradigm (Chan & Lee 1984)
+•Pattern legitimises police while 
+delegitimising protesters
+6
+Protesters activated
+Police activated
+(Hart 2013)
+
+--- Page 7 ---
+Image Schemas
+•Transitive vs. reciprocal verbs indexical of one-sided  
+vs. two-sided  action schemas:
+3) A number of police officers were injured after they came 
+under attack from  youths, some wearing scarves to hide their 
+faces  (The Telegraph, 10 Nov. 2010)
+4) Activists who had masked their faces with scarves traded 
+punches  with police (Guardian , 10 Nov. 2010)
+•Guardian : Two -sided schemas more frequent and 
+account for equal proportions of action events in 
+which police and protesters agents
+•All other papers: Two sided schemas less frequent 
+and account for higher proportion of events in which 
+police agents than in which protesters agents
+7
+(Hart 2013)A PA P
+
+--- Page 8 ---
+Image Schemas
+•Produce ideological effects in blame 
+assignment and perception of aggression
+8
+(Hart 2018)
+
+
+--- Page 9 ---
+Viewpoint
+•Viewpoint further dimension of construal 
+included in semantic values of transitive vs. 
+reciprocal constructions
+•Sagittal  vs. transversal
+•Active semiotic feature contributing to 
+ideological effects of alternate 
+constructions
+•Evidenced where visual analogues produce 
+effects in same direction
+9A PV
+A P
+V
+
+--- Page 10 ---
+Viewpoint
+10
+(Hart 2019)
+
+--- Page 11 ---
+Aspect: From Constructions to Elections
+•Grammatical aspect a matter of boundedness
+•Perfective: complete, bounded
+•Imperfective (progressive): ongoing, unbounded
+•Senator’s transgressive actions reported in perfective vs. 
+imperfective aspect
+•Voters more confident in not re -electing senator when was 
+doing negative actions (e.g. taking hush money, having an 
+affair) than when did negative actions (e.g. took hush 
+money, had an affair)  
+11
+(Fausey  & Matlock 2011)
+
+
+--- Page 12 ---
+Aspect: From Constructions to Elections
+12
+(Fausey  & Matlock 2011)
+
+--- Page 13 ---
+Attention
+•Distribution of attention to defocus agency
+13
+A PIS
+A PIS
+PIS
+There is sufficient semiotic evidence in these texts to 
+suggest that their readers might be left with a diminished 
+sense of the violence inflicted and of agency amongst those 
+responsible for it. (Hart 2021: 111)
+(Hart 2021)
+
+--- Page 14 ---
+Metaphor
+•Metaphor and framing:
+14"Tax relief" imposes the additional metaphor that Taxation Is an 
+Affliction, with the entailments that the president is a hero for 
+attempting to remove this affliction and the Democrats are bad 
+guys for opposing him …. There is of course another way to 
+think about taxes: Taxes are membership fees used to 
+maintain and expand services and the infrastructure. But 
+however true this may be, it is not yet an established frame 
+inscribed in the synapses of our brains. (Lakoff 2004)
+Metaphor has consequences for how a particular issue is ‘framed’ or 
+structured, which aspects are foregrounded and which are 
+backgrounded, what inferences are facilitated, what evaluative and 
+emotional associations triggered, what courses of action seem to be 
+possible and so on. (Semino 2008: 91)Political and economic ideologies are framed in metaphorical terms. 
+Like all other metaphors, political and economic metaphors can hide 
+aspects of reality. But in the area of politics and economics, 
+metaphors matter more, because they constrain our lives. (Lakoff & 
+Johnson 1980: 236)
+
+--- Page 15 ---
+Metaphor
+•NATION  AS PERSON :
+•We are one nation … We share one heart, one home , and one glorious destiny
+•We will seek friendship  and goodwill with the nations of the world
+•In America, we understand that a nation is only living as long as it is striving
+•NATION  AS BUILDING :
+•We will get our people off of welfare and back to work – rebuilding  our country with American hands and American 
+labor .
+•POLITICS  AS JOURNEY
+•Together, we will determine the course of America and the world for years to come
+•One by one, the factories shuttered and left our shores, with not even a thought about the millions upon millions of 
+American workers left behind .
+•When America is united, America is totally unstoppable
+•POLITICS  AS COMPETITION
+•America will start winning  again, winning  like never before
+•POLITICS  AS LIGHT
+•We do not seek to impose our way of life on anyone, but rather to let it shine  as an example for everyone to follow
+15Donald Trump
+(Inaugural Address 2017)
+
+
+--- Page 16 ---
+Metaphor: Family Values
+•NATION  AS FAMILY
+•Conservative vs. liberal worldviews: 
+•STRICT  FATHER  vs. NURTURANT  PARENT
+16Deeply embedded in conservative and liberal politics are different 
+models of the family. Conservatism, as we shall see, is based on 
+a Strict Father model, while liberalism is centered  around a 
+Nurturant Parent model. These two models of the family give rise 
+to different moral systems and different discourse forms, that is, 
+different choices of words and different modes of reasoning. 
+(Lakoff 1996)
+(Feinberg et al. 2019)
+
+--- Page 17 ---
+Metaphor: Crime and Punishment
+•In your opinion, what does Addison need to do to reduce 
+crime?
+•Responses codes as diagnose/treat/inoculate (“reform”) vs. 
+capture/enforce/punish (“enforce”)
+17
+
+
+--- Page 18 ---
+Metaphor: A Nation on Fire
+18
+FIRE (LITERAL )FIRE (METAPHORICAL )
+
+--- Page 19 ---
+Metaphor: A Nation on Fire
+•Global Protests Sparked  By George Floyd’s Death 
+Spread  To Toronto, London And Berlin. (forbes.com,  30 
+May 2020)
+•Protests sparked  by George Floyd’s death are still 
+raging . (economist.com, 31 May 2020)
+•As riots engulfed  the US, crowds gathered in Dublin to 
+protest against the death of Mr Floyd. (thetimes.co.uk,  2 
+Jun. 2020)
+19
+
+
+--- Page 20 ---
+Metaphor: A Nation on Fire
+•How logical/justifiable was the decision to use 
+water cannon at the protests in Sudfield ?
+20
+(Hart 2018)
+
+--- Page 21 ---
+Metaphor: A Nation on Fire
+•In multimodal news texts
+•Images of fire (with literal 
+descriptions) achieve same effects
+•Non-fire images defeat metaphor 
+effect
+•Evidence for simulation  accounts of 
+metaphor (Gibbs 2006)
+21
+(Hart 2018)
+
+--- Page 22 ---
+Metaphor: The Climate Emergency
+•Disconnect between scientific consensus 
+and public opinion
+•How can separation be addressed?  
+•Climate action framed as WAR or RACE 
+against climate change
+•3 samples
+•3 frames x 2 temporal horizons
+•How urgent is it for the US to implement 
+energy reduction programs right away?
+22
+(Flusberg 2017)
+
+
+--- Page 23 ---
+Metaphor: The Climate Emergency
+23
+War metaphors increase feelings of urgency and risk 
+surrounding the issue of global warming. These findings may be 
+valuable to policymakers, public utility officers, newscasters, 
+and others who seek greater awareness of risk and “buy -in” via 
+public messaging. (Flusberg 2017: 780)
+(Flusberg 2017)
+
+
+--- Page 24 ---
+Metaphor: Wars and Wildfires
+•Covid -19 framed as WAR by governments around world 
+(Filardo -Llamas 2021)
+•War metaphors convey gravity of situation and 
+encourage collective action / compliance (Flusberg et al. 
+2018)
+•At same time, potentially problematic in increasing 
+fatalism, contradicting message to stay at home, failing 
+to accurately represent contagion, and falsely implying 
+victory is possible (Hanne 2022; Semino 2021)
+•PANDEMIC  IS WILDFIRE  metaphor may be more apt and 
+more effective strategy in public health crisis 
+communication (Semino 2021)
+24
+The measures that I have outlined are unprecedented in 
+peacetime. We will fight this virus with everything we 
+have. We are in a war against an invisible killer and we 
+have to do everything we can to stop it. (Matt Hancock, 16 
+Mar. 2020)
+
+--- Page 25 ---
+Metaphor: Wars and Wildfires
+•War metaphors more effective than fire 
+metaphor  (Tao et al. 2023)
+•War metaphors compared to fire metaphor 
+increased threat perception and induced 
+more positive emotions (hopeful, proud, 
+optimistic …) 
+•Mediating factors positively associated with 
+intention to adopt pro -health behaviours, 
+sense of collective responsibility, and 
+intention of share/discuss information 
+25
+(Tao et al. 2023)
+
+--- Page 26 ---
+Thank
+youSelected References
+Fausey , C.M. & Matlock,  T. (2011 ). Can grammar  win elections?  Political  Psychology  32 
+(4): 563-574.
+Flusberg,  S.J., Matlock,  T. and Thobdeau , P.H. (2017 ). Metaphors  for the war (or race)  
+against  climate  change . Environmental  Communication  11 (6): 769-783.
+Hart,  C. (2013 ).  Event -construal  in press  reports  of violence  in political  protests : A 
+Cognitive  Linguistic  Approach  to CDA .  Journal  of Language  and Politics  12 (3): 400-
+423.
+Hart,  C. (2018 ).  Event -frames  affect  blame  assignment  and perception  of aggression : An 
+experimental  case  study  in CDA .  Applied  Linguistics  39 (3): 400-421.
+Hart,  C. (2018 ). ‘Riots  engulfed  the city’ : An experimental  study  investigating  the 
+legitimating  effects  of fire metaphors  in discourses  of disorder . Discourse  & Society  
+29 (3): 279-298.
+Lakoff,  G. (1996 ). Moral  Politics : How  Liberals  and Conservatives  Think . University  of 
+Chicago  Press .
+Tao, R., Ki,, S.J. Lu, L., Kang,  J. and McLeod,  D. (2023 ). Fighting  fire or fighting  war: 
+Examining  the framing  effects  of Covid -19 metaphors . Health  Communication  39 
+(10): 2026 -2040 . 
+Thibodeau,  P.H. & Boroditsky,  L. (2011 ). Metaphors  we think  with : The role of metaphor  
+in reasoning . PLoS  One 6(2): e16782 .
