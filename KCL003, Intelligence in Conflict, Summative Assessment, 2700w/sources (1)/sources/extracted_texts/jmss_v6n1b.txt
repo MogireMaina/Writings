@@ -1,0 +1,526 @@
+Source: jmss_v6n1b.pdf
+================================================================================
+
+--- Page 1 ---
+A New American Way of War? C4ISR in Op eration Iraqi Freedom,  A Provisional 
+Assessment  
+ 
+Over the past decade, the idea of a “revolut ion in military affairs” ( RMA ) has shaped 
+debates about military policy in the United Stat es, and every advanced country. This idea 
+assumes information will transform the knowle dge available to armed forces, and thus 
+their nature and that of war. Colonel John Warden, USAF planner and strategic theorist, 
+argued,  “Information will become a prominent, if not predominant, part of war to the extent that whole wars may well revolve around seizing or manipulating the enemy’s 
+datasphere”. 
+1 Faith in that idea is central to Am erican doctrine and policy. Joint Visions 
+2010 and 2020, which guide strategic policy, pred ict forces with “dominant battlespace 
+awareness”, better knowledge than and a “frictional imbalance” and “decision 
+superiority” over an enemy, and unprecedented flexibility of command: the ability to 
+combine freedom for units with power for the top, and to pursue  “par allel, not sequential 
+planning and real-time, not prearranged, decisionmaking”. 2 From this basis, American 
+officials have created new concepts about  intelligence and command, aiming to fuse 
+matters which once were split into “stovepipes”, and new forms of information technology, into systems. These concepts incl ude netcentric warfare ( NCW) , the idea 
+that armed forces will adopt flat structures, working in nets on the net, with data 
+processing systems at home serving as staff for the sharp end through reachback; C4ISR ( 
+command, control, communications, comput ers, intelligence, surveillance and 
+reconnaissance; loosely speaking, how arme d forces gather, interpret and act on 
+information); and “IO” (Information Operati ons), the actions of secret agencies.  
+ Operation Iraqi Freedom provide s the first serious test of these ideas, but not a simple 
+one. The struggle was so unbalanced that one  must take care in extrapolating from 
+triumph; judgements from failure are easier to make. How many lessons useful for 
+September 1914 could have been drawn from  Omdurman? how many of those could a 
+victor have believed?  Any lessons drawn from the Iraq campaign will be intended to 
+shape military policy in 2020, and the nature of  ( to use the jargon ) the “objective” 
+force—yet it was fought by  “legacy” forces, us ing some elements of ”interim”  C4ISR. 
+Arguably, the keys to victory were absolute  air supremacy, vehicl e and body armour, the 
+incompetence and bribery of Iraqi officers and the psychological effect  on Iraqi soldiers 
+of the power and invulnerability of coalition artillery and tanks. A Marine Colonel noted 
+some of his tanks survived seven RPG rounds, and “
+became the unkillable beast and caused 
+them ( Iraqis )  nightmares”. 3 Yet any lessons learned from this campaign will be used to explain 
+why “legacy” forces must be transformed. Again, this paper goes to press on 24 June 2003, 
+before the Pentagon releases its “lessons learned” memoranda. Much good official, demi-
+official and unofficial commentar y is available, but the database is incomplete, and the 
+assessments of observers vary dramatically, depending with their experiences. Personnel 
+of signals units in Iraq an d headquarters in the United St ates emphasise the power and 
+                                                 
+1 Colonel John A. Warden III, “Air Theory for the Twenty-first Century”,  Aerospace Power Chronicles, 
+“Battlefield of the Future: 21st Century Warfare Issues ”, 1995. 
+2 “Joint Vision 2010” and “Joint Vision 2020”, www.dtic.mil/doctrine     
+3 “Marine Corps Colonel and First Sergean t, Task Force Tarawa, April 2003, 
+www.urbanoperations.com/ifaar2.ht  
+
+--- Page 2 ---
+reach of communication systems and intelligen ce. Colonel Dobbins, Base Commander of 
+392nd Air Expeditionary Group, thought the GPS satellite constellation had provided a 
+“common and accurate picture” to  all participants. The Ist  Marine Division, conversely, 
+also praised GPS, but denied  that it shared a “common operating picture” with any 
+outside authority. 4  
+ Any “lessons learned” process runs the risk  of overgeneralising fr om individual events, 
+doubly so when military politics enters the fray. And this event will be politicised. 
+Already, slogans like “lazerkrieg” have been coined; in a frequen tly cited and almost 
+officially sanctioned phrase, General Richard My ers, the Chairman of the Joint Chiefs of 
+Staff, described Operation Iraqi Freedom as  demonstrating “a new American way of 
+war”.  The issues merit cons ideration more than cheerlead ing. In a study of American 
+operations in Afghanistan during 2001-02, Step hen Biddle argued that some aspects of 
+warfare arguably had been transformed, others certainly had not been, and that both cases 
+had to be examined in order to learn the right lessons.  
+5 So too, Iraq.  
+ In Operation Iraqi Freedom, the success of C4 ISR and IO was mixed at strategic-political 
+levels, and overwhelming at operational one s, better at action than calculation. 
+Authorities got Iraqi politics wrong. They ove restimated their abil ity to topple Saddam 
+Hussein’s regime without having to smash it,  and the ease of occupation. Probably these 
+failures stemmed from policy makers rather than  specialists, but that is a condition of life; 
+C4ISR has changed the nature neither of ne t assessment, nor of the politicisation of 
+intelligence. Again, Anglo-American assessments  of Iraqi weapons of mass destruction 
+were wrong, and their use of intelligence for public relations incompetent; their dossiers 
+of February 2003 are classic bad examples in that genre. With hostilities commenced the 
+first website war, posing new problems for media influence. Here, American authorities 
+mixed success at home with failure abroad. Th ey did not counter al -Jazeerah’s influence 
+on Arab audiences, though victory discredite d it, nor manage hostile European media. 
+Western media gave Saddam Hussein better intel ligence than most armies in history ever 
+have had, while a new problem has emerged with websites focused on current and strategic affairs, which gather and assess information with power and insight, often 
+providing archives and links to other sites. The retir ed General Lucian Truscott IV noted,  
+“the book says you’ve got to keep the enem y ignorant of where you are, what you’re 
+going to do. And I said to my wife one day, I opened up the New York Times, turned it to 
+the back page and said, “if I was an Iraqi ge neral I could fight the war off of this map”. 
+6 
+The problem of operational security for western military forces continues to rise.  In a serious war, it might matter.   
+                                                
+ 
+4 Janes’ Defence Weekly , 30.4.03, “What Went Right?”; “Operation Iraqi Freedom, 1st Marine Division, 
+Lessons Learned, 28 May 2003”; accessible from the website of The Urban Operations Journal, Operation 
+Iraq Freedom, AARs, Observations, Analyses and Comments;  for one  interview with  rear area personnel, 
+see Da Caterinicchia, “Command keeps troops connected”, Federal Computer Week , 1.4.03. 
+5 Stephen Biddle, “Afghanistan and the Future of Wa rfare: Implications for Army and Defence Policy”, 
+Strategic Studies Institute, The United States Army War College, 11.02 
+6 Online Newshour, Lessons of War, May 1, 2003,  www.pbs.org/newsho..ddle_east/jan-
+june03/lessons_05-01/ht  
+
+--- Page 3 ---
+Conversely, “embed” journalists, attached to units so to counter Saddam, “particularly 
+practiced in the art of disi nformation, misinformation, deni al, deception, downright liar 
+quite simply” as Deputy Assistant Secret ary of State for Defence Whitman said, 7 played 
+to the fad for reality television and provided a ballast of constant good television filler for 
+home consumption. The “embeds” were intend ed to counter Iraqi disinformation, in 
+which their success was mixed until the fa ll of Baghdad. More significantly, the 
+“embeds” gave the military a chance to shape the tone of coverage; the Ist Marine Division treated them as “an entirely winnabl e constituency” and told its soldiers “media 
+were not to be ‘escorted’, th ey were to be ‘adopted’ and made members of the Division 
+family”. It noted that “sharing austere liv ing conditions, danger and loss, journalistic 
+desires of impartiality gave way to human natur e” which “enables our story to be told in a 
+very personal, humanistic way”. 
+8 That American doctrine about IO fuses in one category 
+matters once treated as “black” ( psyops) and “white” ( public relations) presents 
+problems for journalists, the public, and the milit ary itself. “Embeds”, after all, did follow 
+their own professional instinct s, their reports were honest, and casualties were low and 
+action fast. One way wonder how far this experience can be repeated. “Embeds” on 
+Omaha Beach in June 1944 would have transm itted pictures like the first 20 minutes of 
+“Saving Private Ryan”.      American strategic intelligence worked better in purely military spheres. Its picture of the 
+enemy order of battle, deployments, tactical characteristics and quality was good, though it overrated the rationality of their use. 
+In the circumstances, this was a minor failure, 
+probably unavoidable. When the ground force commander, General Wallace, said the Iraqis 
+were “not the enemy we wargamed”, he merely e xpressed surprise they were foolish enough to 
+fight in the open. 9 He would have been foolish to assume  that they would. Clearly, however, 
+there had been no revolution in military intelligence at some basic levels. The Ist Marine Division 
+noted that while American forces grasped enemy capabilities well,  
+we remained largely ignorant of the intentions of enemy commanders...This 
+shortcoming was especially critical as mu ch of the war plan was either based on 
+or keyed to specific enemy responses. When the enemy ‘failed’ to act in 
+accordance with common milita ry practice, we were caught flat-footed because 
+we failed to accurately anticipate the unc onventional response. This was primarily 
+due to a dearth of HUMINT on the enemy leadership. In trying to map out the opposition’s reactions we were largely re legated to our OSINT sources and rank 
+speculation based on our own perceptions  of the battlefi eld to make our 
+assessments...Our technical dominance has made us overly reliant on technical 
+                                                
+ 
+7 Transcript, “BBC Interview, Deputy Assistant Secret ary Whitman on Media Operations During Operation 
+Iraq Freedom”  www.urbanoperations.com/whitman.ht  
+8 “Operation Iraqi Freedom, 1st Marine Division, Lessons Learned,  28 May 2003”; accessible from the 
+website of The Urban Operations Journal, Operation Iraq Freedom, AARs, Observations, Analyses and 
+Comments. 
+9 “Fifth Corps Commander, Live Briefing from Baghdad, 7 May 2003”, 
+www.urbanoperations.com/ifaar4.ht   
+
+--- Page 4 ---
+and quantifiable intelligence collection means. There is institutional failure to 
+account for the most critical dimensio n of the battlefield, the human one. 10  
+ 
+American strategic intelligence was mediocre, but better far than that of the enemy. The 
+Iraqi regime was surprised by the time of the attack, its forces caught  in normal positions, 
+because it misread its own and the Coalition’ s capabilities and plans, and also perhaps 
+because of Coalition deception. Given the l ack of data about American sources of 
+intelligence on and means to deceive Iraq, any speculation on this point must rest on assessment of only one channel of disinformation, the media. The weeks before the attack witnessed classic signs of media- borne decep tion. Some American forces quietly slipped 
+from the public record ( as the GlobalSecu rity website explicitly noted) while the 
+presence of others was advertised. In part icular, as the Turkish front collapsed, press 
+reports from Washington indica ted the attack would begin la ter than it did, only after 4 
+Division reached Kuwait, which would take some time. One would expect American 
+authorities to pursue surprise by encouraging the enemy to assume the attack would occur 
+later than intended, given their IO doctrine, the sudden declin e in their planned strength 
+of attack and their sens e of Iraqi perceptions. 
+11 After the war, the United States Defence 
+Secretary, Donald Rumsfeld, speculated Iraq “v ery likely expected Gulf War II, a long air 
+war that would give them time to do whatev er they thought they wa nted to do, leave or 
+take cover and what have you, followed at some distance by a ground war, and probably 
+a massive ground war...they did not  expect a ground war to st art without an air war and 
+they did not expect a ground war to start without the 4th Infantry Division while it was 
+still up in the Mediterranean. I al so suspect that they didn’t e xpect the first air attack that 
+took place the day before the ground war began”. 12 That attack occurred late on 19 
+March when, after telling the media the war would not start that day, American 
+authorities struck to kill  Saddam when intelligence sudde nly indicated his apparent 
+location—an unintentional, improvised and unsu ccessful use of deception. A tactical feint 
+covered the thrust through th e Karbala gap during 1-3 April,  while American authorities 
+may have overplayed media accounts of thei r problems on 22 to 30 March, so to lure 
+Iraqi forces forward. Even if these assessments are correct, the evidence on deception in 
+the public domain does not indicate how far it shaped Iraqi errors.  
+ American authorities played other sorts of  mind games—what the Pentagon chief of 
+transformation, Admiral Cebrowski, termed “direct movement(s) into the cognitive 
+domain”. 
+13 This approach was not novel. Political  warfare is among the oldest forms of 
+covert action or information opera tions, espoused by Sun Tzu and the Artashastra , 
+                                                 
+10 “Operation Iraqi Freedom, 1st Marine Division, Lessons Learned,  28 May 2003”; accessible from the 
+website of The Urban Operations Journal, Operation Iraq Freedom, AARs, Observations, Analyses and 
+Comments. 
+11 Joint Chiefs of Staff, Joint Pub 3-58, Joint Doctrine for Military Deception,  31.5.96 ( under revision as 
+of time of writing, June 2003); John Ferris, “T he Roots of FORTITUDE: The Evolution of British 
+Deception in the Second World War”, in T.G. Mahnken (ed), The Paradox of Intelligence: Essays in 
+Honour of Michael Handel  ( Frank Cass , London, forthcoming, 2003). 
+12 Anthony Cordesman, The “Instant Lessons” of the Iraq War, Main Report, Seventh Working Draft : 
+April 28, 2003, Center for Strategic and International Studies, p. 186.  
+13 “Speech to the Heritage Foundation”, 13.5.03, by Arthur Cebrowski, Transformation Trends , 27.5.03, 
+www.oft.osd.mil/    
+
+--- Page 5 ---
+practiced ably by Philip II of Macedon and mo re recently by Britain in two world wars. 
+Advocates of transformation, however, regard these matters as being more central to 
+warfare than ever before. In the 1990s one pioneer of the RMA, Colonel Richard Szafranski, argued that information warfare aimed at “ targeting epistemology ”. 
+14 The 
+American practice of these principles in  Iraq was among the most sophisticated and 
+thorough on record, with some original featur es. Through radio and television broadcasts 
+and 50 million leaflets, psyops was conducted agai nst Iraqi civilians and soldiers, without 
+apparent impact. It never reached soldiers in  some units, perhaps most of them, lacking 
+personal radios and surrounded by Ba’athist secu rity; while the Coalition entirely failed 
+in a key area of political warfare, to make ci vilians affect the war. More significantly, the 
+Coalition launched a “fused” IO attack on enemy epistemology. Cebrowski claimed that, 
+knowing “a dictator can’t trust his informati on” and Saddam would have to “script the 
+whats and whens “ of his war even though “h e doesn’t know if people will carry them 
+out”, the United States aimed to wreck his “f eedback loop”, his ability to know what was 
+happening on the battlefield. 15 This approach involved the physical destruction of 
+command and communication targets, and mo re. The air attacks on Saddam, and the 
+claims they rested on reports from agents in Baghdad, were highly publicised, to unnerve 
+his subordinates.  His trust in his officers,  and their mutual confidence, was sapped by 
+announcements Americans were subverting Iraq i officers, and systematically contacting 
+via email those with access to computers.  This effort, combining psyops, bribery, 
+deception, and a human form of cyberwar, mani pulated the characteri stics of a stalinist 
+regime and a paranoid political culture, seem ingly with effect. After the war, one Iraqi 
+officer stationed on the southern Iran-Iraq fron tier, Colonel Sa’ad, held psyops had little 
+effect on his men whereas emails to officer s had a “big impact”.” Even if officers 
+immediately reported all such contacts to a superior,  “Imagine him thinking: If the 
+Americans are able to get into the mind of  a senior commander this way, how can I 
+protect a whole division?’”. 16  
+ At the operational level, the story is mixed. Military planners pursue a “Common Operating Picture “ (COP) for commanders a nd a “Common Relevant Operating Picture”  
+( CROP) for soldiers, to give everyone  in any decision making loop the same, good, 
+information.  Revolutionaries expect knowledge  to create a higher mode of war. Rapid 
+Decisive Operations will open with the pursuit of a  “ Superior Information Position ( 
+Fight First for Information Superiority) ” and continue on the basis of “Operational 
+Net Assessment” during battle, with command ers constantly gath ering and analyzing 
+intelligence on an enemy in real time and from all sources, including national ones, through reachback. 
+17 These ambitions seem to have been realised at the theatre level, 
+including component commands down to corp s level, which is fairly common in the 
+historical record--but not below.  The Ist Marine Division held 
+                                                 
+14 Colonel Szafranski, “ Information Warfare”, Airpower Journal , Spring 1995.  
+15 David A Fulghum, “The Pentagon’s force-transformation director takes an early swipe at what worked 
+and what didn’t  in Iraq”, Aviation Week and Space Technology,  28.4.03, p 34 
+16 Scott Peterson and Peter Ford, “From Iraqi officers, three tales of shock and defeat”, Christian Science 
+Monitor , 18.4.03, 
+17 Department of Defense, Transformation Planning Guidance , April 2003, APP 4, “Joint Concept 
+Guidance, www.oft.osd.mil/     
+
+--- Page 6 ---
+After crossing the Line of departure, the Division received very little 
+actionable intelligence from external in telligence organizations. The Division had 
+to assemble a coherent picture from wh at it could collect with organic and DS 
+assets alone. 
+The nature of the battlefield, th e extreme distances, high operational 
+tempo and lack of a coherent response  from a conventional enemy all made it 
+difficult for an external agency to know what was tactically relevant and required 
+by the GCE commander. The byzantine collect ions process inhibited our ability to 
+get timely responses to combat requireme nts with the exception of assets organic 
+to or DS to the Division. This made the Division almost exclusively reliant on 
+organic or DS collection assets. The Division found the enemy by running into 
+them, much as forces have done since the beginning of warfare... 
+On a fluid high tempo battlefield, a highly centralized collections 
+bureaucracy is too slow and cumbersome to be tactically relevant. The best 
+possible employment option is to push more assets in DS to the lowest tactical 
+level and increase availabl e organic collections....  
+OIF presented the intelligence community with unprecedented robust 
+collection architecture to  support combat operations. Unfortunately it also 
+presented the community and more specifica lly the tactical user with the equally 
+unprecedented cumbersome collection bureaucracy. 
+The existing hierarchical collections architecture, particularly for imagery 
+requirements, is wildly impractical and does not lend itself to providing timely 
+support to combat operations.  
+Every standard problem of bottlenecks and overload in information emerged, and almost every “push” and “pull” technique touted to  manage them, failed.  National intelligence 
+sources were ‘great for developing deep targ ets, subject to the prioritization of high 
+headquarters ( Division and hi gher). Navigating the labyrin th of collection tasking 
+processes proved too difficult in most cases  to get reporting on Division targets, and 
+certainly for Battalion-level collections".  Communications within intelligence sections were better, but  “at all levels  ( they) were inundated with information and data that had 
+little bearing on their mission or Intelligence requirements”.  The only exception to these 
+strictures were systems organic to the di vision. Thus, JSTARS ( the Joint Surveillance 
+Target Attack Radar System ) provided ex cellent intelligence on the movement and 
+location of hostile vehicles. “B ecause they were close to the point of decision, those 
+JSTARS operators shared the sense of urge ncy and ‘can-do’ attitude. They worked 
+aggressively to find ways to answer questions instead of  deflect them”. 
+18 Granted, 
+Marine technology for communicati on and intelligence is less s ophisticated than that of 
+the Army, while no digitialized forces fought  in Iraq. Still, in 2003, divisions had no 
+better  intelligence in batt le than during 1944, though that available was useful. For 
+example, units made good and fast use of pr isoners, psyops and Iraqi  cellphone traffic. 19  
+ 
+                                                 
+18 “Operation Iraqi Freedom, 1st Marine Division, Lessons Learned,  28 May 2003”; accessible from the 
+website of The Urban Operations Journal, Operation Iraq Freedom, AARs, Observations, Analyses and 
+Comments. 
+19 “Marine Corps Colonel and First Sergean t, Task Force Tarawa, April 2003”, 
+www.urbanoperations.com/ifaar2.ht  
+
+--- Page 7 ---
+At a higher level, intelligence was handl ed well, sometime in unprecedented ways. 
+Special Forces and agents with cellphones provided news and stopped demolitions of oil 
+wells or dams which might have flooded the approaches  to Baghdad. The Coalition 
+monitored enemy signals well and used imagery and GPS with unprecedented power. For the first time, GPS was the leading source of tactical intelligence. Information surged across the system without sw amping it, carried, one journalist wrote, by “an unsung corps 
+of geeks improvising as they went, cobbli ng together a remarkable system from a 
+hodgepodge of military-built networ king technology, off-the-shelf gear, miles of Ethernet 
+cable, and commercial softwa re”, and Microsoft Premie r on-line help for trouble-
+shooting. 
+20 At levels above the division, C4ISR and NCW worked as planned. 
+Reachback, push and pull techniques and a “Wa rfighting Web” linked rear headquarters, 
+like Air Force Space Command, and ground forces, equipped with 100,000 portable GPS receivers, one each to most squads of nine so ldiers or five Marines. Commands shared a 
+common picture of operations, as did the member s of any unit, though little of this passed 
+either way through the interface of divisional and corps headquarters. Perhaps 3000 commanders from corps to section level shared  a tactical intranet with a map overlay, 
+which always let everyone know where ever ybody was, and one text-messaging system, 
+which allowed instant contact with some others at adjacent levels of command ( anyone whose screen name one knew). Chat rooms on SIPRnet ( the classified military intranet system ) joined Tactical Operations Cent ers (TOC) at brigade level to the world—by 
+sending a question to a TOC, in theory a sold ier on the front was one interface from an 
+expert, though the number of ch at rooms ( perhaps 50 for the army and 500 for the navy) 
+and people yearning to participate threatened information overload. 
+21 This danger, and 
+those of micromanagement and the pursuit of ce rtainty, seem to have been avoided, but 
+others were not. One observer noted “Rumour spreading was rife in particular over the 
+most secure means the SIPRNET. People we re using it as a chat room and making 
+unsubstantiated allegations and claims on this means. Commanders lost faith in the SIPR 
+and chose direct voice comms as the best m eans. It also created confusion and fear 
+amongst Marines that was unnecessary”. 22 Nor is it certain that chat rooms gave front 
+line soldiers received much us eful advice, or only that.  
+ The greatest change appears to have come in  airpower. Traditionally, the need to build 
+and distribute daily Air Tasking Orders ( ATOs), sometimes the size of a telephone book, 
+caused strangulation and overload in info rmation, and confusion and friction for 
+command, in air warfare. In Iraq during 2003, conversely, web-based ATOs let commanders change many missions at will ; carrier borne airc raft striking Baghdad 
+received their target orders just as they got  to the city’s edge. Fleeting news or chances 
+which once would have been lost in the shu ffle led to precise st rikes—in Iraq, as in 
+Afghanistan and Yemen, American forces coul d bomb a ten by ten f oot box within 20 
+minutes of its detection by any source. A so ldier using a laser rangefinder linked to GPS 
+                                                
+ 
+20 Joshua Davis, “If We Run Out of  Batteries, This War is Screwed”, Wired , 21.5.03.  
+21 ibid; for the navy’s 500 chat room, cf. Dan Ca terinicchia, “Defence IT leaders outline challenges”, 
+Federal Computer Week , 8.5.03. 
+22 “Notes Based on a Briefing by an Observer of 1st Marine Division OIF Oper ations”, accessible from the 
+website of The Urban Operations Journal, Operation Iraq Freedom, AARs, Observations, Analyses and 
+Comments. 
+
+--- Page 8 ---
+could send via satellite the coor dinates of a target to a command site hundreds of miles 
+away, which fed those coordinates onto the G PS-enabled bombs of an aircraft in another 
+locale—and even change them in flight. Mu ch of this success stemmed, however, not 
+from transformation but, as one senior officer said, from ‘having ‘lots of airplanes in the 
+air constantly with numerous types of munitions’”.  23 As with the “cab rank” system for 
+air support of 1944, the flexibili ty, speed and range of air strike expanded not simply 
+because of improvements in command and intelligence, but also because of the presence of large numbers of aircraft and the absence of air opposition.     How far this situation reflects a permanen t transformation of C4ISR in airpower is 
+uncertain. 
+Perhaps this operation occurred somewhere above a margin for the optimum use of 
+airpower, below which performance ra pidly begins to spiral down. Just a few years before, 
+experience in the Kosovo campaign ( against an enemy with good camouflage and useful air 
+defences, and a high degree of influence from political factors ) led Air Commodore Stuart 
+Peach to sombre conclusions: “the drive to streamline procedures and handle ever more 
+data has had an important si de effect; airmen have become driven by process not 
+strategy”, “in reality, theory, doctrine and pr actice collide with process. Airmen claim 
+one thing ( centralized comm and and decentralized execution ) and in fact practice 
+another ( centralized command and centralized execution)”;  “refining the process of 
+airspace control orders, air tasking orders and air task messages became the performance 
+criteria, rather than creative and bol d operational ideas or  campaign plans”. 24 According 
+to a USAF officer, during the Kosovo campaign the Supreme Allied Commander Europe, “had in his office a terminal that allowed him to view what Predator unmanned aerial 
+vehicles in the air were seeing.”  Once, wh en Wesley Clark viewed three vehicles he 
+thought tanks, “he picked up a telephone, called the joint for ces air component 
+commander, and directed that those tanks be destroyed. With a single call, based on 
+incomplete information, all the levels of war,  from strategic to tactical, had been short-
+circuited”. 
+25 Again, in one case of friendly fire in Afghanistan during March 2002, information 
+overload, friction between layers of co mmand and inexperienced personnel, swamped exactly 
+those air forces and commands which fought in Iraq a year later. Data  was so plentiful that 
+USAF squadron commanders could not or did not circ ulate much of it from ATOs  to their pilots, 
+while staff officers would not change their proce dures, thus ensuring confusion between all layers 
+of command. 26 The system processed and circulated far mo re information faster than ever before, 
+but in this high tempo environment, the need to spend thirty seconds in checking or retrieving 
+data could produce error or tragedy. This system  is so fast moving, fragile and complex that 
+system errors are inevitable even  in the absence of an enemy; the only questions are how often 
+and at what cost, and how much the presence of an enemy will multiply them.  
+ 
+                                                 
+23 Janes’ Defence Weekly , 30.4.03, “What Went Right?” 
+24 Air Commodore Stuart Peach, “The Airmen’s Dilemma: To Command or Control”, in Peter Gray, (ed) 
+Air Power 21, Challenges for the New Century , Ministry of Defence, London: The Stationary Office, 
+2001, pp.  123-24, 141. An American Army observer, Timothy L. Thomas, offered similar views, “Kosovo 
+and the Current Myth of Information Superiority”, Parameters , Spring 2000. 
+25 Naval War College Review , Winter 2003, Major William A. Woodcock, “The Joint Forces Air 
+Conmmand Problem, Is Network-centric Warfare the Answer?”; p 46; the words are Woodcock’s, but his 
+source is Michael Short, the Join t Air Force commander in Kosovo. 
+26 Verbatim Testimony of Colonel David. C. Nichols, and Colonel Laurence A. Stutzreim, Tarnack Farms 
+Enquiry. 1.03, www.barksdale.af.mil/tarnackfarms/rosenow .   
+
+--- Page 9 ---
+C4ISR seems to have changed little below the corps level in land warfare.  Within the 3rd 
+Infantry and Ist Marine Division, the speed of  reaction between calls for fire support to 
+the moment batteries received their orde rs was 180 to 200 seconds —if anything, the 
+system was less speedy and sophisticated than th at for allied artillery  in the battle of 
+Normandy, though the guns themselves could deliver a more accurate and devastating weight of fire (  the improvement was much less marked than with airpower). Personnel 
+in both divisions were unhappy with their ability  to call on or receive tactical air support. 
+27 The ability to push information to aircraft  increased their power s in interdiction, but 
+not close support.  Much communication eq uipment was incompatible or clumsy, 
+producing unexpected failures in significant lin ks of the chain which might have mattered 
+against a real foe; planning cycles within  Marine ( and probably Army)  corps and 
+divisions were so slow that formations c ould not really coordinate and control their 
+forces—here,  the performance of 2003 fell well below the absolute standard of 1944. 
+Below the corps level, the officially pr omoted COP failed; there was no ONA—indeed, 
+there seems not even to have been operati onal intelligence in th e classic sense. Though 
+advocates of the RMA often claim that the operational level of war will vanish, one doubts that they quite had this in mind!  One may question the assumption that ground operations in Iraq were a matter of transf ormed command, inspired leadership and the 
+conscious use of “swarm” tactics. The real pi cture seems to be one of a big country with 
+few enemy forces, which attackers entered in  a dispersed fashion and continued forward, 
+propelled by their own momentum, determined junior leaders and the principle of “point 
+me toward the enemy”. What journalists call swarms look rather like the use of columns 
+in 19
+th century imperial warfare. Again, in 2003 si gnals were not necessarily better than 
+in 1944, nor were improvements in comm unications necessarily good for command. 
+General Mattis led the Ist Marine Division as  though in the western desert, through plain 
+language radio transmissions a nd a personal vehicle that let him easily and quickly  visit 
+his forces in action. And one grizzled Mari ne sergeant noted,  “NCOs run the fight no 
+matter how much you get on the radio. Sit back and listen to them. Y ou might just learn 
+something from them”. 28  
+  Operation Iraq Freedom demonstrates a ne w standard for conven tional war. Cebrowski 
+proclaimed “the discovery of a new ‘sweet-spot’ in the re lationship between land and air 
+warfare and a tighter integrat ion of the two. The things that compel are good sensors 
+networked with good intellig ence disseminated through a robust networking system, 
+which then yields speed. Sp eed turns out to be a ver y, very important factor”. 
+29 C4ISR, 
+IO and NCW worked as planned, because Coalition forces had the initiative and followed their plan, while the enemy was passive, overw helmed, unable to strike their forces or 
+C4ISR. Had the Iraqis jammed GPS or tactic al communication, they would have broken 
+most of the Coalition’s enhanced power in intelligence and precision of attack; had they 
+                                                
+ 
+27 “Operation Iraqi Freedom, 1st Marine Division, Lessons Learned, 28 May 2003”, op.cit; “With the 
+‘Marne 500’ in Iraq, U.S. Army Officer, 3rd Infantry Division, March 2003”, 
+www.urbanoperations.com/ifaar7  
+28 “Operation Iiaqi Freedom, Quick-Look Tactical Observations, Marine Corps Ist Sergeant, 24 Marine 
+Expeditionary Unit, “The Warlords”, Ma y 2003”, www.urbanop erations.com/ifaar5  , “Operation Iraqi 
+Freedom, 1st Marine Division, Lessons Learned, 28 May 2003” , “Notes Based on a Briefing by an 
+Observer of 1st Marine Division OIF Operations”, op.cit.  
+29 Janes’ Defence Weekly , 30.4.03, “What Went Right?”.  
+
+--- Page 10 ---
+harmed satellites, strategic si gnals or computers, they woul d have crippled the enemy’s 
+command. The sources of one’s strength are one’s vulnerability. How far this success can 
+be repeated is unsure--NCW, C4ISR and IO worked less well in Kosovo; turkey shoots 
+offer few lessons in tactics. So one-sided was this war that intelligence served primarily for target acquisition rather than ONA. Dust  and heat in rooms housing SIPRnet servers 
+and routers endangered C4ISR mo re than did the Iraqis. Some times, the tactical intranet 
+broke down, or signals went in pl ain language via civilian cellphones. 
+30 Could this near-
+NCW system work in complex operations agai nst an able and aggressive enemy? In 
+Afghanistan and Iraq, precise strikes often ha ve failed, showing they work only when the 
+machine performs without friction. Any friction yields failure; no sy stem can always be 
+perfect. An enemy which fights by its own rules, like light infantry willing to die, or else 
+silently to steal away, has caught Am erican forces at a disadvantage.  
+ C4ISR multiplied some forms of combat power more than others. The gains were most notable and remarkable in links between theatre and component commands, in their 
+ability to direct centr alised firepower, and for aircraft to learn of targets of opportunity 
+and to conduct interdiction missions. On occasion, airpower was directed with unprecedented speed, precision and reach. Yet one should not take the most spectacular rises in performance for their norm, nor overgeneralise from particulars—by assuming 
+Iraq in 2003 represents the future for war as  a whole, or that la nd forces suddenly can 
+behave like they have wings. Since 1933, air forces have been able to apply NCW to 
+some aspects of air combat, as have navies since 1955, while armies have not. 
+Technology enables transformation; the fact  that in 2003 it multip lied the interdiction 
+power of aircraft far more than it did land tact ics is suggestive. It points to one of the key 
+factors in any attempt to learn lessons—the  difference between problems and conditions. 
+Problems can be solved, conditions must be endured. If the aim simply is for national 
+intelligence services to meet quickly and effect ively the intelligence needs of each of five 
+divisions in an expeditionary force, this can be done. One cannot eliminate uncertainty 
+forever from war as a whole. Judgements are even harder to make because one needs so 
+many of them. One can easily say that the enthusiasts for RMA are wrong, because their 
+system would fail against a serious enemy or a real war; yet if the latter cannot occur in 
+the next twenty years, why does that obj ection matter. The real point is less the 
+transformation of forces, or of their quality, th an of their quantity, of  one’s power relative 
+to one’s enemy. When Americans draw less ons from Iraq, they can apply them to a 
+special case of conflict, of gian t against dwarf, rather than to war as a whole. Any other 
+states drawing lessons from this conflic t must adopt a broader perspective.  
+ Advocates of transformation appreciate the lim its to C4ISR and NCW in Operation Iraqi 
+Freedom. John Osterholtz, of the DOD’s chief information officer’s office, notes “there 
+were pockets of net-centric operations, but  it was not a general operating paradigm”. 
+Cebrowski held  “what we’re seeing is essent ially net-centric warfare for the joint task 
+force commander. The next step is network- centric warfare for the warfighter--reflecting 
+increased ‘jointness’ at the tactical level of war”. 
+31 How far can their hopes be realised? 
+                                                 
+30 Davis, ibid.  
+31 Dan Caternicchia, “Network-centric warfare: Not there yet”, 9.6.2003, Federal Computer Week . 
+
+--- Page 11 ---
+During the foreseeable future, C4ISR and NC W may increase one’s certainty, and reduce 
+that of an adversary or gain a relative adva ntage over it, and these gains may be great; yet 
+a fluid but hardened information and comma nd system will not be easy to achieve. The 
+aims must be to simplify the flood of data and direct it where needed, so avoiding the 
+classical problem with satellite imagery, wh en one knew what to look for only after the 
+start of the crisis when that knowledge was n eeded. It will be hard  to gain full access to 
+data about known unknowns and impossi ble about most unknown unknowns. Nor can 
+any such systems be effective unless doctrine and training prepares people to use it. All 
+shades of opinion recognise that C4ISR has magnified problems like information 
+overload, micromanagement and the fruitless se arch for certainty, for which they share 
+many solutions, such as changing the culture of command. Units must be able to operate 
+in harmony without command, through some new version of “marching to the sound of the guns”, or perhaps what the revolutionaries  term “swarming”. Commanders must learn 
+to act when they have a good enough picture of events even when it is imperfect and new 
+information is arriving, and to understand when they have achieved that condition. Sometimes this process is called “to opticise” ; Clausewitz termed a similar process the 
+“imperative principle”. 
+32 When combined, these means have power and limits. They can 
+solve many problems of command, perhaps most of them, but not all; and conditions will 
+remain. C4ISR will be a function of a comp lex system manned by many people. It will 
+suffer from all of the things natural to  humans and complex systems, including 
+uncertainty and friction, unachieved inten tions, unintended consequences, unexpected 
+failures and unplanned successes.   C4ISR and NCW will most affect tactics and op erations where, all too often, friction at 
+the systematic level has reduced the value of intelligence; one actor had information 
+another could have used  but did not have in time to act,  knowledge available in time 
+could not be used with effect; failures by a ny one cog prevented the whole machine from 
+working well, or at all. In conventional wa r, NCW and C4ISR may ensure that every cog 
+of the machine works well at the same time, reducing friction to the lowest level possible. All national intelligence assets will focus on giving every unit every chance to exploit 
+every fleeting opportunity; one’s forces will be  used to asking for or receiving such 
+information and using it instantly, and well; a nd often it will be able to do so. In 1917, 
+British signals intelligence constantly locat ed U-Boats, prompting immediate air or 
+surface strikes, which failed because units were slow and their ordnance weak. By 1943, 
+intelligence on U-boats was little better but allied forces far more able to kill. In 1944-45, 
+allied air forces could strike any target reported on the front immediately, if not 
+accurately; in the 2003 Iraq war, aircraft launc hed instant, precise and devastating strikes 
+based on information acquired ten minutes earlier by headquarters  10000 miles away.  
+C4ISR and NCW will raise the bar on the best use of intelligence, and the frequency of 
+optimum uses, in conventional war. In partic ular, the United States owns airpower; this 
+will cripple any conventional enemy, unless th e latter can find a means to degrade or 
+evade that strength—as did Serbia in Kos ovo. Little, however, will change where equals 
+engage, or the weaker side evades one’s st rength or strikes one’s C4ISR, or against 
+guerrillas. A force strong enough to crush an ar my may be too weak to control a people. 
+                                                
+ 
+32 Ferris, J.R., and Michael Handel,  "Clausewitz, Intelligence, Uncertainty and the Art of Command in 
+Modern War", Intelligence and National Security , vol. 10, no. 1, January 1995, pp. 1-58. 
+
+--- Page 12 ---
+The RMA has done many things, not everything. It has multiplied American strengths 
+without reducing its weaknesses. It has in creased the value of  high technology and 
+firepower in conventional war, but for little else; where these things matter, they do more 
+than ever; where they do not, nothing has changed. Iraq shows that the United States will aim to practice intelligence, command and wa r at a higher level than ever achieved 
+before. When it can play to its strengths, it will succeed.   John Ferris The Centre for Military  and Strategic Studies 
+The University of Calgary   
+ 
+      

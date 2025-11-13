@@ -1,0 +1,2342 @@
+Source: 9781315035284_previewpdf.pdf
+================================================================================
+
+--- Page 3 ---
+This page intentionally left blank
+
+--- Page 4 ---
+INTELLIGENCE AND
+MILITARYOPERATIONS
+
+--- Page 5 ---
+Bythesameauthor
+Israel'sPolitical-Military Doctrine (1973)
+WeakStatesintheInternational System(1981)
+TheDiplomacy ofSurprise (1981)
+Clausewitz andModernStrategy (00.)(1986)
+Strategic andOperational Deception in
+theSecondWorldWar(00.)(1987)
+LeadersandIntelligence (00.)(1988)
+War,Strategy andIntelligence (1989)
+
+--- Page 6 ---
+INTELLIGENCE
+AND
+MILITARY
+OPERATIONS
+Editedby
+MICHAEL I.HANDEL
+i~~~o~~~~n~~;up
+LONDON ANDNEWYORK
+
+--- Page 7 ---
+Firstpublished 1990by
+Routledge
+Reprinted 2004byRoutledge
+2ParkSquare,
+MiltonPark,
+Abingdon,
+Oxon,
+OX144RN
+Transferred toDigitalPrinting 2006
+Routledge isanimprintoftheTaylorandFrancisGroup
+Copyright C1990byRoutledge &Co.Ltd.
+BritishLibraryCataloguing inPublication Data
+Intelligence andmilitaryoperations
+1.Militaryintelligence services,
+1915-1945
+1.Handel,MichaelI.
+355.3'432'0904
+ISBN0-7146-3331-3
+ISBN0-7146-4060-3 Pbk
+1990-18883
+CIP355.3'432'0904-dcLibraryofCongress Cataloging-in-Publication Data
+Intelligence andmilitaryoperations/edited byMichaelI.Handel.
+p.em.
+Paperspresented ataninternational conference heldatthe
+USAnnyWarCollege, April1986.
+1.Militaryintelligence-His tory-20th century-Congresses.
+2.Militaryhistory,Modem-20th century-Congresses. 1.Handel,
+MichaelI.
+UB250.I56 1990
+Thisgroupofstudiesfirstappeared inaSpecialIssueonIntelligence and
+MilitaryOperations ofthejoumallntelligence andNational Security, Vol.5,No.
+2(April1990),published byFrankCass&Co.Ltd.
+Theviewsexpressed inthisbookarethoseoftheauthorsanddonotreflectthe
+officialpolicyorpositionoftheDepartment ofDefenseortheUSgovernment.
+Allrightsreserved. Nopartofthispublication l1Ulybereproduced, storedina
+retrieval system,ortransmitted inanyform,orbyanymeans,electronic,
+mechanical, photocopying, recording, orotherwise, withoulthepriorpermission
+ofFrankCassandCompany Limited.
+Publisher's Note
+Thepublisher hasgonetogreatlengthstoensurethequalityofthisreprint
+butpointsoutthatsomeimperfections intheoriginalmaybeapparent
+
+--- Page 8 ---
+Dedicated to
+PATRICK BEESLY
+
+--- Page 9 ---
+This page intentionally left blank
+
+--- Page 10 ---
+Contents
+Acknowledgements xi
+NotesonContributors xiii
+Intelligence andMilitaryOperations MichaelI.Handel 1
+PartOne:TheUSCivilWar
+TheRoleofIntelligence inthe
+Chancellorsville Campaign, 1863 JayLuvaas 99
+LeeatGettysburg: AGeneralWithout
+Intelligence JayLuvaas 116
+PartTwo:TheFirstWorldWar
+BritishIntelligence inMesopotamia,
+1914-16 RichardPopplewell 139
+Institutionalized Deception andPerception
+Reinforcement: Allenby's Campaigns in
+Palestine, 1917-18 YigalSherry173
+PartThree:TheSecondWorldWar
+FlawedPerception anditsEffectupon
+Operational Thinking: TheCaseofthe
+Japanese Anny,1937-41 AlvinD.Coox239
+TheBritishAnny,SignalsandSecurityinthe
+DesertCampaign, 1940-42 JohnFerris255
+ConvoyPQI7:AStudyofIntelligence and
+Decision-making PatrickBeesly292
+UltraIntelligence andGeneralMacarthur's
+LeaptoHollandia, January-April 1944 EdwardJ.Drea323
+GermanAirIntelligence intheSecondWorld
+War HorstBoog350
+AComparative Analysis ofRAFand
+Luftwaffe Intelligence intheBattleof
+Britain,1940 Sebastian Cox425
+Intelligence andStrategy: SomeObservations
+ontheWarintheMediterranean, 1941-45 RalphBennett 444
+
+--- Page 11 ---
+This page intentionally left blank
+
+--- Page 12 ---
+Acknowledgements
+Thiscollection ofessaysisbasedonpaperspresented infourinter­
+nationalconferences onintelligence andmilitaryoperations heldatthe
+USAnnyWarCollegefrom1985to1988.Iwouldliketothankin
+particular forhisencouragement andsupportthecommandant ofthe
+USAnnyWarCollege, Major-General PaulG.Cerjan,andthe
+directoroftheStrategic StudiesInstitute (SSI)oftheUSAnnyWar
+College, ColonelCarlRobinson. IwouldalsoliketothankDrAndrew
+Marshall oftheOfficeofNetAssessment forthegenerous support
+giventotheUSAnnyWarCollege1988conference onintelligence and
+militaryoperations fromwhichanumberoftheessaysincluded inthis
+volumeoriginated.
+Thisvolumeisthethirdinaseriesoftextbooks devotedtothestudy
+ofmilitary intelligence. ThefirsttwoareStrategic andOperational
+Deception intheSecondWorldWar(1987)andLeadersandIntelligence
+(1988).Otherswillfollow.
+M.I.H.
+
+--- Page 13 ---
+This page intentionally left blank
+
+--- Page 14 ---
+NotesonContributors
+PatrickBeeslyservedintheAdmiralty's Operational Intelligence Centre
+duringtheSecondWorldWar.Hepublished threebooks:VerySpecial
+Intelligence (1977),VerySpecialAdmiral(1980,abiography ofRear
+Admiral JohnGodfrey, wartime directorofNavalIntelligence, and
+Room40(1982),astudyoftheAdmiralty's FirstWorldWarsignals
+intelligence, beforehisdeathin1986.
+RalphBennettwasaseniorintelligence officeratBletchley Parkduring
+theSecondWorldWar.Heistheauthoroftwobooks,UltraintheWest
+(1979)andUltraandMediterranean Strategy (1989),andafonner
+President ofMagdalene College, Cambridge.
+HorstBoogisSeniorDirectorofResearch andChiefoftheSecondWorld
+WarResearch ProjectattheMiliutrgeschichtliche Forschungsamt in
+Freiburg, WestGennany. Hisresearch workfocusesinparticular on
+aviation andairwarhistory.HeistheauthorofGrafErnstzu
+Reventlow, Diedeutsche LuftwaffenfUhrung, andco-author ofDer
+AngriffaufdieSowjetunion, Verteidigung imBiindnis, andofVols.6
+and7oftheMGFASecondWorldWarseriesDieAusweitung zum
+Weltkrieg (1989).
+AlvinD.CooxisProfessor ofHistoryandDirectoroftheJapanStudies
+InstituteatSanDiegoStateUniversity, California. Hehaswrittenand
+reviewed widelyonJapanese militaryanddiplomatic historyandthe
+PacificWar,hismostrecentbookbeingNomonhan: Japanagainst
+Russia,1939,2vols.(1986).In1988hewasawardedtheSamuelEliot
+Morison PrizebytheAmerican MilitaryInstituteforhiscontributions
+tothefieldofmilitaryhistory.
+Sebastian Coxisamemberoftheresearch staffoftheAirHistorical
+BranchoftheBritishMinistry ofDefence, andwaspreviously onthe
+staffoftheRoyalAirForceMuseum, Hendon.Heiscurrently engaged
+inwritingabiography ofAirChiefMarshalSirWilfridFreeman.
+EdwardJ.DreaistheChiefoftheStaffSupportBranch,USAnnyCenter
+ofMilitaryHistoryinWashington, D.C.
+
+--- Page 15 ---
+JohnFerrisistheauthorofTheEvolution ofBritishStrategic Policy,1919­
+1926(1989),andofnumerous articlesonthehistoryofintelligence. He
+teachesattheUniversity ofCalgary.
+MichaelI.HandelisProfessor ofNationalSecurityandStrategyattheUS
+ArmyWarCollege, Pennsylvania, andjointfounding editorwith
+Christopher AndrewofIntelligence andNational Security. Asauthor
+oreditorhehaspublished War,Strategy andIntelligence (1989),
+Clausewitz andModern Strategy (1986), Strategic andOperational
+Deception intheSecondWorldWar(1987),andLeaders andIntelli­
+gence(1988).
+JayLuvaasisProfessor ofMilitaryHistoryattheUSArmyWarCollege,
+Pennsylvania. Hispublications includeTheMilitaryLegacyoftheCivil
+War:TheEuropean Inheritance (1959)andTheEducation ofanArmy:
+BritishMilitaryThought, 1915-1940 (1964).
+RichardPopplewell didaPhDatCorpusChristiCollege, Cambridge on
+BritishImperialism andIntelligence duringtheFirstWorldWar.Heis
+currently engagedonturninghisthesisintoabook.
+YigalSheffyistheDirector ofDocumentation SystemattheMoshe
+DayanCenterforMiddleEasternandAfricanStudies, TelAviv
+University, andaLieutenant-Colonel (res.)inIsraelDefenceForces.
+TheauthorofDeception intheWesternDesertCampaign, 1940-1942
+(1987),heiscurrently preparing aPhDdissertation ontheintelligence
+dimension ofthePalestine Campaign duringtheFirstWorldWar.
+
+--- Page 16 ---
+Nowiftheestimates madeinthetemplebeforehostilities indicatevictoryitis
+becausecalculations showone'sstrengthtobesuperiortothatofhisenemy;if
+theyindicatedefeat,itisbecausecalculations showthatoneisinferior.With
+manycalculations, onecanwin;withfewonecannot.Howmuchlesschanceof
+victoryhasonewhomakesnoneatall!BythismeansIexamine thesituation
+andtheoutcome willbeclearlyapparent.
+SunTzu,TheArtofWart
+Therefore Isay:'Knowtheenemyandknowyourself; inahWldredbattlesyou
+willneverbeinperil.
+'Whenyouareignorantoftheenemybutknowyourself, yourchancesof
+winningorlosingareequal.
+'Ifignorant bothofyourenemyandofyourself, youarecertaininevery
+battletobeinperil.'
+LiCh'uan:Suchpeoplearecalled'madbandits'. Whatcantheyexpectifnot
+defeat?
+SunTzu,TheArtofWar
+Uncertainty ofAllInfonnation
+Finally,thegeneralunreliability ofallinfonnation presents aspecialproblem
+inwar:allactiontakesplace,sotospeak,inakindoftwilight,which,likefogor
+moonlight, oftentendstomakethingsseemgrotesque andlargerthanthey
+reallyare.
+Whatever ishiddenfromfullviewinthisfeeblelighthastobeguessedatby
+talent,orsimplylefttochance.Soonceagain,forlackofobjective knowledge,
+onehastotrusttotalentortoluck.
+Clausewitz, OnWar3
+WithWlcertainty inonescale,courageandself-confidence mustbethrowninto
+theothertocorrectthebalance.
+Clausewitz, OnWar4
+
+--- Page 17 ---
+This page intentionally left blank
+
+--- Page 18 ---
+Intelligence andMilitary Operations
+MICHAEL I.HANDEL
+SOMEDEFINITIONS
+Whenconsidering thepastandpotential rolesofintelligence inwarand
+military operations, onemustbeginbyestablishing themeaning ofthe
+basictennsinvolved. Although operational intelligence meansmany
+thingstomanypeople,CarlvonClausewitz capturesitsessenceinhisbrief
+statement thatitis'...everysortofinfonnation abouttheenemyandhis
+country-thebasis,inshort,ofourownplansandoperations' .5Inamore
+lengthydiscussion, DonaldMacLachlan definesitas'...quitesimply,...
+infonnation abouttheenemy.Notjustanyoldinfonnation, anyscrapof
+gossip,orrumour,butrelevantinfonnation whichhasbeenprocessed and
+madeasaccurate asitcanbe...Intelligence ...isalwaystryingtoreduce
+themarginofignorance, theelementofrisk,intheplanning ofany
+military operation andindeedofanyciviloperation'.6 Elsewhere he
+makestheimportant observation that'intelligence abouttheenemyis
+incomplete andineffective without fullknowledge ofone'sown...
+operations andplans.Whattheenemyisdoingissignificant onlyinrelation
+towhatone'sownforcesaredoingorplanning todo.Intelligence mustbe
+suppliedtoatotalsituation ...andthatispossibleonlyifthefightingmen
+andplanners willrevealtotheintelligence menwhattheyaredoingor
+intendtodo,andiftheintelligence menconfidetothefightingmenallthat
+theyknowwithoutnecessarily revealing howtheyknowit'.7Startingfrom
+thesamepremise, DrR.V.Jonesthenroundsoutourdefinition
+withhisremarksonthepurposeofintelligence: 'Theultimateobjectiveof
+intelligence istoenableactiontobeoptimized. Theindividual orbody
+whichhastodecideonactionneedsinfonnation aboutitsopponent
+asaningredient likelytobevitalindetermining itsdecision: andthis
+infonnation maysuggestthatactionshouldbetakenonalargerorsmaller
+scalethanthatwhichwouldotherwise betaken,oreventhatacompletely
+different courseofactionwouldbebetter'.8(Myemphasis.)
+Thus,operational intelligence isessentially up-to-date infonnation
+abouttheenemythathasbeenprocessed anddistilledbyexpertsfromthe
+massofrawdatareceived; and inorderforthecollection andanalysisof
+intelligence tobeusefulinsupportofmilitaryoperations, theseexperts
+must,intum,bekeptwellinfonned ofallthelatestdevelopments
+concerning theirownforces'operations andplans.Theavailability of
+intelligence undersuchconditions pennitstheachievement ofbetter
+
+--- Page 19 ---
+2 INTELLIGENCE ANDMll..ITARY OPERATIONS
+resultsonthebattlefield atalowercost:or,tousemodemjargon,
+intelligence actsasaforcemultiplier.
+Thetenn'military operations' isevenbroaderandmoredifficultto
+definethanoperational intelligence. Thelexicaldefinition oftheword
+'operation' statesthatinthemilitarycontext,itmeans'amilitaryornaval
+action,mission,ormaneuver including itsplanning andexecution'.9 More
+recently intheUnitedStates,however, theword'operations' hasalso
+beenusedtodenoteaspecificlevelofmilitaryactionfallingsomewhere
+between (butalsooverlapping with)thestrategic levelontheonehand
+andthetacticalontheother.Thisconceptofalevelofmilitaryoperations
+originated withNapoleon's estabishment ofoperationally self-contained
+corpsthatwerepowerful enoughtoholdtheirownagainstarather
+formidable opponent foratleast24hours.Subsequently, thesystematic
+development ofadoctrine forthislevelwasintroduced inGennany by
+Moltke,andhasbeenemployed bytheSovietUnionsincetheSecond
+WorldWar(asaresultoftheneedtodeploylargemilitaryformations over
+anextended front).
+Forthecommander, militaryoperations represents awayofthinking
+thattranscends thetacticallevelandfocuseshisattention onthecontri­
+butionofhisplansandactionsonthebattlefield totheoverallstrategic
+objectives ofthewar.Acomparison oftwoofficialUSArmydefinitions
+oftheterm'operations' illustrates howthisconcepthasexpanded over
+thelastdecade.FM100-5Operations (1982)includes thefollowing
+description:
+Theoperational levelofwarusesavailable militaryresources to
+attainstrategic goalswithinatheaterofwar.Mostsimply,itis
+the theory oflargerunitoperations. Italsoinvolves planning
+andconducting campaigns. Campaigns aresustained operations
+designed todefeatanenemyforceinaspecified spaceandtimewith
+simultaneous andsequential battles.Thedisposition offorces,
+selection ofobjectives, andactionstakentoweakenortoout­
+maneuver theenemyallsetthetennsofthenextbattleandexploit
+tacticalgains.Theyareallpartoftheoperational levelofwar.10
+Morerecently, however, PM100-5Operations (1986)takesthelevelof
+operations forgranted, and,following adefinition similartotheone
+quotedabove,emphasizes theoperational artinstead.
+Operational artthusinvolves fundamental decisions aboutwhen
+andwheretofightandwhether toacceptordeclinebattle.Its
+essenceistheidentification oftheenemy's operational centerof
+gravity-hissourceofstrengthorbalance-andtheconcentration of
+superior combatpoweragainstthatpointtoachieveadecisive
+
+--- Page 20 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 3
+success. Noparticular echelonofcommand issolelyoruniquely
+concerned withoperational art,buttheatercommanders andtheir
+chiefsubordinates usuallyplananddirectcampaigns. Armygroups
+andanniesnormally designthemajorgroundoperations ofa
+campaign. Andcorpsanddivisions normally executethosemajor
+groundoperations. Operational artrequiresbroadvision,theability
+toanticipate, acarefulunderstanding oftherelationship ofmeansto
+ends,andeffective jointandcombined co-operation. Reduced toits
+essentials, operational artrequiresthecommander toanswerthree
+questions:
+1Whatmilitarycondition mustbeproduced inthetheaterofwar
+oroperations toachievethestrategic goal?
+2Whatsequence ofactionsismostlikelytoproduce that
+condition?
+3Howshouldtheresources oftheforcebeappliedtoaccomplish
+thatsequence ofactions?ll
+Inthiscontext,then,thestudyof'intelligence andmilitaryoperations'
+relatestothecontribution -actualorpotential -ofintelligence tothe
+militaryleader'sdecisions inbattleonalevelthatislowerthanthe
+strategicbuthigherthanthetactical;itincludesananalysisofthedemands
+militarycommanders makeonintelligence andinvestigates thevarious
+waysinwhichtheycanandmustcompensate forthelackofintelligence.
+Giventheenormous rangeandcomplexity ofthesubject,onlyafraction
+oftheissuesrelevanttothestudyofintelligence andmilitaryoperations
+canbediscussed inthisessay.Manyimportant topics,suchasthedifferent
+sourcesofintelligence andtheirvaluetomilitaryoperations, 12therelation­
+shipofintelligence tocommand, controlandcommunications, basic
+intelligence,13 andintelligence asitrelatestodeception,14 arementioned
+onlytangentially.
+INTELLIGENCE ANDMILITARY OPERATIONS: ABRIEFHISTORICAL
+PERSPECTIVE
+Clausewitz andTolstoy warnagainstreliance onintelligence asan
+unjustified actoffaith.Farfrombeingawellspring oftimely,accurate
+information abouttheenemy,tacticalandoperational intelligence onthe
+battlefield ofthenineteenth centurywas,theybelieved, mostoftenthe
+sourceofconflicting, unreliable reportsthatweremoremisleading than
+helpful.15'AsOausewitz obselVes inOnWar,acommander caughtinthe
+midstofbattlewouldusuallysufferfromadearthofaccurateinformation
+ontheperformance, condition andpositionofhisowntroops,notto
+mentionthoseofhisenemy.16
+
+--- Page 21 ---
+4 INTELLIGENCE ANDMILITARY OPERATIONS
+Ouruncertainty aboutthesituation atagivenmomentisnotlimited
+totheconditions oftheenemyonlybutofourownarmyaswell.The
+lattercanrarelybekepttogether totheextentthatweareableto
+surveyallitspartsatanymomentandifweareinclinedtouneasiness,
+newdoubtswillarise.Weshallwanttowait,andadelayofourwhole
+planwillbetheinevitable result.17
+Tolstoy's description oftheBattleofBorodino inWarandPeacebears
+outClausewitz's observations:
+Fromthebattlefield, adjutants hehadsentout,andorderlies from
+hismarshals, keptgalloping uptoNapoleon withreportsofthe
+progressoftheaction,butallthesereportswerefalse,bothbecause
+itwasimpossible intheheatofbattletosaywhatwashappening at
+anygivenmomentandbecausemanyoftheadjutants didnotgoto
+theactualplaceofconflictbutreported whattheyhadheardfrom
+others;andalsobecausewhileanadjutantwasridingmorethana
+miletoNapoleon, circumstances changed andthenewshebrought
+wasalreadybecoming false....Onthebasisofthesenecessarily
+untrustworthy reports,Napoleon gavehisorders,whichhadeither
+beenexecuted beforehegavethemorcouldnotbeandwerenot
+executed. 18
+AndeventhoughMichael Carver's description oftheBattleofEI
+Alameinconcerns amilitaryconflictthattookplaceoveracenturylaterin
+theageoftechnology, italsohasmuchincommon withthecomments of
+Clausewitz andTolstoy.
+ThatMontgomery ontheonesideandRommel ontheotherwere
+thedecisivefiguresisneveratanytimeindoubt.Theydecidedevery
+move;buttheirownpowerevaporated whenitcametothe
+execution oftheirdecisions inthefrontline.Therethedecisionlayat
+thelevelofthebattalion orcompany commander. Hecouldanddid
+decidewhethertostruggleonand,ifso,how:tostopor,occasionally,
+togoback.Hissuperiors atbrigade,divisionorcorps,whohadmade
+theplan,allottedtheobjectives, arranged thesupportoftanks,
+artilleryandengineers, andfixedthetime,nolongerhadanysay,
+and,inthecaseofinfantryattacks,littlepowertocontrolevents.
+Theywereluckyiftheyevenknewwhathadhappened untilseveral
+hourslater,andthenonlyinthebroadest tenns.Between theanny
+commander andthecommanding officer,brigadiers andgenerals
+couldinterpose inplanning andcoulddistortordelayinexecution;
+buttheirpowerandfreedom ofactionwasatalltimesseverely
+limited. 19
+
+--- Page 22 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 5
+Fromacomparison ofthepreceding excerpts andtheanalysis of
+Clausewitz's chapter,'Intelligence inWar',itbecomes clearthattheissue
+athandextendsbeyondtheproblem ofinsufficent orunreliable intel­
+ligencetothemorecomplex questionofhowintelligence andthemanage­
+mentofuncertainty relatetocommand, controlandcommunication
+(C3I).Eventhemostaccurate intelligence (assuming itexistsatallonthe
+battlefield) isworthless unlessitcanbecommunicated intimeforthe
+commander tomakeandimplement theappropriate decisions.
+Beforethemid-nineteenth century, obtaining andmaking the
+properuseofintelligence onthebattlefield (thatis,reducing risksand
+uncertainty, orachieving bettercontrolovereventsastheyunfolded) was
+chieflyacommunications problem. Thecommanders' inabilitytoprocure
+timely,accurate infonnation andquicklymaketheirdecisions knownto
+subordinate unitswasclearlythemostcriticalobstacle tobeovercome.20
+Withtherapiddevelopment ofthetelegraph, telephone, radio,andlater
+radarandtelevision, however, infonnation fromanypointonthebattle­
+fieldorwithintheextended theaterofoperations couldbetransmitted
+andreviewed instantaneously (thatis,in'realtime').Thesetechnological
+breakthroughs inthemeansofcommunication intumradically changed
+thepotential valueofintelligence forthoseconducting militaryopera­
+tions.Inatellingstatement, DonaldMcLachlan hasobserved that'the
+operation itismostdifficulttogetintelligence aboutistheprimitive one,
+inwhichtheplanning isdonebywordofmouth,byorderstransmitted on
+scrapsofpaperthatareeaten,bybonfires thatarequicklyextinguished
+fromonehilltoanotherandsoon'.21
+Thedevelopment ofreal-time communication andthespecialmilitary
+branches responsible foritwas,notsurprisingly, accompanied bythe
+corresponding growthofspecialized intelligence branches. Theincreased
+respectability andvalueaccorded intelligence, particularly since
+theSecondWorldWar,isdirectly attributable totherevolution in
+communications.
+Thisdoesnot,however, meanthataccurate infonnation aboutevents
+takingplaceonthebattlefield canalwaysbeobtained whenneeded;that
+intelligence hasbecome fullyreliable; orthatuncertainty, frictionor
+chanceinwarhavebeeneliminated orevenreduced. Allthatcanbesaidis
+thatalthough thenatureofuncertainty haschanged-andperhapsmoved
+toahigherandmorecomplicated plateau-itnevertheless remainsthe
+veryessenceofwarasinthepast.
+Theproblemoftransmitting infonnation inrealtimemayhavebeen
+solved,buttheproblemofensuring itsreliability hasnot.Tobeginwith,
+theincreased dispersal ofmilitary fonnations, aswellasthegreater
+attention giventocamouflage andsecrecy,mayinmanywayshavemade
+infonnation moredifficult toobtain.Furthennore, notalloftheinfor-
+
+--- Page 23 ---
+6 INTELLIGENCE ANDMILITARY OPERATIONS
+mationreceived iscorrectnorcanitalwaysbedecoded, analysed or
+interpreted intime.Theever-present possibility ofdeception alsocasts
+doubtuponallthedatareceived, sincenodependable methodofexposing
+deception hasbeen,orcanbe,devised.22Thestaggering increase inthe
+volumeofinformation obtained meansthatifanything, more,notless,
+timeisneededforprocessing today;itmeansthatthisplethora of
+information mayleadtoahigherincidence ofcontradictory dataandat
+timestotheparalysis ofcommand.23Thecollection, analysis anddis­
+semination ofintelligence insupportofmilitaryoperations alsorequires
+quantities ofmanpower andequipment aswellaslevelsofexpertise that
+maynotbeavailable. Itmustberemembered thatevenperfectly correct
+information transmitted inrealtimecanstillchangeveryrapidlyinthe
+heatofbattleasinClausewitz's time.Theconditions onanybattlefield are
+fluidandthedirection ofmovement canbechanged fasterthanever
+before,whiletheenemycanmodifyhisobjectives inmid-course orreact
+toacountermove inanunanticipated way;andalthough intelligence and
+information canintheory(butnotalwaysinpractice) beupdatedinreal
+time,thephysical, material movements ofbringing inreinforcements
+andairsupportorconcentrating troopscanrequiresubstantial time
+forimplementation. Whocanblamesomegenerals fortheirnostalgic
+yearning forthe'simpler' daysofthepastwhen'Napoleon couldstill
+appraise ataglance,fromasinglevantagepoint,theclosewell-ordered
+enemyforces,whileinourdayeverything appearsdissolved inahaze'?24
+INTELLIGENCE, UNCERTAINTY ANDTHEARTOFWAR
+Insightintohowuncertainty (thatis,thelackofintelligence) pervades
+everyfacetofwarcanbegainedbycomparing warfaretoagameofchess
+orcards.Inchess,bothsidesbeginwithequalcapabilities, andasthegame
+progresses, eachplayerremains fullyinformed astohisopponent's
+resources (thatis,hischesspieces).Therulesofthegamearehighly
+structured andaccepted bybothsides,whilemovesaresequential -not
+simultaneous asinwar.Therulesdetermine theamountofinformation
+(intelligence) thatbecomes available tobothplayersonanequalbasis,
+thusallowing themtomaketheirmovesorchoosetheirstrategies
+accordingly. Thedegreeofuncertainty inchessistherefore relatively
+limitedbecauseitisbasically confined toassessment oftheopponent's
+intentions; butwhile'intelligence' isequallyavailable tobothsides,the
+usetheymakeofitisnot.Themostimportant dimensions ofuncertainty in
+chessaretheexperience andskilloftheopponent; anditisthisthatmakes
+chessanartresembling thecommander's masteryoftheartofwaras
+emphasized byClausewitz. Cardgamessuchaspokerorbridgeinvolvea
+greaterdegreeofuncertainty fromthestart,sincethedistribution ofcards
+
+--- Page 24 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 7
+(thatis,ofcapabilities) isonlypartlyknown.Thisofcoursecompounds
+thedifficulty ofevaluating the opponent's intentions, andmakesitclear
+whyOausewitz, whencomparing wartoagameofchance,preferred the
+analogyofcardgamestothatofchess.
+Possession ofgoodintelligence inwarcanbetosomeextentcompared
+toagameofcardsinwhichoneplayercanseesomeorallofhisopponent's
+handinamirror.Thisgiveshimalmostperfectinformation withthe
+exception ofthatconcerning hisopponent's intentions. Still,thereisno
+guarantee thathewillwin,formuchdependsonthecardsdealttohim
+(thatis,hisowncapabilities). Thus,untiltheBritishdeveloped the
+capabilities necessary toexploitthefirst-rate intelligence theyhadlong
+beenreceiving fromUltra,theirextraordinary insightintoGerman
+intentions andcapabilities couldnotguarantee success.
+Uncertainty inwaris,ofcourse,infinitely morecomplicated. Tobegin
+with,thereareveryfew,ifany,accepted rulesandeventhoserulesthatdo
+existarelikelytochangeunexpectedly. '...Nowinwartheremaybe
+onehundred changes ineachstep.,25Numerous movesarecarriedout
+simultaneously -notsequentially -whiletheopponent's capabilities are
+unknown andnewcapabilities canbedeveloped andintroduced atany
+time.Newparticipants areadded,otherseliminated, newobjectives
+chosen,andsoon.Theopponent's movesfrequently remainunknown
+untilaftertheyhavebeenimplemented, andeventhedetailsofone'sown
+troopmovements arenotalwaysknownwithprecision. Aboveall,
+opponents inwardotheirbesttoincreasetheimperfection ofinformation
+(oruncertainty) fortheiradversaries.26Thedegreeofcomplexity and
+uncertainty prevailing withintheantagonistic, non-cooperative environ­
+mentofwarmakesitimmeasurably moredifficulttoconductthanany
+otherhumanactivity.Finally,itmustberemembered thatwhileagame
+canbeplayedoverandoveragain,theloserinwarmaynothaveanother
+opportunity tocompete.
+Somelarge-scale military operations andbattlescanbecome so
+incomprehensible thatevenaftertheyhaveoccurred anddespitethefact
+thatthereisnoshortage ofavailable evidence, the'intelligence in
+retrospect' (orhistorical reconstruction) isriddledwithcontradictions.
+Onlytheresultscanbeknownwithagreaterdegreeofcertainty, asJohn
+Connellnotesinhissummary oftheBattleofSidiRezegh:
+...'Crusader', someticulously plannedandlaunched withsuchskill
+andsuchconfidence, developed intothefirstphaseoftheBattleof
+SidiResegh.Nosingledescription canbemoreaptthanthatitwas
+enveloped inthefogofwar.Itwasastrange,bewildering battleto
+fight;withtheaidofmaps, the accounts ofindividual experiences
+(whicharenumerous andvivid),andthecarefulreconstructions of
+
+--- Page 25 ---
+8 INTELLIGENCE ANDMILITARY OPERATIONS
+unithistorians, itremains anevenmorethandifficult battleto
+describe lucidlyandconsecutively. Thepatternimposed bythe
+originalplan-ofitselfprobably toorigid-brokeuprapidlyand
+totally,anditbecameadusty,smokyswirlofconfusion, disaster,
+muddle, heroismandglory.Whathappened, incidentbyincident,
+engagement byengagement, canneverbesortedout;itscon­
+sequences becamedesolately clearimmediately afterwards.27
+Muchthesamecanbesaidofmanyotherlarge-scale battlesinrecent
+history.Thefactthatitisimpossible tounderstand fullytheconductof
+suchcomplex battlesinretrospect enablesustorecognize howchalleng­
+ingitis,evenwiththebenefitofhindsight, toevaluate intelligence,
+transmitittotheappropriate units,andthenfollow up onitsuseandon
+troopmovements evenunderthemostfavorable wartimeconditions.
+CLAUSEWITZ ONUNCERTAINTY INWAR
+CarlvonClausewitz isbestknownforhisemphasis ontheprimacyof
+politicsinproviding thelogic,objectives anddirectionofwar,buthismost
+important andoriginalcontribution tothestudyofwarwashisrecognition
+ofthecriticalrolesplayedbyuncertainty, chanceandfriction.28Itisthe
+attention hepaystothefactorofuncertainty thatmakeshisworkso
+relevanttoourowntimes.Afterall,theultimatepurposeofdeveloping a
+theoryofwaranddetailedmilitarydoctrines istominimize thepowerful
+influence ofuncertainty onthebattlefield. Asmentioned earlier,this
+uncertainty -inevitable inanytypeofwarfare-wasinClausewitz' s
+daycreatedlargelybythelackofreliablemeansofcommunication;
+this,intum,madeitextremely difficultformilitaryleaderstoobtain
+goodintelligence onthedisposition oftheirowntroops,letalone
+ontheenemy's capabilities anddirection ofmovement.29Wheneffective
+command andcontrolweresimplynotpracticable, commanders onthe
+battlefield hadlittlechoicebuttoheedthewisdomofNapoleon's words:
+IOns'engage,etalorsonvoit'(Youengageandthenyouwaitandsee).
+Inwar,aswehavealreadypointedout,allactionisaimedat
+probable ratherthanatcertainsuccess.Thedegreeofcertainty that
+islackingmustineverycasebelefttofate,chanceorwhatever you
+callit.30
+Inwar,morethananywhere else,thingsdonottumoutaswe
+expect.31
+Inwar,whereimperfect intelligence, thethreatofacatastrophe, and
+thenumberofaccidents areincomparably greaterthaninanyother
+humanendeavor, theamountofmissedopportunities, sotospeak,is
+therefore alsoboundtobegreater. 32
+
+--- Page 26 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 9
+Theoutcomeofaparticular battleoroperation alwaysinvolves ahigh
+degreeofuncertainty. Inanagewhenasingledecisive battlecould
+onoccasion detennine thefateofwar,waritselfremained ahighly
+unpredictable enterprise. Nevertheless, eveninClausewitz's time,most
+warsweredecidedbyaseriesofengagements, thecumulative effectof
+whichdetennined theultimate victor.Tosomeextent,therefore, waron
+thehigherstrategic levelwas,andstillis,morepredictable.
+...Justasabusinessman cannottaketheprofitfromasingle
+transaction andputitintoaseparate account, soanisolated
+advantage gainedinwarcannotbeassessed separately fromthe
+overallresult.Abusinessman mustworkonthebasisofhistotal
+assets,andinwartheadvantages anddisadvantages ofasingleaction
+couldonlybedetermined bythefinalbalance.33
+...Another view...holdsthatwarconsistsofseparate successes
+eachunrelated tothenext,asinamatchconsisting ofseveralgames.
+Theearliergameshavenoeffectuponthelater.Allthatcountsisthe
+totalscore,andeachseparate resultmakesitscontribution tothe
+total.34
+Clausewitz isparticularly interested intheeffectofuncertainty onthe
+behavior androleofthemilitaryleader.Onmanyoccasions, heobserves
+thatthelackofaccurate intelligence generally makesmilitaryleaders
+overcautious anddisposed toprefertheparalysis ofworst-case analysisto
+theperceived hazardsofcalculated risks.3sInrichlyevocative language,
+Clausewitz goesontodescribe theunsettling impactofuncertainty:
+Inviewing thewholearrayoffactorsageneralmustweighbefore
+makinghisdecision, wemustremember thathecangaugethe
+direction andvalueofthemostimportant onesonlybyconsidering
+numerous otherpossibilities -someimmediate, someremote.He
+mustguess,sotospeak:guesswhetherthefirstshockofbattlewill
+steeltheenemy's resolveandstiffenhisresistance, orwhether,
+likeaBologna flask,itwillshatterassoonasitssurfaceisscratched;
+guesstheextentofdebilitation andparalysis thatthedryingupof
+particular sourcesofsupplyandthesevering ofcertainlinesof
+communication willcauseintheenemy;guesswhethertheburning
+painoftheinjuryhehasbeendealtwillmaketheenemycollapse
+withexhaustion or,likeawounded bull,arousehisrage;guess
+whether theotherpowerswillbefrightened orindignant, and
+whether andwhichpolitical alliances willbedissolved orfanned.
+Whenwerealizethathemusthituponallthisandmuchmoreby
+meansofhisdiscreetjudgment, asamarksman hitsatarget,wemust
+admitthatsuchanaccomplishment ofthehumanmindisnosmall
+
+--- Page 27 ---
+10 INTELLIGENCE ANDMILITARY OPERATIONS
+achievement. Thousands ofwrongturnsrunninginalldirections
+tempthisperception; andiftherange,confusion, andcomplexity of
+theissuesarenotenoughtooverwhelm him,thedangers and
+responsibilities may.
+Thisiswhythegreatmajorityofgenerals willprefertostopwell
+shortoftheirobjective ratherthanriskapproaching ittooclosely,
+andwhythosewithhighcourageandanenterprising spiritwilloften
+overshoot itandsofailtoattaintheirpurpose. Onlythemanwhocan
+achievegreatresultswithlimitedmeanshasreallyhitthemark.36
+Hence,Clausewitz' srepeated admonitions againstsuccumbing tothis
+tendency to'playitsafe'.'Withuncertainty inonescale',heobselVes,
+'courage andself-confidence mustbethrownintotheothertocorrect
+thebalance. ,37Yettheotherextremeofrelyingalmostexclusively on
+boldness andinitiative tocompensate forthelackofintelligence -asthe
+Wehrmacht didduringtheSecondWorldWar-islikelytoprovea
+dangerous remedysinceitsinitial,oftenspectacular successconceals
+fundamental flawsuntilitistoolate.
+Incomplete knowledge oftheenemy's situation alsoprovides
+Clausewitz with aprincipal explanation forthediscrepancy between war
+intheoryandinreality.Hereasonsthat,theoretically speaking, military
+activityshouldneverbeinterrupted orsuspended untilonepartyhas
+emerged thevictor.
+Liketwoincompatible elements, armiesmustcontinually destroy
+oneanother.Likefireandwatertheyneverfindthemselves inastate
+ofequilibrium, butmustkeeponinteracting untiloneofthemhas
+completely disappeared.38
+Inreality,however, Clausewitz knewverywellthatmilitaryactionisoften
+suspended, andheattributed thistotheinherent differences instrength
+required toattackordefend.Inotherwords,bothsidesmighthave
+enoughstrength todefendthemselves, butnotenoughtoattackeach
+other;consequently, thewarcomestoahalt.Amilitaryconflictmight
+alsobebroughttoastandstill becauseofthehumantendency tofavor
+delay,fearandindecision. Andalthough oneofthesidesmightactuallybe
+sufficiently powerful togoontheoffensive, hisflawedornon-existent
+intelligence ontheenemy'sstrengthwillquiteoftencausehimtoperceive
+himselfastooweak:totakeaction.'...Unreliable intelligence ...[and]
+partialignorance ofthesituation is,generally speaking, amajorfactorin
+delaying theprogress ofmilitary actionandinmoderating theprinciple
+thatunderlies it'.39
+Whataresomewaysinwhichmilitary leaderscannevertheless
+compensate forthelackofreliableintellience? Theartofwarisdesigned
+
+--- Page 28 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 11
+toalargeextenttoovercome theproblems generated byuncertainty,
+whatever itssourcemaybe.Therefore, thesidethatcancontinue to
+operateeffectively whileminimizing uncertainty or,evenbetter,learning
+toexploititrelativetotheopponent willperformwell.(IntheNorth
+AfricanCampaign, forexample, Rommeldidnotalwayspossesssuperior
+intelligence, butwasoftenmoreadeptatdealingwithuncertainty onthe
+battlefield andwaswillingtotakeactiondespiteitspresence.)
+Ingeneral,therearetwowaysofcopingwithuncertainty inwar.The
+first,whichhistorically precedes thesecond,includesawidevarietyof
+measures basedondifferent dimensions oftheoperational artofwaror
+fightingpower;thesecondisimproved intelligence, whichdidnotbeginto
+providemoreeffective meansofreducing uncertainty untilthesecond
+halfofthenineteenth century.
+Thealmostinfinitenumberofpossible methods forreducing un­
+certainty fromtheoperational standpoint canbeclassified inthree
+interrelated categories: thefirstincludes technical andmaterialmeans;
+thesecondconcerns theso-called artofwar;andthethirdderivesfromthe
+qualityofleadership.
+TECHNICAL ANDMATERIAL MEANS OFCOPING WITHUNCERTAINTY
+Technological 'solutions' totheproblems ofuncertainty aremainly
+intended toimprove command, controlandcommunications asrelated
+tointelligence (C3I).Thedevelopment ofthetelegraph, telephone, radio
+andothermeansofcommunication madepossible theveryrapidand
+reliablecollection ofinformation andthereal-time transmission oforders
+(Le.,control). Inparticular, airreconnaissance, radar,satellites and
+othertechnologies madeascertaining thelocationofenemyforces­
+whetheronland,atseaorintheair- afareasiertask.Computers and
+relatedtechnologies havemadeitpossible toorganize, quicklyand
+efficiently, massiveamounts ofinfonnation. Theabilitytopinpoint the
+locationofanadversary combined withincreased andmoreaccurate
+precision-guided firepower represent additional material andtechnical
+possibilities ofminimizing thenegative consequences ofuncertainty.
+'Sensor-collected' datafromradars,technological meansoflocating
+enemytroops,andelectronic command, controlandcommunications
+systemsarenotincluded inmydefinition ofintelligence although theyare
+frequently classified assuch.Certainly alllevelsofintelligence work
+overlapandrelatetotheobtaining ofinfonnation, butformypurposes,
+suchtechnological meansarenotconsidered partofoperational-level
+intelligence forthefollowing reasons:although theydealwithoftenvital
+information, theiroperation andthecollection ofsuchmaterial isnot
+usuallyperformed byintelligence experts;itdoesnotinvolveclandestine
+
+--- Page 29 ---
+12 INTELLIGENCE ANDMILITARY OPERATIONS
+meansofcollection; andmostofthedataaregathered 'automatically'
+withouttheuseofestablished methodsofintelligence workandanalytical
+skills.Higher-level intelligence requires moretimeforanalysis and
+corroboration whileradar,forexample, supplies real-time datathat
+requirerelatively littlecorroboration withothersourcesandcanbe
+distributed withno(orminimum) delay;intelligence isacomplexprocess
+ofassessment consisting ofamulti-phasedexpertanalysissubstantiated
+bynumerous sources. Theunprecedented refinement ofsophisticated
+meansofcommunication, location methods andelectronic warfarein
+generalmayindeedhavecontributed toconfusion between electronic
+warfareandtacticalintelligence ontheonehand,andthetraditionally
+higher-level analytical intelligence skillsontheother.Themisconception
+thatelectronic warfarecanlargelyreplaceintelligence workonthehigher
+operational levelmayalreadyhavehadadeleterious effectonthegeneral
+appreciation ofanddemandforthetraditional intelligence officer.
+Inpart,thismaybeviewedasaquestionoflevelofanalysis;thatis,most
+suchcollection andtransmission ofinfonnation, likedirectvisual
+reconnaissance onthebattlefield ofthepast,shouldbeconsidered as
+tacticalnotoperational intelligence. Theblurringofdistinctions between
+thesetwolevelsofanalysisisdangerous becauseithasledtoneglectofthe
+artofintelligence ontheoperational levels.Today,whilemanymid-level
+officersareveryskilledinthetacticaluseofC3technologies, farfewerare
+trainedtodealwiththehigheraggregate levelofinformation suppliedin
+abundance bysuchtechnologies andothersources.Yetthishigherlevelof
+aggregation andanalysisisprecisely whatoperational intelligence isall
+about.Thecurrentsituation mayhavecreatedanexpectation (whether
+conscious ornot)thattechnologies whichprovide'automatic' or'nearly
+automatic' answersonthetacticallevelwillalsobeabletoperforma
+similarfunctionontheoperational level.
+Onthe'material' side,significant numerical superiority insoldiers,
+firepower, andthelike-ineitherabsoluteorrelativetenns-atthedecisive
+pointislikelytomakethefavorable outcomeofabattlemorecertainand
+lessdependent ontheavailability ofreliableintelligence. Whenover­
+whelming material superiority isconcentrated againstanenemy,brute
+forcecantosomeextentcompensate forthelackofintelligence. 'When
+oneforceisagreatdealstronger thantheother,anestimate maybe
+enough.Therewillbenofighting: theweakersidewillyieldatonce.,40
+Although unquestionable material superiority canmaketheoutcome
+ofwarmorecertainevenwithoutdetailed intelligence, thesuperior
+sideinthistypeofsituation tendstolapseintoarrogant complacency:
+heunderestimates hisweakeropponent, employs hisforcesless
+economically, ultimately paysapricethatishigherthannecessary; and
+perhapsrisksaseriousdefeatorsetback.Well-known examples ofthisare
+
+--- Page 30 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 13
+theItalianinvasionofGreecein1940;theRussianattackonFinlandin
+1940;the'combined' ArabattackonIsraelin1948;andtheUSinvasionof
+Grenada in1983.
+THEARTOFWARASACOMPENSATING FACTOR FORUNCERTAINTY
+ANDTHELACKOFINTELLIGENCE
+Clausewitz repeatedly emphasizes thatabsolutesuperiority isoneofthe
+keystovictory'solongasitisgreatenoughtocounterbalance allother
+contributing circumstances. Itthusfollowsthatasmanytroopsaspossible
+shouldbebroughtintotheengagement atthedecisivepoint...41Thefirst
+rule,therefore, shouldbe:putthelargestpossiblearmyintothefield.This
+maysoundaplatitude, butinrealityitisnot'.42Inthecaseofabsolute
+superiority, intelligence becomes amuchlesscriticalfactor.Still,how
+doesonesideknowthatitissuperiortotheotherwithoutintelligence; and
+howdoesitknowwheretoconcentrate itsforces,wheretheenemyis
+located,andsoon?
+Unfortunately, absolutenumerical superiority isnotalwayspossible;
+hence,Clausewitz andothermilitarytheoristsinsistthatitisimperative to
+achieveatleastrelativesuperiority atthe'decisive point'despitethe
+handicap ofabsolute inferiority.43
+Relative superiority, thatis,theskillfulconcentration ofsuperior
+strength atthedecisive point,ismuchmorefrequently based
+onthecorrectappraisal ofthisdecisivepoint,onsuitableplanning
+fromthestart;whichleadstoappropriate disposition oftheforces,
+andontheresolution neededtosacrificenon-essentials forthesake
+ofessentials -thatis,the courage toretainthemajorpartofone's
+forcesunited.44
+Likemostothermaximsconcerning theartofwar,whichadvise,for
+example, keepingone'sownforcesunitedwhiledevising astrategythat
+wouldforcetheenemytodividehis,4$andretaining amplereselVesonor
+nearthebattlefield toexploitsuddenopportunitites orprovidehelpif
+necessary, thetheoretical simplicity ofachieving numerical superiority at
+thedecisive pointbeliesthedifficulty experienced inallaspectsofits
+implementation.
+Theimplementation ofthesetheoretically simpleprinciples depends,
+withvaryingdegreesofemphasis, ontheavailability ofgoodintelligence
+andonthetalentofthemilitarygenius,whoseexperience, intuition and
+character equiphimtomakeprudentdecisions eveninanenvironment of
+rampantuncertainty. AndbecauseClausewitz hadconcluded thatitwas
+practically impossible toobtainaccurate andtimelyintelligence onthe
+battlefield, hedevotedconsiderable attention totheideathatthemilitary
+
+--- Page 31 ---
+14 INTELLIGENCE ANDMILITARY OPERATIONS
+geniusorartisticintuition ofthecommander mustbecultivated
+andultimately reliedupontodealwiththeunknown andunsubstantiated.
+YetOausewitz doesnotexplicitly recognize thateventhemostinspired
+andexperienced militaryleaderneedsatleastsomesortofintelligence to
+supporthisintuition -andthemorethebetter.Themilitarygenius'
+intuition cannotreplaceintelligence; itcanonlyfunctionwhenitexploits
+infonnation moreadroitly thanotherscould.Intheend,therefore,
+Clausewitz's centralconceptofthemilitarygeniusisunsatisfactory; it
+raisesnumerous questions suchashowtoidentifythemilitarygenius
+beforetheoutbreak ofwar,andhowtocultivate genius.Fromthe
+standpoint ofintelligence andmilitaryoperations, thisconceptcaneven
+becounter-productive, ifnotdangerous, because itmayencourage
+commanders toprefertheirintuition tointelligence evenwhenreliable
+intelligence isavailable. Thus,intelligence remainsessential insome
+measure regardless ofone'sstartingpoint.
+Someothermethods ofcopingwithinadequate infonnation and
+unanticipated situations includethemeticulous preparation ofcon­
+tingency plans;thetrainingoftroopstodealwiththeunexpected through
+rehearsals andexercises; theadoption ofadetailed, flexibledoctrine; and
+theeducation ofcommanders toimprovise underpressure.
+Constant practice leadstobrisk,precise,andreliableleadership,
+reducing naturalfrictionandeasingtheworkingofthemachine. In
+short,routinewillbemorefrequentandindispensable, thelowerthe
+levelofaction.Asthelevelofactionrises,itsusewilldecreasetothe
+pointwhere,atthesummit,itdisappears completely.46
+Mostofthematerialsolutions, militarymaximsandothermethodsthat
+havebeenmentioned uptothispointpertaintoone'sownside.Among
+thoseprinciples ormethods intended toincreaseambiguity orthefogof
+warfortheenemyaresecrecyandcamouflage, movement atnight,and
+deception -allofwhichhindertheenemy's effortstoobtaingood
+intelligence. Theobjective ofthesemeasures istolaythegroundwork for
+achieving somefonnofsurprise-butonceagain,however, theirplanning
+andexecution dependupontheavailability ofreliableintelligence aswell
+asuponsuchelements asadequate strengthandtime(withoutwhicheven
+superbintelligence couldnotensuresuccess).
+Anotherimportant andwell-known bitofadvicetothecommander isto
+beaggressive andmaintain theinitiative whenever possible. Through
+continuous movement, speedandvigorous attack,thecreativemilitary
+geniuscandictatethepaceanddirection ofthebattle,therebyshiftingthe
+balanceofuncertainty inhisfavor;47heholdstheinitiative -heknows
+whereheisgoingandcanconcentrate hisstrength accordingly. The
+defender insuchasituation maylose valuable timetryingtoidentifythe
+
+--- Page 32 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 15
+axisorSchwerpunkt oftheattackandwillgenerally finditnecessary to
+dividehisforcestomeetanumberofpossiblethreats.
+THEMILITARY LEADER ANDUNCERTAINTY INWAR48
+Theidealcombination ofperfectintelligence andsuperior military
+strength wouldmakethelifeofeverymilitarycommander fareasier,
+reducing theneedforhisintuition andcreativity. Butinreallife,as
+Churchill onceremarked inadifferent context,'Generals onlyenjoysuch
+comforts inHeaven. Andthosewhodemandthemdonotalwaysget
+there'.49Asmentioned earlier,judicious application oftheprinciples of
+theartofwarisonewayofcopingwithuncertainty andattimeseven
+turningittoone'sownadvantage. Thisassumes, however, thatthe
+militarycommander hastheexperience, intuition andcreativegeniusto
+doso.Clausewitz vividlydescribes theinterplay ofpressures facedbythe
+commander onthebattlefield:
+Sinceallinfonnation andassumptions areopentodoubt,andwith
+chanceatworkeverywhere, thecommander continually findsthat
+thingsarenotasheexpected. Thisisboundtoinfluence hisplans,
+oratleasttheassumptions underlying them.Ifthisinfluence is
+sufficiently powerful tocauseachangeinhisplans,hemustusually
+workoutnewones;butforthesethenecessary infonnation maynot
+beimmediately available. Duringanoperation decisions have
+usuallytobemadeatonce;theremaybenotimetoreviewthe
+situation oreventothinkitthrough. Usually, ofcourse,new
+infonnation andreevaluation arenotenoughtomakeusgiveupour
+intentions: theyonlycallthemintoquestion. Wenowknowmore,
+butthismakesusmore,notless,uncertain. Thelatestreportsdonot
+arriveallatonce:theymerelytricklein.Theycontinually impingeon
+ourdecisions, andourmindmustbepermanently anned,soto
+speak,todealwiththem.
+Ifthemindistoemergeunscathed fromthisrelentless struggle
+withtheunforeseen, twoqualities areindispensable: first,an
+intellectthat,eveninthedarkesthour,retainssomeglimmerings ofthe
+innerlightwhichleadstotruth;andsecond,thecouragetofollowthis
+faintlightwherever itmaylead.Thefirstisdescribed bytheFrench
+term,coupd'oeil;thesecondisdetermination. 50
+Insum,Clausewitz's twofoldprescription fordealingwiththelackof
+intelligence isforthecommander torelyonhisintuition(orwhathecalls
+coupd'oei/)andhiscapacity formaintenance ofaim.(Athirdwaywould
+betoimproveone'sintelligence capabilities aswellastheavailable means
+ofcommunication, asolutionthatClausewitz considered impossible at
+
+--- Page 33 ---
+16 INTELLIGENCE ANDMILITARY OPERATIONS
+thetimehewroteOnWar.)Giventheinevitability ofconfusion and
+uncertainty onthebattlefield, thecommander's experience andcreative
+application oftheprinciples ofwarwerehis onlyrecourse. 51
+The'non-dogmatic' application oftheprinciples ofwar2callsfor
+artisticintuition, atalentforgrasping theessenceoftheproblemwithout
+gettinglostinthefuzziness ofthedetails.Themilitarygenius'neednotbe
+alearnedhistorian orapundit...'.53Instead,heneedstohaveaninstinct
+forthe'quickrecognition ofatruththatthemindwouldordinarily missor
+wouldreceiveafterlongstudyandreflection'.54 'Whenallissaidanddone,
+itreallyisthecommander's coupd'oeil,hisabilitytoseethingssimply,to
+identifythewholebusinessofwarcompletely withhimself,thatisthe
+essenceofgood generalship'. 55
+Asnotedearlier,Clausewitz believed that'boldness growsless
+common inthehigherranks';56 thatintheabsenceofsoundintelligence
+mostmilitaryleaderstendtooverestimate theenemy's capabilities and
+erronthesideofcaution. 'Giventhesameamountofintelligence,
+timiditywilldoathousand timesmoredamageinwarthanaudacity. ,57
+Themilitarygeniusisacourageous -butnotreckless-leaderwho
+takescalculated risksthatareintended toexacerbate hisopponent's
+confusion anduncertainty. Boldness andrisk-taking inwararethere­
+foreessential forovercoming unpredictability byincreasing itforthe
+enemy.
+Letusadmitthatboldness inwarevenhasitsownprerogatives.
+Itmustbegrantedacertainpoweroverandabovesuccessful
+calculations .involving space,time,andmagnitude offorces,for
+wherever itissuperior, itwilltakeadvantage ofitsopponent's
+weakness. Inotherwords,itisagenuinely creativeforce.Thisfact
+isnotdifficult toproveevenscientifically. Whenever boldness
+encounters timidity, itislikelytobethewinner,becausetimidityin
+itselfimpliesalossofequilibrium. Boldness willbeatadisadvantage
+onlyinanencounter withdeliberate caution, whichmaybe
+considered boldinitsownright,andiscertainlyjustaspowerful and
+effective; butsuchcasesarerare.Timidity istherootofprudence in
+themajorityofmen.S8•••Boldness governed bysuperiorintellectis
+themarkofahero.Thiskindofboldness doesnotconsistindefying
+thenaturalorderofthingsandincrudelyoffending thelawsof
+probability; itisratheramatterofenergetically supporting that
+higherfonnofanalysisbywhichgeniusarrivesatadecision: rapid,
+onlypartlyconscious weighing ofthepossibilities. Boldness canlend
+wingstointellectandinsight;thestrongerthewingsthen,thegreater
+theheights,thewidertheview,andthebettertheresults-thougha
+greaterprize,ofcourse,involvesgreaterrisks....Inotherwords,a
+
+--- Page 34 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 17
+distinguished commander withoutboldness isunthinkable. Noman
+whoisnotbornboldcanplaysucharole,andtherefore weconsider
+thisqualitythefirstprerequisite ofthegreatmilitaryleader.How
+muchofthisqualityremainsbythetimehereachesseniorrank,after
+trainingandexperience havemodified it,isanotherquestion. The
+greatertheextenttowhichitis retained, thegreatertherangeofhis
+genius.59
+Being'abovesuccessful calculations', boldness andrisk-taking cannot
+therefore besubjected toapurelyrationalanalysisbyeithertheinitiator
+orhisopponent, whomusttrytopredicttherisk-taker's mostlikelycourse
+ofaction.Thisexplains whytakingriskstendstoincrease theopponent's
+uncertainty andwhytheintuition ofthemilitarygeniusmaybetheonly
+waytodealwithit.
+Clausewitz's assertion thatthemajority ofgenerals erronthesideof
+timidity, whencombined withtheinherent superiority ofthedefenseover
+theoffense,suggests thatinmostinstances uncertainty canbeovercome
+mostsafelythrough thedeliberate avoidance ofrisks.Thedegreeof
+cautiontobeemployed willdependonsuchvariables asthespecific
+circumstances, weapons technologies, andrelativenumerical strength.
+Soonceagain,intheendthereisnofoolproof, convenient formulafor
+successinwar.Attimes,aninferiorforcetakingveryhighrisksmay
+succeed (forinstance, MacArthur atInchon;theBritishforcesunder
+O'Connor intheWestern Desertin1941),whileonotheroccasions, a
+smallerforcewouldbewisertoadheretoamorecareful,deliberate
+defensive strategy.
+Neverthless, thewisdomofQausewitz's preference forthedaring
+military geniusoverthecautious military leaderisthis:sincemost
+generals arecautious, theywillprobably projecttheirownassessments on
+totheiropponents. If,however, theiropponents playbyadifferent setof
+ruleswhichincludes acceptance ofveryhighrisks,theiractionswill,at
+leastintheshortrun,becomeunpredictable (e.g.Rommel's actionsvis-a­
+vistheBritishinNorthAfrica).Aslongasthecommander knowswhento
+'shiftgears'fromahigh-tolow-risk strategy, hisboldness willpay
+handsome dividends; buthistorydemonstrates thatmostdaringgenerals
+donotknowwhentochangetheirapproach. Theiractionsareafunction
+moreofcharacter thanoflong-term rationalcalculations, whileearlier
+successes haveonlyservedtoblindthemtothefollyofpursuing thesame
+strategy indefinitely.
+Otherqualities essential forthemilitary geniusare'energy,firmness,
+staunchness, emotional balance, andstrengthofcharacter ...These
+products ofaheroicnaturecouldalmostbetreatedasoneandthesame
+force-strengthofwill-whichadjustsitselftocircumstances; butthough
+
+--- Page 35 ---
+IS INTELLIGENCE ANDMILITARY OPERATIONS
+closelylinked,theyarenotidentical. ,60Thisincludes 'theabilitytokeep
+one'sheadattimesofexceptional stressandviolentemotion'. 61'This
+[presence ofmind]mustplayagreatroleinwar,thedomainofthe
+unexpected, sinceitisnothingbutanincreased capacityofdealingwith
+theunexpected. Weadmirepresence ofmindinanaptrepartee, as
+weadmirequickthinking inthefaceofdanger. '62Inadescription
+thatillustrates theaccuracy ofClausewitz' sinsightintobehavior under
+pressure andconditions ofuncertainty, Brigadier GeneralC.F.Aspinall­
+Oglander recounts anincident intheearlystagesoftheinvasion of
+Gallipoli:
+Tiredbytheireffortsintheearlymorning, andoverwrought bythe
+tensionofthelanding,thestrangeness ofthesituation, andtheheavy
+lossesinofficers,someoftheunitsofthe29thDivision wholanded
+earlyinthedaywereinsorestraitsduringthefirstafternoon. Had
+theybutknownit,theenemyinfrontofthemwereequallydistressed,
+andthismustbesoineveryhard-fought battle.Eachsideisproneto
+imagine thatfurtherprogress isimpossible, andthesidewiththe
+moreresoluteleader,whoinsistsononefurthereffort,willgenerally
+provethevictor.Onthe25thApril,theTurksinthesouthern zone
+weretooweaktowinavictory,buttheresolution oftheirleaderwas
+togainthemimportant advantages.
+'Iamsending youabattalion,' wroteColonel SamiBey,the
+commander oftheTurkish9thDivision, totheofficerincommand of
+the26thRegiment. 'Itisquiteclearthattheenemyisweak;drivehim
+intothesea,anddonotletmefindanEnglishman inthesouthwhenI
+arrive.'Withthisinspiring message heencouraged histroops.
+Throughout thenight,theweakTurkishdetachments atWandX
+prevented anyadvancebytheBritish,whilebySa.m.onthe26ththe
+regrettable evacuation ofYBeachwasinfullswing.Thesmall
+TurkishgarrisonofSeddelBahr,who,despitetheterrifying effectof
+theirfirstexperience ofnavalgun-fire, clungdoggedly totheir
+position throughout the25th,rendered aservicetothedefence
+whichitwouldbedifficulttoexaggerate. 63
+Theconflicting natureofintelligence reportsonthebattlefield exerts
+verystrongpressure onthecommander toissueordersandcounter­
+orders,tohesitate, tocontradict himself, andtoconfusehimselfandhis
+subordinates. ThisishowClausewitz assessesthesituation anddefinesthe
+rolethemilitarygeniusmustplay:
+Manyintelligence reportsinwararecontradictory; evenmoreare
+false,andmostareuncertain. Whatonecanreasonably askofan
+officeristhatheshouldpossessastandardofjudgment, whichhecan
+
+--- Page 36 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 19
+gainonlyfromknowledge ofmenandaffairsandfromcommon
+sense.Heshouldbeguidedbythelawsofprobability. Theseare
+difficultenoughtoapplywhenplansaredraftedinanoffice.farfrom
+thesphereofaction;thetaskbecomes infinitely harderinthethickof
+fightingitself.withreportsstreaming in.Atsuchtimes.oneisluckyif
+theircontradictions canceleachotherout.andleaveakindof
+balancetobecritically assessed. Itismuchworseforthenoviceif
+chancedoesnothelphiminthatway.andonthecontraryonereport
+tallieswithanother.confirms it,magnifies it,lendsitcolor,tillhehas
+tomakeaquickdecision-whichissoonrecognized tobemistaken,
+justasthereportstumouttobelies,exaggerations, errors,andso
+on.Inshort,mostintelligence isfalse,andtheeffectoffearisto
+multiply liesandinaccuracies. Asarulemostmenwouldrather
+believebadnewsthangood.andrathertendtoexaggerate thebad
+news.Thedangersthatarereportedmaysoon.likewaves.subside;
+butlikewavestheykeeprecurring, withoutapparent reason.The
+commander musttrusthisjudgment andstandlikearockonwhich
+thewavesbreakinvain.Itisnotaneasythingtodo.Ifhedoesnot
+haveabuoyantdisposition, ifexperience ofwarhadnottrainedhim
+andmaturedhisjudgment, hehadbettermakeitaruletosuppress
+hispersonal convictions andgivehishopesandnothisfearsthe
+benefitofthedoubt.Onlythuscanhepreserve aproperbalance.64
+Thecommander mustresistthetemptation tochangehisorderscon­
+tinually, therebyaddingtotheconfusion. Heshouldkeepinmindthe
+maximthat'order,counter-order bringsdisorder'. DuringtheBattleof
+Midway, forexample, Admiral Nagumo keptchanging hisorderstoarm,
+disarmandrearmhisaircraftforvarioustypesofmissions, eachofwhich
+required different typesofammunition. Beforelong,hehadexhausted
+hismaintenance crews,wastedvaluabletime,andfinallywascaughtinthe
+middleofreanning hisaircraftbyaUSdive-bomber attack.AdmiralSir
+DudleyPoundfacedthesamesortofdilemma when,underthepressureof
+uncertainty andambiguous intelligence, hedecidedtodisperseConvoy
+PQ17insteadofhavingitcontinue oncourse.Thisonlyconfirms the
+wisdomofClausewitz's adviceto'standlikearockonwhichthewaves
+breakinvain'.(SeePatrickBeesly's contribution onConvoyPQ17.)
+Onceagain.though,thisadviceseemsfareasierintheorythaninpractice,
+forasClausewitz admits,thereisaveryfinelinebetween strengthof
+character andobstinacy (seethediscussion onthecommander's intutition
+above).
+The'military genius'iscentraltoOausewitz's theoretical structure
+indealingwiththeunpredictable. Sinceaccurate intelligence isthe
+exception ratherthantherule,andtheprinciples ofwarthatcan
+
+--- Page 37 ---
+20 INTELLIGENCE ANDMILITARY OPERATIONS
+compensate forimperfect intelligence aredifficulttoimplement, inthe
+endmuch,perltapstoomuch,ofhistheoryrestsonthecoupd'oeilof
+themilitary genius.TheClausewitzian conceptofcompensating for
+uncertainty throughcourage, self-confidence, persistence andgeniuscan
+beaverydangerous practice, aswasborneoutbytheGennanexperience
+intheSecondWorldWar.Asfarastheconductofmilitaryoperations was
+concerned, theGennangenerals performed verywellindeed,buttheir
+Achilles' heelwastheirfailuretoappreciate thepotentialofintelligence at
+higherlevels.
+ThefactisthattheGennans hadallthewrongideasaboutintel­
+ligenceandhithertohadnotfelttheneedofimprovement. What­
+evererrorstheymightmakeabouttheforcesopposing them,
+theyhadalwaysbeenstrongenoughfortheseerrorstomakeno
+difference. Oneresultwasthattheoperations branchtendedtopay
+noattention towhattheirintelligence branchtoldthem.Thetime
+wascomingwhenthiscouldbeaserioushandicap. Whatstruck
+memostatthetimewasthecoolcertainty withwhichthese
+appreciations werepresented. AnyBritishIntelligence Summary,
+evenatalaterandmoreself-confident periodofthewar,would
+undoubtedly havehedgedwithafew'probablys' .65
+AslongastheGennans maintained theinitiative, theirrelianceon
+excellence inmilitaryoperations asasubstitute forintelligence went
+unnoticed. Bythetimethetidehadturnedagainstthem,itwastoolate
+tochangetheiroutlookorbuildamorereliableintelligence system.
+Ultimately, thislatentweakness wasoneofthemajorcausesof
+Gennany's defeatintheSecondWorldWar.
+Although elegantinitsconception, Clausewitz's theoretical structure
+raisesalmostasmanyquestions asitsolves.Howcanthe'militarygenius'
+beidentified assuchbeforeawarbreaksout,particularly inmodemtimes,
+wherethenumberofopportunities formilitarycommanders toacquire
+experience andhavetheirtalentsrecognized isverysmallornon-existent?
+Furthennore, asIhavearguedelsewhere, theexperience gainedinone
+warmaybeirrelevant orevencounter-productive foranotherintheageof
+technology andrapidchange.66
+Surelyonecannotexpectthatasuitablemilitarygeniuswillalways
+appearattherightmomentintherightplaceinfuturewars.Inviewofthe
+revolutionary improvements inmodemcommunications onthebattle­
+fieldandtheavailability ofmuchimproved -although notperfect­
+intelligence, itseemsmoreadvisable torelylessonthecommander's
+intuition andmoreontheproperuseofintelligence. Toputitanother
+way,themodemmilitarygeniusshouldcultivateanewtypeofintuitionor
+creativegenius:hewillhavetorelysomewhat lessonhiscreativity in
+
+--- Page 38 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 21
+applying the'principles ofwar'andmoreonhisunderstanding and
+appreciation ofintelligence. Thiswillincludelearning moreaboutwhat
+intelligence canandcannotdoforhim,howhecandigest massive
+quantities ofinformation mostefficiently, andhowhecanbettertaskhis
+intelligence organizations. Suchatrendcouldalreadybeobserved onthe
+BritishsideduringtheSecondWorldWar,when,forexample, Wavell,
+Auchinleck andMontgomery achieved muchoftheirsuccessonthe
+battlefield through theastuteuseofintelligence. Incontrast totheir
+German rivals,theyshowedmuchmorerespectforintelligence andcame
+todependonitextensively inthepreparation andexecution ofmilitary
+operations. American generals werequicktofollowsuitduringthelater
+stagesofthewarinEurope.
+Despitethisshiftintherelativeimportance ofintelligence compared
+withoperational creativity, military organizations continue tostressthe
+operational aspectsofwarintheeducation ofofficerswhileneglecting
+toprovide thorough instruction inintelligence matters. Thefallacy
+oftheClausewitzian andtraditional military approach todealingwith
+uncertainty isthatexcellence intheartofcommand istoalargeextent
+perceived asasubstitute forintelligence. Onlyonestepawayfrom
+ignoring thevalueofintelligence, thisattitude isperpetuated inthe
+education ofmilitary officers andthuslaterreflected intheirlong­
+standing underestimation ofitsimportance.
+OPERATIONS VS.INTELLIGENCE; ATALEOFTWOCULTURES
+Ontheonehand,intelligence workwasthoughtofasaprofessional
+backwater, suitable onlyforofficerswithaknowledge offoreign
+languages andforthosewhowerenotwantedforcommand. Onthe
+otherhand,theactivities ofthemanymenofaverageorlessthan
+average professional competence whowerethusdetailed for
+intelligence confirmed thelowestimate thathadalreadybeenmade
+ofthevalueofintelligence work.67
+Let'sgooutandkillsomeVietCong,thenwecanworryabout
+intelligence.68
+Intelligence istooimportant tobelefttointelligence officers.
+Anonymous69
+Toreduceanargument adabsurdum, itcanbesuggested thatwhile
+wagingwarsuccessfully without intelligence mightbedangerous and
+expensive butstillpossible, attempting todosowithexcellent intelligence
+butnoarmyisimpossible. Itistherefore naturalthatintelligence, like
+logistics, shouldalwaysplayasupportive role;yetthewordsupportive as
+usedhereisnotsynonymous withsecondary orunimportant. Evenasthe
+
+--- Page 39 ---
+22 INTELLIGENCE ANDMll..ITARY OPERATIONS
+mostsuccessful militaryoperation mustcometoahaltwithoutpetrolor
+ammunition, sothebestarmywillpayanunnecessarily higherpriceand
+reduceitseffectiveness withoutintelligence. Withthetraditional focuson
+operations inmilitaryeducation, however, givingintelligence itsdue
+recognition, andeasingthenatural'tension' between intelligence and
+operations throughgreaterco-operation andunderstanding willnotbean
+easytask.
+Eachbranch's professional functions andmissions aswellasmethods
+andoperational requirements areworldsapartifnotcompletely
+contradictory. Inevitably, theoperations branchwilltrytodominate or
+ignoreintelligence. Wehavealreadyseenthatbeforethedevelopment of
+communications andintelligence, themilitary reliedonmaterial
+superiority, refinement oftheartofwar,andthecultivation ofmilitary
+geniustocopewithuncertainty anditsattendant problems; andeven
+thoughintelligence finallycameintoitsowninthemid-twentieth century,
+thesetraditional remedies foruncertainty continue toholdsway.
+Inallmilitaryorganizations (tosomedegree)themostsought-after
+careerhasbeenthatofasuccessful operations officer.Allotherpositions
+-nomatterhowcritical-haveremained secondary. Themostimportant
+andmostseniorofficershavealwaysbeen(andstillare)inoperations, as
+evidenced bytheuniversal tendency ofhigher-ranking operations officers
+todominate lower-ranking officerswhoplayasupportive role.Giventhe
+traditionally hierarchical disciplinary natureofmilitaryorganizations,
+thoseofhigherranknaturally expecttobeobeyedandbegintoregardthe
+deference theyreceiveasanaffirmation oftheirsuperiorknowledge and
+judgment. Therelationship oftheGermanintelligence officerandhis
+operational colleagues duringtheSecondWorldWarisanadmittedly
+extremeexample ofthetypeofattitudethatstillexistsinallmilitary
+organizations today.Initspost-war reportonGermanmilitaryintelli­
+gence,theMilitary Intelligence Division oftheUSWarDepartment
+summarized theproblem asfollows:
+TheGermanintelligence servicewasalmostexclusively inthehands
+of,anddominated by,GermanGeneralStaffofficers.Thesemen
+wereselectedfortheirabilitiesfromtheranksofregularofficers
+earlyintheircareersandweregivenextensive traininginallstaff
+work.TheGeneralStafffonnedthecoreoftheGermananny,and
+wasthebrainsbehindallquestions ofdirection andorganization.
+Yetthegreatestambition ofGeneral Staffofficerswasstillto
+betroopcommanders inthefieldortobeassistants tosuch
+commanders. Nonewantedtobecomespecialists onmattersof
+transport, munitions, intelligence, orothertechnical matters...
+Thespecialist, therefore, appeared inferiorandnotalittlesuspect
+
+--- Page 40 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 23
+tothecommanding typeofofficer:theoperations officer(G-3)or
+thechiefofstaff.TheIc(G-2)wasaCinderella, andhispositionwas
+considered aslittlemorethanapreliminary tosomething betterand
+moreimportant. ItwasGermandoctrinethattheG-2hadtobeable
+toworkwiththeG-3,hehadtohaveagoodunderstanding oftactical
+situations anddetails,buthedidnotneedadetailedknowledge of
+theenemyforces,theenemylanguage, oranyotherskillthatwould
+beexpected inotherarmiesfromamanwhosemissionitistogather
+information abouttheenemy...
+Wemustnot,however, fallintotheotherextremeofunderrating
+Germanoperational intelligence. Thesubordination oftheG-2to
+theG-3hadtheadvantage ofkeepingthestudyoftheenemy
+situationonastrictlypracticalplane;bywhichtheGermans avoided
+theacademic approach socommon inAlliedarmies.Intelligence
+wasthereforonepurpose: tohelptheG-3andthechiefofstaffto
+maketherightoperational decisions.70
+When,in1942,thetableswereturnedandtheGennans were
+thrownmoreandmoreonthedefensive, theAllieshadbyfar
+outstripped theGermans inthedevelopment andapplication of
+operational intelligence. Thiswasperhapsmostobvious inthe
+development andapplication ofoperational intelligence ...Being
+theorganizers anddirectors andthebrainsoftheGermanArmy,they
+[theGeneralStaffofficers]werewellselectedandsuperblytrained,
+especially asexperttacticians. Theirtrainingwasdesigned toenable
+themtofindtheirplaceinanyGeneralStaffassignment withoutmuch
+preliminary introduction. This,thoughitworkedwellinmanyfields,
+wascertainlynotsufficient insuchaspecialised fieldasintelligence ...
+Belatedly, whentheneedforadditional specialized training
+becameobvious, asemipermanent intelligence schoolwasfounded
+atPosenin1943,whereregularintelligence coursesforofficerswere
+held.Fieldunitswereasked,onaquotabasis,tosendofficersto
+thesecourses, butitwasrarethatthedivisioncommanders senttheir
+ablestandbest-suited men...
+Fromthepointofviewofselection andtraining, thestateofaffairs
+intheG-2'sstaffwasequally,ifnotmore,grave.TheGermans were
+reluctant toentrustpositions ofmilitaryresponsibility inintelligence
+tomenwho,incivilianlife,hadacquired aknowledge ofaforeign
+countryorlanguage butotherwise hadnomilitarybackground. Men
+withsuchspecialqualifications wereinmostcasesdraftedintothe
+anny,oftentoendupasgunnersorengineers ontheeasternfront,
+thoughtheyspokeEnglishandFrench,ortobeassigned tosomeunit
+intheWestorinAfricadespitetheirknowledge ofRussian.71
+
+--- Page 41 ---
+24 INTELLIGENCE ANDMILITARY OPERATIONS
+UndertheGennansystem...intelligence wasmorethanusually
+condemned toasecondary position. Atdivision, wherethe
+Germans hadnochiefofstaffbutwheretheG-3performed the
+functions ofchiefofstaffandoperations staffofficer,theG-2was
+completely dominated. Athigherlevels,wheretheG-2whowas
+disagreeing withtheG-3couldapplytothechiefofstafffora
+decision, theG-3,withhishigherrankandstatusaschiefofthe
+tacticalgroup,usuallyforestalled himandbroughtthemattertothe
+attentionofthechiefofstafforthecommanding generalwithoutthe
+presence oftheG-2beingrequired.72
+AsProfessor Hinsleyshows,similarnegative attitudes towardintel­
+ligenceworkingeneralalsoprevailed onthe British sidebefore
+theSecondWorldWar.Theexplanations hegivessuchastheanti­
+intellectualism oftheofficercorps,resentment againstthe influence of
+intelligence strictlyoutsidethe'informational field',ordislike for theless
+gentlemanly aspectsofintelligence explaintheattitudes ofallother
+militaryorganizations atthattimeaswell.73Asthewarprogressed, the
+longstanding negative attitudes displayed towardintelligence slowly
+dissolved asaresultofmanyfactorsthatcontributed greatlytoBritish
+successbutwhichwerenotpresentinitiallyontheGennanside.Most
+importantly, theBritishwereatfirstonthedefensive following aseriesof
+defeats,whichcreatedafeelingofvulnerability andanopenness to
+innovative solutions; theyhadawiserpolicyofrecruiting civilians, which
+allowedmanyscholarstrainedbythemilitarytofillseniorintelligence
+positions withoutposingthethreatofcompetition forthepositions of
+regularannyofficersafterthewar;theyexperienced anumberofearly
+-sometimes spectacular -intelligence successes, whichgenerated
+confidence inintelligence; andtheybenefited fromthegenerally positive
+attitudetowardintelligence thatemanated fromthehighestpolitical
+echelons.
+Ashistoryhasshown,thetendency ofsomemilitaryleadersresponsible
+foroperations todominate intelligence canindeedbeverycounter­
+productive. Themisuseofintelligence byAdmiralOliverandhisprincipal
+deputy,CaptainThomas Jackson, preceding andduringtheBattleof
+Jutlandiswell-known. Theirmisunderstanding of,;lndforthatmatter
+lackofinterestin,thefinerpointsofwhatintelligence couldandcouldnot
+dochanged theBattleofJutlandfromapotential Trafalgar intoan
+indecisive draw; 74andbecausetheintelligence mistakesofthisbattlewere
+notstudiedbymostseniornavalcommanders, theyweredoomedtobe
+repeated byAdmiral PoundinthebattleforNorwayandoverConvoy
+PQ17.75
+AnextremecaseisthatofAdmiralTurner,theUSNavyDirectorof
+
+--- Page 42 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 25
+WarPlans(OP-12) intheperiodbeforePearlHarbor.whogradually
+broughtthenavalintelligence community underhiscontrol.'Although he
+hadnoexperience inevaluation, thenewdirectorofwarplansassumed his
+judgement wassuperiortotheaNIstaff'swhenitcametoanalysing and
+interpreting strategic infonnation. Hemaintained thattheofficersinhis
+division were"moreexperienced thantheofficersinnavalintelligence
+whoweregenerally morejunior,andweretrainedrather[sic]forthe
+collection anddissemination ofinfonnation, ratherthanitsapplication
+toastrategic situation" '.76Inorderto'runthewholeshow·,Turner
+beganpreparing hisownintelligence estimates andtransmitting them
+independent ofONI.77WhilethedirectorofaNI,aCaptainKirk,argued
+thathis office wasresponsible forpreparing thepartofaformalestimate
+calledEnemyIntention, Turnermaintained thathisdepartment alone
+should'interpret andevaluate allinfonnation concerning possiblehostile
+nationsfromwhatever sourcesreceived', andfurtherinsistedthataNI's
+onlymissionwastocollectanddistribute intelligence inaccordance with
+hisinstructions.78
+He[Turner] continued toharassKirkashetriedtotumONIinto
+nothingmorethananintelligence drop-box. ByMay1941the
+increasing interference ofWarPlansinwhatONIofficersregarded
+astheirprerogative inintelligence matterscauseddeepresentment.
+Oneofthefortnightly summaries onwhichKirkhadhandwritten 'In
+myviewtheJapswilljumpprettysoon'hadbeenreturned from
+'coordination' byWarPlanswiththeboldscrawl,'Idon'tthink:that
+theJapsaregoingtojumpnoworever!R.M.T.'79
+Admiral Turner's policyofdominating ONIandmonopolizing intel­
+ligencewasamajorunderlying causeofthefailuretoanticipate Japan's
+attackonPearlHarbor.Thispainfulexperience servesasjustonemore
+sorryreminder thatamilitaryleader'sseniorrank:andresponsibility for
+carryingoutoperations donotautomatically qualifyhimasanintelligence
+expert.
+Aprincipal problem seniormilitaryleadersfaceisthatexperience is
+nonnally theonlywaytoacquireapropereducation intheuseof
+intelligence onthehigherlevelsofcommand. Thiswasparticularly truein
+earlierperiods,whentheamountofpublished literature available forself­
+education wasminimal. (Tobesure,officialafter-action intelligence
+reportsexistedallalong,buttheincentive ortimetoreadthemwerenot
+alwayspresent.)
+Partoftheproblemis,then,thatinthetypicalmilitaryleader'scareer,
+thetimespentrisingthrough theranksmaynotbeveryhelpfulin
+providing theexperience necessary todealwithintelligence onthehigher
+levelsofcommand. Havingspentmostoftheirfonnative yearslearning
+
+--- Page 43 ---
+26 INTELLIGENCE ANDMILITARY OPERATIONS
+aboutintelligence onthetacticalandloweroperational levels,some
+generalstendtoapplywhattheyknowabouttheutilityandrelevance of
+intelligence ontheselevelstotheverydifferent worldofoperational or
+strategic intelligence ontheupperechelons ofcommand. (Aglanceat
+TableIwillshowhowintelligence onthelowerlevelsdiffersfromthaton
+thehigherlevels.)
+Intelligence onthelowertacticallevelscanoftenbehighlyunreliable;
+mostinformation hasonlyaveryshortlifespanbecausecircumstances
+changesorapidly.Quitefrequently, themostreliableintelligence inthis
+typeofsituation isobtained throughdirectcontact,whiletherestislikely
+toproveinaccurate andmisleading. Theresultisthatanofficerwhois
+repeatedly disappointed bythequalityandutilityofintelligence atthe
+tacticallevelmayalwaysharboraskeptical attitudetowardintelligence in
+general.Andalthough problems onthelowerechelonsoftheoperational
+levelmayresemble thoseonthetacticallevel,thisisnolongertrueforthe
+higheroperational levels.Nevertheless, itispossible insomeextreme
+casestofindcommanders suchasRommel whostillinsistontakingpartin
+reconnaissance missions:
+Asthesituation wasratherconfused, Ispentnextdayatthefront
+again.Itisoftheutmostimportance tothecommander tohavea
+goodknowledge ofthebattlefield andhisownandhisenemy's
+positions ontheground.Itisoftennotaquestionofwhichofthe
+opposing commanders isthehigherqualified mentally, orwhichhas
+thegreaterexperience, butwhichofthemhasthebettergraspofthe
+battlefield. Thisisparticularly thecasewhenasituation develops,
+theoutcome ofwhichcannotbeestimated. Thenthecommander
+mustgouptoseeforhimself;reportsreceived second-hand rarely
+givetheinformation heneedsforhisdecisions. so
+Whatisimperative andusefulonthetacticallevelmayactually
+bedysfunctional ontheoperational. Thecommander onthehigher
+operational levelshouldseldomgoondirectreconnaissance himself;ifhe
+doeshemaynotonlyriskhislifeunnecessarily butmayalsobecome
+boggeddownintoomanydetails.slInstead,hemustlearntorelyonhis
+intelligence adviser(IcorG-2);andwhileitisofthegreatestimportance,
+building arelationship ofmutualconfidence andcooperation isbyno
+meanseasy.
+Insomeways,theintelligence officerhasmoreincommon withthe
+scholarinsearchofthetruththanwith theprofessional militaryman.Heis
+usuallyaccustomed toadetailed, 'objective' andsystematic analysis;heis
+usedtodealingwithcriticism andistherefore lessinclinedtotakeit
+personally. Withthesefactorsinmind,DonaldMcLachlan concludes that
+'intelligence forthefightingservicesshouldbedirectedasfaraspossible
+
+--- Page 44 ---
+TABLE1
+DIFFERENT LEVELSOFINTELLIGENCE WORKANDTHEIRRELATION TOMILITARY OPERATIGNS
+TACTICAL LEVEL OPERATIONAL LEVEL STRATEGI£;LEVEL
+MAJORSOURCES OF COMBAT RECONNAISSANCE RECONNAISSANCE ANDDIRECT HIGHLEVELSIGINT
+INFORMAnON ANDDIRECTCONTACT WITH CONTACT WITHEJEMY;POW; INTERCEPTS; HUMAN
+THEENEMY;INTERROGAnON AIRPHOTORECONNAISSANCE; INTEUUGENCE;SATE~
+OFPOW'S;RADIO (PR)CODEDSIGINTINTERCEPTS COOPERAnONWITHAWES
+TRANSMISSIONS enClair,;DECODED INFIEUIANDIII ANDOPENSOURCES
+RADAR;RDf' THEREAR;RPV;DRONES;
+SATEWTES
+DEGREEOFREUABIUTY VERYSHORTUFESPAll; MOSRYSHORTnMESPAN; MEDIUM TOLONG-RANGE
+ANDUFESPANOF MOSRYFORIMMEDIATE PRESSURE FORACnONIS UFESPAN;LESSPRESSURE
+INFORMAnON AenON.REUABIUTY HIGHTOVERYHIGH; FORIMMEDIATE ACTION;
+OFINFORMAnON FOR REUABIUTY OFINFORMAnON MEDIUM TOVERYIIGH
+ACTIONVERYLOWTO INACnONVERYLOWTO REUABIUTY
+MEDIUM MEDIUM
+THEFOCUSOF PRIMARILY ENEMY'S ANALYSIS ANDINFORMATION BOTHMIUTARY ANDCIVIUAN;
+INTEWGENCE TASKING CAPABIUnES TOBE OfBOTHCAPABIUTIES AND LONG-RANGE POUTICAL,
+ANDCAPABIUnES ENGAGED ANDHIS INTENTIONS; THEENEMY'S ECONOMIC, ANDFORMAL
+IMMEDIATE INTENnONS DOCTRINE, STYLEOF CAPAB~UnES; HIS
+FIGHTING, liSAWES'SUPPORT; OBJEC11VES (ItmIf1l0NSt
+HISOWNINTEWGENCE HISINlfWGENCE
+C~AUTY OF VERYDIFFIClI.TTOGOOD VERYDIFFICULT TOGOOD GOODTOVERYGOOD
+COMMUNICATION
+REQUIREMENTS FORTHE GENERALLY LOW HIGHORVERIHIGH VERYHIGH,
+COORDINAnON OF
+INTEWGENCE
+CONSEQUENCES OFFAlWRE DEFEATS, SETBACKS CANBEASETBACK CA.~HAVEAVERY CRrnCAl ORDISASTROUS;
+INACnON RETRIEVED. $~NSITIVITY TOSERIOUSIMPACT EVENONTHEVERYDIFFICULT TO
+ASINGLEFAlWREIS STRATEGIC LEVELDIFFICULT TORETRIEVE
+NORMAllY LOW RETRIEVE FAIWRE.z
+~o
+~ttl
+~o
+~r-
+~
+~Izen
+N
+~
+
+--- Page 45 ---
+28 INTELLIGENCE ANDMILITARY OPERATIONS
+bycivilians' .82Bycomparison, mostmilitarycommanders aretosome
+extentunaccustomed todealingwithandaccepting criticism, especially
+whenthesuggestion thattheymightbewrongcomesfromanindividual of
+lesserrankorexperience. Indeed,itishumannaturetoacquiresuchan
+outlookwhenoneisconstantly cateredtoandagreedwithonadailybasis
+-andwhenonlyanextremely rareindividual wouldventuretovoicea
+contradictory opiniondespitetheriskofincurring hissuperior's dis­
+pleasure. Havingbeenlonginsulated fromcriticism throughhabitand
+experience, suchaleaderwillviewintelligence contradictory tohis
+established plansorcherished aspirations asapersonal challenge oreven
+athreat. 83Elsewhere, Ihavediscussed examples ofmilitaryleaderswho
+rejectedveryclearevidence becauseitcontradicted planstowhichthey
+hadalreadycommitted themselves. Obsessed withhisplantocapture
+Tobrukbetween October andNovember 1941,Rommel ignored all
+evidence thattheBritishmightinthemeantime launchamassiveattackon
+hisrearflank;similarly, Montgomery rejectedunambiguous information
+reporting thepresence ofsubstantial Gennan tankfonnations in
+Arnhem, simplybecause accepting itwouldhavemeantcancelling his
+planned attack.84Another example isthatofAirMarshal 'Bomber'
+Harris,whostubbornly refusedtoconsider intelligence thatareanight
+bombing inGennany wasnotachieving itsobjectives, andthatshiftingthe
+attacktoothertargetswouldbemuchmoreeffective.85
+Clearly,thedangeristhatthecommanding generalandhisstaffwill
+solicitonlythosereportsthatconfinntheirwishfulthinking andwell-laid
+plans.
+...Thereisaconstant temptation, inthesphereofstaffwork,where
+Intelligence andOperations meet,togiveanimpression ofthe
+enemysituation whichfitsinwithotherrequirements. This
+isknown, Ibelieve, incontemporary jargonas'situating the
+appreciation', theopposite of'appreciating thesituation'. 86
+How,then,shouldanintelligence officerapproach theverydelicatetask
+ofconvincing hiscommander thatanoperation isinadvisable orthathis
+plansshouldbemodified inlightofrecent,unambiguous intelligence
+reports?Ideally,theseniorintelligence officeshouldendeavor tofonna
+closerelationship ofmutualtrustwiththecommander; andhisfirststeps
+inbuilding sucharapportshouldbetobecomeveryfamiliarwithhis
+commander's working habits,character andambitions. Equipped with
+thisknowledge, theintelligence officermaythenbeabletomake
+'unpleasant' infonnation morepalatable. BothGeneraldeGuingand and
+Brigadier BillWilliams, FieldMarshal Montgomery's intelligence
+advisers, hadtodevelop special'showmanship techniques' - asortof
+'Montylanguage' thatwouldenablethemtoprovidehimwithaccurate
+
+--- Page 46 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 29
+intelligence whilemakingitmoreacceptable tohimtoauthorize the
+necessary changesinhismeticulously prepared operational plans.87This
+entailedpresenting adviceinsuchawayastomakethecommander think
+itwashisownidea.Inhismemoirs, de Guingand givesaninstructive
+accountofhowintelligence was'packaged' tosuitMonty's tasteand
+therefore receivehisseriousconsideration.
+AttheheightoftheBattleofAlamein, Ispokeprivately to
+Montgomery aboutnewintelligence fromour'V'services that
+indicated achangeinenemydispositions. Byalteringthedirectionof
+ourproposed thrustwewouldtakemaximum advantage ofthenew
+situation. Montgomery didn'ttakelongtoagree.Henotonlyaltered
+theplanascommander; itbecame, inhisownmind,hisown
+decision, hisownproposal, andwasreferredtoassuchinhisdiaries.
+Inthesameway,duringtheBattleofMareth,Isuggested an
+alteration intheconductofthebattleinprivate,andsummoned the
+CorpsCommanders inreadiness. Assoonasheacknowledged the
+soundness ofmyreasoning, Montgomery madehisdecision: a
+decisionwhichthenbecamehisowninhisdiaries,inhiscampaign
+account,andinhismemoirs! Ididnotfeelanydisappointment atthis
+subsequent failuretogivecredit; Irecognized fromthebeginning
+thatthiswasthewayhismind,hispersonality, worked.Howmany
+timeswouldheturndownanideaoneday,andannounce tomethe
+following morning: 'NowFreddie,I'vebeenthinkingaboutitandI
+havedecidedtodothefollowing ...'!Suchappropriation ofideas
+anddesignsistheverybasisofcommand -atleasttheappropriation
+ofthebestideas.Itwasmytask,asIsawit,toknowmyChief,to
+knowhowhismindworkedsowellthatIcouldhappilydeputizefor
+himinhisabsence,eitherinthefieldorattheconferences hesohated
+toattend;toknowhimsowellthatImightsensewhentoputforward
+asuggestion andwhentobidemytime;whentowakehimorlethim
+sleep.Iftherearethosewhofeelthistobeanidleorinconsequential
+matter,letmeinstance whathappened whensuchanapproach
+wasnotadopted. Nosoonerwas'Supercharge', thefinalthrust,
+achieved attheBattleofAlamein, thanAirMarshalTedder,AirC'
+inC'intheMiddleEast,begantochampatthebit.Hehadseen
+chanceafterchancesquandered inthedesertduringhistimethere,
+andhadratheranainnan'sviewofthefluidbattle,sothathecould
+neverunderstand whyweBritishweresoslowontheground.
+Thinking ofhiseliteflyingcrews,hecouldnotperceivetherealities
+ofannylife.Ignoring thefeebleperfonnance oftheRAPinstrafing
+Rommel's retreating Afrika Korps,henowdispatched asignalto
+Montgomery stressing theimportance ofsendingamobileforce
+
+--- Page 47 ---
+30 INTELLIGENCE ANDMILITARY OPERATIONS
+acrosstheCyrenaican bulgetocutRommel off.Ifanything decided
+Montgomery nottopursuesuchapossibility -atleastinstrength-it
+wasthismeddling ainnan's presumptuous message. Howmuch
+wisertohavevisitedMontgomery, congratulated himonhisvictory,
+questioned himabouttheRAF'sperfonnance fromtheanny's
+pointofview,askedhisneedsandinprivacyconversed about
+Montgomery's futureproposals! YetTedderneverlearnedhis
+lesson-andcausedalastingriftininter-Allied relations inthe
+summerof1944bycarpingaboutMontgomery's slowNonnandy
+performance behindhisback(indeedduringhisreplacement) onthe
+veryeveofthegreatestsinglevictoryofthewartodate.88
+Undoubtedly, itisnosmallfeattopredictwhatsortof'chemistry' will
+evolveintherelationship betweenthemilitaryleaderandhisintelligence
+adviser.89Onething,however, iscertain:theirrelationship isnotonly
+fragile-itisalsocrucialtothesuccessofanymilitaryoperation. Insome
+casessuchasthoseofNimitzandhisadvisers Rochefort andLayton;
+Montgomery anddeGuingand orBillWilliams; PattonandKoch;or
+Eisenhower andStrong,thelevelofrapportwasoutstanding, while
+between OliverandHope;PoundandGodfrey orDenning; andperhaps
+Rommel andMellenthin, forexample, itwasmoreproblematic.
+Inathoughtful anddetailed studyofthisrelationship andofthe
+commander's useofintelligence ingeneral,DrHaroldDeutschconcludes
+that
+...intheaverageintelligence situation onemustassignaboutathird
+sharetotheintelligence community's tendency totailortomeasure.
+Atleastanothersuchsharemustbeallocated towhatever tendency
+toignore,twist,elaborate oraccepttheremaybeatthetop.Itis
+probably optimistic togranttheremaining thirdtothecontentofthe
+intelligence message itself.~
+DrDeutsch's conclusions arepessimistic butprobably realistic. Even
+morediscouraging isthefactthathereachedtheseconclusions -atleastas
+farastheAllieswereconcerned -aboutawarinwhichintelligence madea
+moredramatic contribution totheconductofmilitaryoperations than
+everbefore;awarinwhichhigh-level commanders hadenoughtimeto
+observehowsuccessful intelligence couldbeandlearnhowtouseitinthe
+mosteffective way.Circumstances thatfavorable arenotlikelytorecur
+ofteninthefuture,norwillfuturewarsnecessarily belongenoughtoallow
+anewandinexperienced generation ofcommanders theluxuryoftimeto
+exploitthepotential ofintelligence tothefull.
+Allsuchconflicts between different personalities andconflicting
+ambitions, orbetween political andpersonal interests, canneverbe
+
+--- Page 48 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 31
+completely resolved, butthemostplausible wayofimproving the
+relationships betweencommanders andtheirintelligence staffswillbeto
+payfarmoreattention totheroleofintelligence insupportofmilitary
+planning andoperations. Thismustbetherulefromtheearlieststagesof
+militaryeducation throughthehighestlevelsofacommander's career.A
+realisticintroduction totheroleofintelligence inwarwouldhelpmilitary
+leaderstoavoidthetwoextremes ofeitherexpecting theimpossible from
+itontheonehandorderidingitasanirrelevant intellectual exerciseonthe
+other.Suchaneducation mustfamiliarize theofficer with thevarious
+sourcesandmethods ofintelligence work;analysewhatitcanand
+cannotdo;explorethemostproductive waysofworkingwithintelligence
+experts; and,perhaps mostfundamentally, facilitate theanalysis of
+historical case-studies thatdemonstrate theusesandvalueofintelligence.
+Thistypeofeducation wouldpreparecommanders notonlytounderstand
+thesupportive roleofintelligence betterbutalsotobemoreopen-minded
+totheadviceprovided byitandtotreattheintelligence expertwithmore
+respect.
+Intheeducation oftheintelligence expert,priorityshouldbegiven
+tobetteracquaintance orprevious experience withtheproblems of
+command andtheplanning ofmilitaryoperations. Emphasis mustalsobe
+placedonthedevelopment ofmoreeffective salesmanship techniques
+andotherinterpersonal communications skills.Certainly, theselection of
+intelligence officersshouldbebasednotonlyontheirprofessional
+qualifications butalsoontheirstrengthofcharacter andethicalstandards.
+Finally, recognition oftheautonomy ofintelligence officers, both
+professionally andbyrank,wouldundoubtedly behelpfulaswell.
+Ofthethirteen'lessons' orrecommendations thatDonaldMcLacWan
+distilledfromhisexperiences intheSecondWorldWar,sevenconcern
+thedifficulties stemming fromthegapbetween thetwoculturesof
+intelligence andoperations asdiscussed earlier:
+1.Fighting commanders, technical experts,andpolitical leaders
+areliabletoignore,under-rate, orevendespiseintelligence.
+Obsession andbiasoftenbeginatthetop.
+2.Intelligence forthefightingservicesshouldbedirectedasfaras
+possiblebycivilians.
+3.Intelligence isthevoiceofconscience toastaff.Wishfulthinking
+istheoriginalsinofmenofpower.
+4.Intelligence judgements mustbekeptconstantly underreview
+andrevision. Nothing mustbetakenforgrantedeitherin
+premises ordeduction.
+5.Intelligence departments mustbefullyinformed about
+operations andplans,butoperations andplansmustnotbe
+
+--- Page 49 ---
+32 INTELLIGENCE ANDMILITARY OPERATIONS
+dominated bythefactsandviewsofintelligence. Intelligence is
+theselVantandnotthemaster.
+9.Intelligence isineffective withoutshowmanship inthepresen­
+tationandargument.
+10.Theboss,whoever heis,cannotknowbestandshouldnotclaim
+thathedoes.91
+INTELLIGENCE ANDMILITARY OPERATIONS
+Ifreliableintelligence wasalmostimpossible toobtainandtransmit
+beforethedevelopment ofmodemcommunications systems, duringthe
+yearsfromtheFirstWorldWartotheendoftheSecond, reliable
+intelligence onalllevelsnotonlybecameavailable, butcouldalsobe
+considered amajorcomponent ofmilitarystrength. Whereas accurate,
+timelyandwellpresented intelligence canbeseenasanimportant force
+multiplier, thelackofitcanbeconsidered bothliterallyandfiguratively as
+aforcedivider.Uptoapoint,goodintelligence compensates formaterial
+ornumerical inferiority byenabling theweakersidetoemployitsforces
+moreeconomically; wastelesstimeandfewerresources insearchofthe
+enemy;repeatedly hittheenemyatitsmostvulnerable points;intercept
+andinterfere withtheenemy's operations; andconcentrate relatively
+superior forcesatthedecisive pointsofengagement. Conversely, the
+inabilitytoidentifytheopponent's keyweaknesses becauseoftheabsence
+ofgoodintelligence mayresultintheunnecessary dispersion offorcesand
+thewasteofcriticalresources. Intelligence onthestrategic, operational
+andtacticallevelsmusttherefore beseenasanimportant factorinthe
+assessment ofmilitarystrengthandthebalanceofpower.Itmightevenbe
+possible tospeakofabalanceofintelligence asadistinctmethodof
+assessing therelativestrengthofnations.Unfortunately, thisisrarely
+feasible. Likethecatalystinachemical reaction, intelligence -withits
+intangible output-isknowntobeavitalconstituent oftheprocessit
+influences socritically, butitsprecisefunctionisdifficulttoisolateand
+measurewithaccuracy. Theeffectiveness andqualityofintelligence isone
+ofthebestconcealed secretsofeverynation.Eventhemostexacting
+studiesofmilitarybalances failtomention anything aboutintelligence
+Gustastheyneglecttomentionmoraleandnationalcharacter, thequality
+ofequipment maintenance, logistical support, qualityofleadership,
+military doctrine andthelike).Itisprecisely thesenon-quantifiable
+elements ofpowerthatmakethestudyofitsusesochallenging. ThePope
+hasnotasingledivision, yethemaywieldsubstantial authority and
+influence. Therewerenodivisions orbattalions ofintelligence expertson
+anysideduringtheSecondWorldWar;andinmostgeneralmilitary
+accountsofthewar- untilthedisclosure ofUltraandmorerecently, the
+
+--- Page 50 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 33
+detailsoftheallieddeceptions operations -intelligence wasbarely
+mentioned. Eventoday,themostexhaustive militaryhistories scarcely
+discusstheweightycontribution ofintelligence activities. This,ofcourse,
+doesnotdetractfromitsimportance: onthecontrary, itcouldbeargued
+thatinnootheroccupation duringthewardidsofewachievesomuchand
+receivesolittleappreciation. (Noonereceives medalsforpreparing
+accurately cross-indexed cards ofGermanunitsorsignals.) Victories in
+modemwarfare, however, arewonasmuchinlaboratories andcode­
+breaking rooms asonthebattlefield. Ithasbeensaidthatamateurs study
+strategy andprofessionals studylogistics. Itmightalsobesaidthat
+amateurs studystrategy, professionals studylogistics, andthosewho
+reallyknowstudyintelligence. Afterall,theresultsinmilitaryconflictare
+alwaysdetennined bytheweakestlinkinthechain,andwarisasystemic,
+synergistic enterprise inwhichthemaintenance ofequilibrium amongthe
+contributing elements isessential.
+Hence,thebestintelligence aloneisnopanacea. Asarguedabove,a
+verypowerful armyconfronting aweakonecanwin(usuallyamorecostly
+victory)withoutgoodintelligence, whereasaweakerarmywithfirst-rate
+intelligence cannotalwaysemergevictorious. Attimes,evenastronger
+forcewithsuperior intelligence canstillbedefeated; however, amilitarily
+weakerforcewithpoorintelligence canbeexpected tofareworstofall.
+Goodintelligence doesnotalwaysbringaboutvictory;attimesitcanonly
+mitigate thecostsofdefeat.Figure1outlinesapossible framework for
+relating strength, qualityofintelligence, andtheoutcome ofmajor
+military operations. (Byweakness inmilitary oroperational strength,
+onlyquantitative inferiority ismeant.)
+Myselection ofcase-studies isintended tosupportandexpanduponthe
+theoretical discussion presented above.Acommon methodological
+technique inthenaturalsciences istolearnaboutthespecialproperties of
+achemical element ofavariable inphysics through experimental
+isolation. Thecomplexity ofhumanaffairsingeneralandwarinparticular
+usuallymakessuchanapproach impossible inthestudyofhistoryand
+strategy.92 Thisisoneofthemainreasonsthatitissodifficulttoevaluate
+thecontribution ofintelligence ordeception totheoutcome ofmilitary
+operations.93Mydiscussion willconcentrate onthosecase-studies thatfall
+withinthelowerleftandlowerrightboxesofFigure1,andwillcomment
+onlybrieflyontheothers.
+Whenbothsidesareroughlyequalinstrength andqualityofintel­
+ligence,theirstrongandweakpointswilloftencanceleachotherout;and
+wheneachcommits manyretrievable mistakes, suchasthosethat
+occurred duringtheprolonged campaign intheWestern Desertbetween
+1941andJuly1942,orontheEasternFrontbetween 1943and1945,itis
+indeedaverychallenging tasktotrytoascertain theoverallcontribution
+
+--- Page 51 ---
+34 INTELLIGENCE ANDMILITARY OPERATIONS
+FIGURE 1
+INTELLIGENCE ANDMILITARY OPERATIONS:
+DIFFERENT POSSffiLE COMBINATIONS
+OPERATIONAL (MILITARY) STRENGTH*
+WEAK STRONG
+POOR
+QUALITY
+OF
+INTELLIGENCE
+VERY
+GOOD•BRITISH INNORWAY 1940 •GERMANS INBATTlE OF
+BRITAIN
+•GERMANY INYADINGRUSSIA
+(BARBAROSSA)
+•JAPANINBAntE OFMIDWAY
+•GERMAN U-BOATS INTHE
+ATLANTIC FROMMID1M3
+•GERMANS INNORMANDY
+•BRITISH INBATTlE OFSIDI •BATTlE OFJUTLAND
+BARRANI (COMPASS)•BRITISH INELALAMEIN
+•BRITISH INGREECE 1940AND•ALUES.IN SICILYCRETE1941
+• RUSSIANS ATTHESAntE OF
+•GERMAN U-BOAT INTHEKURSK
+ATLANTIC 1939-1941
+•U.S.NAVYINBATTLE OF
+MIDWAY
+'QUANTITATIVE (NUMERICAL) STRENGTH
+ofintelligence. Anopportunity to'isolate'theinfluence ofintelligence on
+important militaryoperations is,however, provided bytherelatively rare
+instances inwhichonesidehassuchoverwhelmingly superior military
+mightthattheother,weakersideiscertaintoloseunlesscompensated by
+superior intelligence. Evenmorehelpfulin'isolating' theintelligence
+factoraresituations inwhichthemuchmorepowerful sideissoconfident
+ofvictorythatitdoesnotdevelopadequate intelligence tosupportitsown
+operations (thatis,the'balanceofintelligence' favorstheweakerside).In
+theBattleofMidway andthebattlesforGreeceandCrete,forexample,
+theexistence ofsuperior intelligence ontheweakersideoftheequation
+cantherefore beclearlyindentified.
+USNAVALINTELLIGENCE ANDTHEBATILEOFMIDWAY
+Aftertheindecisive BattleoftheCoralSea,theJapanese Imperial High
+Command decidedtoconsolidate itsgainsfromthepreceding periodof
+expansion byoccupying thestrategically locatedislandofMidway. At
+thattime,theJapanese enjoyedoverwhelming navalsuperiority overthe
+USPacificFleet,inaddition tohavingbettercarrier-based aircraft,better
+
+--- Page 52 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 35
+torpedoes andmoreexperienced carrier-based aircrews.94Hadthe
+Japanese beenabletosurprisetheAmericans intheirattackonMidway,
+theywouldundoubtedly havewonthebattleeasily.TheextentofUS
+navalinferiority atthisstagemeantthatpreciseknowledge ofthenext
+Japanese objective offeredtheonlyhopeofconcentrating theremaining
+UScarriersforeffective action.American NavalSigintprovided theUS
+Navywiththealmostcomplete andaccurate knowledge ofJapanese
+plans95thatenabledAdmiral Nimitztosendcarrierstointercept the
+Japanese forceinthenickoftime.Incontrast, theJapanese hadno
+knowledge ofthewhereabouts oftheUScarriers;intoxicated bytheir
+earliersuccess,theyexpected toachieveaneasyvictoryanyway.Byearly
+MayUSnavalintelligence inHawaiihadidentified Midwayasthenext
+possible Japanese target.On10May,Midway (referred toinJapanese
+signalsasAF)wasdefinitively identified, whileon14Mayitwaslearned
+thataJapanese invasion forcewouldalsobeincluded intheimminent
+operation. Thecomplete orderofbattleoftheJapanese taskforcewas
+obtained onthe25th,andbythe27th,CaptainLaytonwasabletofurnish
+Nimitzwiththeexactdateofattackaswellasitsdirection andthetimethat
+USreconnaissance couldbeexpected tolocatetheapproaching Japanese
+fleet.By4June,theJapanese hadmanaged toconcentrate avastly
+superiorforceasevidenced bythefollowing data:96
+TABLE2
+JAPANESE ANDUSNAVAL STRENGTH COMPARED
+Japan UnitedStates
+Heavyaircraftcarriers 4 3
+Lightaircraftcarriers 2 0
+Battleships 11 0
+Heavycruisers 10 6
+Lightcruisers 6 1
+Destroyers 53 17
+TOTAL SURFACE FIGHTING SHIPS 86 27
+Carrier-based aircraft 325 233
+Land-based aircraft 0 115
+TOTALAIRCRAFT STRENGTH 325 348
+TheJapanese, whoseplandepended ontheachievement ofsurprise,
+insteadfoundthemselves thevictimofanunanticipated tumofevents.In
+spiteoftheirimpressive numerical superiority, theJapanese suffereda
+resounding defeat.Thisisclearlyreflected inacomparison oftheir
+relativelosses(seeTable3).97
+AsthefirstmajorAmerican victoryinthePacific,Midwaywasoneof
+themostimportant turningpointsoftheSecondWorldWar.Whatwould
+
+--- Page 53 ---
+36 INTELLIGENCE ANDMILITARY OPERATIONS
+TABLE3
+RELATIVE LOSSES COMPARED
+Casualties
+Carriers
+Heavycruisers
+Destroyers
+AircraftJapan
+2,500
+4
+1o
+332UnitedStates
+307
+1o
+1
+147
+havebeenahopeless situation withoutsuchoutstanding intelligence was
+turnedintoanarrowly wonbutdecisivevictory.Themostdecisivefactor
+inthisbattle(otherthanthequalityoftheintelligence obtained) wasthe
+complete trustAdmiral Nimitzplacedintheintelligence hereceived from
+Commander JosephRochefort, headoftheCombat Intelligence Office
+('Hypo') inHawaii,andCaptainEdwinT.Layton,theFleetIntelligence
+Officer. Although Nimitzhadlittlereasontoputhisfaithinnaval
+intelligence aftertheattackonPearlHarbor,thecontribution ofHypoto
+theBattleoftheCoralSeaconvinced himto'...trustRochefort overand
+abovetheoftenconflicting assessments beingmadebynavalintelligence
+inWashington'. 98Ratherthanencouraging divisiveness orcompetition,
+Nimitzlistenedtoallsidesofanissuewithoutgivingthe'messengers' the
+feelingthathehadalreadymadeuphismindinadvance. 'Butoncehe
+madehisdecision, heproceeded fullspeedahead.Forthat,theUnited
+Statesoweshimatremendous debt.,99Despitethefactthathecould,
+asCommander ofthePacificFleet,'likeJellicoelosethewarinan
+afternoon, '100Nimitz'stoodlikearock'.Hisopenness toinfonnation and
+abilitytoresistimmense pressure oncehehadmadeuphismindsurely
+entitlehimtobeconsidered oneofOausewitz's raremilitarygeniuses.
+Pressures thatwouldhavecausedalesssecureindividual tohesitateand
+vacillate abounded. Admiral KinginWashington, whowasknownforhis
+domineering personality, apparently believed thatJapan'snextmovein
+thePacificwouldbeagainstUSislandbasesintheSouthPacific(e.g.,New
+Caledonia, PortMorseby orFiji).Initseagerness topleaseAdmiralKing,
+navalintelligence inWashington '...tendedtofeedhiminfonnation that
+reinforced hisconvictions, andeveryofficerinWashington knewthat
+Kingwasstruggling togetmoreresources forthePacificwar.Raisingthe
+levelofalannabouttheJapanese threattoourlifelines toAustralia
+evidently wasmorelikelytoevokethesupportofGeneralMarshall than
+askingforreinforcements forMidway ortheAleutians' .101Itisnot
+surprising, therefore, thatrelyingonthesameevidence available to
+Rochefort inHawaii,theintelligence authorities inWashington initially
+concluded thattheSouthPacificIslands-notMidway-wouldbethenext
+Japanese objective. OthersinWashington andHawaii, including the
+
+--- Page 54 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 37
+ChiefofStaff,GeorgeC.Marshall, wereafraidthatthesupposedly
+impending attackonMidwaywasonlypartofadeception plantodivert
+attention fromothertargets.1OOUnabletounderstand whytheJapanese
+wouldwanttoconcentrate alargeforceagainstsuchanapparently
+'insignificant' objective suchasMidway, someintelligence analystsand
+high-level military leaderswereconvinced thattheJapanese actually
+intended toattackOahuoreventhewestcoastoftheUnitedStates. 103
+(Navalintelligence inWashington putadditional pressure onNimitzby
+consulting withLieutenant-General DelosC.Emmons, commander of
+theHawaiian Department andmilitarygovernor ofHawaii.Emmons had
+littledoubtthatthenextJapanese targetwasgoingtobeOahU.)l04
+Inanefforttoconvince theskepticsthatMidwaywasindeedtobethe
+objectofthenextJapanese attack,Rochefort decidedtoimplement an
+ingenious butsimpleplanproposed byoneofhisassistants; hedecidedto
+setupatrapthatwouldprovehistheoryinamostdefinitive manner.The
+Japanese had,intheirradiointercepts, sometimes mentioned' AF'- a
+placewhichRochefort believed tobeMidway, notHawaii.Withthe
+blessings ofLaytonandNimitz,Rochefort hadMidway radioOahua
+'plain-language' message thatMidwaywassuffering fromanemergency
+watershortage. Thiswasfollowed upwithanencodedmessage, thecode
+beingonethattheJapanese wereknowntohavecaptured earlier.The
+Japanese promptly tookthebait,andshortlythereafter, theAmericans
+intercepted Japanese messages announcing totheirowncommanders
+that'AF'hadawatershortagefor which theyshouldprepareaccordingly.
+AfterNimitzandRochefort hadconvinced Washington that'AF'must
+meanMidway, NimitzstillhadtofightforthereleaseofHalsey's two
+carriersfromAdmiral King'sstanding orderthattheyshouldbekeptin
+thesouthwest Pacificaswellastoconvince Washington thattheJapanese
+N-daywason4Juneratherthanonthe15th.lOS
+Whenforcedtochoosebetweentheconflicting intelligence estimates of
+hisstaffandWashington, Nimitzpreferred hisownstaff'sappreciation.
+Otherseniorcommanders mighthaveeitherbowedtoWashington's
+authority orfailedtotrusttheirownstaffstothesameextent.Today,itis
+lesslikelythatanindependent positionofthissortcouldbetakenbya
+commander inviewoftheincreased concentration ofintelligence and
+command inWashington, improved communications, andthegreater
+deference giventopolitical andbureaucratic considerations. Veryfew
+commanders inNimitz's positionwouldhavebeenreadytoacceptthe
+risksandresponsibilities thathedid.
+Thecentrallessononceagainisthatthistypeofsuccessrequiresan
+open-minded leaderwhoisreadytolistenbutatthesametimeissteadfast
+enoughtoresisttheinevitable pressuretokeeprevisinghisplansoncehe
+hasmadeuphismind.Conflicts overwhoistocontrolintelligence and
+
+--- Page 55 ---
+38 INTELLIGENCE#AND Mll..ITARY OPERATIONS
+influence leadersshouldbeanticipated andfacedwithequanimity, since
+theyaretypicalofthepersonal andorganizational politicalconsiderations
+thatpenneate theintelligence process.106Unavoidably, theperceptions in
+Washington andHawaiiwereasdifferent asthosebetweenLondonand
+Cairo.IfnotforthePearlHarbordisaster, whichhadshakenNaval
+Headquarters andNavalIntelligence, Nimitzandhisintelligence advisers
+mightnothaveenjoyedthesamedegreeofsuccessinasserting theirviews
+overthoseprevailing inWashington.
+Although Nimitz,inLewin'swords,'...hadmoreintimateknowledge
+ofhisenemy's strengthandintentions thananyotheradmiralinthewhole
+previous history ofseawarfare' ,101thebattlewaswonbythenarrowest of
+margins. Foroncethebattlebegan,thestillconsiderable Japanese
+superiority hadtobereckoned with.Eventhebestintelligence support
+beforebattlecannotbereliedupontocontinue unabated duringthe
+courseofthebattleitself,whichis,as wehaveseen,dominated by
+uncertainty. HeretheAmericans wereaidedasmuchbyluckastheyhad
+beenbyintelligence beforethebattlebegan.Veryfewsuchconflictshave
+beenwonbythelossofsomany'nails'and'horseshoes' infavorofone
+side;itwasabattleofchanceandmischance 'shotwithluck'.AsSir
+FrancisBacononceadvised'...ifamanlooksharplyandattentively, he
+shallseefortune;forthoughshebeblind,yetsheisnotinvisible' .108The
+Americans provedonceagainthatchanceworksinfavorofthewell­
+prepared. 109
+TheJapanese fleetwasdiscovered almostbychancewhenthepilotofa
+reconnaissance planedecidedtoextendhisflightafewminutesbeyondhis
+sector.Hadhenotdoneso,theJapanese taskforcemightnothavebeen
+detected intime.
+ThefinaldebaclewasduetoastrokeofgoodluckontheUnited
+Statesside-theuncoordinated coordination ofthedivebombers
+hittingthreecarriersatoncewhilethetorpedostrikeswerestillin
+progress. Exceptforthosesixshortminutes, Nagumowouldhave
+beenthevictor,andallhisdecisions wouldhavebeenaccounted to
+himforrighteousness. Timidity wouldhavebecome prudence,
+vacillation duedeliberation, rigidityattention tothevoiceof
+experience.110
+HadtheJapanese committed fewererrorstheymightstillhavewonthe
+battledespitetheirinferiorintelligence, astheGennans didinCrete.One
+blunderafteranother,however, tookthembeyondthepointofsalvage­
+ablemistakes: theirradiosecuritywaslax;theyneglected reconnaissance;
+andtheirincomplete searchplanbeforethebattledelayedsubmarine and
+seaplanepatrolsnearHawaii.Onthemorning ofthebattle,theJapanese
+failuretosendoutsufficient aircraftonreconnaissance missions was
+
+--- Page 56 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 39
+compounded bybadluck,sinceaJapanese planeflewdirectlyoveroneof
+theAmerican carrierswithoutidentifying itassuch.TheJapanese plan
+wasfartoocomplicated anddepended notonlyonsurprisebutalsoon
+best-case projections ofAmerican reactions. Itsexecution wasfaultyas
+well:Admiral Nagumo concentrated allhisaircraftinoneattackon
+Midway, andratherthanimmediately redirecting themtoattacktheUS
+carrierswhentheyhadtheopportunity, hepreferred toreannthematthe
+worstpossibletime.ToomuchoftheJapanese planhingedonitsflawless
+execution andtoolittlemarginforerrorwaslefttoabsorbtheunexpected
+friction.Whileitispossiblethoughinadvisable tomakesuchassumptions
+intheopeningphaseofawaragainstanunsuspecting victim(asinthecase
+ofPearlHarbor), itispractically suicidaltoassumethatanycomplex plan
+canbeexecuted perfectly inanongoing war.
+Arrogance andasenseofinvincibility blindedtheJapanese, whodid
+notconsider theiropponent worthyofmuchattention. Ontheotherhand,
+theAmericans, whohadbeenhumbled earlyinthewarandwholacked
+bothconfidence andships,knewthatlearning asmuchaspossibleabout
+theirenemywasimperative. Thereisnostrongerincentive toencourage
+theappreciation ofintelligence thanfearandweakness (whether actualor
+perceived); conversely, victoryandpowerreduceone'smotivation to
+learnabouttheenemy,thusbringing abouttheconditions thatmay
+eventually causedefeat.
+Onefinaldecision intheAmerican victoryatMidwayshouldbenoted.
+Following thebattle,Admiral Spruance hadtodecidewhethertopursue
+theretreating Japanese taskforceinanattempttofinishofftheremaining
+Japanese ships,ortowithdraw. Although heknewthathisplaneshadhit
+fourJapanese carriersandlefttheminflames,hehadnotyetreceived
+infonnation astotheircondition. Moreover, hedidnotknowthewhere­
+aboutsoftheotherJapanese carriersorofatleasthalfadozenJapanese
+battleships, cruisersorsubmarines. Ontheotherhand,hedidknowthat
+manyofhisownaircrafthadbeenlostordamaged andthathisflightand
+maintenance crewswereexhausted. Sincehewasresponsible forthe
+safetyofMidway andfortheonlytwoUScarriersinthecentralPacific,
+Admiral Spruance decidedagainstpursuing apossiblysuperiorJapanese
+force.'ItislikelythattheBattleofMidwaywouldhavebeenturnedfrom
+anAmerican triumphtoaJapanese victoryandthecaptureofMidwayif
+Spruance haddoneanything else...[IfSpruance haddecidedinfavorof
+pursuit]hewouldhaverunintoalightcarrier,thefleetcarrierlintsu,two
+battleships, numerous heavycruisersanddestroyers inadditiontoYama­
+moto'sflagshipYamato,andtherestofhisandNagumo's forces:nine
+battleships inall.Aclashwouldhavebeencertain;theoutcome cata­
+strophic. ,111Byknowingwhen tobeboldandwhentoavoidrisks,Admiral
+Spruance consolidated andsecuredthefruitsofvictoryatMidway.
+
+--- Page 57 ---
+40 INTELLIGENCE ANDMILITARY OPERATIONS
+THEBATTLES FORGREECE ANDCRETE
+ThebattlesforGreeceandCretein1941provideanotheroutstanding
+example ofthecontribution thatgoodintelligence canmaketoaweaker
+forceonthedefensive. UnliketheAmericans inthebattleofMidway, the
+BritishandCommonwealth troopswereunabletotranslate theadvantage
+ofsuperior intelligence intoavictoryovertheinvading Germans. In
+Greece,theBritishmanaged toextricate themselves fromaveryadverse
+situation despiteoddsthatheavilyfavoredtheGermans bothontheland
+andintheair.InCrete,theyinflicted suchgreatlossesontheGerman
+paratroopers thatHitlerandtheGerman HighCommand neveragain
+undertook suchanoperation evenwhenthecircumstances justifieditand
+whenitcouldhavealteredthecourseofthewarinGermany's favorinthe
+Western DesertandNorthAfrica.Itisoneofthegreatestironiesofthe
+SecondWorldWarthattwobattlesconsidered atfirsttobeunmitigated
+disasters actuallyturnedouttobestrategic 'blessings' fortheAllies.
+ThebattlesforGreeceandCretewereimmediately preceded bythe
+firstmajorfleetactionfoughtsinceJutlandin1916:thebattleofMatapan.
+Bletchley Park,whichhadpenetrated theItaliannavalcodes,provided
+Admiral Cunningham inAlexandria withanadvancewarningofAdmiral
+Iachino's intention tointercept Britishconvoys enroutefromAfricato
+Greeceonthenightof29March1941.Thisforeknowledge enabled
+Admiral Cunningham tosurprisetheItaliantaskforce,sinktwocruisers
+(ZaraandFiume),andseriously damagethebattleship VittorioVeneto.
+As thefirstimportant operation intheMediterranean tobebasedon
+Sigint,thisintelligence coupestablished Britishnavalhegemony inthe
+easternMediterranean andbecame apivotalfactorinthebattlesfor
+GreeceandCretethatfollowed. 112
+ForOperation Marita,theGermans concentrated tendivisions (three
+ofwhichwere armored) andabout1,000aircraftagainstwhichtheBritish
+andcommonwealth forcescouldfieldsome50,000poorlyequipped
+troopswithnoaircover.Although Bletchley Parkdeciphered theLuft­
+waffe'scodesonadailybasisandsupplied thecommanders inthefield
+withadvance warningoftheforthcoming Gennan attackaswellaswith
+astonishingly accurate information ontheGerman orderofbattleevery
+evening, theoddsweresuchthatthefinaloutcomeofthecampaign could
+neverhavebeenindoubt.Therewassimplynothingwithwhichtostrike
+back.1l3
+Itisnotsurprising therefore that'theBritishcampaign onthemainland
+ofGreecewasfromstarttofinishawithdrawal' .114Underthepressureof
+tremendous Gennan superiority andtheunrelenting threatthathis
+defenselinesmightbeoutflanked, GeneralWilson,thecommander ofW
+
+--- Page 58 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 41
+Force,hadtoissueorderstowithdraw fromtheAliakmon linefirsttothe
+Olympus-Servia PassthentotheThennopylae line,andeventually tothe
+beaches toescapecaptureordestruction atthehandsoftheadvancing
+Gennans. Intheend,themainforcesofbothsidesnevermetinadirect
+engagement. 1ISTheBritishmanaged toavoidthisthrough aseriesof
+'extremely well-timed' withdrawals, someofwhichwerebasedon
+Enigmaappreciations received byGeneralWilson.116Withtheadvantage
+ofgoodintelligence, theBritishwerethusabletoevacuate mostofthe
+expeditionary forcesenttoGreecewithrelatively fewlossesoftroops,
+although alloftheequipment thathadbeensentwiththemwasleft
+behind.(Over50,000soldierswereevacuated fromGreekbeaches.)117
+Intelligence available beforeandduringthebattleforCretewaseven
+moreaccurate. InChurchill's words,'Atnomoment inthewarwasour
+intelligence sotrulyandprecisely informed ...InthelastweekofAprilwe
+obtained fromtrustworthy sources goodinformation aboutthenext
+Gennanstrike...Allpointedtoanimpending attackonCretebothbyair
+andsea'.118
+Iftheintelligence available toCommander Freyberg inCretewasso
+accurate, whythenwasthebattlelostdespitethemuchbetterchancesfor
+successthaninGreece? Indications thattheGennans plannedtomake
+extensive useofairborne troopsinGreececamefromEnigmainlate
+March1941beforethecampaign hadbegun.119Furtherinformation from
+mid-April onwards indicated thatextensive preparations werebeing
+madeforalarge-scale airborne operation, buttherewasnodefinitive
+evidence thatCretewasthetarget.By22April,theChiefsofStaff
+assumed thatCretewasthemostlikelyobjective, butthepossibility that
+Cyprusmightbedesirable merelyasastepping stonetoIraqorSyriacould
+notbeentirelydiscounted. Itwason27April,onlytwodaysafterHitler
+hadgivenhisfinalapproval forOperation Merkur, thattheLuftwaffe's
+Enigmafirstmadeadirectreference toCrete.Nevertheless, Wavell,the
+Commander inChiefintheMiddleEast,wasstillworried thatthe
+appearance ofaGerman threatmightbeacoverplanforanattackon
+CyprusorSyria.Inviewofhisotherfar-reaching responsibilities inthe
+MiddleEast,andtheeventsinSyriaandIraq,hisfearthatthethreat
+toCretewasonlyadiversion wasunderstandable. Itmustalsobe
+remembered thatbecauseofWavell's personal interestinandextensive
+useofdeception, hewasmoresensitive tothepossibility thatitcouldalso
+beusedagainsthim.l20By5May,however, theJICinLondonhadruled
+outCyprusasaGerman objective. Inthemeantime, thepressure under
+whichtheGermans wereworkingaswellasdisagreements intheirAthens
+headquarters aboutthefinalshapeoftheirplanofattackforcedthemto
+makeunusually heavyuseofwirelesstraffic.Thisafforded Britishintel­
+ligenceawelcome opportunity toeavesdrop. On6MayEnigmarevealed
+
+--- Page 59 ---
+42 INTELLIGENCE ANDMILITARY OPERATIONS
+thattheprojected dateforcompleting preparations fortheattackwas17
+May.Onthe11th,itrevealed thattheGennan ChiefofAirstaffhad
+requested a48-hourdelayoftheoriginaldate,andonthe19th,London
+infonned theMiddleEastandCretethattheattackwouldtakeplacethe
+nextday.Whentheinvasion finallybeganonthemorningof20May,the
+storyisthatFreyberg calmlyremarked, 'They'redeadontime.'121Itisvery
+rareintheannalsofmodemwarfarethatsuchaprecisewarningofthe
+timingofanimpending attackhasbeensoundedsofarinadvance.122
+Theexacttimingofthecomingattackwas,however, onlyoneofthe
+vitalpiecesofinfonnation provided tothedefenders ofCrete.The
+continuous flowofintelligence fromLondonandCairotoFreyberg's
+headquarters alsogavehimremarkably accuratedataontheGennanplan
+ofattackitself:itreportedthattheassaultontheislandwouldbepreceded
+byseveraldaysofairattacks;thatonthefirstdayoftheattack,theairfields
+ofHeraklion, RetimoandMalemewouldbethemainobjectives ofthe
+Gennanparatroopers; andthatafterthecaptureoftheairfields, thenext
+phaseoftheattackwouldconcentrate ontheportsofSudaandHeraklion.
+Itwasindicated thattheparatroopers wouldbedroppeddirectlyonthe
+airfieldsorintheirimmediate vicinity, andthatheavyJunkers52troop
+carriersmightattempttolandonopenfields.Theintelligence further
+suggested thatatalaterphasetheGermans alsoplannedtolandtroops
+fromthesea,butthatthiswasonlyofsecondary importance.123On16
+May,moredetailsontheGermanorderofbattleweresupplied, including
+theestimate that25,000to30,000airborne and10,000seaborne troops
+wouldtakepart.Infact,theactualnumberwasonly15,750airborneand
+7,()(X)seaborne troopS.124 Andofthe600transport aircraftexpected, only
+520participated intheattack.Earlierestimates (Whitehall, 27April)of
+Gennanairpower ingeneralalsoincluded 285long-range bombers, 270
+single-engine fighters, 60twinenginefighters,and240divebombers.
+Again,theactualnumbers weresomewhat lower,with280long-range
+bombers, 90single-engine fighters,90twinenginefighters,and150dive
+bombers.12SInaddition, intelligence onGennan airborne doctrine and
+methods aswellassuggestions onhowbesttocounterthemweremade
+available. Allofthispriceless infonnation waspassedontoeverysector
+commander asearlyas12Mayinanintelligence appreciation prepared at
+Freyberg's headquarters.126Thereportmadeonethingabundantly clear:
+thatthesuccessoftheGennan planrestedentirelyontheirabilityto
+capturethetargetedairfieldsearlyinthebattle.
+Nocommander couldeverexpecttoreceivebetterintelligence than
+Freyberg did.Thedefenders knewexactlywhentheattackwouldbegin,
+weretwiceasstrongastheattacking Gennans, andhadasgreat
+anadvantage asadefender canhaveintennsofthedifficulties and
+vulnerability socharacteristic ofallparatrooper attacks.Aboveall,the
+
+--- Page 60 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 43
+availability ofexcellent intelligence solvedoneofthemostcritical
+questions everydefender mustask-wheretoconcentrate hisforces.Since
+theyknewthatthekeyGennan objectives werethethreeairfields, the
+defenders stoodaverygoodchanceofwinningthebattleiftheyefficiently
+usedtheirforcestopreventtheGennans fromsecuring afoothold inthese
+areas.Yetdespitetheoptimistic expectations ofthedefenders andthefact
+theGennans hadlostthecriticalelementofsurprise, theGennans wonby
+thenarrowest ofmargins. Theexplanation forthisprovides anexcellent
+opportunity toillustrate whyeventhebestintelligence canonlybea
+necessary butnotasufficient condition forthesuccessofaweakersideon
+thebattlefield. Intelligence, perhapsevenmoresothanotherfactorsin
+war,isvaluable onlyifmanyotherconditions aremet.Theseconditions
+werenotpresentontheislandofCreteinMay1941.Theimportance of
+CretetotheBritishstrategyintheMediterranean wasneveramatterof
+dispute. Unfortunately, thepressure onthecommander responsible for
+theMiddleEast,andtheurgentdemands madeuponhisdeplorably
+inadequate resources intheWestern Desert,EastAfrica,SyriaandIraq
+aswellasinGreecemadeitimpossible todevoteenoughattention tothe
+preparation forthedefenseofCrete.
+Therewasnosenseofurgency. Insixmonths,theBritishhadappointed
+sixdifferent militarycommanders inCrete.Asthelastofthesix,General
+Freyberg wasunexpectedly appointed totheposition on29Aprilat
+Churchill's request; heassumed command on30April,barelythree
+weeksbeforetheGennan attack.Theconditions necessary forthe
+organization andcarefulpreparation ofthedefenseofCretesimplynever
+materialized.127Theprincipal problem facingthe32,000garrison troops
+ontheislandwastheshortage ofequipment andammunition ofall
+types.l28Allcommentators agreethatarelatively smalladdition of
+themostneededequipment wouldhave meant certainvictoryforthe
+defenders. Thesevereshortage ofcomunications andsignalsequipment
+wascritical,foroncethebattlehadbegun,Freyberg founditpractically
+impossible eithertoreceiveinfonnation ortotransmithisordersbecause
+ofthelackofwireless equipment. Consequently, helosttheabilityto
+controleffectively thetroopsunderhiscommand. Thisundoubtedly
+provedtobetheweakestlinkintheBritishdefenseofCrete.
+GeneralFreyberg wasawareoftheshortageofsignalequipment (ashe
+madeclearinacabletoWavellintheMiddleEastHeadquarters inCairo),
+butheneverreallyinsistedupontheneedfor'fieldwirelessapparatus' .129
+YetasStewartpointsoutinTheStruggle/or Crete,'asingleplane,flyingif
+necessary directfromEngland viaGibraltar, couldhavebroughtenough
+wirelesssetstoequipeveryunitintheislanddowntothecompany level...
+Thetruthis(according tooneofFreyberg's staffofficersafterthewar)
+thatahundredextrawireless setscouldhavesavedCrete. ,130Thus,while
+
+--- Page 61 ---
+44 INTELLIGENCE ANDMILITARY OPERATIONS
+Freyberg wassupplied withthebestpossible intelligence beforethe
+battle,hewasunabletoobtain\vhathedesperately neededduringthe
+battleitself.Fromhispointofview,oncethefightinghadbegunhewas
+inundated withcontinuously changing rumorsandcounter-rumors
+muchlikethosethatbesieged Clausewitz's commander orNapoleon at
+Borodino.
+Although theproblems ofobtaining intelligence beforeandduringthe
+battleareverydifferent, theydeserveequalattention. Eventhebest
+intelligence beforethebattlebecomes progressively lessrelevantasthe
+fightingcontinues. Infonnation isneededontheactualdevelopments on
+thebattlefield -infonnation asmuchonthepositionandsituationofone's
+owntroopsasonthoseoftheenemy.Thisiswhyintelligence onthe
+battlefield canneverbestudied,asdiscussed earlier,withoutreference to
+command, communication andcontrol. Clearly, gathering infonnation
+beforethefightingbeginsismuchsimplerthandoingsointheheatof
+battle.
+Giventheautonomous natureofeachfightingsectorontheisland,
+thebattlemightstillhavebeenwonwithoutdirection fromacentral
+command posthadeachsectorbeensupplied withadequate weapons. 131
+Therewasapressing shortage ofthegunsthatwouldhavebeenusedto
+coverallthreeairfields andtowhichtheparatroopers hadnosuitable
+answer.'Thepresence onCreteofsixty25pounders wouldhavetrans­
+fonnedthesituation.' 132Therewereonlysixobsolete tanksontheisland.
+Adozenorsoadditional tanksofbetterqualitythatcouldhavebeen
+diverted fromthe'Tiger'convoyandwhich'...mighthavealteredthe
+scaleofeventsinCrete,wasneversent'.133Ontheentireislandtherewere
+only32heavyand36lightanti-aircraft guns.134
+Furthennore, evenfewerthanthe64Hurricanes itwashopedmight
+miraculously arriveintimewouldhavegreatlyaidedthedefenders,135 but
+thiswasaremotepossibility; tomakemattersworse,therewasanacute
+deficitoftheammunition, fuel,enginemaintenance facilities andother
+equipment neededtokeepthemflying.Ontheeveofthebattle,thefew
+remaining fighteraircraftinCrete(listedbyFreyberg assixHurricanes
+and17obsolete aircraft)werewithdrawn toavoidthepointless sacrificeof
+pilotsandmachines thatcouldbeusedtomuchgreatereffectelsewhere.
+Without radarandcommunications equpment, controloftheanticipated
+intensive airbattlewasimpossible. Manymonthswouldhavebeen
+required toprepareforthepropermaintenance ofevenonesquadron of
+Hurricanes -whichwereinshortsupplyandneededelsewhere anyway.
+Consequently, theGennans wereallowedtoenjoytotalcontroloftheair,
+whichiswheretheysecuredtheirmostimportant edgeoverthedefenders.
+Despite thelast-minute decision toevacuate theremaining fighters,
+Freyberg wasordered nottotakethestepofminingorotherwise
+
+--- Page 62 ---
+INTELLIGENCE ANDMILITARY OPERATIONS 45
+obstructing theairfieldssocrucialforsupportoftheGermaninvasion; this
+alonecouldhavemadeitimpossible fortheGermans toresupply their
+paratroopers.l36(Onereasonforthiswasprobably thehopethattheRoyal
+AirForcewouldreturningreaternumbers atalaterstage.)137
+Still,suchmissedopportunities andnumerous shortages mighthave
+beenmadeupforbythecommander's intuitionhadFreyberg beenableto
+assessthesituation moreaccurately duringthebattleandthenexploitthe
+seriesofGerman mistakes thatoccurred. Intheabsenceofreliable
+information, however, Freyberg's intuitionwasnotuptothetask.'Inany
+battlemuchofwhathappensisexplicable onlyifwetakeintoaccountnot
+onlythestrengthandplansofeachside,butalsowhateachsidetooktobe
+thestrengthandplansoftheother.,138
+Whereas thedefenders hadoutstanding intelligence beforetheattack
+butpoorintelligence oncethebattlebegan,fortheGermans theopposite
+wastrue.Beforetheattack,Gennanpilotsonreconnaissance reported
+thattheislandappeared lifeless;noinfantrypositions couldbeidenti­
+fiedwithintheolivegrovesandlittleshipping wasobselVed. Ironically
+enough,itwasGerman air superiority thathadforcedthedefenders to
+camouflage theirpositions andmoveprimarily atnight.Asaresult,the
+Germans greatlyunderestimated thenumberoftroopsonCrete(which
+theyestimated tobeatthestrengthofonedivision) andfailedtoidentify
+thetroopconcentrations ontheisland.Theirintelligence ontheisland's
+defenses wassketchyatbest;onlywhentheGermanparatroopers were
+descending fromtheskydidtheydiscover thatthedefenders wereindeed
+readyforthem.139Moreover, theGermans conveniently assumed thatthe
+localGreekpopulation wouldbefriendlyoratleastneutral- agross
+misunderstanding, tosaytheleast.
+Thussurprised bythedefenders, theGermans sustained veryheavy
+casualties onthefirstdayoftheinvasion whilefailingtoachievetheir
+objectives. Duringtheafternoon ofthe21st,SigintenabledaBritish
+reconnaissance aircrafttodiscover twoGermanconvoysofcaiquesen
+routetoCrete:thefirstwasattackedonthesamedayanditsshipswere
+eithersunkordispersed; thesecondhadbeenorderedtoreturnto
+Piraeus,butwasattackedatdawnonthe22nd.l40Theimmediate threatof
+aseaborne attackonCretewastherefore eliminated withdispatch,
+although itisnotknownwhether Freyberg -whohadnodirect
+communication withtheNavy-knewofthis.Inthemeantime, the
+German paratroopers didnotmakeanynoticeable headway onthe
+seconddayoftheirattack;ratherthanconcentrating thebulkofthe
+attacking forcesagainstoneairfieldatatime,theyattackedthreesimul­
+taneously. Tocompound theirerrors,they failed tounderstand the
+obstacles anddelaysinvolved intheprocessofreinforcement bysea.
+Havingcommitted almostalloftheirairlandingtroopsonthefirstday,
+
+--- Page 63 ---
+46 INTELLIGENCE ANDMILITARY OPERATIONS
+theyhadnoreserves lefttoreinforce theattackatthedecisive point. 141
+'Thesefailures hadopened aseriesofbrilliant opportunities tothe
+defense. Andrew, Leckie,Hargest andFreyberg hadeachheldvictory
+withinhisgrasponlytoallowhisvitalmoment topassandforthesame
+essential reasons. Ateveryleveltheyhadbeenbetrayed bytheir
+communication.' 142Whatprovedfatalwasthecollapse ofshort-range
+communications ontheislandbetween thedefending sectorsand
+Freyberg's headquarters. ThisiswhereFreyberg's 'intuition' wasfound
+wanting.
+Insteadoffocusing hisattention exclusively onthethreeairfields so
+crucialtotheoutcome ofthebattle,Freyberg wasdistracted bythethreat
+fromthesea(whichwaswellprotected bytheRoyalNavywithwhichhe
+hadnodirectcommunication) andbyhisunfounded fearthatGennan
+transport aircraftmightcrash-land outsidetheareaoftheairfields under
+attack.AshetoldChurchill afterthewar,'We,forourpartweremost!y
+preoccupied bysealandings, notbythethreatofairlandings' .143This
+preoccupation causedhimtounderestimate thevitalimportance ofthe
+airfields, particularly inMaleme, whereheorderedthelocalcommander
+(Puttick) toposition histroopsinsuchawayastobeabletomeetathreat
+fromtheseaorland.144Asaresult,notalloftheavailable troopsinthearea
+wereconcentrated attheairfieldofMaleme itself,evenafteritshould
+havebecome clearonthefirstdayhowcloselytheGennans were
+adhering totheintelligence predictions inmakingtheairfieldstheirmain
+objectives. 145
+RonaldLewincomments onFreyberg's intuition bycomparing itwith
+thatofMontgomery:
+Insofine-runabattle,victoryawaitedthemanwhoknewwhatitwas
+actually about-notinthecoarsesenseofwinning orlosingthe
+island,butinthestrictlyprofessional senseofcalculating toanicety
+whatmustbethesupremely important pieceofground.Freyberg, in
+effect,misreadtheevidence. Dequois'agit-il?[whatisitallabout?]
+isthequestion allgenerals shouldask.Withthesameintelligence
+available, Montgomery's incisivemindwouldsurelyhavefastened
+ontheonethingthatmattered, andsodistributed histroopsthat
+Maleme mighthavebeenjustlongenoughfortheparachutists
+tohavewithered without support. Ultrawasashadow untilthe
+generals gaveitsubstance. 146
+Inhisnewbook,UltraandMediterranean Strategy, RalphBennett
+contradicts thehitherto generally accepted ideathatGeneral Freyberg
+wasneverpennitted tolearnoftheUltrasecret.147Bennett statesthat
+Wavellinformed Freyberg ofUltra'sexistence atthetimeFreyberg was
+appointed tocommand Crete.(Thisevidence isbasedonanaccountgiven
+
+--- Page 64 ---
+Convoy PQ 17 
+British Intelligence in the Second World War, by F.H. Hinsley et al., Vol. II (London:
+H.M.S.O., 1981). Excellent and authoritative short accounts of both PQ 12 and PQ 17,
+including, in Appendix II, a list of the Ultra signals sent to the Home Fleet between 30 June
+and 8 July. I am not sure whether all the purely U-boat signals sent by the Submarine
+Tracking Room (as opposed to the Ultras sent by Denning) are included. Hinsley’s
+judgement is that, even if Pound had delayed ordering the convoy to scatter until there was
+more positive evidence the Tirpitz  was about to sail (i.e. at 1517/5), he would then have had 
+to do so. I am not sure that I agree. The alternatives are not examined. 
+The War at Sea, Vol.II by S.W. Roskill (London: H.M.S.O., 1957). Roskill saw, but was then
+not permitted to refer explicitly to, at least some Ultras. His account is, therefore, necessarily
+muted so far as Intelligence is concerned, but is otherwise all that one would expect from this
+great naval historian. 
+The Destruction of Convoy PQ 17 by David Irving (London: Cassell, 1968; revised ed.
+William Kimber, 1980). First published by Cassell & Co. in 1968, this book resulted in a
+successful and very expensive libel action brought by Broome against the author and
+publishers. It was, moreover, written without any access to or precise knowledge of Special
+Intelligence. A second edition, published by William Kimber in 1980, has been revised to take
+account of these failings. Like all Irving’s books, it is the result of the most painstaking
+research and claims to be the result of interviews with many participants now dead. I have
+relied on it for the account of Pound’s staff meeting on the evening of 4 July, the only
+published account of which I am aware. It rings true to me, but I am bound to issue the
+caveat that, in acknowledging help from many individuals, including myself, Irving names one
+or two who I know were either unwilling or unable to give him information. Nevertheless, this
+is a most valuable source. 
+Convoy is to Scatter by Jack Broome (London, 1972). A personal account by the commander
+of the close escort. It includes many signals made during the course of the operation,
+although not any Ultras. It is very anti-Pound, but brings out clearly the reactions of those at
+the ‘sharp end’. 
+Room 39 by Donald McLachlan (London, 1968), McLachlan served in NID (although not in
+OIC) and was subsequently Deputy Editor of the Daily Telegraph  and Editor of the Sunday 
+Telegraph . He was able to talk to many of the participants, particularly those in the 
+Intelligence Division and was given access to some records then secret, but was forbidden to
+make any reference to Special Intelligence. He therefore had the difficult task of writing
+Hamlet  without once referring to the principal character. Not to be relied on implicitly for 
+detail, but excellent for atmosphere. 
+PQ 17 Vice-Admiral Sir Norman Denning. Typescript, 1979, Churchill College Archives,
+Cambridge. Copy in my possession. My old friend and boss in OIC from 1940 until the end of
+1941 was always most reluctant to record his wartime experience. However, about 1978, I
+persuaded him to attempt to set out his recollections of his innvolvement in PQ 17. He
+produced a number of drafts which he sent to me for comment, but sadly died suddenly, in
+1979, just as he had completed what I believe would have been the penultimate version. The
+quotations in this paper are from that draft which, with the permission of his brother, Lord
+Denning, and with the help of Stephen Roskill, I passed to Hinsley, who made good use of
+them in his official history. Old men’s memories are notoriously fallible, but Ned was a great
+intelligence officer and well aware of this danger. I believe that his account forms an accurate
+record of the events which had taken place 36 years previously. 
+I am grateful to Lord Denning for permission to quote from his brother’s account and to Her
+Majesty’s Stationery Office for permission to reproduce the map from S.W. Roskill’s War at 
+Sea. 
+ 

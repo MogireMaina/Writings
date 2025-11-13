@@ -1,0 +1,2691 @@
+Source: ferris1995.pdf
+================================================================================
+
+--- Page 1 ---
+This article was downloaded by: [American Public University System]
+On: 11 February 2014, At: 05:35
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number:
+1072954 Registered office: Mortimer House, 37-41 Mortimer Street,
+London W1T 3JH, UK
+Intelligence and National
+Security
+Publication details, including instructions for
+authors and subscription information:
+http://www.tandfonline.com/loi/fint20
+Clausewitz, intelligence,
+uncertainty and the art
+of command in military
+operations
+John Ferris a & Michael I. Handel b
+a Professor in the Department of History , The
+University of Calgary ,
+b Professor of Strategy , The US Naval War
+College , Newport, RI
+Published online: 02 Jan 2008.
+To cite this article:  John Ferris & Michael I. Handel (1995) Clausewitz,
+intelligence, uncertainty and the art of command in military operations,
+Intelligence and National Security, 10:1, 1-58, DOI: 10.1080/02684529508432286
+To link to this article:  http://dx.doi.org/10.1080/02684529508432286
+PLEASE SCROLL DOWN FOR ARTICLE
+Taylor & Francis makes every effort to ensure the accuracy of all
+the information (the “Content”) contained in the publications on our
+platform. However, Taylor & Francis, our agents, and our licensors
+make no representations or warranties whatsoever as to the accuracy,
+completeness, or suitability for any purpose of the Content. Any opinions
+and views expressed in this publication are the opinions and views of
+the authors, and are not the views of or endorsed by Taylor & Francis.
+
+--- Page 2 ---
+The accuracy of the Content should not be relied upon and should be
+independently verified with primary sources of information. Taylor and
+Francis shall not be liable for any losses, actions, claims, proceedings,
+demands, costs, expenses, damages, and other liabilities whatsoever
+or howsoever caused arising directly or indirectly in connection with, in
+relation to or arising out of the use of the Content.
+This article may be used for research, teaching, and private study
+purposes. Any substantial or systematic reproduction, redistribution,
+reselling, loan, sub-licensing, systematic supply, or distribution in any
+form to anyone is expressly forbidden. Terms & Conditions of access
+and use can be found at http://www.tandfonline.com/page/terms-and-
+conditions
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 3 ---
+Clausewitz, Intelligence, Uncertainty and
+the Art of Command in Military
+Operations
+JOHN FERRIS AND MICHAEL I. HANDEL
+This article explores the connections between intelligence, the conduct
+of military operations and the art of command. First, it examines this
+phenomenon in the period before the industrial revolution and
+the development of real-time communications, particularly as it was
+reflected in the influential arguments of Carl von Clausewitz. It also
+examines how far his ideas on intelligence and uncertainty shaped his
+theory of military operations. Second, the article studies the relation-
+ship between intelligence, operations and command in the modern
+period. For this purpose, it rests on a mature case study: Edward Drea's
+account of the use and misuse of intelligence in the Pacific War by
+General Douglas James MacArthur. Finally, the article considers the
+relationship between intelligence, operations and command in
+the future. It links together such issues as one general's use of Ultra and
+the interrelationship between intelligence, uncertainty and command in
+one war, and in the theory of war; it uses Clausewitz to illuminate a
+campaign and vice versa. The article cannot expand on every point it
+mentioned, but the hope is to provide a conceptual framework which
+may assist in their further development.
+INTELLIGENCE AND MILITARY OPERATIONS
+Any examination of intelligence and war must begin with Clausewitz's
+arguments about uncertainty and the psychology of command. Such a
+discussion may also illuminate those ideas which are fundamental to
+modern theories of war. The limits to this approach must be emphasized
+from the start, for both war and On War are complex matters. The
+discussion will therefore focus only on certain variables, excluding
+related issues such as technology, doctrine and politics.
+Clausewitz believed that 'At the moment of battle, information about
+the strength of the enrimy is uncertain, and the estimate of one's own is
+usually unrealistic'.1'The inability to collect accurate, relevant and
+complete data about the battlefield, and on one's own forces no less than
+on the enemy, was fundamental to Clausewitz's view that war lies within
+Intelligence and National Security, Vol.10, No.1 (January 1995), pp.1-58
+PUBLISHED BY FRANK CASS, LONDON
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 4 ---
+2 INTELLIGENCE AND NATIONAL SECURITY
+'the realm of uncertainty . . . the realm of chance'. These views about
+intelligence were axiomatic but not simplistic. Clausewitz was referring
+not to man's ability to know the world but to a commander's ability to
+understand a battle. He was a practical man writing for practical men,
+through generalizations drawn from his own experience and study. He
+matured in a military environment where accurate operational intelli-
+gence was difficult to acquire, while rumors in battle were rife, where
+many important factors (perhaps most of them) were known to be
+unknown, where slow and unreliable communications systems rendered
+originally correct information inaccurate by the time it was received or,
+indeed, prevented it from ever being transmitted at all.
+In the short period of time available to act on the battlefield, the
+command, communication and intelligence services of his era could not
+provide clear, consistent and accurate information. A general could not
+know the facts about operations that he needed to know when he
+needed to know them. He could not know the enemy or the battle:
+therefore he would have to act without knowledge.
+From these specific circumstances Clausewitz derived universal gener-
+alizations, which were accurate for his time but not necessarily for ours.
+He concluded that
+Many intelligence reports in war are contradictory; even more are
+false and most are uncertain . . . most intelligence is false, and the
+effect of fear is to multiply lies and inaccuracies. As a rule most
+men would rather believe bad news than good, and rather tend to
+exaggerate the bad news. The dangers that are reported may soon,
+like waves, subside; but like waves they keep recurring, without
+apparent reason.
+In these circumstances, more intelligence reports make 'us more, not
+less uncertain'.2 As will be shown, that observation remains true even
+today, though the nature of the uncertainty has changed.
+Some of this analysis was commonplace - soldiers had often empha-
+sized the limited value of intelligence. Xenophon, for example, wrote
+that 'in time of war enemies often form designs on one another but
+seldom know the state of things among the party against whom their
+designs are formed. Therefore there is nothing other that can give
+counsel in such a case but the gods. They know all things and give signs
+to whomever they please by sacrifices, omens, voices and dreams'.3
+Since his time, bureaucracy has replaced the gods. Clausewitz, more-
+over, focused essentially on the operational level during war and it is
+this plane, rather than that of strategy, to which the comments in this
+article pertain. Clausewitz assumed that commanders should usually
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 5 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 3
+possess accurate intelligence about strategic issues, especially before
+war broke out. This, incidentally, explains why Clausewitz thought that
+strategic surprise was a good idea in theory but extremely difficult to
+execute in practice. "The movement of the enemy's columns into battle
+can be ascertained only by actual observation . . . but the direction from
+which he threatens our country will usually be announced in the press
+before a single shot is fired.' 'But uncertainty decreases the greater the
+distance between strategy and tactics; and it practically disappears in
+that area of strategy that borders on the political.'4 Similarly, whereas
+Clausewitz concluded that boldness was fundamental to operations, he
+specifically denied that it had the same place in strategy.
+Qausewitz's views on operational intelligence were not simple, nor
+were they absolutely accurate, as shown by the experience of at least
+one contemporary. Devoting much personal attention to the task, the
+Duke of Wellington demonstrated that it was possible to collect useful
+tactical and operational intelligence on the enemy. A small but notable
+minority of British and American generals of that era adopted a similar
+view. From an examination of the same base of data as Clausewitz, the
+Baron de Jomini drew different conclusions about operational intelli-
+gence, and, over 2,000 years earlier, the influential Chinese strategist
+Sun Tzu praised - in fact, exaggerated - the military value of intelli-
+gence.5 None the less, Clausewitz offered a powerful generalization
+about the effect of operational intelligence before the modern era, and
+these views were central to his theory. To Clausewitz, the lack of sure,
+current and effective intelligence causes uncertainty to dominate the
+field of battle, the psychology of command and the art of war. This is a
+major factor underlying the 'friction' which distorts all attempts to act
+on intentions in the operational sphere. So deeply do these ideas on
+ignorance and uncertainty shape his logic and his theory of command
+and war that amendments to them automatically force one to reconsider
+Clausewitz's arguments from the start. In fact, if these variables were to
+be assigned new values, then Clausewitz's equations would produce new
+solutions. This is true of Clausewitz's view that deliberate deception is
+almost always useless in war while intentional strategic surprise can
+rarely be achieved;6 true, by extension, of even more fundamental
+matters, such as Clausewitz's belief that uncertainty and friction
+together prevent commanders from achieving precisely intended results
+precisely as intended; and true of his emphasis on intuition and
+determination in thought, and on boldness in operations, his theories of
+understanding, command and action.
+According to Clausewitz, few men function well amidst the uncer-
+tainty and ignorance, the friction and danger, of the battlefield. That
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 6 ---
+4 INTELLIGENCE AND NATIONAL SECURITY
+environment can be mastered only by the 'military genius', a man with
+'a very highly developed mental aptitude for a particular occupation',
+war. This figure combines the faculties which 'taken together, constitute
+the essence of military genius. We have said in combination, since it is
+precisely the essence of military genius that it does not consist in a single
+appropriate gift - courage, for example - while other qualities of mind
+or temperament are wanting or not suited to war'.7 Gifts of character,
+thought and action fuse into one to form the military genius. While
+pedantry - Clausewitz's favourite word of denigration - killed com-
+mand, other intellectual powers gave it life. War 'cannot be waged
+except by men of outstanding intellect',8 possessing 'a special type of
+mind ... a strong rather than a brilliant one',9 with 'a sensitive and
+discriminating judgement ... a skilled intelligence to scent out the
+truth'10 and presence of mind, the ability to respond quickly and
+competently to the unexpected.
+When assessing the personal characteristics of commanders, Clause-
+witz used the language of ideal types and the logic of the golden mean,
+recognizing that either the lack or the predominance of any one
+characteristic could be costly and that desirable characteristics were
+linked on a spectrum to undesirable ones. Thus, carried too far,
+determination could 'degenerate into obstinacy'.11 Moreover, he was
+never dogmatic: to every 'rule' or 'principle' he describes, he immedia-
+tely notes the exception or the limitation. None the less, two faculties in
+particular were the bedrock of military genius. Strength of character, the
+'ability to keep one's head at times of exceptional stress and violent
+emotion', allowed the reason of the commander to dominate his
+passions without destroying their drive.12 Equally fundamental was
+determination - a willingness to 'stand like a rock',13 to act on belief
+despite uncertainty, to hold to a consistent course of action amid
+confusion. Clausewitz commended the consistent pursuit even of an
+inferior course of action. He understood the old principle: order,
+counterorder, brings disorder. 'The role of determination is to limit the
+agonies of doubt and the perils of hesitation when the motives for action
+are inadequate . . . when a man has adequate grounds for action -
+whether subjective or objective, valid or false - he cannot properly be
+called "determined". This would amount to putting oneself in his
+position and weighing the scale with a doubt that he never felt.'14
+Determination 'is engendered only by a mental act; the mind tells man
+that boldness is required, and thus gives direction to his will. This
+particular cast of mind, which employs the fear of wavering and
+hesitating to suppress all other fears, is the force that makes strong men
+determined.'15 Determination (in Clausewitz's sense) alone could
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 7 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 5
+prevent action from being paralysed by uncertainty and the delays and
+hesitation caused by thought.
+The mind of the military genius combined reason and intuition - 'an
+intellect that, even in the darkest hour, retains some glimmerings of the
+inner light which leads to truth ... the quick recognition of a truth that
+the mind would ordinarily miss or would perceive only after long study
+and reflection'.16 It combined thought and temperament into one whole
+greater than its parts. 'Knowledge must be so absorbed into the mind
+that it almost ceases to exist in a separate, objective way . . . Continual
+change and the need to respond to it compels the commander to carry
+the whole intellectual apparatus of his knowledge within him ... By
+total assimiliation with his mind and life, the commander';; knowledge
+must be transformed into a genuine capacity.'17 Clausewitz's statement
+that 'all great commanders have acted on instinct'18 refers to this union
+of thought and temperament, which might be termed informed intui-
+tion. This faculty of coup d'oeil alone can master uncertainty and
+ignorance, and understand the battlefield.
+Circumstances vary so enormously in war, and are so indefinable,
+that a vast array of factors has to be appreciated - mostly in the
+light of probabilities alone. The man responsible for evaluating the
+whole must bring to his task the quality of intuition that perceives
+the truth at every point. Otherwise a chaos of opinions and
+considerations would arise, and fatally entangle judgement. Bona-
+parte rightly said in this connection that many of the decisions
+faced by the commander-in-chief resemble mathematical problems
+worthy of the gifts of a Newton or an Euler.19
+In the dreadful presence of suffering and danger, emotion can
+easily overwhelm intellectual conviction, and in this psychological
+fog it is so hard to form clear and complete insights that changes of
+view become more understandable and excusable. Action can
+never be based on anything firmer than instinct, a sensing of the
+truth. Nowhere, in consequence, are differences of opinion as
+acute as in war, and fresh opinions never cease to batter at one's
+convictions. No degree of calm can provide enough protection:
+new impressions are too powerful, too vivid, and always assault
+the emotions as well as the intellect.
+Only those general principles and attitudes that result from a
+clear and deep understanding can provide a comprehensive guide
+to action. It is to these that opinions on specific problems should
+be anchored. The difficulty is to hold fast on to these results of
+contemplation in the torrent of events and new opinions. Often
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 8 ---
+6 INTELLIGENCE AND NATIONAL SECURITY
+there is a gap between principles and actual events that cannot
+always be bridged by a succession of logical deductions. Then a
+measure of self-confidence is needed, and a degree of skepticism is
+also salutary. Frequently nothing short of an imperative principle
+will suffice, which is not part of the immediate thought-processes,
+but dominates it: that principle is in all doubtful cases to stick to
+one's first opinion and to refuse to change unless forced to do so by
+a clear conviction. A strong faith in the overriding truth of tested
+principles is needed; the vividness of transient impressions must
+not make us forget that such truth as they contain is of a lesser
+stamp.20
+INTELLIGENCE AND RISK-TAKING
+This is the background to Clausewitz's art of war, the means by which
+the intelligent commander without intelligence should function in con-
+ditions of uncertainty. Boldness is central to this theory of operations.
+... In what field of human activity is boldness more at home than
+in war? . . . boldness in war has its own prerogatives. It must be
+granted a certain power over and above successful calculations
+involving space, time, and magnitude of forces, for wherever it is
+superior, it will take advantage of its opponent's weakness. In
+other words, it is a genuinely creative force.
+To Clausewitz, 'a distinguished commander without boldness is
+unthinkable. No man who is not born bold can play such a role, and
+therefore we consider this quality the first prerequisite of the great
+military leader'.21
+Daring was valuable because it made commanders act and because,
+when they did act on its dictates, it multiplied all the conditions of
+uncertainty which frightened their opponents. In fact, a bold com-
+mander tended to create timid enemies - his own confidence thrusting
+the burden of uncertainty onto the foe. While, in Clausewitz's view, a
+general might never be able to increase his own certainty, his boldness
+would heighten the enemy's uncertainty and thus indirectly compensate
+for his own limited intelligence. These observations remain true for all
+wars. Two hostile commanders stand at the opposite ends not only of
+the field of battle but also of a balance of uncertainty and an equilibrium
+of intelligence. This relationship is relative - by increasing the enemy's
+uncertainty, you decrease your own - and complex'. Even when the
+quality of intelligence is better than assumed by Clausewitz, pursuit of
+an unexpected and high-risk strategy can still upset the balance of
+uncertainty; indeed, the subjective certainty engendered in a com
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 9 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 7
+mander's mind by better intelligence may actually increase his oppo-
+nent's chances to achieve success through an unexpected strategy.
+Daring also maximized one's chances to surprise the enemy in general
+and even to surprise him in a specific way through deliberate intent.
+Clausewitz held that this was impossible to do on the strategic or
+strategic/operational levels but could be achieved at the operational or
+operational/tactical levels through a combination of boldness, determi-
+nation, creative imagination and intellect. 'Only the commander who
+imposes his will can take the enemy by surprise; and in order to impose
+his will he must act correctly.'22 Today, of course, the reverse is true -
+given such reliable and widespread devices as radar, complete surprise is
+almost impossible to achieve at the operational level and almost
+impossible to avoid at the strategic level.23
+Scarcity multiplied the value of boldness. To Clausewitz, audacity is
+less dangerous in commanders than caution and less frequently found.
+'Given the same amount of intelligence [in a commander], timidity will
+do a thousand times more damage in war than audacity'; 'a general
+cannot be too bold in his plans, provided that he is in full command of
+his senses, and only sets himself aims that he himself is convinced he can
+achieve'; 'We always have the choice between the most audacious and
+the most careful solution. Some people think that the art of war always
+advises the latter. That assumption is false. If the theory does advise
+anything, it is the nature of war to advise the most decisive, that is, the
+most audacious'; 'boldness grows less common in the higher ranks'; 'no
+case is more common than that of the officer whose energy declines as
+he rises in rank and fills positions that are beyond his abilities.'24 In
+Clausewitz's equation, uncertainty and its psychological consequences
+reduce the frequency of boldness among commanders and increase the
+value of this scarce commodity on the field of battle. If all commanders
+were aggressive risk-takers, this characteristic would define the military
+art but it would no longer offer a comparative advantage to any general.
+When most commanders are cautious, then audacity is at a premium. In
+a world of risk-takers, the deliberately cautious man is king.
+Yet boldness in itself is merely a matter of animal spirit and is inferior
+to temperament guided by reason. The few generals who combine these
+characteristics are the greatest of military geniuses.
+Boldness governed by superior intellect is the mark of the hero.
+This kind of boldness does not consist in defying the natural order
+of things and in crudely offending the laws of probability; it is
+rather a matter of energetically supporting that higher form of
+analysis by which genius arrives at a decision; rapid, only partly
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 10 ---
+8 INTELLIGENCE AND NATIONAL SECURITY
+conscious weighing of the possibilities. Boldness can lend wings to
+intellect and insight; the stronger the wings, then, the greater the
+heights, the wider the view, and the better the results; though a
+greater prize, of course, involves greater risks.25
+In the most desperate of hours, when material strength cannot prevail,
+the day may yet be saved by a commander who unifies 'boldness and
+cunning'26 (not intellect but 'secret purpose', a combination of intuition
+and practical knowledge).
+Clausewitz also noted a third combination of temperament and
+reason, one pointing away from the others and also from all of his own
+generalizations regarding the psychology of command. Caution was
+generally produced not by choice but by character, by an instinctive
+reaction to uncertainty. Worst-case analysis, he argued, was the natural
+response to the unknown. 'Men are always more inclined to pitch their
+estimate of the enemy's intentions too high than too low, such is human
+nature.'27 Sometimes, however, caution was the deliberate decision of a
+superior or cunning intellect. This unusual combination of character-
+istics was the most balanced, the most powerful of them all.
+Whenever boldness confronts timidity, it is likely to be the winner,
+because timidity in itself implies a loss of equilibrium. Boldness
+will be at a disadvantage only in an encounter with deliberate
+caution, which may be considered bold in its own right, and is
+certainly just as powerful and effective; but such cases are rare.
+Timidity is the root of prudence in the majority of men.28
+Certain dimensions of Clausewitz's arguments concerning 'boldness'
+and 'caution' merit careful attention. His main tool for analysis and
+synthesis was the ideal type method. He distilled complex issues into
+their basic components and developed his concepts by posing simple and
+often extreme or contradictory statements against each other. Hence, if
+one takes any statement out of context, one distorts his entire argument.
+The context for his discussion of 'boldness' and 'caution' is Book Three
+of On War, which defines the general phenomena that shape strategy as
+a whole. Here Clausewitz uses a conceptual model of the relationship
+between moral and mental qualities, and explains how all of these
+matters affect generalship as a whole. Not surprisingly, given this
+context, he treats commanders as if they possess one and only one
+psychological characteristic. They are 'all bold' rather than a mixture of
+characteristics, such as 'mostly bold with a shade of caution'. He also
+discusses the military effect of these psychological traits in the abstract,
+that is, how the characteristics of 'boldness' or 'caution' are
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 11 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 9
+affected by and affect the condition of 'uncertainty'. His generals are
+avatars of an ideal type rather than human beings. Clausewitz does not
+discuss in precise historical terms how the relative 'caution' or 'boldness'
+of one commander fighting another works in specific circumstances.
+Indeed, no doubt he would have regarded this point as pedantic, since
+he considered these characteristics to be absolute rather than relative;
+that is, one is either bold or not, and when comparing two audacious
+commanders the point is not that one is more daring than the other, but
+that both are daring. Given his concerns and his level of analysis, it was
+reasonable for Clausewitz to adopt such a means of assessment, but
+commentators must take care in transferring his generalizations about
+psychological characteristics to their own assessments of specific com-
+manders. What is true of ideal types need not be true of individuals,
+especially not when, as will be shown below, 'uncertainty' - the central
+component in his theory - is open to revision.
+Nor is it ever easy to define psychological characteristics such as
+'boldness'. Are they determined by a general's behaviour - his usual or
+universal practices when selecting options - or by his essential and
+innate temperament? In any case, few commanders always behave in
+what is commonly regarded as an 'audacious' or 'cautious' manner. In
+the Second World War, for example, Rommel was daring in the desert
+but not at Normandy. Montgomery usually adopted a deliberately
+cautious approach, but he veered occasionally toward both daring and
+timidity. The behavior of most commanders fluctuates within a given
+range on the spectrum between these traits.
+Above all, confusion arises from terminology. In common usage,
+'boldness' is defined by such words as 'aggression' and 'high risk' and is
+identified with field commanders like Rommel. This is not Clausewitz's
+usage - or, more precisely, not his only usage. He defines daring by
+reference not to a few specific sorts of behavior but to the ability to act
+in an unexpected fashion. Under his usage, if everyone were to follow a
+mindless cult of the attack, then the risk-taker would be reckless, while
+the truly bold commander might be the one who turns to a carefully
+calculated defensive battle. This is especially true because he defines
+defense rather than any form of attack as being the strongest from of
+war. Clausewitz, of course, did not regard such circumstances as the
+general rule. In practice he usually did associate boldness on the
+battlefield with aggressive and high-risk actions. None the less, paradox-
+ical as it might seem, in the Clausewitzian sense 'boldness' could
+sometimes be defined by such words as 'caution' and 'calculation', if
+used in a creative or unexpected way. To Clausewitz, Fabius Maximus
+or Pericles would be 'audacious' - indeed, Montgomery at Alam el-
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 12 ---
+10 INTELLIGENCE AND NATIONAL SECURITY
+Haifa might have seemed a bolder commander than Rommel, by daring
+to use the tactics of 1918 against those of 1940, in an unexpected fashion
+and with unexpected success.
+For example, Clausewitz defines deliberate caution as being 'bold in
+its own right', presumably because, in his theory, this stems from the
+same combination of thought and temperament which produces 'bold-
+ness governed by superior intellect'. In another context, Clausewitz
+emphasizes that 'when a man has adequate grounds for action - whether
+subjectively or objectively, valid or false - he cannot properly be called
+"determined" '.29The same logic can be applied to 'caution' or 'daring':
+the more adequate the grounds for action, or the greater the degree of
+certainty, the less significant the effect of psychological characteristics
+on decisions. To Clausewitz, daring is essential in circumstances of
+uncertainty, where it substitutes for lack of strength or intelligence. If,
+however, one possesses accurate and usable intelligence on the enemy
+as well as greater strength, then what seems to be a bold action by
+common usage would simply be an act of calculation in Clausewitz's
+teminology - a calculated risk. In such circumstances calculation can
+replace boldness. If perfect intelligence could be acquired on the
+operational plane, daring would be no more relevant to a commander
+than it is to a chess player choosing whether or not to sacrifice a piece.
+Little daring is required to bet on a sure thing, little caution to avoid
+certain destruction. Intelligence can turn caution into daring, and daring
+into calculation. One must not confuse a calculated action with a boid
+one, nor take aggression for audacity.
+Hereafter we will refer to the common usage of 'boldness' with the
+phrase 'aggressive risk-taking', as distinct from 'boldness (in Clausew-
+itz's sense)'. At different times, the analysis will focus on two distinct
+issues - how intelligence affects (a) the range of behavior of specific
+commanders on the spectrum between 'caution' and 'boldness' and (b)
+the relative value on the battlefield of these psychological characteristics
+as ideal types, in the age of accurate and real time intelligence.
+It is on the foundation of uncertainty that Clausewitz formulated his
+definition of the ideal general's psychological characteristics and all his
+normative rules for command - especially the 'imperative principle' ('in
+all doubtful cases to stick to one's first opinion and refuse to change
+unless forced by a clear conviction') and the value of boldness. Only the
+'harmonious combination of elements', which make up 'the essence of
+military genius - in particular, daring, determination and informed
+intuition - can ward off the psychological threat of uncertainty. 'With
+uncertainty in one scale, courage and self-confidence must be thrown
+into the other to correct the balance.'30
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 13 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 11
+During this century, however, changes in the status of intelligence
+have at times eroded - though not ended - the reign of uncertainty over
+the field of battle. Ultra and uncertainty may represent the opposite
+poles of a commander's understanding in war. This is not to say that
+Ultra represents perfect knowledge, but rather the closest approxima-
+tion to perfect and usable knowledge that commanders can expect to
+receive. How has this affected the validity of the Clausewitzian para-
+digm? How has increased knowledge affected the psychology of com-
+mand, the art of war, the qualities required for military genius and the
+relative value of caution and boldness? If intelligence provides
+'adequate grounds' for action, what significance do daring and determi-
+nation (in Clausewitz's sense) retain? Any answers to these questions
+must take three general points into account.
+First, intelligence does not produce command decisions, a com-
+mander does. His personality, attitude toward risk, and military
+education are therefore the most important factors in the use of
+intelligence and the practice of operations.
+Second, the greater the influence of Clausewitz's analysis of the
+psychology of war and the more widely accepted his prescriptions for
+handling it, the less their accuracy. Clausewitz defined the means to
+manage uncertainty without reducing its scale, particularly through
+determination in the mind of the commander and boldness in his deeds.
+In the century and a quarter following his death his theory had mixed
+fortunes, but his prescriptions regarding these specific characteristics
+were influential, largely because they fitted with those of other authori-
+ties and with the lessons which officers intuitively derived from the
+Napoleonic and Nelsonic experience.31 Many armies, pre-eminently
+those of Germany, Japan and France before 1914, did follow his
+prescriptions, in a vulgarized fashion; simultaneously, the Nelsonic
+tradition affected the British, German, Japanese and American navies
+in a similar way.
+John Keegan has recently argued that Clausewitz's views are irrele-
+vant to historians because they have never influenced soldiers.32 One
+might as well argue that Newton has never influenced a gunner. Nor can
+Keegan's view survive contact with primary documents. The writings of
+several American generals of the Second World War, for example, are
+permeated with both pure and vulgarized forms of Clausewitz. Consider
+George S. Patton's lecture of 1926 on 'victory':
+War is an art and as such is not susceptible of explanation by fixed
+formulae . . . War (is) . . . violent simplicity in execution (and)
+pale and uninspired on paper . . . Insist on: Maximum distances;
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 14 ---
+12 INTELLIGENCE AND NATIONAL SECURITY
+BOLDNESS; Prompt and accurate reports. Speed is more import-
+ant than the lives of the (men at the) point. THE ENEMY IS AS
+IGNORANT AS YOU . . . You must not be delayed by blufs
+[sic]. Bluf [sic] yourself ... BE BOLD . . . YOU ARE NOT
+BEATEN UNTIL YOU ADMIT IT, Hence DON'T ... The
+'Fog of war' works both ways. The Enemy is as much in the dark as
+you are. BE BOLD!!! [sic].
+Similarly, in 1943 Patton wrote:' Never take counsel of your fears. The
+enemy is more worried than you are. Numerical superiority, while
+useful, is not vital to successful offensive action. The fact that you are
+attacking induces the enemy to believe that you are stronger than he is
+... IN CASE OF DOUBT, ATTACK.' Even Dwight Eisenhower
+insisted that instructors should
+treat war as the drama that it is rather than constantly reducing it
+to a science of marching tables and tonnage calculations. I do not
+decry the necessity for the scientific end of the education, I merely
+think that too many officers develop their thinking more and more
+along lines of mathematical calculations rather than realizing that
+calculations always go wrong.
+Many generals constantly think of battle in terms of, first,
+concentration, supply, maintenance, replacement, and, second,
+after all the above is arranged, a conservative advance. This type
+of person is necessary because he prevents one from courting
+disaster. But occasions arise when one has to remember that under
+particular conditions, boldness is ten times as important as
+numbers.33
+None of this proves a direct connection between Clausewitz's ideas and
+these commanders' actions, but it does show that they explained their
+views in Clausewitzian language. Until Keegan can come to terms with
+the evidence, his assertions are useless.34
+Generals, of course, were not Clausewitzians in a conscious sense. In
+taking fractions of his argument out of context and placing them in the
+context of the Napoleonic tradition, soldiers turned his precepts on their
+heads - thus, Clausewitz's insistence on the importance of determi-
+nation was used to defend obstinacy, his arguments about boldness
+influenced a mindless cult of the offensive, his idea of the military genius
+was used to justify the idea of the commander as a great man - or dictator.
+The point is simply the effect of this vulgarized variant of Clausewitz.
+While boldness (in Clausewitz's sense) remained as rare in this century as
+ever, aggressive risk-taking did become more common among com-
+manders than usual. In principle, as aggressive and high-risk behavior on
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 15 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 13
+the battlefield becomes more common, it changes the context which
+defines its own value: the more numerous the aggressive risk-takers, the
+less the advantage offered by that characteristic. The same is true of
+determination (in Clausewitz's sense). Increasingly, as aggressive risk-
+takers fight each other, both will lose the operational benefits stemming
+solely from this characteristic: indeed, the least aggressive of them
+might have the advantage. The more common aggressive risk-taking
+becomes, moreover, the more other (and temperamentally cautious)
+commanders will be forced to find a counter to it, and the more they will
+succeed in doing so. For commanders on the battlefield, psychological
+characteristics do not have an absolute value but one defined relative to
+those of their adversaries. With an increase in aggressive risk-taking,
+other commanders are given an incentive - an imperative - to anticipate
+then to minimize its potential advantages. Thus, one might conclude, as
+a direct result of his observation, empirically based and tolerably
+accurate, that aggressive risk-taking tended to become less effective
+than Clausewitz predicted and caution, though not timidity, more so.
+Third, many commentators, merging Clausewitz, the cavalry spirit
+and the notion of 'Great Captains', have treated aspects of war such as
+boldness of command and skill in maneuver as though these were
+universally the most - perhaps, the only - fundamental prerequisites for
+victory. The following points apply not to Clausewitz but to views
+common among modern commentators. This view is most commonly
+attached to the influential ideas of Basil Liddell Hart although many
+other military commentators have expressed views. George S. Patton
+also spoke of the 'Great Captains' and 'the immortal line of might
+warriors'.35 Exponents of such ideas have tended to view war in
+romantic terms (as a form of art) and to adopt such beliefs as the idea
+that mobile operations must represent a higher form of the operational
+art than set-piece battles. Although Clausewitz himself despised this
+approach, it is particularly pronounced among members of the romantic
+school of military history, with their adulation of the romantic school of
+military commanders, especially in its German form. They involve
+several fallacies. These views fall prey to the idea of the 'master cause':
+in effect, they treat just a few of the many factors involved in a process
+as being the only necessary - and therefore sufficient - causes for it. As a
+result, certain factors are overemphasized while others, perhaps equally
+important, are treated as passive conditions and therefore forgotten.36 The
+views in question, moreover, are ahistorical. The role of each individual
+aspect of command and military prowess varies with time and place. There
+is no universal value for any one of these characteristics nor any constant
+basket of weights for the whole: the importance of all these matters
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 16 ---
+14 INTELLIGENCE AND NATIONAL SECURITY
+varies from one period to another. Ipso facto, this is also true of the
+characteristics of any individual commander. Furthermore, one
+common means used to determine the nature and the value of these
+characteristics - the comparison of commanders across the ages and the
+pursuit of the 'Great Captain' - is useful as a heuristic device but fatally
+misleading when applied as a precise and meaningful tool of analysis.
+'Great Captains' are not people, they are a Platonic ideal - a way of
+gauging the quality of individual commanders. This ideal, in turn, rests
+on implicit assumptions about the universal value of specific military
+characteristics; that is, intellectual presuppositions are smuggled into an
+analysis and then uncovered as empirically demonstrated conclusions.
+Certain military qualities are fetishized, while others are ignored,
+without any rigorous justification being offered for this selection of
+values, then certain commanders are treated as archetypes for these
+allegedly universal qualities, as if Hannibal's characteristics would have
+automatically made him master of the western front. While a historical
+record demonstrates the usual (though not universal) inferiority of a
+Bliicher to a Bonaparte, how can one meaningfully compare two
+contemporaries who never fought each other, let alone commanders
+from different epochs; and from these hypothetical comparisons, how
+can one derive lessons regarding the universal value of any single
+characteristic of command or of war?
+These issues of theory can be illuminated through a study of the war
+fought by Douglas MacArthur and his lieutenants against powerful but
+ignorant Japanese enemies, who, instead of using intelligence to control
+uncertainty, relied on a vulgarized version of the Clausewitzian art of
+war, combined with selected traditions from their own warfare. These
+conclusions can be compared with Allied experiences in Europe
+between 1942-45 against a German enemy with similar characteristics.
+This intelligence record will provide a mirror for generals and general-
+ship: by comparing what a given officer believed with his actions one can
+reconstruct his calculus of military actions and his nature as a com-
+mander.
+ULTRA IN THE PACIFIC
+Seven months in the Pacific produced two of the most celebrated events
+in the history of intelligence. While ample attention has been paid to the
+role of codebreaking in the United States' disaster at Pearl Harbor and
+its triumph at Midway, the studies of Ultra (or 'special intelligence', as
+American officers more commonly called it) in any other part of the
+Pacific war have been limited in quantity and quality. A bridge has now
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 17 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 15
+been thrown across this gap in scholarship. The primary strength of
+MacArthur's Ultra, Codebreaking and the War Against Japan, 1942-
+1945yi is Edward Drea's analysis of how one source of intelligence
+worked how it fitted in with the rest, how the material which it produced
+was assessed and used by commanders in a single theater and how all of
+this affected the course of one campaign. The evidence on these issues is
+better than usual in the study of military intelligence and Edward Drea
+has mined it with energy and craft. Drea, a master of the American
+records on MacArthur's campaigns, has also utilized the surviving
+Japanese documents with unprecedented thoroughness. MacArthur's
+Ultra possesses greater analytical sophistication and covers more chro-
+nological terrain than the best previous accounts of intelligence during
+the Pacific war (and good ones, the works of Gordon W. Prange, et
+al.).3S It is entirely superior in analysis, synthesis and research to lesser
+but still useful studies, such as those by John Costello, Edwin Layton,
+Ronald Spector and Ronald Lewin. Drea's sober and multi-causal
+account is far from the speculation, sensationalism and exaggeration of
+the role of intelligence which mar so many studies such as those by
+Ladislas Farago and James Rusbridger, and even those of Lewin and
+Costello.39 Drea does not stretch evidence, misquote it, invent it or
+ignore it, nor does he ever forget that intelligence alone can never win a
+war. On the other hand, he demonstrates that Ultra was the decisive
+source of intelligence in the southwest Pacific, one which fundamentally
+shaped the course of the Pacific war.
+MacArthur's Ultra is essential on two counts. It is the first serious
+study of signals intelligence in the southwest Pacific theater and it is the
+best single study of that campaign as a whole. While Edward Drea is far
+from ignorant of the practice of intelligence, he is not a specialist in its
+study. Thus, he is immune to the ills specialists suffer, particularly the
+tendency to exaggerate the significance of intelligence. Drea's analysis
+of the technical aspects of the topic - the communication and crypto-
+graphic systems of the Imperial Japanese Army and Navy (IJA and
+UN), the techniques by which Allied cryptanalysts attacked these codes
+and the process by which the product was distributed, analysed and
+utilized - is useful to the expert while comprehensible to the common
+reader. His account of codebreaking organizations and the role of data-
+processing machines as a cryptanalytical tool in the South West Pacific
+Area Command (SWPAC) will particularly interest students of crypto-
+logy. Nor does Drea overrate the role of codebreaking. He places it in
+the context of all sources of information and he pays unusual attention
+to often overlooked elements of signals intelligence, such as traffic
+analysis. No other book about the Second World War explains with
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 18 ---
+16 INTELLIGENCE AND NATIONAL SECURITY
+more authority exactly what information was available to any Allied
+commander and his staff on a daily basis and how this affected their
+decisions. Few match the rigor with which Drea compares the causal
+role of Ultra to that of its fellow factors - operational, logistical,
+doctrinal, topographical, personal - in the shaping of events. This work
+ranks alongside those of Ralph Bennett among the best, not to mention
+the few, scholarly studies of signals intelligence during the Second
+World War.40
+Drea takes as his text the dictum of Bennett and F.H. Hinsley that
+there was not one Ultra but several: that the role and importance of
+special intelligence varied with time and theater. Certainly there were
+fundamental differences between the Ultras of the Pacific and Europe,
+for technical, tactical, organizational and political reasons. In Europe,
+Ultra emanated from a centralized bureau controlled by one country,
+which co-ordinated the attack on every code of two others. Codebreak-
+ing against Japan was produced by several agencies of three allies
+(Australia, Great Britain and the United States) working in a decentra-
+lized fashion. The USN and the American Army ran separate organiza-
+tions, each divided between autonomous bureaus in Washington and
+the Pacific, while the cryptanalysts in Delhi had greater independence
+than any other sub-section of British codebreaking. This frustrated
+those at the time who held that only a centralized system could foster
+efficient cryptanalysis and that frustration has shaped the historiography
+of the period. It has led, in particular, to the claim that because SWPAC
+sabotaged centralization, it must have abused Ultra.41 This may be true
+but it has yet to be proven. Certainly the loose system of the Pacific met
+the needs of the USN in 1942, while Drea argues that it always worked
+for SWPAC. However effective in technical terms, this system had
+obvious political consequences: it left ample room for bureaucratic
+buccaneering. Nothing could have better suited MacArthur, a com-
+mander of messianic self-confidence, a well-honed public relations
+machine with remarkable political power, a desire for total sway over
+his own sphere and the determination to control Allied strategy against
+Japan. He had unique control over codebreaking in his theater
+for 'Central Bureau', MacArthur's signals intelligence agency, was
+never subsumed in the integrated Anglo-American cryptanalytical
+system. This remained his private intelligence bureau, producing
+MacArthur's Ultra for MacArthur's aims - to crush the foe and
+influence his friends.
+Drea, by implication, leaves his readers with the impression that
+Ultra in Europe grew technically more successful and militarily more
+useful in a steady, regular and virtually unbroken fashion as time went
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 19 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 17
+by. While this argument is tolerably accurate as a broad generalization
+for the whole period 1939-45, it is not true of specific matters during
+smaller periods of time, such as the campaigns in the Atlantic and in
+Africa during 1940-43. The history of Ultra in these two theaters and in
+the southwest Pacific is very similar, replete with sudden and complete
+cryptanalytical successes or defeats and reversals of cryptological for-
+tune - situations in which a total inability to penetrate one of the
+enemy's cryptographic systems coincided with total access to others.
+Moreover, in these campaigns technical achievements in cryptanalysis
+and success on the field of battle were not linked in a simple linear
+pattern. Arguably, in the Mediterranean campaign Ultra could have
+been most useful when it was technically most primitive rather than
+most mature, because of the prevailing strategic and operational
+conditions. When it was most primitive, force-to-space ratios were low,
+as were both sides' strengths; hence, victories with decisive conse-
+quences were feasible. By the time that Ultra matured, both sides were
+locked in a prolonged struggle of attrition.42 The differences between
+the history of Ultra in Europe and the Pacific are not as stark and simple
+as Drea suggests. They also exist in areas which are not discussed in his
+formal and explicit analyses. In his formal explanations of the causes for
+events, Drea appears to explain the differences between the effect of
+Ultra in Europe and the Pacific primarily in terms of the technical
+success of cryptanalytical bureaus and the personal predilections of
+commanders. He does not always explicitly incorporate two other
+factors: Ultra's limitations as a source of intelligence - what material it
+could and could not provide - and the issue of how far such material
+could and could not be used in distinct operational and strategic
+circumstances. On the other hand, these matters are integrated impli-
+citly into his narrative, and effectively so.
+The history of Ultra in Europe and the Pacific also differed. In
+Europe the sequence of events regarding Allied success against German
+cryptographic systems was broadly similar, although the date at which
+the process began varied significantly with the German service in
+question. First came a period of limited and often fragmentary access to
+specific Enigma keys, coupled with major problems in assessing such
+material. Then followed a cryptanalytical breakthrough, which pro-
+duced high-level material on a continual and current basis; finally,
+analysts enjoyed a long period of mature exploitation, during which
+they determined the main lines of the enemy's organization, drew
+powerful conclusions about its operational intentions and precise ones
+about its capabilities, and were almost always accurate about such
+fundamental matters as the enemy's order of battle.
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 20 ---
+18 INTELLIGENCE AND NATIONAL SECURITY
+Little of this was true of the Pacific, although that theater was at first
+glance ideally suited for signals intelligence. Forces were scattered over
+millions of square miles, often lacking direct links by cable; hence radio
+dominated communications. Prisoners of war and agents were less
+effective sources of intelligence than usual while captured documents,
+photo reconnaissance and signals intelligence were far more important
+than usual. In the wireless war the Allies had two additional advantages:
+the IJA and UN lacked sophisticated signals intelligence services and
+placed immense faith in the formal security of their cryptographic
+systems. The operational circumstances of the Pacific enhanced these
+opportunities. (See Maps 1 and 2.) Force-to-space ratios were extraordi-
+narily low. Most elements of both sides were rarely in direct contact
+with the enemy; consequently the disposition, strength and intentions of
+such forces were masked and difficult to calculate. Seldom has posses-
+sion of the initiative carried such consequences. It was unusually
+difficult to recover one's balance if struck by an unexpected blow -
+weeks might be required to redeploy naval or air forces from one base to
+another, months to build the infrastructure needed to maintain large
+forces in a new area or to move soldiers by sea or land. The war in New
+Guinea, in particular, was a sideshow in which neither side could easily
+replace its losses. The destruction of 20,000 men or 200 airplanes or the
+capture of one supply base could transform a campaign in a territory
+with the geographical space of the Mediterranean theater. Operations in
+New Guinea, for example, turned on the annihilation of forward
+Japanese airbases in August 1943 and on the battles of the Bismarck Sea
+and Hollandia, and in all of these absolute Japanese material losses
+were quite small. The ability to concentrate strength against enemy
+weakness, to catch the enemy by surprise and to profit from a
+knowledge of enemy intentions was unusually great; this was doubly
+true for that most risky and complex of military operations, amphibious
+assaults. Such circumstances generally provide the greatest opportuni-
+ties for success through signals intelligence.
+Events did not work quite as might have been anticipated, because of
+the IJA's organization and its cryptographic systems. The IJA and UN
+relied on superenciphered codebooks, which were slower to use than
+the machine cipher systems of the era. They were more labour-intensive
+and unable to carry as heavy a load of traffic before coming cryptologi-
+cally vulnerable, while the distribution of new books and tables was
+dogged by difficulties; nevertheless, they were a perfectly good means of
+defense if used with parsimony and skill. In practice, they were as secure
+as the technically more sophisticated Enigma and Purple systems; at
+least changes in superencipherment tables sometimes denied
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 21 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 19
+MAP 1
+THE NEW GUINEA AND MEDITERRANEAN THEATERS COMPARED
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 22 ---
+20 INTELLIGENCE AND NATIONAL SECURITY
+MAP 2
+THE MEDITERRANEAN AND WESTERN PACIFIC THEATERS COMPARED
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 23 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 21
+Allied cryptanalysts complete access to Japanese codes. Moreover,
+these systems often were used with skill, if not always so. From early
+1942 the UN's most important radio signals were more frequently read
+by the enemy than not, although access might be lost for several weeks
+at a time when codebooks or superencipherment tables were changed.
+By December 1941, however, none of the IJA's systems had been
+penetrated, and thereafter its security procedures were sound. They
+were always better than the practices of the armies in Germany, Italy
+and the Soviet Union and, until 1944, at least equal to those of the
+American or British Commonwealth forces. There was one solitary if
+crucial exception to that rule, the IJA's 'water transport' system, used
+for army traffic about troop and logistical shipments by sea. This was
+created in December 1942 and solved by Allied cryptanalysts four
+months later.43
+Thus the Allies had more or less complete mastery over all codes
+regarding Japanese maritime matters. That was the fundamental prior-
+ity in this genuinely combined services war, where the struggles on land,
+sea and air were far less self-contained than in Europe. However, the
+IJA's cryptographic systems for use within divisions (and sometimes
+between garrisons and their immediate superiors) were the most secure
+of any army of the entire Second World War. They were never once
+solved. Admittedly, the elements within Japanese divisions needed
+relatively little intercommunication by radio, given their operational
+circumstances: had they been forced to signal to the degree required
+under European conditions, either Japanese command within divisions
+would have been strangled or the security of their codes would have
+collapsed.44 The IJA had not found a general solution to the problem of
+middle-grade cryptographic systems and communications within div-
+isions, merely an effective solution to its own particular difficulties in
+that sphere. Until January 1944, Western cryptanalysts also failed to
+penetrate the superenciphered codebooks used for communication
+between Japanese formations. Only when the Japanese 20th Division
+failed to destroy its codebooks during a withdrawal in New Guinea did
+the Americans finally break in, assisted by subsequent compromises of a
+similar nature.45 As so often occurs, defeat on the field of battle crippled
+signals and cryptographic security, and compromises of security fath-
+ered operational catastrophes, in a vicious circle. None the less, for the
+first half of the Pacific war, more signals intelligence about Japanese
+land operations was acquired through cryptanalysis of naval than of
+army traffic, just as at the same time solutions of Luftwaffe traffic were
+the main source of Ultra on the German Army. Of all the Axis fighting
+services the IJA, along with the German U-boat command, possessed
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 24 ---
+22 INTELLIGENCE AND NATIONAL SECURITY
+by far the hardest cryptographic shell. In both cases the nut cracked only
+because the Allies acquired copies of the system, unbeknown to the
+enemy. Hence, from the spring of 1942 Allied commanders in the
+southwest Pacific could profit from traffic analysis against UN and IJA
+stations, along with mastery of the UN's operational traffic, its 'water
+transport' systems and, after April 1943, of the IJA's 'water transport'
+systems. Until January 1944, however, rather late in the day, they had
+no access to the IJA's operational traffic. After that date, material of
+this sort flooded in.
+Nor was that the only problem at hand. In both world wars, the
+primary task of signals intelligence was to master the enemy's order of
+battle, after which its capabilities were much easier to define and its
+intentions less difficult to determine. This task was most readily
+accomplished against an enemy with a predictable chain of command. It
+was unusually difficult against the IJA because the success of signals
+intelligence varies with the cultural, structural and doctrinal background
+of the target. The IJA did not organize on the conventional Western
+pattern. To a greater extent than any other army of the Second World
+War, Japanese commands were established in the form of ad hoc task
+forces, composed of a unique melange of units drawn from many
+different formations, which were often designated only by the name of
+their senior officer; elements of a single division were routinely
+dispersed hundreds of miles from the others. The location of a given
+German regiment normally indicated the presence of a specific division.
+The strength of such forces usually could be calculated with a tolerable
+degree of accuracy, and sometimes with extraordinary precision. This
+was not true of the IJA nor of many non-Western armies during this
+century, such as those of the Turks during the First World War and the
+Iranians during the Gulf War of the 1980s.46 Structural links between
+the IJA's units and formations were loose, by Western standards: the
+identification of a given unit did not necessarily indicate anything about
+any formation, or vice versa. When reconstructing the IJA's order of
+battle, the basic building block was the battalion rather than the
+division: this rendered reconstruction more difficult by an entire order
+of magnitude. In 1937 the British Military Attache in Tokyo, F.S.G.
+Piggott, who had controlled intelligence for the Second British Army
+during the last phase of the great war wrote that 'it was easier to draw up
+the German Order of Battle in France in 1918, than the Japanese Order
+of Battle in China in 1937',47 This difficulty persisted in various forms
+throughout the Pacific war. Until early 1944, the Allies had a surpris-
+ingly limited grasp of the enemy's order of battle both in theaters and
+garrisons. Then, through the break into IJA operational traffic and the
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 25 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 23
+difficult technical task of assessing 'address groups' (the elements within
+any cryptographic system which identify the transmitter and recipient of
+messages) Central Branch was able to determine the location, boundar-
+ies and titles of all IJA headquarters, and therefore the disposition and
+deployments of all its higher formations. Here, as ever, intelligence was
+entirely irrelevant to grand strategy, and secondary in the formulation
+of strategic objectives at the theater level - such issues are decided by
+the interests of states and the attitudes of statesmen. The material from
+Ultra, however, was sometimes fundamental to the execution of
+theater-level strategy. It frequently guided the selection between and
+the planning for major operations, and it was essential for the success of
+the most effective operational options available to SWPAC, outflanking
+or bypassing. At the same time, however, it was too imprecise to meet
+many critical operational needs, such as uncovering with certainty the
+strength and composition of specific commands.
+Compared with the norm with signals intelligence, Ultra in the south-
+west Pacific was unusually effective in tracing enemy intentions but
+surprisingly unsuccessful in determining its capabilities - usually an
+easier task. Compared with its peak in Europe, Ultra in the Pacific
+never achieved complete mastery over the enemy's order of battle.
+After accounting for these differences, the two were roughly equal as
+sources of strategic intelligence and had A roughly comparable effect on
+strategy and the planning of major operations. The situation was more
+complex at lower levels of war. Compared with western Europe, Ultra
+in the southwest Pacific was generally a less thorough and accurate
+source of operational intelligence, but conditions on the battlefield
+allowed intelligence more easily to shape dramatic operations. There-
+fore, in the South-West Pacific, Ultra of technically lesser quality
+contributed to operational triumphs which matched anything in Europe.
+In the Pacific, Ultra's greatest value lay in addressing the issues of how
+to execute lines of strategy and where (or where not) to begin major
+operations. Once direct contact was established with the enemy,
+however, most information was acquired through tactical means in
+which the Allies had no particular advantages, which meant that the
+balance of intelligence between the IJA and the Americans moved
+toward equality.
+These characteristics stemmed not merely from Japanese crypto-
+graphic and military-bureaucratic systems, but from the nature of Ultra
+and of intelligence assessment at SWPAC. Ultra was the most sophisti-
+cated source of intelligence during the Second World War, bu| It was
+never perfect and not always the best. Ultra took words straight from
+the enemy's mouth, but those words were not always straightforward.
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 26 ---
+24 INTELLIGENCE AND NATIONAL SECURITY
+As Ralph Bennett has written: 'Ultra always told the truth, but not
+always the whole truth.'48 Ultra's output fell between two poles, one
+best described by words such as 'transparent' and 'self-evident' and the
+other by terms like 'opaque' and 'ambiguous'. The meaning of messages
+of the first type seemed to be intuitively clear compared with the
+framework of common sense, as when an enemy commander outlined
+his imminent intentions, or his quartermaster defined their order of
+battle, or a convoy signalled its location. In all such cases, the nature
+of the content was intuitively self-evident. Conversely, the content of
+traffic of the second type was, in itself, ambiguous — its meaning could
+be determined only through formal and frequently elaborate analysis.
+Fragmentary bits of intelligence about the enemy's dispositions and
+order of battle, for example, often provide value only through the
+derivation of inferences that can be acquired solely through the
+application of a reasoned, but seemingly arbitrary and arcane, process.
+The first sort of material is relatively easy to understand and trust and
+use; the second is more problematic on all of these counts. MacArthur's
+headquarters handled matter of the first kind very well but.not the
+second. It could not master the higher level of analysis needed to exploit
+such material, work which Bletchley Park and Allied commands in
+Europe did so well. Hence, SWPAC's intelligence assessments were
+flawed and often dismally bad.
+In this sphere MacArthur's headquarters was the least successful and
+among the least competent senior commands of the Western Allies.
+Here the critics of SWPAC's use of Ultra find much ammunition. Drea
+does not quite recognize the weakness of SWPAC's performance, but
+close reading of his narrative proves the point. He describes a constant
+pattern. SWPAC made effective use of unambiguous information, 'hot'
+and 'hard', about enemy intentions and capabilities, while its assess-
+ments of ambiguous material were mediocre to poor. In particular,
+SWPAC misconstrued the enemy's strength and dispositions in its
+planning before battle after battle. While such errors were most routine
+and extreme during the first year of the war, they occurred even to its
+end.
+This stemmed primarily from the personality of MacArthur himself.
+He was not the type of officer to encourage the objective analysis of
+intelligence. He wished to see material which supported the aims he had
+already defined and proved they were good. Anything else he would
+ignore: nothing else could more easily be baked to suit his appetite than
+ambiguous material. MacArthur defined the nature of his meals through
+the selection of a cook who would always season his meals according to
+his master's taste. His intelligence chief, General Charles Willoughby,
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 27 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 25
+was almost always significantly wrong whenever his data were not self-
+evident and extraordinarily precise. Even then his estimates were
+usually mediocre, with a few brilliant exceptions derived from self-
+evident Ultra traffic, most notably before the attack on Hollandia in
+1944. MacArthur once stated that there had been only three great
+military intelligence chiefs in history 'and mine is not one of them'.49
+This was an understatement: under MacArthur, Willoughby was argu-
+ably one of the three worst intelligence chiefs of the Second World War.
+It was also self-condemnation. Intelligence can only be as good as its
+master. Enlightened and open-minded generals will always gain more
+from it than will those who know what they want to be told and refuse to
+hear anything else. Some men use lamp-posts for illumination, some
+simply for support; and several subordinate headquarters under
+MacArthur's command, American or Australian, did assess Ultra on
+the IJA better than SWPAC.
+MacArthur, Willoughby and other staff officers at SWPAC also failed
+to understand the Japanese way of war, the strategic calculus which
+determined what range of options Japanese commanders believed they
+had and how they would choose among them. Drea does not systemati-
+cally assess American preconceptions about Japan and its army and
+their effect on American military operations (although few historians
+are better suited to this task), nor does he entirely share the influential
+views of John Dower on that topic.50 Drea does, however, demonstrate
+that SWPAC's predictions of Japanese behavior rested on cultural and
+military ethnocentrism, ignorance of the enemy's doctrine and the belief
+that the enemy must act as Americans would in their place. Not
+surprisingly, right to the end of the war, Japanese decisions continually
+surprised SWPAC and many, although not all, of its subordinate
+commanders. The Australian General Thomas Blarney and the Ameri-
+can General Walter Krueger grasped the IJA's style of operations quite
+well and that knowledge shaped their professional if unpublicized
+operations against it. Ultra, which sometimes saved MacArthur from
+the costs of such errors, was perhaps the only kind of intelligence
+capable of overcoming the combination of ethnocentrism and mediocre
+assessment at SWPAC as well as the unusual problems involved in
+determining the enemy's capabilities. Thus Ultra may have been even
+more crucial to MacArthur's success than Drea allows, yet he allows a
+great deal.
+In the Pacific war, the period between August 1942 and September
+1943 was one of equilibrium and attrition between forces roughly equal
+in quantity, quality and initiative. The build-up of Allied strength in
+New Guinea and the Solomon Islands turned the forward edge of
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 28 ---
+26 INTELLIGENCE AND NATIONAL SECURITY
+Japanese conquest into the central battlefield of the Pacific war. The
+operations in these areas cost Japan more than the United States. Japan
+was less able to replace losses, because of its casualties in aircrafts,
+pilots, transport vessels and soldiers substantially exceeded those of the
+Allies, who used their forces with greater economy and effect. In this
+campaign, the sources and targets of military power were armed men
+and the means to keep them armed. Both sides strove to maintain large
+forces in some of the least developed places between the poles, where
+virtually no logistical infrastructure or networks of physical communica-
+tions existed. In such a war and such an environment, the United States
+held the strongest cards. Nowhere could it more thoroughly outmatch
+Japan than in creating an entirely new system of military logistics and in
+fighting a war of material attrition. Japan, conversely, had made
+precisely the errors defined by Clausewitz:
+Since the object of the attack is the possession of the enemy's
+territory, it follows that the advance will continue until the
+attacker's superiority is exhausted . . . What matters therefore is
+to detect the culminating point of victory with discriminate
+judgement.
+One defense is ... not exactly like another, nor will defense
+always enjoy the same degree of superiority over attack. In
+particular this will be the case in a defense that follows directly the
+exhaustion of an offensive - a defense whose theater of operations
+is located at the apex of an offensive wedge thrust forward deep
+into hostile territory ... a defense that is undertaken in the
+framework of an offensive is weakened in all its key elements
+51
+Instead, expanding until it could go no further, Japan reached its level
+of incompetence, where it fought with all its power and to the death.
+The battlefields of New Guinea and the Solomon Islands were simply
+too large and too far forward to suit its tiny logistical and transport
+capabilities. With every mile added to the distance between the battles
+and its main centers of power, Tokyo, Manila and Singapore, its
+logistical problems multiplied and its lines of communication became
+more exposed. Japan was fighting precisely the war which least suited its
+material resources, a prolonged and costly battle of attrition beyond
+easy reach of its supply system.
+This drove Japan, as a matter of routine, to take great and often
+costly risks, such as shipping divisions to the most forward ports under
+its control, and into the maw of enemy air and naval strength, or
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 29 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 27
+operating hundreds of aircraft from the same base, all vulnerable to one
+massive onslaught. Japan's fighting and logistical services entered a
+vicious circle, which progressively weakened their ability to fight
+anywhere at all. For as both sides strained their muscles to strangle one
+another in New Guinea and the Solomon Islands, Allied forces began to
+slash the exposed limbs of Japanese logistics. The southwest Pacific
+witnessed a terrible campaign of maritime interdiction, rendered even
+more deadly and one-sided by Japan's failure to retaliate in kind and its
+incompetence in convoy escort. These engagements eroded still further
+the relative ability of Japanese logistics to support a prolonged war of
+attrition. By early 1944, exactly as the IJA adopted a strategy of human
+(though not material) attrition. Japan had lost the naval and air strength
+needed to back it. Japan was on the verge of losing any use from every
+single soldier and ton of supplies on its forward defensive perimeter
+from the Marshall Islands to Burma.
+These American engagements also directly shaped operations: the
+battle of the Bismarck Sea drowned not merely a division but any hope
+for Japanese strategic intiative in New Guinea. Similarly, pre-emptive
+airstrikes wrecked Japan's forward airbases on that island, largely
+because" the Japanese had failed to develop an effective early warning
+system for air defense or to use properly its few radar sets. This crippled
+Japan's air performance and increased the scale of its aircraft losses.
+Between August 1942 and February 1944 the great American victor-
+ies in the Pacific lay in the war of attrition. No doubt some such success
+would have occurred in a world without Ultra but, as Drea demon-
+strates, in the world as it was these triumphs did rest on the foundation
+of signals intelligence. As a result, small American forces were used
+with optimum effect against their logistical and air targets. A few
+hundred aircraft and a few dozen submarines on station did not have to
+hunt tiny and elusive targets in an area of a million square miles. The
+location, strength and intentions of those targets were known; little
+American effort was wasted and few opportunities were missed. As the
+generator of both the economy and the concentration of force, intelli-
+gence came close to reducing uncertainty. It allowed precisely intended
+actions to be executed precisely as intended. By ensuring that all
+available American naval and air power would be used effectively
+against the enemy, it turned aggressive risk-taking into calculated risk.
+MacArthur's air force commander, General George Kenney, was no
+better than SWPAC in dealing with ambiguous information. Yet Kenney
+received vast amounts of 'hot' and 'hard' material from Ultra, which he
+trusted and used in one of the most successful campaigns of interdiction
+and the acquisition of air supremacy ever waged by any air force. Few
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 30 ---
+28 INTELLIGENCE AND NATIONAL SECURITY
+commanders have married intelligence so well to operations and with
+such effect.
+Events on the ground in New Guinea during 1942-43 took a different
+form. Despite the breathtaking self-sacrifice of Japanese soldiers and
+their formidable military qualities, the DA lost more men than the
+Allies in every major engagement. Nor could it match Allied material
+resources. On the tactical and operational levels, however, the IJA's
+attacks often caught the Allies by surprise, making them fight in areas
+where their advantages in material could not easily be deployed. When
+on the defensive, the IJA forced the Allies to launch slow and costly
+battles of attrition. All this offered Japan the chance for perpetual check
+in New Guinea. If forced to fight on the IJA's terms, the limited
+resources of SWPAC could do no more than slowly reconquer a
+wilderness. This is exactly what happened during the middle game of
+this campaign. Whether the Allies used their armies clumsily, as under
+MacArthur in the summer of 1942, or with skill, as under Blarney in the
+spring and summer of 1943, they were not pursuing a winning strategy.
+Instead, they played directly into the IJA's policy of delay, human
+attrition and the grinding of American will. Nor was Ultra of great value
+in these operations. In technical terms, it was in a primitive state,
+producing little material directly relevant to land operations - material
+which, in any event, was difficult to interpret. It sometimes illuminated
+the enemy's strategic redeployments to the theater but MacArthur's
+armies (unlike his air forces) were in no position to act on that material.
+Given the nature of the terrain and the naval and air balance between
+the adversaries, Allied land forces had a limited range of options, all of
+which led to a pattern of stereotyped operations along narrow and
+predictable channels of advance. So long as this continued, SWPAC
+could never take center-stage in American strategy nor could Ultra offer
+more than marginal assistance on the field of battle.
+At the turn of 1944 all of these things changed, for a brief but crucial
+period, as did MacArthur as military commander. His record in the
+Pacific before April 1944 and after November 1944 was mixed. On the
+one hand, he evinced aggression, willpower, a gambler's instinct and a
+flair for amphibious operations. Against that stood his penchants for
+misreading enemy intentions, for issuing unrealistic orders and for
+attacking directly where the enemy was strongest; his operations on
+land, moreover, tended to become bogged down in battles of attrition, a
+style of operations in which he was not gifted. Conversely, in mid-1944
+MacArthur conducted an impressive campaign which turned his com-
+mand from the periphery to the center of Allied strategy in the Pacific.
+Not coincidentally, this occurred precisely when Ultra finally and
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 31 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 29
+suddenly penetrated into the IJA's operational traffic. That was a
+necessary cause for MacArthur's successes, but it was not a sufficient
+one. The side with superior intelligence also possessed greater military
+power and favorable opportunities to fight a war of maneuver. The war
+of attrition had gutted Japanese naval and air resources, the bulwarks
+needed to brace its defense perimeters against major blows. American
+military power heavily outweighed that of Japan in quantity and quality,
+while the breaching of the Bismarck barrier and the cracking of the
+shield of the Marshall Islands opened a 1,000-mile line of sea room for a
+campaign of maneuver toward Japan's inner defense perimeter. On
+New Guinea the IJA remained formidable, with roughly as many
+soldiers as SWPAC possessed, but it was strong in only a few locations
+along a 1,000-mile coastline. Elsewhere it was not merely weak but
+almost literally non-existent. Its logistical structure consisted of one
+major supply centre and a handful of small ones, linked by coastal
+shipping and portage on human backs through roadless bush. This
+system could sustain the forward crust of the IJA against the heaviest
+direct thrust which SWPAC could launch, but just one deep and heavy
+amphibious blow might shatter it beyond hope of repair. In 1944, unlike
+1943, such blows could be launched. Japanese air forces on New Guinea
+might endanger or annihilate amphibious operations but they were far
+weaker than Kenney's command and, as ever, were vulnerable to pre-
+emptive airstrikes. Admiral Halsey's Third Fleet in the south/central
+Pacific generally tied down the UN. The latter, however, could still
+despatch naval forces greater than those under MacArthur's command
+for short periods of time to the waters around the northern half of the
+New Guinea theater.
+The erosion of Japanese naval and air resources, combined with the
+rise in his own logistical and amphibious capabilities, gave MacArthur
+the opportunity to strike long and heavy blows at Japanese positions.
+The potential range of his amphibious assaults increased from 80 to 800
+miles from his main base. In principle, a repetitive pattern of stereo-
+typed operations in predictable sectors of attack could be avoided. But
+in practice, as Drea demonstrates, without Ultra MacArthur would not
+have used these material resources with maximum effect; he might not
+even have understood the new range of options open to him. Certainly
+in early 1944, before the intervention of Ultra, MacArthur still pursued
+a stereotyped line of operations: to strike directly at Hansa Bay, the
+enemy's main line of resistance. This would have played straight into
+Japan's hands. The IJA treated east-central New Guinea as a forward
+glacis on which to delay the enemy and to weaken its strength.
+Meanwhile it prepared to make north-western New Guinea a bastion for
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 32 ---
+30 INTELLIGENCE AND NATIONAL SECURITY
+part of the inner defensive sector, the Philippines. As Drea emphasizes,
+a direct attack on the outer crust of Japanese defences at Hansa Bay
+might well have failed and, had it done so, the southwest Pacific theater
+would have been completely marginalized.
+Once Ultra of a self-evident nature uncovered Japanese deployments
+on New Guinea, in particular, the strength of its forward crust at Hansa
+Bay and the weakness of its main supply base at Hollandia, MacArthur
+jettisoned his plans. To precise knowledge and superior force he added
+aggressive command and the calculated pursuit of great gains at the risk
+of moderate losses. In March-April 1944 Kenney's forces demolished
+enemy air strength in central New Guinea, followed immediately by the
+seaborne seizure of Hollandia. This shattered Japanese defenses in the
+southwest Pacific and split its forces on New Guinea into two halves.
+Over the next two months a fast and aggressive amphibious campaign
+seized north-western New Guinea before Japanese defenses could be
+solidified, while several UN counter-attacks were parried. During the
+four months between April to July 1944, MacArthur leapt five times
+further than in the previous 24 months: his forces annihilated or isolated
+five IJA divisions while suffering small American losses and smashed in
+Japan's external defensive perimeter - just as Halsey's forces were
+doing 1,000 miles to the north. MacArthur also seized bases for the
+assault on the Philippines, the projected date of which was advanced by
+five months. Then the attack on the relatively weak garrison of Leyte in
+the Philippines during October 1944 caught Japan by surprise. Ultimat-
+ely, the American hammer smashed three divisions and what remained
+of Japan's regular naval and air forces on the anvil of Leyte. This gave
+MacArthur the opportunity to render irrelevant and bypass much of the
+inner perimeter of Japanese defenses, the Philippines. In any case, he
+could now directly attack the most vital and vulnerable components of
+the Japanese Empire - its line of maritime communications from
+Singapore to Tokyo, and the Japanese home islands.
+These operations and MacArthur's entire strategy of bypassing
+enemy strongpoints and concentrating his power against weakly held
+but strategically vital areas that could serve as forward logistical and air
+bases, rested on intelligence, in particular, on Ultra. In the battle for
+Leyte, Ultra also allowed American airforces to smash several units
+and portions of the Japanese 23rd and 26th Divisions at sea, thus
+crippling the defense of that island and the quality of several good
+formations. Yet Ultra increasingly lost that function and this value once
+American forces entered the Philippines. Tough fighting could no
+longer be avoided, since strong garrisons held each position in the
+innermost perimeter of Japanese defenses. MacArthur refused to
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 33 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 31
+bypass most of the Philippines but insisted on assaulting many of its
+main islands, because he viewed the conquest of the Philippines as an
+aim rather than a means: and an aim defined far less by the dictates of
+strategy than his own personal prestige. The logic of the battlefield and
+of MacArthur threw American forces directly against centers of Japa-
+nese strength, instead of around them. This situation was like that in
+New Guinea during 1943, with one difference - given a vast increase in
+their firepower, American forces ground down the DA more quickly
+and cheaply than before. By 1945 the Japanese command on Okinawa
+calculated that every American division possessed five times more
+firepower than any Japanese one.52 Even so, MacArthur's operations
+cost time and American lives, and many of his assaults were unnecessary
+for the advance upon Japan.
+Simultaneously, these battles required the support of precisely that
+sort of intelligence which SWPAC could least provide. MacArthur's
+great campaign of March-October 1944 had rested on the basis of self-
+evident Ultra. It had required exactly the material which Ultra was best
+able to acquire and SWPAC to understand and use, on the enemy's
+strategic intentions, perceptions, dispositions and redeployments. Intel-
+ligence-on these strategic issues could differentiate enemy strongpoints
+from centers of weakness. If SWPAC could determine where the enemy
+was weak, it did not need precise intelligence on the composition of
+garrisons which were known to be strong, so long as it proposed to
+bypass them. This was fortunate, since even in mid-1944 its assessments
+of such operational intelligence were mixed in quality. The lacunae in
+Ultra and errors in its analysis led to gross miscalculations of the
+strength of several garrisons which American forces did have to attack,
+failures in assessing the maritime movement of some Japanese reinfor-
+cements, especially its First Division, to Leyte, and a misunderstanding
+of the enemy's intentions before the divisional strength attack at Aitepe
+in New Guinea.
+Once the strategy of bypassing was abandoned, and American forces
+were condemned to attack Japanese strength head-on, these problems
+in the acquisition and assessment of intelligence acquired more and
+more importance. With the near-annihilation of the UN and of Japan's
+ability to move soldiers and supplies by sea, cryptanalytical access to
+traffic about maritime matters became irrelevant. Yet previously that
+had been the main source of signals intelligence and of self-evident
+Ultra, the material which SWPAC used most effectively. While the
+IJA's operational codes yielded far more material than before, this
+could not be used in a straightforward fashion. In essence, this traffic
+provided opaque Ultra, SWPAC's traditional weak point, about the
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 34 ---
+32 INTELLIGENCE AND NATIONAL SECURITY
+least comprehensible aspect of the IJA, its order of battle and the
+strength of its formations. Moreover, there must almost always be gaps
+in the material provided by any single source of intelligence. Conti-
+nually from November 1944 SWPAC misunderstood these issues, while
+MacArthur ignored Ultra whenever it did not say what he wished to
+hear. Not only this, to a large extent his strategy threw away the
+potential advantages offered by Ultra.
+When American forces entered the Philippines Ultra became less and
+less useful. Misled by a combination of fragmentary intelligence,
+especially regarding the strength of smaller formations and support
+troops, and an analysis which rested on wishful thinking, Willoughby
+underestimated the number of Japanese defenders on Luzon in the
+Philippines by 50 per cent, or 130,000 soldiers. SWPAC's planning for
+the invasion of Luzon rested on this assumption. MacArthur in
+particular wished to fight a rapid and risky campaign which would have
+played straight into the hands of a strong, effectively deployed and well-
+led enemy. Fortunately, working from exactly the same data, Krueger's
+headquarters assessed Japanese strength accurately and far better than
+SWPAC did. Krueger, not MacArthur, ran the battle and he did so
+through a broad and cautious advance which took Japanese- power
+properly into account. This reduced to a minimum American casualties
+but also the speed of the campaign. On Luzon as on Okinawa, isolated
+and outnumbered IJA forces substantially reduced the American
+strength available to attack the Japanese home islands. By 1944, alone
+among the Axis armed services, the fighting quality of the IJA had not
+generally collapsed from its peak of 1942. A strategy of bypassing
+rendered most of its strengths irrelevant and exploited all of its
+weaknesses. Once bypassing was abandoned, the abiding power of the
+IJA could again support Japan's strategy of delay and attrition of
+American manpower and willpower.
+Gaps in Ultra and mistakes in its interpretation did not hamper the
+invasion of Luzon but neither did signals intelligence particularly help it.
+Ultra showed Krueger that he must fight a careful and cautious
+campaign, but this was his predilection in any case, and not an
+unreasonable one given the known quality and characteristics of the
+IJA. Ultra certainly had little effect on his operations once ashore.
+In Operation Olympic, the projected invasion of Kyushu, Ultra was
+more successful. It was the only source of strategic intelligence
+available to American planners and in some ways a strikingly effective
+source. It located 13 of the 14 divisions in Kyushu and uncovered the
+IJA's entire defensive strategy. Conversely, Ultra did not define the
+strength of these units. Thus Willoughby underestimated the number of
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 35 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 33
+Japanese soldiers on Kyushu by some 40 per cent. Mac Arthur rejected
+this calculation as defeatist and held that Japanese forces were even
+smaller than Willoughby supposed. Fortunately, the plan of campaign
+which rested on this optimism was not put to the test, largely because of
+the indirect influence of Ultra.
+Ultra also shaped the politics of American strategy at the theater level
+throughout 1944-45. It was not the only factor at play, but until Ultra is
+accounted for, the decisions to invade the Philippines and to use the
+atomic bomb will be misunderstood.53 During 1942-43 SWPAC was a
+command of tertiary importance. The operations of 1944 made the terr-
+itory under its control a plausible base for the assault on the Japanese
+home islands: and MacArthur immediately brought the Philippines to
+the forefront of American strategy. While Chester Nimitz and 'Bull'
+Halsey, potential rivals for dominance over American strategy in the
+Pacific, accepted MacArthur's case, the Joint Chiefs of Staff were less
+accommodating. Here Ultra became MacArthur's trump card. During
+the debate over the future of American strategy between June and
+August 1944, assessments of Japanese capabilities and intentions rested
+primarily on Ultra. MacArthur's operations of the period, his drafting
+and redrafting of plans for the invasion of the Philippines, were shaped
+by Ultra not only in operational terms but in political ones - by the need
+to overcome the arguments, often themselves derived from interpre-
+tations of Ultra, put forward by opponents to his strategy. Conversely,
+Ultra may have saved Americans and Japanese alike from paying the
+price on Kyushu for MacArthur's ambition to command the largest
+amphibious assault the world had ever seen.
+Ultra was fundamental to the American decision to use the atomic
+bomb: indeed, Edward Drea has demolished the view that intelligence
+should have led Washington away from any use of that weapon. The
+best source of strategic intelligence available to American decision-
+makers in the summer of 1945 was not 'Magic' but Ultra. Magic
+demonstrated - indirectly - the intentions of the liberal Japanese
+faction, which had routinely lost power struggles in Tokyo for 15 years.
+It revealed that even they pursued peace terms which the United States
+would not accept. Ultra revealed - directly - the capabilities of the IJA
+and the intentions of the faction which dominated Japanese policy. It
+showed that the IJA intended to make Kyushu a second Okinawa and
+fight to the death, taking tens of thousands of Americans killed and
+hundreds of thousands of wounded with them, not to mention millions
+of Japanese. An assessment of the intelligence record as a whole - as
+against mere Magic - makes the attitudes of American decision-makers
+towards the atomic bomb more explicable. Ultra directly pressed the
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 36 ---
+34 INTELLIGENCE AND NATIONAL SECURITY
+United States towards the use of the atomic bomb and away from a
+conventional amphibious assault.
+Viewed with hindsight, the Pacific war was a classic case of military
+overkill. Japan was so outweighed by Western technology and Ameri-
+can industry that a single-handed Japanese victory was impossible. Even
+its survival as an independent state was unlikely. Only if Germany had
+won the war in Europe and come to rescue its ally (which, in turn, might
+have been possible only if Japan had joined in an attack on Russia
+during 1941 instead of starting the Pacific War in the first place) was any
+kind of Japanese victory conceivable. So, even though signals intelli-
+gence clearly was involved in Japan's defeat, obvious questions remain.
+How important was Ultra? Was it necessary to victory? Could the war
+have been won without it and in what way? While these questions
+cannot receive a definitive answer, they can be addressed through three
+arguments.
+First, in 1942 Ultra was a necessary although not a sufficient cause for
+the elimination of the UN's superiority at sea in the battle of Midway -
+luck, Japanese errors, American strength and Chester Nimitz were of
+equal significance. Then, by shaping the American decision to invade
+Guadalcanal, traffic analysis helped to lead Japan toward a campaign
+of material attrition in the south and southwest Pacific.54 Ultimately
+these events significantly hastened the withering of Japanese military
+power.
+Second, in 1944 Ultra was necessary to the strategy of bypassing,
+which short-circuited Japan's hopes to grind down American will
+through human attrition. This Japanese strategy was not necessarily
+foredoomed. Even accounting for the desire to avenge Pearl Harbor,
+the United States would not have had to pay an unlimited price simply
+to annihilate Japan. Had conventional forces been the only kind
+involved, the United States might have been ready to accept a more
+favorable kind of negotiated peace than Japan in effect received. After
+all, in Korea and Vietnam between 1950 and 1975, states with no more
+firepower than Japan and a similar style of military operations so eroded
+American will and killed American soldiers as to make the United
+States tolerate a military and diplomatic stalemate. The United States
+suffered heavy losses on New Guinea and Tarawa in 1943, Leyte in
+1944, Luzon, Okinawa and Iwo Jima during 1945. This butcher's bill
+would have been far higher had the United States been unable to leap
+through Japan's defense perimeters by attacking only a few and weakly
+held islands. Of course, even then it can never be established whether
+the United States would have refused to pay the bill for the simple
+pleasure of making Japan surrender unconditionally.
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 37 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 35
+Third, however, that argument is not merely hypothetical but irrele-
+vant. Even had the American Army been ground to a halt on the field of
+battle, atomic weapons probably would have still forced Japan to
+surrender - and Pearl Harbor ensured that these weapons would be
+used. Thus, signals intelligence clearly was not necessary to American
+victory in the Pacific war. Only if Germany had won the struggle in
+Europe and the United States been forced into a simultaneous two-
+ocean war might Ultra have become the straw which broke the back of
+Japan. On the other hand, very few single factors are absolutely
+essential for victory in a prolonged war of attrition and signals intelli-
+gence clearly was a major contributing cause to American victory. It
+allowed the United States to defeat Japan far more speedily and at a
+lower cost. This, of course, was exactly what Ultra allowed the Western
+Allies to do against Germany in Europe at the same time.55
+This analysis rests largely on the narrative of Edward Drea. He has
+also provided several general observations about Ultra and MacArthur
+which contribute to an examination of intelligence and military ope-
+rations. Contrary to Drea's own expectations, Ultra never shaped
+MacArthur's strategy; it rarely affected the formulation (as against the
+execution) even of his major operations. Whatever intelligence indi-
+cated, MacArthur's aims never changed: to make his command the
+center of the American effort in the Pacific, to retake the Philippines
+and to win the war through an invasion of Japan. These objectives, Drea
+insists, stemmed from vanity no less than rationality, although to some
+degree they were defensible on strategic grounds. For MacArthur, Ultra
+was a tool to achieve his own aims rather than to help him choose among
+them. He used intelligence when this helped him further his objectives
+and ignored it when that would not. While this is conventional for many
+commanders, it is not always so. MacArthur falls into the group of
+generals in the twentieth century who were least likely to change their
+aims or means because of intelligence. Finally, Drea offers a brief and
+tantalizing statement about the effect of intelligence on commanders of
+specific personality types: 'ULTRA appears to have reinforced basic
+personality traits. It convinced forceful commanders to take risks and
+push forward, just as it persuaded prudent ones to go even more
+slowly.'56 From a study of this generalization, combined with the use of
+the intelligence record as a mirror of generalship, one can link together
+different issues: several generals' use of Ultra and their style of
+command, the relationship between Ultra and uncertainty, and the role
+of intelligence in war. All of these issues, in turn, illuminate matters
+fundamental to Clausewitz's arguments and to the study of war: the
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 38 ---
+36 INTELLIGENCE AND NATIONAL SECURITY
+importance of intuition and determination in thought, of boldness in
+operations, the nature of understanding, command and action in war.
+INTELLIGENCE AND MODERN WAR
+When his actions are compared with his knowledge, Kenney stands out
+as a bold, flexible, quick-thinking and far-sighted commander. Relati-
+vely superior intelligence of a high absolute order was fundamental to
+his success, yet he acted on knowledge with skill, resolution and
+audacity. Here is a commander who embodies what generally would be
+regarded as a superb union of knowledge, boldness, superior intellect
+and cunning. Krueger and, to a lesser extent, Blarney fell into the
+psychological category which Clausewitz regarded as the norm: the
+cautious commander who wanted reinforcements against uncertainty.
+And of course overwhelming superiority is the most effective guarantee
+against uncertainty - not surprisingly, the first rule in Clausewitz's art of
+war is to be as strong as possible, especially at the decisive point.57 Yet
+one must not separate psychological characteristics from their operatio-
+nal and doctrinal context. Caution, if guided by knowledge or intuition,
+as opposed to being merely an irrational response to uncertainty, could
+be a valuable characteristic against an enemy whose offensive ope-
+rations were stereotypically aggressive and whose defensive positions
+were well prepared. To adopt an aggressive but unbalanced defense
+against a Japanese attack was to give the IJA its greatest chance to play
+its strong cards of speed and maneuver and to avoid the Allied trump
+card of prepared firepower; conversely, caution allied to knowledge,
+intuition or cunning could force the IJA to attack Allied strength head-
+on. Similarly, for an Allied commander to launch aggressive and
+unprepared assaults against thick Japanese defensive positions would be
+to throw away his trump card and to gamble on the weak card of the
+ability to tolerate losses. Daring in operational maneuver through such
+matters as outflanking or bypassing was often, though not always, an
+effective way to negate the IJA strength - it certainly led to the greatest
+of Allied successes against Japan. When forced to attack prepared
+Japanese positions, however, boldness in tactics and operations was
+almost by definition recklessness, for precisely the same reasons that it
+had been on the western front during 1915-17. Set-piece battles were
+the rational response to this situation. Caution rather then boldness
+might best allow a commander to exploit the known offensive and
+defensive characteristics of the IJA.
+For Blarney and Krueger caution, combined with skill in set-piece
+operations, did pay great strategic dividends. Blarney's plan for the
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 39 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 37
+drive on Lae and Salamaua in New Guinea between June and Sep-
+tember 1943, for example, deliberately eschewed the boldness preferred
+by MacArthur, and properly so. As Blarney calculated, by instinct
+rather than knowledge, to advance further than Nassau Bay would be to
+attack the IJA where it was strongest. By stopping at Nassau Bay, he
+could force the IJA to advance and attack him, out of effective range of
+its own air support and into the maws of his defensive firepower. All
+this, in turn, would weaken the IJA's rear defenses, ease the success of
+another and deeper amphibious strike and, when that happened, trap
+more enemy forces.
+This plan worked as planned, which is unusual in war. It was similar
+to a successful approach adopted by the Canadian Corps against the
+German Army in the battle of Hill 70 in 1917 and by the Canadian and
+Australian Corps at Amiens in 1918 - proof that caution, the use of the
+operational offensive combined with the tactical defensive, and set-
+piece battles guided by knowledge and intuition, have a proven track
+record against armies which institutionalize aggressive risk-taking along-
+side defensive systems relying on tactical or operational counter-
+attack.58 This approach to operations made Dominion forces, division
+for division, the Germans' most effective enemies in both world wars. It
+could easily be used against any enemy which followed German
+defensive systems, including the IJA. At Lae/Salamaua, Blarney con-
+sciously applied the style of operations which the Dominion armies had
+used to smash the Germans in 1917-18 and which they were using to the
+same purpose in the Middle East and Europe. His understanding
+stemmed both from an instinctive grasp of how the IJA fought and of
+how set-piece battles were conducted, and from better intelligence than
+Clausewitz would have expected, though this stood far from the
+standard of perfection. Ultra informed the Allies of the overall strength
+of Japanese forces on New Guinea, but their specific deployment
+remained very unclear. Hence Blarney's strategy rested one third on
+information, one third on cunning and one third on a Clausewitzian
+technique to manage uncertainty. The attack on Nassau Bay acted as a
+magnet for the IJA, and thus uncovered its deployment in the forward
+area; this also threw the enemy off balance. Caution 'governed by
+superior intellect' overcame uncertainty and an aggressive enemy.
+Krueger lacked Blarney's brilliance. He was a cautious, methodical
+and deliberate commander, perhaps more so than is justifiable, but his
+approach, none the less, was effective. He cannot be faulted for
+adopting a bad means to deal with the IJA, merely for not choosing the
+best, and even this criticism is of dubious accuracy. During the course of
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 40 ---
+38 INTELLIGENCE AND NATIONAL SECURITY
+his operations Ultra had reached a state of technical maturity while
+Krueger also established an able intelligence staff. Professional assess-
+ments of intelligence shaped his operational aims and means no less
+than was true of Kenney. The intelligence record explains and to a large
+extent justifies the controversial decisions to adopt slow and methodical
+means to clear both Leyte and Luzon. Krueger's caution stemmed from
+two distinct but related factors, a personality reflex and a rational
+response to specific circumstances. Headlong charges against deep and
+prepared Japanese defenses would produce far more American casual-
+ties for no better results in battle than prepared attacks, and perhaps for
+no quicker results.
+The mirror of Ultra offers an odd reflection of Mac Arthur, one which
+should be considered by students of his operations during the Korean
+War. He had a closed mind regarding aims. He was remarkably
+reluctant to change even his means once he had defined them. When on
+the defensive, in conditions of uncertainty, against an enemy with the
+initiative and superior force, as between June and August 1942 during
+the period surrounding the Japanese invasion of Buna and Milne Bay,
+MacArthur could be a cautious, even a passive, commander. When
+gripped completely in the toils of uncertainty and facing an enemy with
+overwhelming power and virtually complete initiative, as on the Philip-
+pines in the hours immediately following the outbreak of the Pacific
+war, MacArthur could be utterly paralysed. He was at his worst in
+adversity, and at his best when he possessed superior force and the
+initiative. Then, daring and tenacity of purpose were MacArthur's
+cardinal characteristics - if not always desirable ones, as Blarney
+appreciated at Salamaua and Krueger on Luzon. As MacArthur wrote
+in February 1942:
+Counsels of timidity based upon theories of safety first will not win
+against such an aggressive and audacious adversary as Japan . . .
+The only way to beat him is to fight him incessantly. Combat must
+not be avoided but must be sought so that the ultimate policy of
+attrition can at once become effective. No matter what the
+theoretical odds may be against us, if we fight him we will beat
+him.59
+MacArthur fits the crude version of Clausewitz's 'military genius',
+with the emphasis upon the determination, willpower and aggressive
+risk-taking of the commander. In fact, however, with MacArthur as
+with Douglas Haig, the vulgarized version turned the model on its head.
+Strength of character, boldness and determination became closed-
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 41 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 39
+mindedness, obstinacy and lack of originality. The value of MacArthur's
+psychological characteristics as commander turned on intelligence and
+military conditions. Given the knowledge and the chance to maneuver
+away from the enemy's strength and toward its weakness, MacArthur's
+aggressiveness produced impressive actions. Without that knowledge
+(or the willingness to use it), without that opportunity and will,
+MacArthur's weaknesses as a commander came to the fore and
+aggression tended to become liability. Time after time he took great
+risks to win the biggest stakes, a kind of mentality which must inevitably
+lead a commander to a crushing defeat. Time after time he preferred to
+assault the enemy where it was strongest. Ultra staved off the potential
+consequences of these weaknesses, but they had their inevitable result
+along the Yalu River in 1950.
+A combination of superior power, room to maneuver, good intelli-
+gence and luck was necessary to turn MacArthur's daring to use. Of
+these four, the first two were necessary in individual terms. The latter
+two were collectively necessary but on its own each was merely a
+contributing factor. MacArthur could live without luck so long as he had
+intelligence. He could often live without knowledge so long as all of
+these other conditions held true, but intelligence always made his
+operations easier and it was necessary for his great successes between
+March and November 1944. MacArthur also acted on secret infor-
+mation with resolution and speed - when he wanted to believe it. Unlike
+Kenney and Krueger, however, he was not an intelligence-driven
+commander. In effect, he acted on Clausewitz's 'imperative principle' -
+he changed his first opinion only when forced to do so by clear
+conviction, and only when irrefutable evidence pointed tov/ard a better
+means to achieve his prime directive, and he never changed his aims.
+With MacArthur, the better and more trusted the knowledge, the more
+daring and determined the action: the less certain the situation, the
+more pedestrian the response. Yet this was just a tendency, a strong but
+not an invariable pattern. MacArthur finally turned the Bismarck
+barricade in late 1943 through the invasion of Arawe, which rested on a
+gamble rather than knowledge. This was an instance of aggressive risk-
+taking that Clausewitz himself would most likely have regarded as bold.
+The intelligence record determines some of the characteristics of
+MacArthur and his lieutenants and also indicates their quality. It
+enhances Kenney's reputation which needed little refurbishing, while
+substantially rehabilitating that of Krueger. It also shows Blarney to
+have been a shrewd commander, a surprisingly able one who under-
+stood both the enemy and the art of war in his theater. MacArthur does
+not come out of the study at the level indicated by Drea - as one
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 42 ---
+40 INTELLIGENCE AND NATIONAL SECURITY
+of the four or five best commanders in the war - but he certainly stands
+out as a good and gifted general, of mixed qualities and achievements.
+The intelligence record demolishes the hero-worship and self-
+mythologization of earlier works along with the uncomplimentary
+assessments of the recent revisionist literature. It shows him warts and
+all, as a far from average commander - weak in some ways, strong in
+others. A reading of Drea also leads to a surprising conclusion: while
+intelligence staffs notably improved their ability to handle Ultra, there
+was no learning curve in its use by MacArthur and his lieutenants. They
+started as well as they finished, as regards Ultra of both categories,
+fragmentary and finished material. Indeed, MacArthur handled intelli-
+gence in Korea exactly as he had in the Pacific. In particular, during the
+drive to the Yalu his refusal to consider intelligence which challenged
+the aims he had laid down, and his use of intelligence in policy debates
+with his superiors, were identical to his practice of 1945. The record also
+sustains part of Drea's argument that Ultra reinforced 'the basic
+personality traits' of specific commanders. It certainly led aggressive
+risk-takers to become even more audacious but it led cautious ones to
+become not more prudent but rather more calculated. This observation
+has significance for the theory of command and decision-making in war.
+INTELLIGENCE, OPERATIONS AND THE FUTURE OF WAR
+Some provisional observations may be drawn about the modern rela-
+tionship between intelligence and uncertainty, and its effect on the art of
+war, the psychology of command and the nature of and need for military
+genius. These conclusions pertain specifically to a situation where
+superior and knowing forces fight inferior and ignorant enemies, who
+adopt a vulgarized version of the Clausewitzian formula for managing
+uncertainty. It also applies to cases where one side possesses intelligence
+services which are (a) of an absolutely good quality and (b) superior to
+those of the enemy. These conclusions do not necessarily apply to
+different circumstances. When both sides possess equal and effective
+intelligence, for example, the result may be the military equivalent of
+chess. Alternatively, when intelligence of such quality and equality is
+derived from sources that can easily be destroyed if only they are known
+to exist - as would have been true of many types of Ultra - the same
+situation may lead each side simultaneously to blind the other and
+plunge the battlefield back into darkness. Similarly, when both sides
+possess equally poor intelligence, Clausewitz's predictions may once
+again pertain. However, a mediocre intelligence service when con-
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 43 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 41
+FIGURE 1
+POSSIBLE COMBINATIONS OF HIGH/LOW QUALITY INTELLIGENCE
+BETWEEN TWO OPPONENTS
+POSSIBLE COMBINATIONS OF HIGH/LOW
+QUALITY INTELLIGENCE BETWEEN
+TWO OPPONENTS
+SIDE A
+GOOD POOR
+GOOD
+SIDEB
+POORGOOD/GOOD
+POOR/GOODGOOD/POOR
+POOR/POOR
+fronting a poor one may give its master a remarkable edge. One need
+not move far from uncertainty before Clausewitz's rules cease to apply
+with certainty.
+In the case at hand, when intelligence helps the stronger side but not
+the weaker, the latter fights in the fog of war, the former merely in mist.
+The debilitating effect of confusion and uncertainty is reduced for one
+but only one army. Only reduced - never eliminated. Intelligence can
+never achieve complete and absolute perfection; no sane commander
+will ever expect it to be so. As E.T. Williams, the head of intelligence
+for the British 21st Army Group, wrote about his experience with Ultra:
+Perfect Intelligence in war must of necessity be out-of-date and
+therefore cease to be perfect. We deal with partial and outmoded
+sources from which we attempt to compose an intelligible appre-
+ciation having regard to the rules of evidence and our soldierly
+training and which we must be prepared constantly to revise as
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 44 ---
+42 INTELLIGENCE AND NATIONAL SECURITY
+new evidence emerges. We deal not with the true but with the
+likely. Speed is therefore the essence of the matter.60
+Any single piece of information can remain accurate for only a certain
+period of time: completeness in intelligence requires the collation of
+many such pieces: and during the time required to achieve perfection in
+that process, some of these pieces cease to be accurate. Given the
+dialectical and paradoxical nature of strategy and intelligence, more-
+over, good information well understood about a phenomenon is likely
+to make commanders take actions which change the phenomenon and
+thus render imperfect the information, its assessment and the actions
+flowing from them.
+By definition, even with excellent intelligence, friction and the
+reciprocal nature of war ensure that uncertainty will still exist, if in a
+different form and, perhaps, to a lesser degree. Nor are intelligence and
+uncertainty linked in a simple linear relationship. As one first moves a
+certain distance away from the pole of ignorance, more intelligence may
+create more certainty; but as one moves closer still to the pole of
+knowledge, the greater the volume of information, again the greater the
+uncertainty: indeed, a new kind of uncertainty will be produced. Nor
+can intelligence ever be a universal panacea in war. Its value will always
+vary with the operational circumstances. Good intelligence well under-
+stood may be useless: a good army with bad intelligence may well defeat
+a bad army with good intelligence.
+None the less, such instances as MacArthur's operations of 1944,
+Kenney's air campaigns and the Allied amphibious assaults on Europe,
+all point to one thing. Against a bold, powerful but ignorant enemy,
+especially one whose forces are unbalanced or taking substantial risks, a
+daring and powerful force reinforced by knowledge can strike far more
+precise blows than Clausewitz would have dreamed possible. The
+greater degree of precision will render these blows all the more deadly.
+This may also be true of inferior but informed forces, as shown by
+Nimitz's decision to gamble on knowledge at Midway. Yet, as Blarney,
+Krueger and Montgomery at El Alamein and Medennine demonstrate,
+the frequency and the success of calculated styles of command have also
+risen, particularly when attacking a strong and effectively deployed
+enemy.
+Clausewitz's rules of thumb and estimates of probable outcomes do
+not completely fit modern circumstances because some of his assump-
+tions are no longer valid. Far more frequently than he expected, for
+example, generals were able to strike precisely intended blows precisely as
+intended and to surprise their enemies in specific ways through deliber-
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 45 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 43
+ate intent. Moreover, a larger fraction of generals seems to have been
+able to function effectively in conditions of knowledge than of ignor-
+ance. Many of these generals may not have been military geniuses, but
+perhaps military genius is less fundamental to command in circum-
+stances of knowledge: perhaps then military competence augmented by
+good intelligence will suffice. While not all men can be good com-
+manders, some previously barred from that status now could achieve
+success on the battlefield when the heightened power of intelligence
+reduced the scale of uncertainty and the density of the fog of war. This
+reduced some - not all - of the friction of war; arguably, so too did other
+improvements in the workings of military technology and organization,
+such as communication systems. In particular, during the era of
+Clausewitz, the commander almost literally did perform the entire
+function of command: his staff was nothing but a small secretariat. Since
+then, command has become the joint function of a man and an
+institution: the staff has become a bureaucracy and the commander
+anything from chairman of the board to CEO. Room remains for the
+freedom of action of the commander, the influence of his personality
+and the exercise of his genius, especially at a tactical and operational
+level, but these factors are restrained. The corresponding loss in
+potential drive and creativity is balanced by the improved general
+efficiency of the military machine. This has changed the nature of the
+personality which understands and acts on intelligence: once it was a
+single mind, now it is one mind harnessed in different ways to an
+institution. In some cases, the commander becomes an executive
+implementing a collective decision and his personality becomes less
+relevant to command; in others, his personality remains the dominant
+factor at play.
+The heightened power of intelligence altered the intellectual faculties
+which Clausewitz thought necessary for command. He regarded
+'presence of mind' as valuable, for example, because it alone allowed
+immediate and competent decisions when some of the fog of war
+suddenly lifted. But for that group of commanders who knew in advance
+what lay behind that patch of fog, this faculty became less significant
+than the ability to act effectively on such knowledge. Informed intuition
+probably remained essential to military genius, but, perhaps, not to
+military competence so long as that faculty was augmented by intelli-
+gence. Above all, the heightened value of intelligence sapped the value
+of determination (in Clausewitz's sense) as a factor in military genius.
+That commander who dogmatically followed Clausewitz's 'imperative
+principle' of sticking tenaciously to first opinion despite contradictory
+material was a fool. Many more commanders had 'adequate grounds'
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 46 ---
+44 INTELLIGENCE AND NATIONAL SECURITY
+for action than Clausewitz thought possible, and therefore had less need
+for determination (in his sense). When time was short, of course,
+presence of mind remained as crucial: when battles became fluid, and
+very often good intelligence and Teal-time communications systems
+failed, then determination (in Clausewitz's sense) remained vital. None
+the less, qualities fundamental to command in the age of uncertainty
+often proved counter-productive in the era of Ultra - of good intelli-
+gence and real-time communication. Indeed, military genius itself may
+actually be counter-productive in an era of excellent and reliable
+intelligence. Geniuses do not need great knowledge to perform effecti-
+vely. They often make a fetish of faith in their intuition.61 Military
+competents need all the help they can get and often know that fact.
+They have far more than military geniuses to gain from reducing the
+environment which makes geniuses so formidable - uncertainty - and
+this obviously can be done through a use of intelligence no less than
+through the concentration of superior power. Greater intelligence, that
+is, cuts at the roots of the superiority of the military genius - it may
+altogether eliminate that edge.
+Nor is that the end of the story. Intelligence affects another important
+condition of war. The effect of 'fortune' - of unforeseen, unforeseeable
+and unintended matters - was central to all classical theories of strategy.
+Thucydides and Machiavelli, Clausewitz and Napoleon, all regarded
+luck as fundamental to success or failure in war. Many premodern
+commentators implied that strokes of fortune were caused by the
+intentional intervention of providence or else somehow were the natural
+and consistent product of a commander's character. Thus, so goes the
+story, when considering whether to make a man a general, Napoleon
+asked one question: 'Is he lucky?'. Clausewitz, conversely, stripped
+connotations of intention and the consequences of character from his
+idea of 'chance'. To him, chance meant nothing more or less than
+random events produced by the interplay between a huge range of
+unforeseeable and uncontrollable factors.
+Precisely these issues have changed in the modern age of better
+intelligence, real-time communication, and powerful staffs. What once
+were random actions now often can be predicted and controlled. Armies
+can foresee far more than before, and execute their intentions far
+better. Thus, the effect of 'fortune' on war has declined along with its
+plausibility as an excuse for defeat. Not that luck can ever vanish from
+war. It will particularly affect the tactical and lower operational levels,
+often as much as it has always done. On the plane of higher operations
+and strategy, however, its significance will decline. Luck will remain a
+factor in calculated risks, though far less important than in the era of
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 47 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 45
+uncertainty. When two armies with informed but opposing intentions
+clash, moreover, much that they know will change and so will their
+ability to execute their intentions. Above all, where one side has better
+intelligence, it will rely on knowledge while the fate of its foe will hinge
+on chance. Intelligence can directly replace luck. 'Fortune', so long
+queen of the battlefield, has been dethroned by a pawn.
+The heightened power of intelligence in the Second World War did
+not change the relationship between generals exemplifying Clausewitz's
+two kinds of unregulated temperament: aggressive risk-takers remained
+superior to timid generals. Intelligence, however, did increase the
+superiority over these two of every case of temperament guided by
+reason - it provided a more solid and rational basis for audacity
+governed by superior intellect or cunning, and deliberate caution. It also
+increased the frequency of these cases. Krueger and perhaps even
+Montgomery or Blamey might have been timid generals in a different
+age of uncertainty and intelligence, but in the Second World War they
+were calculating ones. Hence, aggressive risk-taking became a con-
+ditional virtue. Sometimes it produced all the rewards promised by
+boldness (in Clausewitz's sense). Aggressive risk-taking, however, was
+automatically and without warning converted to recklessness whenever
+it confronted boldness or deliberate caution guided by intelligence.
+Clausewitz himself noted: 'Even in daring there can be method and
+caution; but here they are measured by a different standard.' They must
+be measured by a different standard again in conditions of greater
+certainty. Thus, the exceptions to Clausewitz's generalizations about
+audacity became increasingly common - so much so as to challenge the
+rule.
+All told, between 1914 and 1945 better intelligence reduced the value
+of certain characteristics in the Clausewitzian equation, particularly
+determination and nerve, and increased that of others, especially
+calculation and the ability to act on sure knowledge in a precise way.62
+Certain gifts of character declined in value, some others of intellect and
+technique rose. Clausewitz most prized the gifts which allowed com-
+manders to act without knowledge, but all these gifts have different
+values when one can act on knowledge. His prescriptions were formu-
+lated to suit the intelligent commander without intelligence: they had to
+be revised to suit the intelligent (or the competent) commander with
+intelligence.
+But this situation may have changed again. The world wars of this
+century were, perhaps, that period when the ability of armies to acquire,
+assess and act on intelligence was at its peak in history. The relationship
+between uncertainty and intelligence may have changed as much since
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 48 ---
+THE EVOLUTION OF THE ROLE OF INTELLIGENCE IN MILITARY OPERATIONS AND WAR
+FHE COMMANDER'S
+INTEREST IN
+INTELLIGENCE
+ORGANIZATION
+SCOPE & RANGE
+SOURCES AND
+RELIABILITY1800*
+AD HOC. AS NEEDED IMMEDIATEY BEFORE
+AND DURING BATTLE LOWTRUSTINTHE
+QUALITY, RELIABILITY AND RELEVANCE OF
+INTELLIGENCE. MOST DECISIONS ARE BASED
+ON PERSONAL AND INTUITIVE JUDGMENT.
+NO PERMANENT ORGANIZATION. INITIATED
+BY THE LOCAL REQUIREMENTS OF THE
+COMMANDER
+MOSTLY SHORT-RANGE TINE OF VISION"
+DIRECT OBSERVATION. PRIMARILY TACTICAU
+OPERATIONAL
+HUMINT - SPIES, DIRECT OBSERVATION.
+DIFRCaTTOTRANSMIT IN REAL TIME. LOW
+REUABIUTY, HENCE LITTLE TRUST IN ITS
+VALUE1914-1945
+INTELLIGENCE IS USED EXTENSIVELY BEFORE
+AND DURING BATTLE. TRUST IN ITS QUAUTY,
+RELIABIUTY AND USEFULNESS IS MEDIUM TO
+HIGH. DECISIONS ARE PARTLY PERSONAL BUT
+INCREASINGLY DEPEND ON INTELLIGENCE
+MUCH LESS ON INTUITION. INTELLIGENCE CAN
+BE IGNORED OR OVERRULED BY PERSONAL
+DECISIONS BUT INCREASED RELIANCE ON IN-
+TELLIGENCE INPUT.
+LARGE PERMANENT INTELLIGENCE ORGANI-
+ZATIONS AND BUREAUCRACY, PRIMARILY
+MILITARY. RELATIVELY SMALL IN PEACE-TIME,
+GREATLY EXPANDED IN WAR.
+SHORT JLONGERflANGL ENTIRETHEATER
+OF WAR-TACTICAL, OPERATIONAL AND
+STRATEGIC
+ALL SOURCES • HUMINT, PHOTINT, SIGINT
+CAN READILY BE TRANSMITTED IN REALTIME.
+REUABIUTY I TRUST VARIES DRASTICALLY
+ONCE BATTLE BEGINS, DEPENDING ON CIR-
+CUMSTANCES.PRESENT AND FUTURE
+MAJOR DECISIONS WITHOUT INTEWGENCE
+ARE UNLIKELY. GREAT DEPENDENCE ON IN-
+TELLIGENCE AND MUCH LESS RELIANCE ON
+PERSONAL JUDGMENT. "ADDICTION1 TO INTEL-
+LIGENCE MAKES INDEPENDENT-CREATIVE AD
+HOC DECISIONS LESS LIKELY. "COLLECTIVE
+DECISIONS"TEAMANDSTAFFWORK. HEAVY
+RELIANCE ON INTELLIGENCE.
+VERY LARGE AND PERMANENT INTELLIGENCE
+ORGANIZATIONS AND BUREAUCRACIES, BOTH
+MILITARY AND CIVILIAN.
+GLOBAL AND THEATER ON ALL LEVELS.
+ALL SOURCES AND ALL LEVELS • HUMINT,
+PHOTINT, SIGINT CAN BE TRANSMITTED IN
+REALTIME AN INCREASED CAPACITY FOR THE
+COMMANDER TO COLLECT HIS OWN RELIABLE
+INTELLIGENCE IN BATTLEac5
+til
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 49 ---
+PROBLEMS
+THE BALANCE
+OF INTELLIGENCE
+SOLUTIONS TO
+PROBLEMS AND
+BETTER USE1800*
+LACKOFTRUST, LACK OF INTEREST. UN-
+CERTAINTY CREATED BY DEARTH OF INTELLI-
+GENCE (UNCERTAINTY OF TYPE A DOMINATES)
+ALL SIDES FACE EQUAL PROBLEMS.
+GREATER RELIANCE ON THE EXPERIENCE
+AND INTUITION OF THE COMMANDER, THE ART
+OFWAR TRANSFERENCE OF UNCERTAINTY
+BY INITIATIVE, MOVEMENT & OFFENSIVE TO
+OTHER SIDE MAXIMUM CONCENTRATION,
+KEEPING RESERVES AT HAND. 'STAND UKE
+A ROCK*. INTUITIVE RISK-TAKING.1914-1945
+OFTEN POOR UNDERSTANDING OF WHAT IN-
+TELLIGENCE CAN AND CANNOT DO, TRUST IS
+BASED ON PAST PERSONAL EXPERIENCES.
+ATTITUDE STILL SHAPED BY DOCTRINES FORM-
+ULATED IN PREMOOERNTWE (I.E. 18C0S)
+SOME SIDES ARE BETTER OR MUCH BETTER
+IN INTELLIGENCE GATHERING. ADVANTAGE
+CAN SHIFT PERMANENTLY OR TEMPORARILY
+FROMONESIDETOANOTHER. INTELLIGENCE
+BECOMES A MAJOR WEAPON OR FORCE MULTV
+PUERDMDER.
+BETTER UNDERSTANDING OF THE VALUE AND
+UMTTSOF INTELLIGENCE; POSITIVE EXPERI-
+ENCE ART OF WAR AS IN 1800 THOUGH IN-
+CREASED RELIANCE ON INTELLIGENCE
+CALCULATED RISK-TAKING.PRESENT AND FUTURE
+GREATER DEPENDENCE ON INTELLIGENCE
+THOUGH NOT ALWAYS BETTER UNDERSTAND-
+ING. OVERREUANCE ON INTELLIGENCE WHILE
+ART OF COMMAND AND WAR ARE NEGLECTED.
+UNCERTAINTY CREATED BY TOO MUCH INTELLI-
+GENCE (UNCERTAINTY TYPE B DOMINATES)
+AS IN 1914-1945, BUT THE GAP BETWEEN THE
+BESTANOWORSTISWtOENED. THE OPTIMAL
+USE OF MODERN PRECISION-GUIDED WEAPONS
+REQUIRES MORE AND BETTER REAL-TIME
+INTELLIGENCE
+NEED FOR BETTER EDUCATION IN INTELLIGENCE
+MATTERS. RELEARNING4 FORMULATING THE
+ART OFWAR IN RELATION TO INTELLIGENCE.
+NEED TO KNOW WHEN TO TAKE ACTION AND
+NOT WAIT FOR THE LAST BIT OF INTELLIGENCE.
+MORE DEDICATED REALTIME INTELLIGENCE.
+BETTER ORGANIZATION PREPARATION DISTILLA-
+TION AND DISTRIBUTION OF INTELLIGENCE
+• OCCASIONALLY, COMMANDERS UKE WELLINGTON AND SHERMAN PAY GREAT ATTENTION
+TOINTEaiGENCE. SUCH MARGINAL IMPROVEMENT CAN UPSET THE BALANCE OF
+INTELLIGENCE IN ONE SIDE'S FAVO R AND HAVE MAJOR OPERATIONAL CONSEOUENCES.2Scpatn
+nO
+zcmo>
+c;
+tn
+00N
+tnrr
+3tn
+o
+m
+c
+o
+tn
+3
+zooo2
+>
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 50 ---
+48 INTELLIGENCE AND NATIONAL SECURITY
+1945 as it did between 1815 and 1914. Since 1945, armies have become
+increasingly bureaucratized. In business, bureaucratization kills the
+entrepreneur. In war it kills the general. Clausewitz wrote about the
+characteristics and role of just one type of general, the field commander
+in battle. Today the perfect general also requires other traits; he needs
+to have a genius for logistics, intelligence, military diplomacy, the
+management of a large planning staff and machine.63 No single com-
+mander or military system may be able to develop all of these traits fully
+and simultaneously - indeed, strength in one may necessarily cause
+weakness in another. Thus the German Army may have been so bad at
+strategy precisely because it was so good at operations, just as the
+British Army lost every battle but the last. Whether those rules which
+govern field command hold true for battle management is unclear, but
+one thing is clear: this issue will be fundamentally affected by the nature
+of intelligence in the age of the bureaucratization of war. Since 1945,
+armies have massively increased their ability to acquire information, but
+this has been mostly opaque in nature, requiring complex analysis to be
+of use. The ability of armies to analyse such material with accuracy and
+speed has not kept pace with the increase in its volume; meanwhile,
+staffs have expanded in size and the quantity of their paperwork has
+been multiplied by their ability to communicate in real-time.
+In particular, modern command, control, communications and intelli-
+gence systems have revolutionized the art of operations and the nature
+of generalship. One can acquire reliable information on issues which,
+for Clausewitz, were highly problematical, such as the location and
+strength of one's own forces. Even mediocre intelligence services can
+reduce the depth of the fog of war regarding the enemy's location and
+strength. Good intelligence services can almost entirely eliminate the
+fog on such issues, and even fathom the enemy's intentions before they
+are executed. In Clausewitz's theory of operations, intelligence and
+prolonged calculation handicapped command. In this century they have
+become a prerequisite for commanders.
+Meanwhile, the relation between time and space in operations has
+changed. In Clausewitz's theory, and in his day, communications were
+slow, the speed of movement was low and operational theaters were
+relatively small. A battle could be affected by forces within just a day's
+march of one's forces, or roughly 20 miles. Of course, on the intersec-
+tion between the operational and strategic levels, when planning major
+operations or the beginning of a campaign, one had to account for the
+forces in an entire country. In this century, Teal-time communication
+exists between forces scattered over millions of square miles. The
+increased duration of operations in time and their expansion in space,
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 51 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 49
+combined with the greater speed of movement of military forces,
+dramatically increased the size of the area from which enemy forces may
+affect a battle. For Clausewitz, the area of battle and the theater of
+operations overlapped in a relatively small space. The tactical and the
+operational spheres were almost identical. In this century, increasingly
+the tactical, operational and strategic spheres have come to overlap.
+MacArthur's battles could be immediately affected by forces hundreds
+of miles away, his operations by enemies based thousands of miles
+away. For commanders in the 1990s, this situation has become even
+more notable.
+Hence, contemporary commanders may face a situation unprece-
+dented in history. Intelligence and communications have improved, but
+so have the speed of battle and the need for quick decisions. More
+information is available more rapidly on more subjects; the one thing
+which has not changed is the speed required to make human judgements
+and decisions. Commanders need far more information on a far greater
+range of matters than in the past. They can also acquire it. Once, most
+pieces of intelligence were false; now, they are true, but trivial in quality
+and overwhelming in quantity. More can be worse. Certainly, a massive
+volume of accurate but opaque intelligence will produce information
+overload and two opposite problems. The first is the Clausewitzian
+dilemma of ignorant uncertainty, bewilderment and paralysis of the will.
+The second is self-confident error, the tendency to interpret this
+otherwise unmanageable mass of material solely through preconcep-
+tion. The second problem renders an increased quantity of intelligence
+counter-productive. Virtually any pre-conception will plausibly explain
+some intelligence. Hence, an increased quantity of opaque intelligence
+will support any and every mistake in assessment - volume reinforces
+error. The greater the quantity of such material, the greater the amount
+of intelligence any preconception will seem to explain and therefore,
+intuitively, the more accurate it will seem to be.
+Simultaneously, the very nature of 'uncertainty' has changed. Once it
+stemmed simply from the lack of accurate knowledge; now both from
+the lack of accurate knowledge and of usable knowledge. In fact,
+contemporary commanders confront two distinct varieties of uncer-
+tainty, which have different causes and different solutions. One of them
+is as old as war, the other is the direct product of an attempt to solve the
+first. 'Type A' uncertainty is that described by Clausewitz, characterized
+by ignorance and the inability to receive accurate, useful and timely
+intelligence in time to act on it. ''Type B' uncertainty stems from the
+power of modern C3I systems, which collect anything and everything
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 52 ---
+50 INTELLIGENCE AND NATIONAL SECURITY
+that can be collected and communicate anything and everything that can
+be communicated simply because it can be done. In modern war, too
+much has to be known too quickly and too much can be known too
+often; and by the time what can be known has been understood, new
+factors become known which, again, have to be understood before one
+can act, ad infmitum. Type A uncertainty was literal and perceptual: (a)
+one could not know the facts and (b) one knew that fact. With Type B,
+the literal problem has declined while the perceptual one has changed:
+(a) sometimes one can know the facts and (b) one knows that one can do
+so but (c) one cannot predict how or when one will know the facts one
+wants to know or determine how to separate them in time from the mass
+of irrelevant facts that surround them - or distinguish 'signals' from
+'noise', to use Roberta Wohlstetter's classic terminology.64 Type B
+uncertainty produces the 'Schwarzkopf syndrome', the desire to wait
+just one more moment in order to read just one more report, the
+reluctance to act on imperfect knowledge because it is known to be
+imperfect and that at any point another report might well produce
+perfection. Clausewitz offered an elegant and practical solution to Type
+A uncertainty: to ignore intelligence and to act exclusively on informed
+intuition, because only through this means could generals hope to deal
+with the world. Neither this solution nor a simplistic application of
+Clausewitz's 'imperative principle1 can appeal to commanders confront-
+ing the second sort of uncertainty.
+All this is affected by yet another problem. Pieces of intelligence are a
+perishable commodity since their value declines over time. (See Figure
+3.) Two issues define the 'half-life' of military intelligence, or the speed
+with which it must be used in order to be of value: the level of war
+(tactical, operational or strategic) and the fluidity of the engagement.
+Generally speaking, the higher the level, the longer the half-life. There
+is, however, one fundamental limit to this generalization. The central
+issues at hand are the degree to which a military situation is constant and
+a piece of intelligence is unique. The more continual the situation and
+the more continuous the information, the longer the half-life; the less
+the continuity, the shorter the period of value. The half-life of the
+intelligence available to a battalion before the start of a prepared battle
+may match that of a corps midway through a mobile engagement. The
+tactical intelligence available to Canadian companies before the assault
+on Vimy Ridge in 1917 remained useful for weeks. The operational
+intelligence available to Rommel's headquarters during the 'Crusader'
+operation of 1941 often had a half-life of half a day.
+The rate of decline in this 'half-life' from higher to lower levels varies
+directly with the fluidity of the engagement. This rate is most gradual in
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 53 ---
+INTELLIGENCE AS A PERISHABLE COMMODITY IN WAR
+ACCURACY OR
+RELIABILITY
+OF
+INTELLIGENCE
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 54 ---
+52 INTELLIGENCE AND NATIONAL SECURITY
+set-piece battles, fought from fixed positions after days to months of
+preparation. In such circumstances, much of the deployment of enemy
+forces will remain stable for long periods and can easily be determined,
+while one's own chain of command and flow of intelligence will remain
+strong. Intelligence services will tend to function at their highest level of
+efficiency, producing and cross-checking useful, reliable and accurate
+intelligence. Staffs will have ample time to assess this intelligence, which
+will let the highest and best organized of them guide their subordinates.
+Often, neither the purport of intelligence nor the military situation will
+change notably from day to day. A broad framework of things constant
+and known will surround even those things which change and become
+unknown. In prepared operations, finally, whether one acts on a piece
+of intelligence immediately or two weeks later will as often as not be
+irrelevant. In many cases, actions taken immediately will not be
+completed for two weeks. In such circumstances, the half-life of tactical
+intelligence will be measured in days or weeks, operational intelligence
+in weeks or months, and strategic intelligence in months.
+In mobile war, none of these rules holds true. The deployment of
+one's forces and those of the enemy will frequently change. So will
+intelligence about them. The chain of command and the flow of
+information will often break; intelligence and operational authorities at
+higher headquarters will not be able to guide their subordinates, which
+will often have to act with little time for assessment or preparation.
+Hence, in mobile war, the lower the level of the engagement, the less
+the accuracy of the intelligence and the power of assessment; and yet the
+greater the speed with which intelligence must be used to be of value.
+Therefore, in mobile war the half-life of intelligence declines sharply;
+from months at the strategic level to days at the operational and hours at
+the tactical level. Intelligence has the shortest half-life of all in the
+middle of a fluid engagement at the tactical sphere. Here, military
+situations and military intelligence are most fleeting and unique. In such
+circumstances, intelligence literally must be used within a few hours or
+never at all; often one must act immediately in ignorance rather than
+wait an hour for accurate information to arrive. At the operational
+level, the half-life of intelligence is greater, but nowhere else does
+assessment confront such technical complexity. Assessing staffs are
+small while irrevocable decisions often must be made within the space of
+several hours.
+Each of these combinations of level and fluidity of war produces
+distinct problems regarding the collection, assessment and use of
+intelligence. Each of these problems has a different ideal solution. The
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 55 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 53
+lessons learned from any one need not apply to any other - in fact, they
+may be precisely the solution not to apply. Thus, elaborate intelligence
+organizations and careful calculation are essential for prepared opera-
+tions, but counter-productive for fluid ones; similarly, experience of
+tactical command in a mobile war cannot prepare one for the accuracy
+and half-life of intelligence available at the strategic level.
+These issues are not merely of academic significance. They are
+fundamental to command decisions and military education. Mere
+intellectual knowledge of them will not make good generals, but
+ignorance will make bad ones. Such knowledge cannot tell generals how
+they should act. It will show them the environment in which their
+actions take place: it will illuminate the problem and indicate the
+solutions. Perhaps commanders can be taught to recognize that the
+relationship between intelligence, time, uncertainty and decision takes
+different forms, each with distinct characteristics and problems. Perhaps
+new rule-of-thumb solutions can be found to these problems, through
+focusing on the collection of transparent intelligence, or on kinds of
+opaque intelligence which cannot be explained by every kind of
+preconception - by developing more effective means of formal assess-
+ment or schooled intuition and by formulating a version of the art of war
+resting on a higher base of knowledge. Perhaps one can define
+indicators which are most likely to reveal what one needs to know at a
+time that one can act on it. Perhaps a new version of the 'imperative
+principle' can be formulated to help commanders know when they know
+enough to act, to know when they should cease to wait for new
+intelligence reports and disregard the constant flood of incoming trivia.
+Perhaps the main requirement of determination will be the ability to
+know that the time has come to 'stand like a rock' and move - despite
+the sure knowledge that new and relevant information will arrive while
+one is doing so. When one can know everything, the problem is to know
+when one knows enough. The dilemma is clear. Once commanders had
+to be taught to consider intelligence. Now that they have begun to do so,
+they must be taught how to overrule it. Perhaps only a 'military genius'
+will be able to deal with these new circumstances - but, if so, this genius
+will have different characteristics from those defined by Clausewitz.
+Whatever proves to be the cause in this realm, more definite
+statements may be made about the effect of all these issues on prevailing
+theories of strategy and generalship. In wars of the future, intelligence
+just as much as uncertainty will shape what commanders will know and
+how they should act. War will remain an act of violent, frightening
+and dangerous competition, characterized by uncertainty of old kinds
+and new; only remarkable traits of character and mind can come to
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 56 ---
+54 INTELLIGENCE AND NATIONAL SECURITY
+terms with it. Yet the nature of that uncertainty will not necessarily be
+the same as in Clausewitz's time. In a world of real-time communica-
+tions, an abundance of intelligence and, often enough, a reduced
+number of known unknowns, the nature of the military genius will
+change. In the age of military machines, the personal traits of the
+commander will be less fundamental than in Clausewitz's day, although
+still important. He will have to know how to deal with both types of
+uncertainty. The nature of his intuition, his ability to understand
+intelligence and to act will be different.
+In particular, the nature of military genius varies with circumstances.
+No single and universal mixture of characteristics produces this state at
+all times through the ages; in some circumstances military genius is less
+necessary for success in the field of battle than others; in others it may in
+fact be unnecessary or counter-productive. When intelligence reduces
+the reign of uncertainty, such personality characteristics as caution,
+daring and determination are transformed: they enter an alloy with
+knowlege, which alters many of the characteristics of the original
+element. Hence, one must take care in comparing the 'Great Captains'
+of this age with those of earlier epochs, because the greater degree of
+knowledge available to captains has fundamentally changed the charac-
+teristics which make them great. Bonaparte's determination literally is
+Haig's obstinacy. Intelligence allows far more commanders to achieve
+the status favored by Clausewitz, where boldness is 'governed by
+superior intellect'. It also allows caution to become deliberate - to
+become calculation.
+All this, in turn, affects fundamental aspects of Clausewitz's theory of
+war. Whereas Jomini compared war to a game of chess, Clausewitz
+argued that 'in the whole range of human activities, war most closely
+resembles a game of cards'.65 But which game? With what range of
+chance and what room for skill and what degree of uncertainty? Vingt-
+et-un? Poker? Whist? Clausewitz also saw war as an act not of reason
+but of will, where intellect matters less than character. Daring and
+determination were more valuable to generals than knowledge; greater
+military consequences were produced by marginal changes in personal-
+ity than in brain cells.66 The characteristics required of a commander
+were those of an expert at poker rather than a master of chess. Yet in
+the modern era war can also be an act of intelligence. When this is so,
+character is no longer by necessity the only central issue, and the nature
+of the metaphorical game itself has changed. The realm of chance is
+changed and the room for skill increased.
+Commanders are no longer playing poker, but games where the realm
+of uncertainty is reduced, such as happens to different degrees in chess
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 57 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 55
+or whist. Nothing can be more fatal than to play chess or whist as though
+they were poker against an opponent who plays by the rules of the
+game. In particular, when intelligence lets one side play chess against
+the enemy's poker, caution ceases necessarily to be the mark of the
+undistinguished mind or the mere product of psychological weakness,
+whereas aggressive risk-taking may well be so. Caution can cease to be
+just a personality reflex. It can become a rational response to know-
+ledge. A calculated chess player will have an advantage over a
+aggressive one who plays the game by the rules of poker. One cannot
+win at poker without bluffing; one cannot bluff at chess.
+All this modifies Clausewitz's insights into the art of command. In
+principle, boldness - both in his sense of the word or in the common
+parlance of aggressive risk-taking - can become more common and
+more successful than he predicted. Yet deliberate caution may also
+become more common and even more effective than Clausewitz
+predicted. To err on the side of caution is no longer necessarily to err,
+for caution as well as boldness can be linked with effect to superior
+intellect or to cunning. The rise of intelligence and the decline of
+uncertainty in modern warfare have affected the actions of generals.
+They must also affect our judgement of generalship.
+NOTES
+The authors are grateful to Sebastian Cox, Edward Drea, Christina Goulter, Andrew
+Lambert, Tim O'Rourke and Milan Vego for comments on earlier drafts of this article,
+and to Jill Handel for her editorial comments and other suggestions.
+1. Carl von Clausewitz, On War (eds Michael Howard and Peter Paret, Princeton,
+1976), p.233.
+2. Ibid. p.117. For a discussion of many issues related to this topic, see Michael Handel,
+'Intelligence and Military Operations' in Michael I. Handel (ed.), Intelligence and
+Military Operations (London, 1990) and Masters of War: Sun Tzu, Clausewitz and
+Jomini (London, 1992).
+3. W. Kendrick Pritchett, The Greek State at War, Part III: Religion (Berkeley, CA,
+1982), p.149.
+4. Clausewitz, On War, pp.198-201, 210, and Handel, Military Operations, pp.8-11, 13-
+21 and Masters of War, pp. 107-32.
+5. For Jomini, see Handel, Masters of War, pp.107-32. For recent accounts of
+Wellington and operational intelligence, cf. Jac Weller, 'Wellington's Asset: A
+Remarkable Successful System of Intelligence', Military Review, 42 (June 1962); Julia
+V. Page, Intelligence Officer in the Peninsula: Letters and Diaries of Major the Hon.
+Edward Charles Cocks, 1786-1812 (Tunbridge Wells, 1986: introduction by David
+Chandler). All modern accounts of Wellington's military organization also refer to his
+intelligence system: cf. Michael Glover, Wellington's Army in the Peninsula, 1808-
+1814 (Vancouver: 1977); H.C.B Rogers, Wellington's Army (London, 1979) and
+Lawrence James, The Iron Duke, A Military Biography of Wellington (London,
+1992). Stephen Mark Harris's MA dissertation at the Department of History,
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 58 ---
+56 INTELLIGENCE AND NATIONAL SECURITY
+University of Calgary, 1993, 'British Military Intelligence in the Crimean War, 1854-
+1856', demonstrates that at their best, operational intelligence systems in the middle
+nineteenth century could provide material which rivals the quality and accuracy of
+their successors of the twentieth century.
+6. Handel, Masters, pp. 102-7.
+7. Clausewitz, On War, p. 100.
+8. Ibid., p.110.
+9. Ibid., p.103.
+10. Ibid., p.101.
+11. Ibid., p.108.
+12. Ibid., pp.105-4.
+13. Ibid., p.117.
+14. Ibid., pp.102-3.
+15. Ibid.
+16. Ibid., p.102.
+17. Ibid., pp.146-7.
+18. Ibid., p.71.
+19. Ibid., p.112.
+20. Ibid., p.108. (Our italics.)
+21. Ibid., pp.190, 192.
+22. Ibid., p.200.
+23. For arguments on these lines, cf. 'Intelligence and the Problem of Strategic Surprise',
+in Michael Handel, War, Strategy and Intelligence (London, 1989), pp.229-81 and the
+same author's Perception, Deception and Surprise: The Case of the Yom Kippur War
+(Jerusalem, 1976); Richard K. Betts, 'Analysis, War and Decision: Why Intelligence
+Failures are Inevitable", World Politics, 31 (Oct., 1978), pp.61-89, and the same
+author's Surprise Attack: Lessons for Defense Planning (Washington, 1982).
+24. Clausewitz, On War, pp. 110, 190-1; Azar Gat, The Origins of Military Thought, From
+the Enlightenment to Von Clausewitz (Oxford, 1989), pp.202, 205.
+25. Clausewitz, On War, p.192.
+26. Ibid., pp.202-3.
+27. Ibid., p.85.
+28. Ibid., p.180. See also Handel, Masters of War, pp.151-4.
+29. Ibid., pp.103, 190.
+30. Ibid., p.86.
+31. Michael Howard, 'The Influence of Clausewitz', pp.29-39 in Howard and Paret,
+op. cit. For contemporary views about determination, character and daring similar to
+those of Clausewitz cf. Marshall Marmont, The Spirit of Military Institutions (trans.
+Frank Schallcr), (1974 (1864)), pp.222-37. Clauscwitz's great nineteenth-century
+competitor as a theorist of strategy, the Baron de Jomini, placed far less emphasis on
+the topic but his few references to the issue coincide with the views of Clausewitz. See
+Baron dc Jomini, The Art of War, translated by G.H. Mcndcll and W.P. Craighill,
+(Philadelphia, 1962), p.50. The Clausewitzian and Napoleonic tradition about the
+psychology of command also pervades the views of one of the most representative
+commentators on strategy before the First World War, Commandant J. Colin, The
+Transformations of War, translated by L.H.R. Pope-Hennessey (London, 1912),
+pp.183, 351-3.
+32. John Keegan, 'Peace By Other Means: War, Popular Opinion and Politically
+Incorrect Clausewitz'. The Times Literary Supplement, 11 Dec. 1992, pp.3-4.
+33. Martin Blumenson, The Patton Papers. 1885-1940 (Boston, 1972), pp.753, 794-7 and
+The Patton Papers, 1940-1945 (Boston, 1974), p.263; Alfred D. Chandler, Stephen E.
+Ambrose, Joseph P. Hobbs, Edwin Alan Thompson and Elizabeth F. Smith (eds).
+The Papers of Dwight David Eisenhower III: The War Years (Baltimore, 1970),
+pp.1439, 1754. See also Christopher Brassford, Clausewitz in English: The Reception
+of Clausewitz in Britain and America, 1815-1945 (New York, 1994), especially
+pp. 152-87.
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 59 ---
+CLAUSEWITZ, INTELLIGENCE, UNCERTAINTY AND COMMAND 57
+34. John Keegan, A History of Warfare (New York, 1993), simultaneously views
+Clausewitz as having had no influence while somehow still producing every evil in
+modern war. Unfortunately, he fails to understand the text he attacks, describing a
+Clausewitz who never lived while ignoring the one who did. Keegan's appreciation of
+Clausewitz is reminiscent of the Ayatollah Khomeini's views on the United States.
+35. Brian Bond, Liddell Hart: A Study of His Military Thought (London, 1977), pp.20,
+45; John Mearsheimer, Liddell Hart and the Weight of History (Ithaca, 1988), pp. 48-
+50; Blumenson, The Patton Papers, 1885-1940, pp.794-7.
+36. For a discussion of this issue, cf. John Ferris, 'The Intelligence-Deception Complex:
+An Anatomy', Intelligence and National Security, Vol.4, No.4 (October, 1989).
+37. Edward Drea, MacArthur's Ultra, Codebreaking and the War Against Japan, 1942-
+1945 (Kansas, 1992).
+38. Gordon W. Prange, with Donald M. Goldstein and Katherine V. Dillon, At Dawn We
+Slept (New York, 1981), Miracle at Midway, 1982) and Pearl Harbor, The Verdict of
+History (New York, 1986).
+39. Ronald Lewin, The American Magic: Codes, Ciphers and the Defeat of Japan (New
+York, 1982); Henry C. Clausen with Bruce Lee, Pearl Harbor, Final Judgement,
+(New York, 1992); John Costello, The Pacific War (New York, 19S1); Edwin T.
+Layton, with Roger Pineau and John Costello, 'And I Was There': Pearl Harbor and
+Midway - Breaking the Secrets (New York, 1985); Ladislas Farago, The Broken Seal:
+'Operation Magic' and the Secret Road to Pearl Harbor (New York, 1967); James
+Rusbridger and Eric Nave, Betrayal at Pearl Harbor: How Churchill Lured Roosevelt
+into War (New York, 1991).
+40. Ralph Bennett, Ultra in the West (London, 1979) and Ultra and Mediterranean
+Strategy (New York, 1989).
+41. Drea, MacArthur's Ultra, pp.28-9.
+42. Cf. n. 39 and John Ferris, 'Ralph Bennett and the Study of Ultra: A Review Article',
+Intelligence and National Security, Vol.6, No.2 (April, 1991).
+43. Drea, MacArthur's Ultra, pp.74-5.
+44. For a general discussion of allied points, cf. John Ferris, 'The British Army, Signals
+and Security in the Desert Campaign, 1940-42', in Michael Handel (ed.), Intelligence
+and Military Operations (London, 1990), pp.255-91.
+45. Drea, MacArthur's Ultra, pp.62, 92.
+46. John Ferris (ed.), The British Army and Signals Intelligence During the First World
+War (Army Records Society, 1992), Chapter Eight, passim; Anthony H. Cordesman
+and Abraham R. Wagner, The Lessons of Modern War, Volume II: The Iran-Iraq
+War (Boulder, 1990), pp.412-23, passim.
+47. Public Record Office, London, WO 208/1214, memorandum by Piggott, No.32,
+30.11.37. This citation appears by permission of the Controller of Her Majesty's
+Stationery Office.
+48. Ralph Bennett, 'Intelligence and Strategy in World War II', in K.G. Robertson (ed.),
+British and American Approaches to Intelligence (London, 1987), p. 147. For a general
+discussion of these issues, see Michael Handel, 'The Politics of Intelligence' in
+Handel, War, Strategy and Intelligence; Thomas L. Hughes, The Fate of Facts in the
+World of Men (New York, December 1976) and Yehoshafat Harkabi, 'The Intelli-
+gence Policy Maker Tangle', Jerusalem Quarterly, No.30 (Winter 1984), pp. 125-31.
+49. Drea, MacArthur's Ultra, pp.187.
+50. John Dower, War Without Mercy, Race and Power in the Pacific War, (New York,
+1986). For a discussion of the attitudes of the British and American Armies on such
+matters before the outbreak of the Pacific war, cf. John Ferris, 'Racism, Ethnocentra-
+cism and Strategy: British and American Perceptions of the Imperial Japanese Army,
+1919-41', a paper presented to the First International Conference on Strategy, the
+United States Army War College, Carlisle Barracks, February 1990, and 'Worthy of
+Some Better Enemy?: The British Estimate of the Imperial Japanese Army, 1919-41,
+and the Fall of Singapore', The Canadian Journal of History, Vol.XXVIII, No.2
+(August 1993).
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+
+
+--- Page 60 ---
+58 INTELLIGENCE AND NATIONAL SECURITY
+51. Clausewitz, On War, p.528, 571-2; cf. Section 6, Chs.5 and 22.
+52. Thomas M. Huber, Japan's Battle of Okinawa, April-June 1945, Leavenworth
+Papers, Number 18 (Combat Studies Institute, United States Army Command and
+General Staff College, 1990), p.11.
+53. Drea, MacArthur's Ultra, pp.202-25.
+54. Lewin, American Magic, pp.159-69.
+55. F.H. Hinsley, 'British Intelligence in the Second World War', in Christopher Andrew
+and Jeremy Noakes (eds), Intelligence and International Relations (Exeter, 1987),
+pp.217-18, and F.H. Hinsley, The Intelligence Revolution: A Historical Perspective
+(United States Air Force Academy, Colorado Springs, Co., The Harmon Memorial
+Lecture in Military History, No.31), 1988, pp.9-10.
+56. Drea, p.231.
+57. Clausewitz, On War, pp.194-5, 204.
+58. The best account of the Canadian Corps style of operations, and in particular the
+means by which it understood and exploited the characteristics of the German
+defensive system and its reliance on counterattacks in 1917-18 is Ian Brown, 'Currie
+and the Canadian Corps 1917-1918' (MA dissertation, University of Calgary, 1991,
+pp.34-7, 74-82, passim. For other discussions relevant to the topic, cf. G.W.L.
+Nicholson, Canadian Expeditionary Force, 1914-1919 (Ottawa, 1961), pp.284-6; Tim
+Travers, How the War Was Won: Command and Technology in the British Army on
+the Western Front, 1917-1918 (London, 1992), pp.110-74; C.E.W. Bean, The Official
+History of Australia in the War of 1914-1918, Volume V: The Australian Imperial
+Force in France During the Allied Offensive, 1918, (Sydney, 1942), pp.242-626.
+59. Larry I. Bland and Sharon Ritenour Stevens (eds), The Papers of George Catlett
+Marshall, Volume 3: The Right Man for the Job, December 7, 1941-May 31, 1943,
+(1991), pp.101-2.
+60. Memorandum by E.T. Williams, undated but c. 1945, 'The Use of Ultra by the
+Army', WO 208-3575.
+61. Handel, Masters of War, pp.148-9.
+62. For evidence supporting the view that the beginning of the modern age of intelligence
+was 1914 rather than 1939, see Patrick Beesley, Room 40, British Naval Intelligence,
+1914-1918 (London, 1982); Ferris, The British Army, op. cit.; John Ferris, 'The
+British Army and Signals intelligence in the Field During the First World War',
+Intelligence and National Security, Vol.3, No.4 (October 1988) and David Kahn, The
+Codebreakers: The Story of Secret Writing (New York, 1967).
+63. Michael Handel, 'Clausewitz in the Age of Technology' in Michael Handel (ed),
+Clausewitz and Modern Strategy (London, 1986), pp.73-5.
+64. Roberta Wohlstetter, Pearl Harbor: Warning and Decision (Stanford, 1962), pp.336-
+8.
+65. Clausewitz, On War, p.86.
+66. Gat, Military Thought, pp.181-4.
+Downloaded by [American Public University System] at 05:35 11 February 2014 
+

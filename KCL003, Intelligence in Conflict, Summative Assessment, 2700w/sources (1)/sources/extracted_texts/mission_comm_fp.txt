@@ -1,0 +1,703 @@
+Source: mission_comm_fp.pdf
+================================================================================
+
+--- Page 2 ---
+ 
+Disclaimer: The views in this paper are those of  the author and do not necessarily reflect the 
+official policy or position of the Joint Staff, the Department of  Defense (DOD), or the United 
+States Government (USG).  This Insights and Best Practi ces Focus paper on Mission Command  and Cross-domain Synergy 
+is written by the Deployable Tr aining Division (DTD) of the Joi nt Staff J7 and published under 
+the auspices of the Joint Staff J7.  
+ Written by Deployable Training Division. POC is Mr. Mike Findla y. 
+Deployable Training Division, Dep uty Director Joint Staff J7, J oint Training 
+116 Lake View Parkway Suffolk, VA 23435-2697 Email: js.dsc.j7.mbx.joint-training@mail.mil  
+ 
+Accessibility: Available in PDF  format on the following website s: 
+Joint Lessons Learned Information System (JLLIS) (CAC enabled and registration required) : 
+https://www.jllis.mil/JSCC/apps/index.cfm  
+Joint Doctrine, Education, and Tra ining Electronic Information System (JDEIS) (CAC enabled) : 
+https://jdeis.js.mil/jdei s/index.jsp?pindex=0  
+All Partners Access Network (APAN) (Registration required) : 
+https://community.apa n.org/default.aspx  
+Joint Electronic Library (Public website) :  
+http://www.jcs.mil/Doctrine/focus_papers.aspx  
+Joint Staff J7 Joint Training Intelink (CAC enabled) :  
+https://intelshare.intelin k.gov/sites/jcw/jt/default.aspx 
+ 
+Releasability: There are no rel easability restrictions on this publication. Approved for public 
+release; distribution is unlimited.
+
+--- Page 4 ---
+ 
+i 
+ 1. Executive Summary   
+The juxtaposing of mission command and cross- domain sy nergy  has clear utility at theater -
+strategic and operational  level  for operating at the speed of the problem . Mission command is 
+important in setting condition s for military subordinates . Cross- domain synergy  leverag es the 
+capabilities of our many mission partners to increase overall effectiveness.   
+The so what .  Three major insights : 
+1) Building trust and gaining shared understanding: Our joint commanders increasingly note 
+the large number of mission partners that they must work with to build trust, share 
+understanding, and achieve unified action. They also note how National and International leaders’ v iewpoints and policies chang e as these decision -makers interact and learn. Building 
+and maintaining trust , continuous dialogue, and gaining shared understand ing with the many 
+mission partners impose significant time de mands on commanders and staffs at combatant 
+commands and JTFs . This  may be  a markedly different experience for those whose previous 
+experience was at the tactical level.  However, it is this trust  and shared understanding that 
+enables empowerment , cross -domain synergy , and ultimately effectiveness .  
+2) Empowering subordinates to act : Today’s interconnected world is unpredictable and 
+complex. The pace of change and speed of operations is acceleratin g. In response, 
+commanders find they must share both  operational  context  and their intent  to successfully 
+empower disciplined initiative in their subordinates .  
+3) Role of the support command relationship and the establishing authorit y: The need to 
+leverag e the many capabilities from other commanders and partners to achieve cross -domain 
+synergy highlights the importance of the support command relationship, and requires increased effort  by Establishing Authorities  to prioritize, allocate resources, and synch ronize 
+actions  in order to act at the speed of the problem . OSD and JS level direct involvement is 
+essential to  enabling  agile , cross -combatant command sy nergy. 
+A command philosophy . We find that  operational commanders view mission command a s a 
+command phi losophy  as noted in the CCJO . Mission command coupled with the reality of 
+interdependence with our mission partners provide s the basis  for effective cross -domain 
+synergy – focused on achieving complementary versus merely additive employment of capabilities  across domains and mission partners to achieve decisive advantage.  
+Challenges . We introduce several challenges up front to set conditions for later insights :  
+- Understanding the many existing perspectives, national interests, authorities, and policies.  
+- Crafting clear guidance and intent , and s haring th e continually changing context.  
+- The pervasive information environment  and its effect on increasing tempo of operations, 
+decision -making, and real -time visibility of tactical action s in the global media . 
+- Number, diversity, and understanding of the capabilities of the many mission partners.  
+- The inclination to centraliz e decision -making to mitigate risk or gain perceived efficiencies .  
+- Complexity of operating globally across combatant command boundarie s and with partners . 
+Insights and Best Practices . We share insights and best practices  centered on:  
+- Building and maintaining trust and relationships . 
+- Dialogue to gain and share understanding , and ultimately a co -creation of context .  
+- Importance of  strategic reflection  for guidance , intent, and e mpowerment . 
+- Reality of i nterdependence and benefit of cross -domain synergy . 
+- Importance of ensuring clarity in command relationships.
+
+--- Page 5 ---
+ 
+1 
+ Mission command is the conduct of military 
+operations through decentralized execution 
+based upon mission -type orders.  
+Joint Publication 3- 0 “Joint Operations” 11 Aug 2011  
+“Mission command is a continual cognit ive 
+effort to understand, to adapt, and to direct 
+effectively the achievement of intent.”   
+CJCS White Paper on Mission Command  
+“One of the myths of Mission Command is that it 
+equals less or little control.  In some ways this could not be further from the truth.  Mission 
+Command is the balancing of Command and 
+Control, and different ways to gain control.  I would offer that universal understanding of 
+Commander’s Intent is a very powerful method of 
+control.”        Senior Flag Officer 2013  2. Mission Command1  
+General : Commanders at the joint level 
+use some f orm of a mission command 
+philosophy focused on the Art of Command 
+in today’s  complex environment, regardless of the technological and informational 
+improvements that many refer to as the Science of Control . The art of command is the 
+creative and skillful u se of authority, instinct s, intuition, and experience in decision- making 
+and leadership while the science of control is about th e systems and procedures that improve 
+a commander’s understanding and support the execution of missions. Effective j oint 
+command ers leverage both the art and 
+science.   
+The Chairman notes in his White Paper  that 
+the burden is on the commander due to the complexity and uncertainty of the environment, the tempo of operations, and the number of mission partners . Additionally, w hile w e leverage new technology to advance our science of 
+control , that aspect may not always be robust (e.g., in austere environments ) and may be 
+vulnerable  to attack . This further reinforces  the need to focus on mission command .  
+A command philosophy : Mission c ommand i s a command philosophy  as noted in the 
+CCJO . The key attributes of this command philosophy  (trust, understanding, and intent) are 
+in current joint and service doctrine. All 
+commanders exercise varying degrees of control in their application of miss ion 
+command based on several factors, such as the situation, activity, and capabilities of forces.
+2 One example of this is the positive 
+and procedural control measures used within airspace control.
+3   
+A mission command  philosophy allows for the Service and  Functional Components and 
+coalition partners to operate in a decentralized manner in accordance with their doctrine and 
+concepts. T he Navy’s daily  intentions messages and Composite Warfare Commander (CWC) 
+Concept  and the USAF ’s centralized control and decentralized execution concept  for C2  are 
+Service examples . Mission command provides the means (through commander’s intent, 
+mission type orders, and decentralized execution) to operate at the speed of the problem by 
+                                                 
+1 We also incorporate much of this in our  broader Joint Operations –  Insights and Best Practices paper dated 
+March  2013.  
+2 As the CCJO notes, “It is important to note that while mission command is the preferred command 
+philosophy, it is not appropriate to all situations. Certain specific activities require more detailed control, such 
+as the employment of nuclear weapons or other national capabilities, air traffic control, or activities that are 
+fundamentally about the efficient synchronization of resources .” 
+3 See AFDD -1 and JP 3- 52 (Joint Airspace Control) for good discussions on the centralized control and 
+decentralized execution of airpower and airspace control. AFDD -1 addresses how decentralized execution 
+allows subordinate commanders to take the initia tive and increase airspace control effectiveness through real -
+time integration during execution. JP 3 -52 addresses the concept of positive and procedural control measures 
+that are used in airspace control. Airspace control procedures provide flexibility th rough an effective 
+combination of  positive and procedural control measures.  
+
+--- Page 6 ---
+ 
+2 
+ “I found that c ommon understanding to be the essential enabler 
+for fast -paced, decentralized operations.  But the effort required 
+to attain and maintain that level of shared understanding is 
+remarkable - it takes changing how the entire command 
+processes and shares infor mation - and runs starkly against the 
+grain of most layered command structures and processes -  and 
+challenges the desire of many individuals and organizations to 
+control information.”   Senior Flag Officer 2013  increas ing overall agility and effectivene ss, and enable s better synergistic cross -domain 
+operations with our joint, interagency, and multinational mission partners .  
+Challenges : We have seen  the following challenges  in the exercise of mission command. 
+• Understanding  the many perspectives, nationa l interests, and policies  at the international 
+and national level is hard  for the commander and staff to digest . It is difficult to remain 
+abreast of the continually changing geopolitical context and national guidance due to its 
+scope, complexity, and many  players. (For example, in 2011 the mission in Libya rapidly 
+evolved from one initially focused on NEO to that of military intervention)  It is equally hard to rapidly share this changing understanding at every echelon in the military formation to enable d isciplined initiative. 
+Subordinates may not always grasp the subtleties of the broader and changing context in which they may have to operate. This can result in the commanders opting to retain control and not empower their subordinates, potentially losing  the initiative.  
+• Authorities . The decentralized nature of mission command and delegation of approval 
+levels require that subordinate commanders understand and appreciat e the many relevant 
+laws, policies, and directives . Lack of a shared understanding of t hese authorities  and their 
+limitations  can result in loss of legitimacy, trust , cohesion, a nd tendency to retain 
+centralized control .  
+Establishing and maintaining a common and uniform understanding of authorities becomes especially relevant in operational izing a mission command philosophy. There are numerous 
+U.S authorities (think of Title 10, 22, 50 and other authorities) and significant international and national authorities (including the host nation) in multinational operations. There are also many specified authorities and responsibilities wit hin the U.S. A rmed F orces ( such as 
+the operational direction authority of a joint force commander and Services’ Title 10 and 
+administrative control  responsibilities ). An  example of this lies in the  complex ADCON 
+and Title 10 relationships that the U.S. National Support Element in Afghanistan has with 
+the Theater Service Component Commands (such as ARCENT) and the Service forces under the NATO OPCON of the Commander, ISAF. Understanding and application of  these man y authorities requires frequent special staff access to the commander as he frames 
+problems, provides guidance, and makes decisions . 
+• Information environment . The global  information environment brings  several challenges. 
+It leads to an increase in the tempo  of operations as we are challenged to observe, plan,  
+decide and act quicker than the adversary . It can also lead to instances of information 
+overload as commanders attempt to process all information before making decisions . In 
+some cases we see that this onslaught of information -  driven by the staff  - may preclude 
+commanders from taking valuable time for strategic reflect ion on the problem, 
+development of a well thought -out operational approach, and crafting of clear guidance 
+and intent . In these cases, t he commands will often default to a centralized control 
+philosophy as they react to emerging challenges with no clear overarching approach.  
+
+--- Page 7 ---
+ 
+3 
+ Staffs may also be inclined to over rely on the “science of control ” relative to the art of 
+command by implementing  more reporting, control measures, and battle rhythm events in 
+an attempt to fully monitor, track, and control operations. Staffs  may not understand or be 
+comfortable in operating within a mission command construct of trust, shared 
+understanding , intent, a nd empowerment. Likewise , the opposite may also exist where the 
+staff may have to operate in an environment  where shared understanding and trust is 
+inadequate at the command level.  
+The information environment also has the potential to imbue tactical action  with near 
+immediate strategic ramifications  due to visibility in the continuous 24- hour media. Th is 
+can lead to risk adverseness and a tendency t o over -control  and centraliz e decision making  
+when we may need to do just the opposite .  
+Successful units figh t through this by working even harder to share understanding, provide 
+clear intent, and trust, decentralize, and empower subordinates  to appropriately act at the 
+speed of the problem . We also see commanders using their instincts and intuitive judgment 
+to cut through the fog and friction induced within the information environment. 
+• Number of mission partners . The interconnected nature of operations requires continuous 
+interaction with a large number of our unified action mission partners  especially at the 
+strategic and operational level. Building and maintaining trust with these many partners is 
+difficult and imposes  significant time demands  on commanders  and staffs . This has 
+particular significance to flag and general officers as they assume positions of authority in 
+strategic and operational level positions  and spend significant time engaging with these 
+mission partners . They will not have as much time available to directly control or guide 
+subordinates as they may have done in previous assignments . Thus , the concept of mission 
+command and the importance of shared understanding, guidance , and intent may be even 
+more important  at this higher level as commanders increase efforts up and out with other 
+mission partners . Nurturing relationships must be a constant drumbeat for the commander – 
+in and out of crisis.   
+• Diversity of mission partners  / subordinates . Our mission partners  - both adjacent 
+partners and subordinates may come from a culture or background in which decision-
+making is centralized, and where empowe rment , subordinate  level  decision- making , and 
+acceptance of responsibility is not comfortable or expected.  Some mission partners  may not 
+have the capability to gain the same degree of situational understanding or have the same 
+experience in operations  (think of a new U.S. or coalition member to the team)  and may 
+require increased support, supervision, or control. Equally important is understanding how 
+each partner communicates. Some partners may use texting on cell phones, some need formal papers, some use fax, some prefer phone, and some will require a formal top down 
+approach. Each partner has a method of communicating that is unique and commanders must devote the time necessary to figure this out or they will waste time with ineffective communication that  slows down the building of trust and confidence across the team. 
+Commanders must recognize these differences as they build relationships, and massage and 
+tailor the necessary level of coordination, control or supervision (think different level of intellig ence support, coaching, planning support, increased visits and SME support) . 
+Ignoring  these differences can damage trust  and team work , and risk mission 
+accomplishment.  
+• Peacetime centralization tendency . The decade of learned lessons in irregular warfare 
+informs us of the value of decentralization to achieve operational objectives and is the basis 
+
+--- Page 8 ---
+ 
+4 
+ “In my judgment, key elements to building the se critical 
+relationships are frank dialogue, private conversations, 
+understanding the host nation perspective, being able to explain U.S. 
+policy, and being proactive with bad news. Frank dialogue and 
+private conversations go hand -in-hand in terms of build ing a solid 
+relationship with our counterparts. Culturally, public appearances and meetings tend to be ceremonial in nature, where agreement and 
+face- saving are the priorities. My experience was that real 
+relationship building could occur in private meetin gs because there it 
+is possible to be open about contentious issues without fear of 
+embarrassment to either party.”                  Senior Flag Officer 2013 
+“I think we all take building a team for 
+granted and think we are really good at it, but 
+the real ity is that most military leaders are 
+NOT as proficient at building teams as they 
+think. We are too service centric and often 
+exclude out JIIM partners. ”  
+     Senior Flag Officer 2013  for globally integrated operations described in the CCJO. History suggests there is potential 
+for a return to more centralized command philosophies a s the military  transition s from 
+large- scale conflict s to a different landscape characterized by p eacetime engagements and 
+limited conflicts . Garrison operations, tight fiscal constraints, and increased competition for 
+promotion could bias leaders , especially within the Services, toward centralization in an 
+effort to be more efficient and controll ing. Our joint headquarters may also be tempted to 
+centrally control the myriad of more scrutinized peacetime engagements. However, while centralization may work to some degree i n peace, it may not work in conflict  (or a disaster 
+response) in which higher commanders  rely on subordinates’ initiative and speed  of 
+decision and action. I t takes time to develop a culture of decentralization and 
+empowerment; it can’t occur overnight whe n a crisis occurs. Therefore we suggest the need 
+to deliberately determine  the degree of a centraliz ed or decentralized command climate and 
+culture in peacetime.  
+• Service- centric approach to operations . History also suggests the potential to return to a 
+Service- centric focus in the years ahead as we move away from the decade of war  and 
+close interaction . Over time we  may forget  the potential benefits  of a unified action 
+approach  as we  focus on Service basic skill sets . We may also lose the valuable techniques 
+and procedures relevant to joint and combined operations  with our mission partners . This 
+could move us away from a  mission command philosophy and interdependent  mindset with 
+our partners that are essential for success in periods of conflict and other operations.  
+Insights:   
+• Trust  and Relationships . 
+Building and maintaining trust is possibly a 
+commander’s  most 
+important action  to 
+establishing and exercising mission command and achieving cross -domain 
+synergy. Develop ing trust 
+up, down, and across gains synergy with mission partners  and enables  mission type orders 
+and empowerment .  
+Personal relationships are often equally or more important than command relationships in today’s complex interorganizational environment. T hese relationships must be built and 
+continuously maintained through both dialogue and actions – before, during, and after 
+crises.  This has significant time implications , especially the time to build and maintain trust 
+and relationships with stakeholders and new mission partners  (think about the time required 
+for an incoming joint commander to build trust through both words and actions with the country team (s) or a coalition partner that just 
+joined the team) . We see commanders making 
+this their priority.   
+- Observed best practices : 
+ Plan how to build and maintain trust in and out of crisis.  
+
+--- Page 9 ---
+ 
+5 
+ “Intelligence sharing is an important foundation for building trust. 
+The commander of a US -led JTF will arrive with information and 
+intelligence capabilities that will dwarf the next largest partner. 
+Traditional foreign disclosure mechanisms are slow and 
+cumbersome resulting in a commander being unable to sh are much 
+more than open source information. This can/will slow the building 
+of trust and confidence unless it is attacked early. Rather than ask 
+“what can I share”, perhaps a better question for a commander is “what can’t I  share. ” Once this is determined  through a set of 
+operating rules, the commander would be well served to flood 
+mission partners with shareable data and intelligence. ”  
+Senior Flag Officer 2013  “Trust must also be earned.  If a subordinate 
+has not shown adequate competence in a 
+particular area, they may have not yet earned 
+the complete trust of their superior.  There is 
+a difference between earned trust and blind 
+trust. ”                 Senior Flag Officer 2013   Identify the organization(s) the commander and staff will be most dependent on or 
+work with as the target for early engagement and team -building. A commander’s time 
+is finite so th ey have to pick where to inves t with regard to critical relationships.  
+ Establishing a personal relationship between commanders built on mutual respect that staffs see will spread throughout the organizations and become a critical enabler when the staffs are required to execute operati ons in the chaos and fog of war.  
+ Actively build trust  through words and actions, and continue  reinforcing it.  
+ Allocate the necessary time to build trust before a crisis (in phase 0  - Shape).  
+ Subordinates can help by  demonstrat ing competence to gain the confidence of their 
+leaders . This is a factor in trust. 
+ Inclu de mission partners in commander 
+conferences , circulation , and battle rhythm  
+events . 
+ Establish private means and the atmosphere to engage directly with subordinate commanders. 
+ Leverage both the ability for frank discussions in private meetings and public engagements with mission partners to fully share  perspectives.  
+ Focus on aligning actions and words (e.g., follow through on promises).  
+ Broaden engagement to more than just the commander (e.g., st aff and subordinates).  
+ Consider the advantages of using standing Service and Functional Component  HQs to 
+employ forces versus default to standing up adhoc JTF HQs due to the trust and relationships already built within th e permanent  standing HQs with both the 
+Combatant Command HQs and AOR mission partners.  
+ Maintain sensitivity to guard against / correct the potential for a false perception of U.S. military leaders’ disregard of other coalition members / roles through over -emphasized 
+use of US SIPRNET and U S-only meetings.  
+• Dialogue to Gain and Share Understanding . Gaining and maintaining a common  
+understanding of the situation, problem, and intent is a significant challenge . This c an 
+affect what right looks like . National leadership may  have different geopolitical 
+perspectives than field commanders. A t heater -strategic commander might very well  have a 
+different perspective on the environment and problem than an individual at the tactical level. Similarly , a military command er may have a different perspective than a State 
+Department Foreign Service Officer. Thus, doing the right thing for one may not be the same right thing for another . This also has a temporal  aspect to it – the environment is 
+continually changing and th e understanding of what’s right  may not  keep up  (think about 
+the changes in  nighttime tactical operations and evidence- based operations in Afghanistan 
+
+--- Page 10 ---
+ 
+6 
+ “Trust and communication with national level command is key 
+- and should be far more carefully executed than it has been in 
+the past.  Expecting an ad hoc collection of civilians and 
+military - many new to their positions - and co ming from 
+starkly difference experience -backgrounds to mold themselves 
+rapidly into a cohesive team capable of processing complex 
+information and conducting effective decisionmaking - 
+particularly in times of crisis - is a stretch.  We should respect 
+the d ifficulty of the tasks before them and do everything 
+possible to build cohesion…”  Senior Flag Officer 2013  “We’ve got to develop leaders who can take 
+the facts of the situation, apply context and 
+under stand.”  CJCS January 2013  as the Government of the Islamic Republic of Afghanistan (GIRoA) matured and asserted 
+its sovereign authority).  
+We observe that one must c ontinually dialog ue with higher authorities and mission  partners 
+to better understand the changing environment and perspectives and  what  a shared 
+understanding of right  looks like . This c ontinuing 
+dialogue deepens trust, clarifies authorities for 
+action, assi sts problem framing as part of design, 
+enriches guidance and intent, enables synergy 
+with mission partners, and coupled with mission- type orders, enables us to release the 
+disciplined initiative of subordinates  to do the right thing. One Combatant Commande r 
+notes  “collaboration releases the 
+initiative of subordinates.” This collaboration and information sharing has significant time implications for joint force commanders  and subordinates . 
+- Observed best practices : 
+ Recognize the geo political 
+challenges that national level leaders will likely face  
+in a crisis . Commanders can  assist them by understanding their perspectives while 
+also keeping them informed of theater -strategic and operational military -related 
+perspectives, potential risks, and feasible options. This will enhance trust between 
+national leadership  and operational 
+commanders required for the resultant 
+delegat ion of  authorities and standing 
+permissions.  
+ Recognize the “contract ” made with 
+subordinates as a result of sharing understanding. Shared unde rstanding is 
+a “trust” contract for subsequent disciplined initiative  on the part of the subordinates. 
+The word disciplined  is key here, signifying recognition (and agreement) on both 
+parties that the actions taken will be consistent with higher intent and  the shared 
+context.  
+ Emphasize use of c ommander conferences ( both physical and virtual) . 
+ Direct s taff-level  interaction and sharing (i.e., not just commander s sharing 
+information) . Assess this interaction and emphasize as required.  
+ Focus attention on under standing authorities. This takes effort and is often led by the 
+J5 and SJA.  
+ Conduct s ignificant commander circulation (and staff circulation) sharing 
+perspectives (up, down, and across). S cheduling discipline is required here to prevent  
+circulation fratricide due to multiple visits overwhelming  the same subordinate – all 
+with different messages .  
+ Provide feedback to the staff from commander circulation; they don’t have the benefit of the understanding gained through this circulation and discourse.  “Commanders must consider and anticipate 
+possible changes in the geopolitical dynamic. 
+This is not a staff function, but rather is confined 
+to the c ommand group so it does not detract 
+from the business of the day. This is where 
+strategic "thinking time" is well spent. ”    
+Senior Flag Officer 2013  
+
+--- Page 11 ---
+ 
+7 
+ “It is important to have commanders think through 
+what they "can" know and what they "need" to know, 
+how they prepare themselves and their entire team to 
+function in that environment, and how they must sort 
+through what will likely drive events at higher levels 
+and what is just noise to disregard.  Not easy, exact 
+or static by any means. ”    
+                            Senior Flag Officer 2013   Develop  appropriate CCIR, organize the staff, and discipline the battle rhythm to 
+ensure the staff optimally supports agile commander decision- making . Use instincts 
+and intuitive judgment when appropriate to cut through the fog and friction of 
+inundation of infor mation.  
+ Develop a  communications 
+infrastructure that allows for information sharing and collaboration with mission partners  (e.g., D OD, 
+USG Interagency, and Coalition) . 
+This will likely  require some form of 
+common  mission network much like 
+the Afghanistan Mission Network (AMN) , All Partners Access Network ( APAN) , or 
+the emergent Mission Partner Environment (MPE) discussed later in the paper.  
+• Intent . Commanders are responsible to provide quality guidance and intent that links 
+strategic direction to operational approaches to tactical action, the essence of operational art. This starts with insightful dialogue to inform and be informed by national and international leadership. Quality guidance and intent , coupled with risk guidance, enables 
+mission command.  
+- Observed best practices : 
+ Make the time to dialogue  and strategically reflect  on the problem before crafting and 
+provi ding guidance and intent.  
+ Bring external players into the  inner circle to discuss the environment and challenges. 
+Attempt to see the various  perspectives on the problem – the political- military aspects 
+from the national (and international level), the regional level, and from the adversaries’ perspective (value of red teaming).  
+ Consider how the operational approach and intent can place the adv ersary on an 
+operational horns of a dilemma by exploiting vulnerabilities and maintaining advantage.  
+ Recognize the value of continuous circulation and sharing of intent, particularly in the early stages of a crisis.  
+ Consider how intent enables the  comman d and subordinates to take on an adaptive 
+stance to be able to rapidly adapt to a thinking adversary.  
+ Co-develop intent with mission partners (including higher and subordinates) to gain 
+their perspectives and subsequent understanding and buy -in. Sample interpretation 
+before issuing is often helpful.  What the commander writes and what subordinates read may be very different -  better to fix before sending.  
+ Personally craft commander’s intent. We recognize this is a common dictum, but we 
+still see planners dr afting intent. These draft intents often predispose commanders’ 
+final intent and guidance documents and do not reap the benefit of the commanders’ personal reflections on the problem and approach.  
+ Continuously share intent, not only in orders, but also during circulation,  and in 
+meetings  and other battle rhythm events.  
+ Be prepared to change intent based on the situation and reframing of the problem . 
+
+--- Page 12 ---
+ 
+8 
+  Do not abrogate the higher headquarters design and planning responsibilities as part 
+of the concept of decent ralization.  
+• Risk guidance . Provide risk guidance as an important aspect of mission command. It helps 
+to share intent and share understanding by communicating the commander’s perspective of his perceived impediments (or hazards) to the mission and force, together with respective decision approval authorities (often through some form of decision approval matrix). This is directly related to empowerment.  
+- Observed best practices : 
+ Deliberately analyze risks to the mission and force. Use red teams.  
+ Understand nat ional caveats of mission partners before publicly outlining risk. 
+Publicly outlining risk before understanding national caveats creates the possibility of placing a team member in an embarrassing position (since it is not their decision what they can/can’t  do in the operation).  
+ Delineat e these risk s to the mission and the force  together with risk mitigation 
+direction (including decision  approval authorities) . 
+ Be clear where the commander is willing to accept risk.  Don’t be vague and require 
+subordinates to “suck it up.”  
+ Make it very clear who is allowed to take what level of risk.  
+ Correlat e key risks with CCIR. CCIR helps share to the staff and subordinates what 
+the commander feels is important; such as future decisions and potential risks.  
+• Empowerment . The  last ten years of combat reinforce the need to decentralize and 
+empower our subordinates  and staff  to act at the speed of the problem . Those who did n’t 
+appropriately decentralize lost  agility  and initiative, and risk ed mission failure. We have 
+seen how co mmander’s intent focused on the what  and why versus  the how  enables  the 
+disciplined initiative in the subordinates to gain agility and effectiveness .  
+Commanders need to take the time to understand, recognize, and develop a subordinate’s 
+ability for empowe rment  and initiative , together with the skill to know how and when to 
+adjust the necessary level of supervision. ( Think how some commanders in Iraq and 
+Afghanistan would focus their attention and coaching on a new member of the team, developing his or her tactical prowess  until up to standard, and then incrementally 
+empower them .)   
+Combatant commands also recognize the need for empowerment. Every Geographic Combatant Command we visit has numerous ongoing missions , including multiple 
+peacetime engagements a s they work with the many U.S. Ambassadors , nations, and 
+stakeholders throughout their AOR. Similarly , Functional Com batant  Commands are 
+working with all of the Geographic Commands. Each of t hese Combatant Commands rely 
+on mission command to set conditions  for numerous subordinate actions . The se higher 
+headquarters  focus on design and planning  activities and share their understanding and 
+provide guidance and intent to help set conditions for their subordinates to execute.  
+- Observed best practices : 
+ Recogni ze the need not just for intent , but also for a shared understanding of context  
+in order to empower disciplined initiative  - particularly important at strategic and 
+operational level.  This is related to the earlier discussion on disciplined initiative.  
+
+--- Page 13 ---
+ 
+9 
+ “Regarding defining the fight, I recommend 
+commanders monitor the lanes, not just to keep 
+themselves in check, but to give their 
+subordinates the cleanest water to move forward. ” 
+           Senior Flag Officer 2013   Deleg ate authorities to the lowest appropriate level capable of integrating assets to 
+work inside the adversary’s decision cycle. Within this, b alance decentralization with 
+the need for the requisite level of supervision. Accept becoming uncomfortably 
+decentral ized to achieve mission success.  This may include providing assets to 
+subordinates as well.  
+ Develop T erms of R eference (TOR) documents laying out roles  and responsibilities 
+of deput y commanders  and key staff within  the HQ.  
+ Tailor decision approval matrices  applicable to decision approval authorities both 
+within the HQs and for subordinate headquarters. For example, J -code directors may 
+be empowered with certain decision authorities to maintain decision agility and effectiveness within the  headquarters in ad dition to empowering subordinate 
+commanders.  
+ Align CCIR and other reporting requirements with decision approval levels. While recognizing the requirement for shared understanding, guard against establishing CCIR and other reporting requirements that may ha ve the effect of impinging on the 
+initiative or slowing agility of subordinate units.  
+ Conduct quality in -briefs with new leaders  / key personnel coupled with focused 
+visits and circulation to assess strengths, degree of experience, and comfort in 
+exercisi ng initiative and accepting responsibility. Make s ubsequent decisions on 
+necessary coaching and mentoring, and tailoring of degree of empowerment. ( Some 
+members of the team may be empowered more than others based on varying levels in 
+their abilities , their  propensity for initiative , and their mission set.)  
+ Be attentive to not overwhelm subordinates with collaboration or visits as they are 
+also planning and conducting their missions  with their subordinates. We often see 
+deliberate limiting  of demands on subordinates for extensive updates during higher 
+HQ battle rhythm updates, rather tasking the h igher HQ staff to report on the 
+situation, and then giving subordinates freedom  to surface issues and questions.  
+ Define your fight. Ask the key questions: W hat is the Combatant Command’s  fight, 
+the JTF ’s fight, and the S ubordinate ’s fight ? If we don’t do that up front, everyone 
+focuses on fighting the subordinate’s 
+fight; no one is focused on setting the conditions  upfront for their success.  
+ Discipline your organiz ation to stay at 
+the right level from a higher headquarters perspective . We’ve heard the common adage before “One is more 
+comfortable and will default to doing their  last job, and not their  new job.” 
+Operational and strategic level  HQs will be tempted to o perate at the tactical level . 
+One commander deliberately kept his headquarters lean  to not give the staff the 
+capacity or opportunity to take on subordinate headquarters tasks. W e continually 
+hear the wisdom in focusing higher headquarters on setting condi tions for the success 
+of their subordinates . This is a ll part of staying at the right level to enable mission 
+command. 
+
+--- Page 14 ---
+ 
+10 
+ 
+Joint Force 
+Commander
+DImE
+Land
+ Air
+ Maritime
+ SOFNational 
+LeadershipNational
+Leadership
+Other Nations’ 
+Efforts
+Other Nations’ 
+Assets
+DImE
+Other 
+CCMDs
+Examples of cross -domain synergy : 
+• Theater air s upport to a ground commander. Implemented 
+through a support command relationship, exchange of liaison, 
+and provision of robust integration elements capable of 
+harmonizing air power at the operational and tactical echelons.  
+• Homeland b allistic missile defens e. Implemented through 
+support command relationships between combatant commands, prioritization, and detailed authorities, including ROE, and responsibilities across mission partners.  
+• Overflight rights in support of an operation. Implemented through open d ialogue with Department of State on DOD 
+requirements for subsequent DOS lead in gaining overflight 
+rights.  “In this age, I don’t care how tactically or operationally 
+brilliant you are , if you cannot create harmony – even vicious 
+harmony – on the battlefield based on trust across service lines, 
+across coalition and national lines, and across civilian/military 
+lines , you really need to go home, because your leadership in 
+today’s age is obsolete.  We have got to have officers who can 
+create harmony across all those lines.”  
+Gen Mattis [Joint Warfighting Conference 2010]  3. Cross -domain Synergy4  
+Cross -domain synergy and the idea 
+of interdependence is a quantum 
+(but not new) mindset change from a vertical  orientation (receiving and 
+unilaterally accomplishing tasks directed by the higher commander ) 
+to that of working much more closely with your horizontal mission partners  as depicted by 
+the shaded areas in the above figure . The attributes of mission comma nd, coupled with the 
+reality of interdependence with our mission partners, provide the basis for cross -domain 
+synergy.  General Mattis notes the very clear human aspect to cross -domain 
+synergy in his quote on creating harmony.  
+Interdependence.  We 
+operate as one team with our mission partners – joint, coalition, USG interagency, and other interorganizational players. These are not just words or a slogan; we depend on each other to succeed in today’s complex security environment. This is de facto interdependence: the dependence on access  to each other’s capabilities to succeed 
+in assigned tasks  (even though you don’t own them) .  
+Cross -Domain Synergy. We continually observe that the directed combination of military 
+and interorganizational capabilities typicall y dedicated to one domain (e.g., land, sea, air, 
+cyber, or space) -  or realm of responsibility – can produce effects beyond just in that single 
+domain to enhance the effectiveness and compensate for the vulnerabilities of other  domains . 
+Our nation’s streng th is in the fact that we are generally without equal when one looks across 
+all five above noted domains ;
+5 
+cross -domain synergy is about 
+using every advantage we have to achieve overmatching power.  
+The value of  synergy (cross -domain 
+or within a domain) is  not new. An 
+example is airpower operating within the air domain that has beneficial effect in the land or sea domain. The s ame could be said for 
+cyber or space. Other examples are 
+in the text box. We find this cross -
+domain synergy can apply to more 
+                                                 
+4 Cross- domain synergy. Definition from the Joint Operational Access Concept (JOAC 2012): The 
+complementary vice merely additive employment of capabilities in different domains suc h that each enhances 
+the effectiveness and compensates for the vulnerabilities of the others.   
+5 A general statement... Obviously we have competition in the cyber arena.  
+
+--- Page 15 ---
+ 
+11 
+ than a cross domains; it also applies within domains, such as across combatant command 
+AOR boundaries and functions, SOF -  Conventional Force integration, and synergy with 
+interorganizational partners  within the land domain.  
+As noted earlier, c ross-domain synerg y and the idea of interdependence is a  quantum mindset 
+change from a vertical  orientation to that of working with your horizontal mission partners. 
+This synergy results from more than  just interoperability, i.e. the technical ability to work 
+together  even though this aspect is important . It is recognition that the Armed Forces operate 
+as part of a team of joint, interagency, and multinational partners – and depend on access to 
+each other’s capabilities to succeed.  
+This synergy  is commander -driven ; it is di rected  in guidance and intent, and implemented in 
+orders. It is much more than “HANDCON,” an often- quoted term expressing the decision on 
+the part of subordinates to voluntarily work together absent direction by their higher commander. Higher commanders ar e responsible to deliberately craft the task organization 
+and command relationships shaping a command environment in which the components must work together, supporting each other in an atmosphere of trust and confidence to accomplish the mission.  
+Challen ges: There are challenges in achieving  cross -domain synergy .
+6 
+• Recognizing the reality and need for interdependence. There remains a sub -culture 
+believing that you must own  a capability to use it. We have never had the  luxury  of owning 
+everything we need  nor will we in the future . We are interdependent on others; any other 
+view is counter to the lessons learned from operations, the idea of unified action, whole of government approaches, jointness, and the ability to accomplish strategic objectives. We don’t have to own a capability to use or gain benefit from it; however , we need assur ance 
+of its availability  within the overall priorities of the higher commander.  
+• Gaining synergy and harmony. The challenges of gaining synergy and harmony with 
+other USG agencies and multinational partners are somewhat greater than with our joint 
+partners because there may be no clear authority directing a clear relationship with them to mitigate risks of interdependence. We also find that just because you are talking to an interagency partner does not mean there is understanding ; the phrase silence is consent  
+does not always apply. We see commanders mitigating th ese challenges and risk s through 
+development of personal relationships and trust, use of liaison elements, and conscious decisions on the degree of reliance upon those mission partners for critical tasks.  
+• Limited understanding of other domain mission partners’  authorities, competencies 
+and capabilities (such as  SOF, cyber, or space). This lack of knowledge may result in a 
+“supported commander” not know ing what to ask for, or how to best leverage it. We see 
+this challenge frequently . A sta ff, and sometime s even the commander, may not be aware 
+of what another mission partner can provide and therefore does not incorporate that  
+capability into the plan . This directly limits cross -domain synergy , results in less than 
+optimal solution sets , and may result in mission failure . We see a requirement for partners 
+to be advocates for their competencies and capabilities.  Not in a paroch ial sense, but with a 
+common understanding of the problem and intent, they need to professionally advocate for the use of their capability where it can best serve the mission.  
+                                                 
+6 Many of the challenges and insights noted for mission command are also relevant to cross- domain synergy.  
+
+--- Page 16 ---
+ 
+12 
+ • The complexity of operating globally across combatant command boundaries  and wit h 
+functional combatant commands. Despite our leadership embracing the benefits of cross -
+combatant command activities, we have not yet fully come to grips with all of the 
+challenges in cross -Combatant Command coordination and specifically the OSD 
+establishi ng authority  responsibility  (and necessary JS support) associated with globally 
+integrated operations  noted in the CCJO . Think about the planning and rapid prioritization 
+efforts necessary at OSD  and JS level for things like reallocation of critical munitions, 
+intelligence support, strategic lift assets, and cyber support. This affects coordination and authorities , and could limit cross -domain synergy  and mission success . 
+• Interoperability of networks and C2 architecture. We continually see limitations in th e 
+various mission partners’ network ability to support analysis, fusion and dissemination information, intelligence and operational orders to enable cross -domain synergy. In order to 
+achieve the desired level of interdependence, commanders require C2 processes and networks that enable required coordination across domains. 
+Insights:  
+• Interdependence. As discussed earlier, we need to r ecognize de facto  interdependence in 
+the interorganizational environment, defined as the necessary dependence on access to each other’s capabilities in order to succeed. Interdependence requires trust in mission partners . It is commander -driven, instilled through an inclusive command climate, and 
+directed in guidance, intent, and orders. Demand an interdependence mindset to your organization, and i mplement this mindset through development of trust, clear support 
+command relationships and exchange of liaison. Be inclusive and reach out to mission partners; don’t only focus on what you control. At the same time, we find that one mus t 
+recognize potential risks in relying on access to limited capabilities and develop 
+appropriate risk mitigation efforts.  
+- Observed best practices : 
+ Continue emphasis on building and maintaining trust and relationships.  
+ Instill a c ommander -driven command e nvironment of a one -team mentality (team 
+building).  
+ Continue  inclusion and crosstalk even under stress . 
+ Use and leverage the support command relationship. 
+ Use of appropriate networks to enable interdependence. One emergent capability is 
+the Mission Partner  Environment (MPE ), formerly known as Future Mission Network 
+(FMN) . (This is an offshoot of the Afghanistan  Mission Network (AMN) developed 
+for operations in Afghanistan)   The goal of this system is  to enable commanders 
+access to a common mission network w hich supports both the required training and 
+the conduct of operations from Phase 0 through Phase V with any mission partner at any time while operating in the same security domain.  
+• Focus on unity of effort . Unity of effort is directly related to the above  concept of 
+interdependence. While unity of command is still important and a principle of war, commanders at the theater -strategic and operational level often must orient toward unity of 
+effort to leverage every possible capability. This does not negate the goal of unity of command; use it where feasible to keep the command relationships and interaction simple.  
+
+--- Page 17 ---
+ 
+13 
+ That said, understand and leverage others’ capabilities across domains, echelons, physical 
+boundaries, and organizations to gain unity of effort (t hink cyber  and space support to 
+GCCs). Gain synergy through recognition of interdependencies and development of appropriate command relationships, particularly the support command relationship. Supported and  supporting command relationships coupled with shared situational 
+awareness help mitigate seams and gain synergy.  We’ve seen more delineation of 
+supported and supporting command authorities and responsibilities and clearer prioritization by the establishing authorities in OPORDs, FRAGOs, and battle rhyth m 
+events. We have also seen more recognition of the unique Service authorities (i.e., the Title 10 aspects of administrative control), and understanding of coalition unique command relationships and the contributing nations’ national command lines, preroga tives, and 
+caveats in coalition operations. We have seen commands delineating specific authorities associated with these different aspects, even as much as delineating the various authorities of mission partners in a matrix -like construct. 
+Many Combatant C ommand HQs also see the value of OSD level involvement (and 
+supporting JS actions) as the establishing authority over the combatant commands to rapidly prioritize, allocate resources, and synchronize across combatant commands – again acting  at the speed of  the problem.    
+- Observed best practices : 
+ Identify and work with the key relevant  interorganizational decision makers such as 
+U.S. Ambassadors, FEMA, UN, NATO, and NGO and PVOs. Find the common ground that can be exploited, the non- negotiable areas, and th e middle ground that 
+can be worked to achieve unity of effort. This will take significant commander time, and must be prioritized and managed to be effective. 
+ Emphasize use of the Support Command relationship  as a command authority at the 
+joint force level  and the similar lead federal agency  terminology across USG 
+agencies . Clarify establishing authority, and supported and supporting commander 
+authorities and responsibilities. These authorities and responsibilities are well laid out 
+in doctrine and addressed in the broader Joint Operations Insights and Best Practices 
+paper dated March  2013.  
+ Increase establishing authority focus on resource allocation and prioritization including preparedness to step in and referee disagreements between subordinates when  they  cannot come to agreement. We also see higher commanders emphasizing 
+the requirement to have subordinates work horizontally with one another to directly solve problems between them where possible (what one commander called self -
+regulation).  
+ Where applicabl e, exercise the agility of OSD  as the establishing authority together 
+with the J S under crisis conditions to plan and direct responsive and synchronized 
+cross -Combatant Command operations.  
+ Clearly identify supported commanders to ensure common direction of effort (this is much like the importance of designating a “ battlespace owner ” as the supported 
+commander in the physical domain). 
+ Ensure supported commanders fully understand both their authority and their responsibility to provide general direction to t he support ing commanders. They often 
+require additional liaison and planning assistance from supporting commanders to 
+
+--- Page 18 ---
+ 
+14 
+ best incorporate their assistance. Likewise, ensure supporting commanders are 
+proactive in ascertaining supported commander requirements. 
+ Direct cross talk between supported and supporting commanders without the necessary presence of the higher commander ( allowing them to self -regulate ). 
+ Direct liaison officer exchange – at a minimum from supporting to supported commanders. This assists in understanding and leveraging capabilities. 
+ Develop matrices identifying authorities and responsibilities in a coalition environment in which both coalition and U.S. national command lines co- exist to 
+share understanding of authorities and responsibilities. 
+ 
