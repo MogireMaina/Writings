@@ -1,0 +1,533 @@
+Source: LING324 Lecture 1 - Introduction.pdf
+================================================================================
+
+--- Page 1 ---
+LING324 Cognitive Linguistics
+Professor Christopher Hart
+
+
+--- Page 2 ---
+Module Info
+•Convenor : Professor Christopher Hart
+•Email : c.hart@lancaster.ac.uk
+•Student hour: tbc (C78)
+•Seminars: discussion questions, exercises
+•Assessment:
+•2 x group presentations (20% each)
+•1 x 2500 -3000 word essay (60%)
+2
+
+--- Page 3 ---
+Module Overview•Introduction 
+•Radial categories and prototypes
+•Frames
+•Image schemas
+•Conceptual metaphors
+•READING WEEK
+•Scenes and events
+•Cognitive grammar
+•Constructions
+•Applications
+3
+
+--- Page 4 ---
+Reading
+4
+•Chapters from Evans (2019)
+•See Module Handbook (Moodle)
+
+--- Page 5 ---
+What is Cognitive Linguistics?
+•Developed originally in the 1980s in opposition to dominant approaches of the time:
+•Formal and truth -conditional semantics (e.g. Montague 1974)
+•Generative transformational grammar (e.g. Chomsky 1957, 1965)
+5[A]n approach to language study based on the assumptions that our linguistic 
+abilities are firmly rooted in our general cognitive abilities, that meaning is 
+essentially conceptualisation, and that grammar is shaped by usage. (Dabrowska 
+& Divjak 2015: 1)
+
+
+--- Page 6 ---
+What is Cognitive Linguistics?
+•Formal and truth -conditional semantics 
+•Meaning reduced to real -world conditions 
+that must obtain in order that a sentence 
+be true
+•Meaning in natural language can be 
+captured and represented using formal 
+(mathematical) metalanguages such as 
+Propositional  or Predicate Logic
+•Inspired by formalism of generative 
+grammar with roots in analytic philosophy
+6
+
+
+--- Page 7 ---
+What is Cognitive Linguistics?
+•Generative transformational grammar:
+•Language an autonomous cognitive faculty or 
+module  cut off from other cognitive abilities
+•Modularity of mind hypothesis (Fodor 1983)
+•Grammar (syntax) main area of investigation, 
+considered as independent of meaning
+•Inventory of (universal and innate) rules  
+accounting for realisation of deep structure in 
+surface structures
+•Response to behaviourism
+7
+
+
+--- Page 8 ---
+What is Cognitive Linguistics?
+•Modularity of mind hypothesis:
+•Mind made up of distinct systems (module) 
+uniquely dedicated to specific tasks
+•Colour perception, perception of shape and 
+spatial relations, language
+•Domain -specificity, obligatory firing, rapid speed, 
+information encapsulation 
+8
+
+
+--- Page 9 ---
+What is Cognitive Linguistics?
+•Instead, Cognitive Linguistics:
+•Rejects the idea of an autonomous language 
+module
+•Presents a unified account of grammar, 
+semantics and pragmatics
+•Considers all elements of language to be 
+meaningful, including grammatical constructions
+•Offers a naturally intuitive and psychologically 
+plausible model of linguistic description
+•Considers linguistic structure to emerge through 
+usage
+•Is functionalist and relativist in orientation
+9
+
+
+--- Page 10 ---
+What is Cognitive Linguistics?
+•In illustration of the semantic properties of grammatical constructions, consider the double -object 
+or ditransitive construction vs. the prepositional indirect -object constuction  (the dative alternation ):
+1.(a) Ivy gave Wilbur a book
+       (b) Ivy gave a book to Wilbur 
+2.(a) Ivy gave the fence a coat of paint
+       (b) ?Ivy gave a coat of paint to the fence
+3.(a) ?Wilbur sent America a parcel
+       (b) Wilbur sent a parcel to America
+•Ditransitive construction focusses on the result  of the process while prepositional construction 
+foregrounds movement  within it (Langacker 1990: 13)
+•2(b) odd because coat of paint not normally conceived as moveable object while 3(a) odd because 
+America does not come into possession of the parcel as a result of the process
+•No deep structure from which synonymous forms derived nor one derived from the other but 
+alternate constructions which exist because meaningfully distinct 
+10I W
+B BI W
+B B
+ditransitive prepositional
+(Langacker 1986: 14)
+
+--- Page 11 ---
+What is Cognitive Linguistics?
+11The standard transformational analysis of these sentences treats them as 
+synonymous and derives them from a common deep structure: depending on the 
+particular choice of deep structure, to is either deleted or inserted transformationally , 
+and the nonsubject  nominals are permuted in the course of deriving the surface form 
+of either (a) or (b). Cognitive grammar does not posit abstract deep structures, and 
+neither sentence type is derived from the other – they are claimed instead to 
+represent alternate construals of the profiled event. [1](a) and (b) differ in meaning 
+because they employ subtly different images to structure the same conceived 
+situation. (Langacker 1986: 14)
+
+
+--- Page 12 ---
+What is Cognitive Linguistics?
+•Returns to the Saussurian notion of the linguistic sign 
+which relates linguistic forms to concepts (meanings)
+•Radical claim of CL is that this extends to units both 
+smaller and larger than lexical units (words), including 
+phonemes, morphemes and grammatical constructions
+•CL also revitalises the linguistic relativity hypothesis as 
+conventional ways of encoding specific situations differ 
+across languages (see Pederson 2012) 
+12
+
+
+--- Page 13 ---
+Key Names and Frameworks
+•CL made up of multiple frameworks associated with various key figures, e.g.:
+•Frameworks coalesce around common set of assumptions concerning nature of 
+language and way it should be described/investigated
+13
+Charles Fillmore
+ George Lakoff
+ Mark Johnson
+Frame Semantics Prototype Theory Conceptual Metaphor 
+Theory
+Leonard Talmy
+Cognitive Semantics
+Ronald Langacker
+Cognitive  Grammar
+Adele Goldberg
+Construction  Grammar……..
+
+--- Page 14 ---
+Key Claims
+•Claim 1: Language is NOT an autonomous cognitive module
+•Language relies on domain -general cognitive processes
+•The processes that support language are not unique to language but 
+operate also in other areas of cognitive experience such as memory, 
+perception, imagination and reason
+•Structures and processes of language not propositional or algorithmic 
+but conceptual  and imagistic
+•Analogues in other areas of cognitive experience and can be described 
+appropriately in same terms
+•Cognitive commitment: “a commitment to make one’s account of 
+human language accord with what is generally known about the mind 
+and the brain, from other disciplines as well as our own” (Lakoff 1990: 40)
+14
+
+--- Page 15 ---
+Key Claims
+15Construal operations as instances of general cognitive processes:
+Attention/salience
+   Selection
+   Scope
+   Scalar adjustment
+   DynamicityProfiling, metonymy
+Scope of predication, search domains, accessibility
+Generality, specificity
+Fictive motion, summary/sequential scanning
+Judgement/comparison
+   Categorisation
+   Metaphor
+   Figure/ground
+Perspective/situatedness
+   Viewpoint
+   Deixis
+   Subjectivity/objectivity   Vantage point, orientation
+Spatiotemporal, epistemic, empathic
+Constitution/Gestalt
+   Structural schematisation
+   Force -dynamics
+   RelationalityIndividuation, topological/geometric, scale
+(adapted from Croft & Cruse 2004: 46)
+
+--- Page 16 ---
+Key Claims
+•Claim 2: The language system itself is NOT modular
+•The same processes operate all levels of language – from phonemes 
+up
+•Categorisation, metaphor, image -schematic patterning, perspective 
+and attention discernible at all levels of language 
+•Continuity of lexicon, grammar and pragmatics
+•Generalisation Commitment: “a commitment to characterising the 
+general principles governing all aspects of human language”  (Lakoff 
+1990: 40)
+•The Symbolic Thesis
+16
+
+--- Page 17 ---
+Key Claims
+•The Symbolic Thesis (Langacker 2008)
+•Continuity of grammar and lexicon – 
+Lexicon, morphology and syntax “form a 
+continuum that is fully reducible to 
+assemblies of symbolic structures” 
+(Langacker 2008: 15)
+•Language comprises system of symbolic 
+assemblies or form -meaning pairings
+•Difference between lexical and 
+grammatical units resides in degrees of 
+schematicity and complexity
+17
+[kæt]
+TRLM[NP [VP [into [NP]]] 
+
+--- Page 18 ---
+Key Claims
+•E.g. Categorisation
+•General cognitive strategy used to organise 
+experience into finite set of classes
+•Categories not absolute or strictly criterial but 
+fuzzy  and subject to prototype  effects (Rosch 
+1975, 1977) 
+•Applies to linguistic categories too, at all levels
+18
+
+
+--- Page 19 ---
+Key Claims
+•E.g. Categorisation
+•Phonological categories like VOICED  (+/-) described 
+as binary but some sounds are ‘more voiced’ or 
+‘more voiceless’ than others (Jaeger and Ohla 1984)
+•E.g nasal consonants /m/ and /n/ judged as more 
+voiced than voiced fricatives /v, ð, z/ and voiced 
+stops /b, d, g/
+•Phonemes realised differently in different speech 
+contexts (e.g. depending on VOT and syllable duration) 
+•Certain instances judged as better examples than others 
+(Miller and Volaitis  1989)
+19
+Mean category -goodness ratings for /p/ by 
+VOT and syllable duration (Miller and Volaitis  
+1989: 510) 
+
+--- Page 20 ---
+Key Claims
+•E.g. Categorisation
+•Lexical categories like NOUN  and VERB similarly gradient – some nouns and 
+verbs more noun - and verb -like in their behaviours than others (Taylor 2003; 
+Aarts  2007)
+•E.g. transitive verbs typically permit nominalisation but not all do:
+1.(a) David reads books   (b) David is a read er of books
+2.(a) David understands maths    (b) ?David is an understand er of maths
+3.(a) David eats meat       (b) ?David is an eat er of meat
+•E.g. most nouns accept pluralisation but not all (e.g. count nouns) while 
+some nouns only occur in plural form
+4.(a) book s (b) *music s     (c) whereabouts
+20
+
+--- Page 21 ---
+Key Claims
+•E.g. Categorisation
+•Grammatical constructions also subject to prototype effects
+•E.g. prototypical examples of the double -object (ditransitive) and 
+indirect -object prepositional constructions:
+1. Ivy gave Wilbur the book > Ivy gave the book to Wilbur 
+2. Ivy gave it to Wilbur > Ivy gave Wilbur it
+•Prototypical ditransitive takes full NP for THEME  while pronominal 
+theme more typical of prepositional dative construction
+21
+
+--- Page 22 ---
+Key Claims
+•E.g. Attention
+•General cognitive ability that allows 
+us to distinguish foreground from 
+background
+•Observed in visual and auditory 
+perception
+•Manifested in language too 
+(Langacker 2008; Talmy  2000)
+22
+
+
+--- Page 23 ---
+Key Claims
+•E.g. Attention
+•Lexical units derive meaning by 
+highlighting for specific attention 
+some profile  within a base  structure
+•Grammatical elements likewise 
+characterizable in terms of profile -
+base relations
+•“The semantic contribution of the 
+past participle inflection is to 
+restrict the profile of the stem …to 
+its final state” (Langacker 1986: 7)
+23TRIANGLE HYPOTHENUSE FAMILY UNCLE
+TR
+LM
+tTR
+LM
+t
+GO GONE
+(adapted from Langacker 1986: 7)
+
+--- Page 24 ---
+Key Claims
+•Claim 3: Language is polysemous
+•Polysemy not restricted to word meanings but fundamental a feature of language 
+exhibited at all levels
+24run ‘move fast’
+‘manage’
+‘provide’
+‘use’
+‘flow’
+make ‘prepare’
+‘force’
+‘appoint’
+‘reach’
+‘represent’
+Polysemy of ditransitive construction (after Goldberg 1995: 75)Ability 
+(animate)teacher
+cleaner
+Ability 
+(inanimate)toaster
+blender
+Attribute 
+(origin)villager
+southerner
+Attribute
+(quality)teatotaler
+
+--- Page 25 ---
+Key Claims
+•Claim 4: Language encodes experience
+•There is no such thing as synonymy
+•Words may share the same denotation but differ in their 
+connotation
+•Principle of no synonymy: If two constructions are syntactically 
+distinct, they must be semantically or pragmatically distinct 
+(Goldberg 1995: 67)
+•E.g. ditransitive versus prepositional structure
+•Alternate linguistic formulations impose contrasting construals  on 
+(evoke contrasting images of) the situations they describe
+•(a) The car parked in the street
+•(b) The car parked on the street
+25
+TR LM
+TR LM
+
+--- Page 26 ---
+Key Claims
+•Claim 5: Language is grounded in experience ( i)
+•The meanings attached to linguistic expressions are 
+rooted in our experience of the world, including 
+experiences we have of our bodies
+•Image schemas 
+•Embodiment thesis: features of the mind, including 
+language, are shaped by the kind of bodies we have 
+and the experiences they afford of the physical 
+environment (e.g. Gibbs 2005)
+•Experiential realism: an objective world exists but our 
+experience of it, to which language relates, is 
+subjective, mediated by our bodies (Lakoff 1987)
+26
+
+
+--- Page 27 ---
+Key Claims
+•Claim 5: Language is grounded in experience (ii)
+•The meanings attached to linguistic expressions are rooted 
+in our experience of the world, including experiences we 
+have as members of a given culture
+•Frames
+•Encyclopaedic thesis: The meaning of a linguistic 
+expression extends beyond its immediate denotation to 
+access vast repositories of structured world knowledge 
+with diminishing degrees of salience
+•Linguistic knowledge is world knowledge 
+•No principled distinction between semantics and pragmatics
+27
+
+
+--- Page 28 ---
+Key Claims
+•Claim 5: Language is grounded in 
+experience (iii)
+•Meaning is not just schematic but 
+involves simulations (Bergen 2012) 
+•Mental recreations of perceptual and motor 
+experiences in understanding language 
+•FMRI studies show areas of the brain 
+activated in perceiving an object or 
+performing an action also activated in 
+response to sentences describing 
+those objects and actions
+28
+(Hauk et al. 2004)
+
+--- Page 29 ---
+Key Claims
+•Claim 6: Linguistic structure emerges 
+through usage
+•Usage -based thesis: Linguistic 
+knowledge derived from usage -
+events by process of abstraction
+•Recurrent form -meaning pairings 
+become conventionalised  and 
+entrenched  in system of symbolic 
+assemblies
+•Form follows function!
+29
+(Kemmer  & Israel 1994: 168)
+
+--- Page 30 ---
+Connections with other Disciplines
+•In order to fulfil its cognitive commitment, CL 
+makes connections with other disciplines in 
+cognitive science, including:
+•Psychology
+•Anthropology
+•Neuroscience
+30
+
+
+--- Page 31 ---
+Empirical Developments
+•Introspection  - “conscious attention directed by a 
+language user to particular aspects of language 
+manifest in her own cognition”  (Talmy  2007: xii) 
+•Increasing use of empirical methods (Gonzalez -
+Marquez et al. 2007) :
+•Corpus linguistics
+•Psycholinguistics
+•Neuroscience
+•Multimodality inc. gesture studies
+31
+
+--- Page 32 ---
+Empirical Methods
+•Eye-tracking  shows that linguistic 
+alternates influence visual perception 
+consistent with construal  (Divjak, Milin  
+& Medimorec  2020)
+•Effects of construal compared to 
+naturalistic (image only) viewing
+•Preposition, voice and dative 
+alternations
+•Order and duration of attention
+32
+1. (a) The policeman arrested the thief (active)
+        (b) The thief was arrested by the policeman (passive)
+
+--- Page 33 ---
+Empirical Methods
+33Although the Event is significantly more likely to 
+be accessed first in naturalistic viewing, this 
+effect is less pronounced after an active voice 
+description and no longer significant after a 
+passive voice description; after a passive voice 
+description, the Patient is equally likely to be 
+accessed first. (Divjak, Milin  & Medimorec  2020: 63)
+(Divjak, Milin  & Medimorec  2020: 53)
+
+--- Page 34 ---
+Applications
+•CL goes beyond ‘core’ areas of linguistic theory to 
+provide frameworks for analysis in applied areas:
+•Cognitive sociolinguistics (Geeraerts, Kristiansen & 
+Peirsman  2010)
+•Cognitive poetics (Stockwell 2020)
+•Cognitive critical discourse analysis (Hart 2024)
+34
+
+
+--- Page 35 ---
+Thank
+youSelected References
+Geeraerts, D., Kristiansen, G. & Peirsman , Y. (eds.) (2010). Advances in Cognitive Sociolinguistics. 
+Mouton.
+Gibbs, R. (2005)
+Goldberg, A. (1995)
+Gonzalez -Marquez, M., Mittelberg, I., Coulson, S. and Spivey, M.J. (eds) (2007). Methods in 
+Cognitive Linguistics . John Benjamins.
+Hart, C. (2024). Language, Image, Gesture: The Cognitive Semiotics of Politics . Cambridge 
+University Press.
+Lakoff, G. (1987).
+Lakoff, G. (1990). The Invariance Hypothesis: Is abstract reason based on image schemas? 
+Cognitive Linguistics  1 (1): 39 -74.
+Langacker, R.W. (1986). An introduction to Cognitive Grammar. Cognitive Science 10: 1 -40.
+Langacker, R.W. (1990). Concept, Image and Symbol: The Cognitive Basis of Grammar . Mouton.
+Langacker, R.W. (2008)
+Miller, J.L. and Volaitis , L.E. (1989). Effect of speaking rate on the perceptual structure of a 
+phonetic category. Perception & Psychophysics 46 (6): 505 -512. 
+Pederson, E. (2012). Cognitive linguistics and linguistic relativity. In D. Geeraerts and H. Cuyckens  
+(eds.), The Oxford Handbook of Cognitive Linguistics . Oxford University Press. pp.1012 -1044.
+Stockwell, P. (2020). Cognitive Poetics: An Introduction. 2nd edn. Routledge.
+Talmy . L. (2000)
+Taylor. J. (2003).

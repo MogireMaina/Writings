@@ -1,0 +1,387 @@
+Source: LING324 Lecture 8 - Cognitive Grammar.pdf
+================================================================================
+
+--- Page 1 ---
+LING324 Cognitive Linguistics
+Professor Christopher Hart
+Lecture 8: Cognitive Grammar
+
+--- Page 2 ---
+Overview•Introduction
+•Words and Rules
+•Symbolic Assemblies, again
+•Conceptual Content
+•Construal
+•Word Classes
+•Sub-Classes 
+•Tense and Aspect
+•Clause structure
+•Modality
+•Subjective vs. Objective Construal
+2
+
+--- Page 3 ---
+Introduction
+•Model of linguistic description developed by Langacker  (e.g. 1987, 
+1991, 2008) 
+•Dually grounded in cognition and social interaction – cognitive 
+and usage -based
+•Psychologically plausible
+•Structures and processes of language reflect general 
+cognitive processes and are fully describable in terms of 
+those processes
+•Conceptual/perceptual analogues
+•Meaning as feature of all linguistic structures
+•Complex, philosophical but beautiful!
+3
+Neither basic nor introductory!
+
+--- Page 4 ---
+Words and Rules
+•Two distinct systems:
+•Lexicon - words
+•Grammar  - symbol -manipulating rules governing inflection and 
+combination of words
+•Sentences built up from words
+•Meaning of a sentence computed ad hoc to recover thought 
+expressed
+4
+Inside everyone’s head there is a finite algorithm with the ability to generate an 
+infinite number of potential sentences, each corresponding to a distinct thought. The 
+meaning of a sentence is computed from the meanings of the individual words and 
+the way they are arranged. (Pinker 1998: 220)
+
+--- Page 5 ---
+Symbolic Assemblies
+•One system: continuity of grammar and lexicon
+•Language consists of system of form -meaning 
+pairings or symbolic assemblies
+•Theoretical austerity where just three elements 
+required:
+•Semantic structures (conceptualisations)
+•Phonological structures (sounds, gestures, orthographic 
+representations)
+•Symbolic structures (in which semantic and 
+phonological structures conventionally linked)
+5
+Grammatical structures do not constitute an autonomous formal system or 
+level of representation: they are claimed instead to be inherently symbolic, 
+providing for the structuring and conventional symbolization of conceptual 
+content. Lexicon, morphology, and syntax form a continuum of symbolic units, 
+divided only arbitrarily into separate components. (Langacker 2002: 1) 
+
+--- Page 6 ---
+Symbolic Assemblies
+•Inventory vs. derivational system: grammatical 
+units stored in same way as lexical units
+•Unit = “thoroughly mastered structure, that is, one that a 
+speaker can activate as a preassembled whole without 
+attending the specifics of its internal structure” (Langacker 
+1986: 16)
+•Grammatical forms themselves meaningful by 
+virtue of semantic structures paired with
+•Distinction between lexical and grammatical 
+units artificial
+•Difference only in degree of specificity - 
+schematicity and complexity
+6
+Kæt Transitive
+S
+P
+ΣS
+P
+ΣS
+P
+Σ
+ΣS
+P
+ΣS
+P
+Σ
+ΣS
+P
+Σ
+Σ
+(a) moon   (b) moonless  (c) moonless night
+(Langacker 2008: 15 -16)
+
+--- Page 7 ---
+Conceptual Content
+•Imagistic rather than propositional
+•Meaning of a linguistic expression 
+consists in profile/base relation
+•Base = conceptual content falling 
+within general locus of viewing 
+attention ( immediate scope )
+•Profile  = specific portion of 
+conceptual content standing in 
+focus  relative to base
+•Domain  vs designation  
+7hub spoke
+rim wheel
+(Langacker 2008: 67)
+The first dimension of imagery, observed in 
+every linguistic predication, is the imposition of a 
+“profile” on a “base”. (Langacker 1986: 6)
+
+--- Page 8 ---
+Conceptual Content
+•Linguistic expressions profile things  and 
+relationships  
+•Nominal  vs. relational predication
+•When relationship profiled, varying 
+degrees of prominence conferred on 
+participants by Subject/Object status
+•Trajector  (tr) vs. landmark  (lm)
+ (a) The light is above the table
+ (b) The table is below the light
+8tr
+LOCcome
+tr
+LOCarrive
+(Langacker 2008: 69 -71)
+
+--- Page 9 ---
+Construal
+•Focus  and prominence  (inc. profiling and tr/ lm 
+alignment) two dimensions of construal
+•“our manifest ability to conceive and portray the same situation 
+in alternate ways” (Langacker 1991: 225)
+•“As part of its conventional semantic value, every symbolic 
+structure construes its content in a certain fashion” (Langacker 
+2008: 55)
+9In viewing a scene, what we actually see depends on how closely 
+we examine it, what we choose to look at, which elements we 
+pay most attention to, and where we view it from. (Langacker 2008: 
+55)
+
+
+--- Page 10 ---
+Construal
+•Other dimensions: specificity  and 
+perspective
+•Specificity = level of precision and detail at 
+which situation is described
+•Something happened → a person perceived a rodent → 
+a girl saw a porcupine → an alert little girl wearing 
+glasses caught a brief glimpse of a ferocious porcupine 
+with sharp quills
+•Perspective = viewing arrangement (vantage 
+point and scanning mode)
+10The same objective situation can be observed and described 
+from any number of different vantage points … Many 
+expressions undeniably invoke a vantage point as part of their 
+meaning. (Langacker 2008: 75)tr lmVPin front of
+lm trVPbehind
+VPyear year year
+tnext year
+VPyear year year
+tlast year
+(Langacker 2008: 76 -77)
+
+--- Page 11 ---
+Word Classes
+•CG provides semantic characterisation of word 
+classes 
+•Universal and fundamental classes (e.g. nouns and verbs)
+•Highly schematic
+•Determined by profiling
+•Nominal predications profile things  
+•Include nouns
+•Based on grouping
+•A conceptually autonomous entity in any domain
+•Relational predications profile relationships  
+•Process  (verbs) vs. non-processual  relation (adjective, 
+adverb, preposition)
+11tWhat determines an expression’s grammatical category is 
+not its overall conceptual content, but the nature of its 
+profile in particular. (Langacker 2008: 98)
+A nominal predication presupposes the interconnections 
+among a set of conceived entities, and profiles the region thus 
+established. On the other hand, a relational predication 
+presupposes a set of entities, and profiles the interconnections 
+among these entities. (Langacker 2002: 74 -75)
+
+--- Page 12 ---
+Word Classes
+•Nominalisation
+•(a) extract/extraction    
+•(b) explode/explosion
+•Reification  of process so 
+construed as thing
+•Sequential  vs. summary  
+scanning
+12verb nominalisation
+explode explosion
+
+--- Page 13 ---
+Sub -Classes
+•Count vs. mass nouns
+•Count : diamond, book cup, cat, country, board, lake, 
+idea, integer, complaint
+•Mass : gold, paper, meat, water, wood, coal, air, 
+moisture, nonsense, anger, complaining
+•Perfective vs. imperfective verbs
+•Perfective : kick, jump, kill, bite, throw, break, ask, tell
+•Imperfective : be, have, know, doubt, like, love, live
+•Bounding  +/- within immediate scope
+13Domain of InstantiationISMSCount Noun
+BoardDomain of InstantiationISMSMass Noun
+Wood
+(Langacker 2008: 133, 153)ISMS
+tISMS
+tPerfective Verb Imperfective Verb
+Kick Know
+
+--- Page 14 ---
+Tense
+•Tense = vantage point in domain of time
+•Present: event and speaking time coincide 
+•Past: event occurs prior to speaking time
+•Future: speaking time occurs prior to event 
+•Interacts with perfective/imperfective verbs
+•English perfective verbs resist simple present tense, 
+except in specialised circumstances such as sports 
+commentary
+14IS
+tMSPresent Perfective
+IS
+tMSPresent Imperfective
+Past Perfective
+IS
+tMS
+IS
+tMSPast Imperfective
+Wilbur read the storyWilbur knows the story
+Wilbur knew the story*Wilbur reads the story
+Future Perfective
+IS
+tMS
+IS
+tMSFuture Imperfective
+Wilbur will read the story Wilbur will know the story
+
+--- Page 15 ---
+Aspect
+•Aspect construes processes as ongoing vs complete:
+•Progressive : ongoing
+•Non-progressive : complete
+•Progressive aspect marked by be … -ing
+•Interacts with perfective/imperfective distinction
+•English perfective verbs accept progressive aspect while 
+imperfective verbs do not
+a) Wilbur is/was reading the story
+b) *Wilbur is/was knowing the story  
+•Progressive aspect converts perfective process into imperfective 
+one by profiling internal portion that excludes endpoints (IS1)
+•Present tense further delimits profile to portion coincident with 
+speech event (IS2)
+15tMSPerfective Process
+IS
+tMSImperfective Process
+Progressive 
+be… -ing
+Present Progressive
+MS
+IS1
+IS2
+t
+
+--- Page 16 ---
+Clause Structure
+•Grammar “reflects our basic experience of moving, perceiving, and acting 
+on the world” (Langacker 2008: 4) 
+•Conceptual archetypes – Schematic conceptions of fundamental aspects 
+of experience (action, motion, perception, location)
+•Associated with specific clause types
+•Archetypal conceptions provide prototypical semantic values of clause structures
+•Clause structures provide default coding for archetypal conceptions
+•Archetypal roles : agent, patient, instrument, experiencer, mover, zero
+16
+
+--- Page 17 ---
+Clause Structure
+•Archetypal conception associated with transitive  
+clause = type of action chain 
+•Action chain = “our conception of objects moving 
+through space and impacting one another through 
+forceful interaction” (Langacker 2008: 355)
+•Canonical event model – arguably most typical of all 
+occurrences = two -participant action chain
+17a bounded, forceful event in which an agent (AG) acts on a 
+patient (PAT) to induce a change in state. (Langacker 2008: 
+357)AG PATIS
+(a) The farmer killed the duckling
+(b) Floyd broke the glass
+
+--- Page 18 ---
+Clause Structure
+•Other archetypal occurrences correspond with other clause 
+structures
+•E.g. motion event expressed by intransitive motion verb + 
+locative PP
+•They walked along the river / to the station
+•No distinct clause type for mental experiences – also coded by 
+transitive clause
+•I {saw/remembered/imagined} the painting
+•Clause type grounded in physical experience extended to 
+mental experience
+•Motivated by similarity at higher level of abstraction – 
+metaphorical ”mental contact”
+18
+
+
+--- Page 19 ---
+Clause Structure
+•Transitive clause default coding  for events 
+conceived as instantiating canonical event 
+model
+•Full action chain profiled
+•Other constructions available to construe 
+archetypal conception in alternate ways 
+•Passive : the glass was broken by Floyd
+•Agentless passive: the glass was broken
+•Intransitive : the glass broke
+19tr lmIS
+lm trIS
+trIS
+trIS
+
+--- Page 20 ---
+Modality
+•Analysed in force -dynamic  terms:
+•Deontic senses  aimed at effective 
+control – to bring about the profiled 
+process
+•Epistemic  senses aimed at epistemic 
+control – to accept the profiled 
+process as real
+•Based on model of  evolving reality
+•May locates the process in potential  
+reality , will in projected reality 
+20
+(Langacker 2008: 306)
+
+--- Page 21 ---
+Subjective vs. Objective Construal
+•Subjective  construal
+•Ground  elements speaker/hearer remain offstage
+•Default viewing arrangement 
+•Objective  construal
+•Speaker/hearer placed onstage  within immediate 
+scope
+•First-person pronouns ( I, you, we )
+•Intermediate possibilities: in front of, behind
+21S H
+GMS
+IS
+S H
+GMS
+ISSubjective  Objective  
+(Langacker 2008: 261)
+
+--- Page 22 ---
+Thank
+youSelected References
+Langacker,  R.W. (1986 )
+Pinker,  S. (1998 ). Words  and rules . Lingua  106 (1-4): 219-242.

@@ -1,0 +1,387 @@
+Source: LING324 Lecture 3 - Image Schemas_MOODLE.pdf
+================================================================================
+
+--- Page 1 ---
+LING324 Cognitive Linguistics
+Professor Christopher Hart
+Lecture 3: Image Schemas
+
+--- Page 2 ---
+Overview•Embodiment
+•Image schemas
+•Words as radial categories: prepositions
+•Over 
+•Other prepositions
+•Principled polysemy
+•Functional geometry
+•In vs. on
+•Cross linguistic
+2
+
+--- Page 3 ---
+Introduction
+•Frames  = idealised cognitive model derived from 
+socio -cultural experience
+•Image schemas = idealised cognitive model 
+derived from perceptual and sensory -motor 
+experience
+•Represent distinct senses of prepositions 
+organised in radial networks
+•Prepositions proven fruitful site for investigating 
+link between language, cognition and embodied 
+spatial experience 
+3
+
+
+--- Page 4 ---
+Embodied Cognition
+•Rejection of Cartesian dualism  - “Human cognition 
+is fundamentally shaped by embodied experience” 
+(Gibbs 2005: 3)
+•Conceptual structures that provide meaning to 
+language arise from and reflect embodied 
+experience
+•Language grounded in perception and action
+4
+The properties of an organism’s body limit or constrain the concepts 
+an organism can acquire. That is, the concepts on which an 
+organism relies to understand its surrounding world depend on the 
+kind of body that it has. (Shapiro 2011: 4)
+
+--- Page 5 ---
+Image Schemas
+•Conceptual structures with embodied basis include 
+image schemas (Mandler  2004)
+•Conceptual structures representing recurrent 
+patterns in perceptual and motor experience
+•Derived by process of abstraction from interactions 
+with and observations of physical world
+•Not images per se but distillations over experience
+•Represent common ‘skeletal’ structures which 
+similarly conceived objects, events, situations and 
+relations can be ‘boiled down’ to
+•Emerge pre -linguistically as chief building blocks of 
+the mind
+5(Hedblom , Neuhaus & Mossakowski  2024: 23)
+
+
+--- Page 6 ---
+Image Schemas
+•Organise experience in basic domains  like SPACE , 
+MOTION , FORCE  and ACTION
+•Co-opted by language to provide semantic structure in 
+symbolic units (Johnson 1987; Lakoff 1987)
+•Conceptual basis of prepositions  but also grammatical 
+constructions (Talmy  2000; Langacker 2008)
+•Part of frame -based knowledge for nouns and verbs
+•Source in metaphorical projections (Lakoff & Johnson 
+2003)
+6
+
+
+--- Page 7 ---
+Image Schemas
+7LM
+TRLM
+TR
+CONTAINER SOURCE -PATH-GOAL MOTION  INTO A CONTAINER
+LMTRTR
+LM
+SUPPORT LINKBLOCKAGETR
+LM
+
+--- Page 8 ---
+Words as Radial Categories
+•Prepositions highly polysemous
+•Polysemy vs. monosemy
+•Senses organised in radial networks relative 
+to proto -sense
+•Extension to derived senses motivated  
+•Spatial and metaphorical extension
+•Involves image schema transformation
+•Closely related senses organised in clusters  
+•Range of extensions available so network 
+conventional for given language 
+8
+
+
+--- Page 9 ---
+Over
+•Grammatically complex – preposition, particle, 
+adverb, prefix – but senses semantically linked 
+(Brugman  and Lakoff 1988; Lakoff 1987)
+•(1) The plane flew over
+•Protosense  combines elements of ABOVE  and 
+ACROSS  senses
+•Neutral on issue of contact (Lakoff 1987: 419)
+9TR
+LM
+(Lakoff 1987: 419)
+
+--- Page 10 ---
+Over
+•Similarity links : instances arrived at by 
+adding information
+•LM as point
+•LM is extended (X)
+•LM is vertical (V)
+•LM extended + vertical
+•Contact (C) vs. no contact (NC)
+•Minimal vs. full specification
+10X.NC X.C VX.NC VX.C V.NC V.C
+X.NC X.C
+VX.NC VX.C
+V.NC V.CMinimal specification
+Full specification
+(Lakoff 1987: 423)
+
+--- Page 11 ---
+Over
+11TR
+LM
+(2) The bird flew over the yard (X.NC)
+TR
+LM
+(6) Ivy walked over the hill (VX.C)TR
+LM
+(4) The bird flew over the wall (V.NC)
+TR
+LM
+(5) Wilbur drove over the bridge (X.C)TR
+LM
+(3) The plane flew over the hill (VX.NC)
+TR
+LM
+(7) Milo climbed over the wall (V.C)
+(Lakoff 1987: 421 -422)
+
+--- Page 12 ---
+Over
+•Transformational links: instances arrived at by transformation
+•E.g. endpoint focus
+12TR
+LM
+(9) The restaurant is over the bridge (X.C.E)TR
+LM
+(8) Ivy lives over the hill (VX.C.E)X.NC X.C
+VX.NC VX.C
+V.NC V.CVX.C.EX.C.E
+(Lakoff 1987: 423 -433)
+
+--- Page 13 ---
+Over  
+•ABOVE  senses:
+13TR
+LM
+(10) The painting hangs over the fireplaceLM
+(11) The power line stretches over the yardTR
+
+--- Page 14 ---
+Over
+•Other senses: COVERAGE  (12-15) and REFLEXIVE  (16)
+14TR
+LM
+(12) The board is over the holeTR
+LM
+(13) The city clouded over
+LM
+(14) The guards were posted all 
+over the hillLMTR
+(15) I walked all over the hillTR = LM
+(16) The fence fell over
+(Lakoff 1987: 426 -433)
+
+--- Page 15 ---
+Over
+•Metaphorical extensions:  
+•(17) She holds a strange power over me
+•(18) Ron is still not over his divorce 
+•(19) The play is over
+15
+
+
+--- Page 16 ---
+Other Prepositions: Out
+•Same kind of analysis can be given of 
+other prepositions (e.g. Tyler & Evans 
+2003)
+•E.g. out (Lee 2001)
+16
+LM
+TR
+(20) The cat is out/went out
+(Lee 2001: 35)
+
+--- Page 17 ---
+Other Prepositions: In
+•LMs construed as CONTAINER  motivated 
+by commonalities with protoscene  
+(Evans & Tyler 2004; Tyler & Evans 2003)
+17
+LMTR
+(21) The toys are in the box
+LMTR
+(23) The sun went inVP
+LMTR
+(22) He’s now in sightVP
+TR =LM
+(25) The house caved inLMTR
+(24) The car is blocked in(Evans & Tyler 2004)
+
+--- Page 18 ---
+Principled Polysemy
+•Full specification vs. principled polysemy
+•All senses stored conceptually or some derived contextually?
+•E.g. contact need not yield distinct senses as inferable from 
+encyclopaedic knowledge  
+(26)  a. Ivy jumped over the wall         b. Ivy climbed over the wall
+•What counts as protosense ?
+(27)  a. The plane flew over                 b. The painting hangs over the fireplace 
+•Senses established on analyst intuition – no principled criteria
+18
+
+--- Page 19 ---
+Principled Polysemy
+•Principled polysemy approach provides criteria for establishing proto -
+sense and distinct extended senses (Tyler & Evans 2001, 2003)
+•Protosense :
+•Earliest attested meaning
+•Predominant within the network
+•Contrast with other prepositions
+•Best predictor of other senses
+19above
+over
+under
+below
+
+--- Page 20 ---
+Principled Polysemy
+•Distinct senses:
+I.Must contain additional meaning not apparent in any other senses 
+associated with a particular form, that is, must involve non -spatial meaning 
+or a different configuration between the TR and LM than found in the proto -
+scene
+II.Must be instances of the sense that are context independent, that is, in 
+which the distinct sense could not be inferred from another sense and the 
+context in which it occurs
+20(Tyler & Evans 2003: 42 -43)
+
+--- Page 21 ---
+Functional Geometry
+•The meaning of a preposition includes functional as 
+well as geometric information (Coventry & Garrod 2004; 
+Garrod, Ferrier & Campbell 1999)
+•How objects interact with one another as important to 
+language users as relations in Euclidean space
+•Meaning of a preposition includes affordances  of 
+spatial arrangements
+•Functional geometric framework – “combines both 
+geometric and extra -geometric constraints to establish 
+the situation -specific meaning of spatial expressions” 
+(Coventry & Garrod 2004: 52)
+21
+
+
+--- Page 22 ---
+Functional Geometry
+•Relations of enclosure and contact encoded by in and 
+on afford different degrees of location control
+•Explains non -prototypical uses of in and on, e.g. where 
+TR only loosely or not fully enclosed by LM
+•Motivated by functional rather than geometric relations
+22“Inness” is a hybrid relation that involves both a geometric 
+containment relation and a certain kind of control relation 
+whereby a container constrains the location of its contents. 
+(Coventry & Garrod 2004: 53)
+
+
+--- Page 23 ---
+Functional Geometry
+•Two sources of extra -geometric information
+•Force -dynamic routines
+•Object knowledge
+23What objects are fundamentally influences how one 
+talks about where they are located. (Coventry & 
+Garrod 2004: 55)
+
+
+--- Page 24 ---
+Functional Geometry
+•Psycholinguistic evidence for extra -geometric meaning 
+•Appropriateness of in and on influenced by geometric relations with 
+different functional consequences
+•Concavity  of LM (Feist & Gentner  1998)
+•In rated more appropriate for LMs with high concavity levels 
+while on rated more appropriate for flatter LMs
+•Orientation  of LM (Coventry 1998; Coventry & Prat -Sala 2001)
+•Greater degree of tilt in LM, lower acceptability ratings for in 
+and on
+•Animacy  of TR (Feist & Gentner  1998)
+•Ratings for in lower for animate TRs than inanimate TRs
+24
+(Feist & Gentner  1998)
+
+--- Page 25 ---
+Functional Geometry
+•Direct evidence for correlation between 
+geometric and extra -geometric factors in 
+language users’ understanding of 
+prepositions (Garrod et al. 1999)
+•Manipulations made:
+•Geometric relation between ball and bowl 
+itself (P1 -5) 
+•Degree to which ball surrounded by other 
+balls
+•Whether or not attached to alternative source 
+of control 
+25
+(Garrod et al. 1999: 175)
+
+--- Page 26 ---
+Functional Geometry
+•Subjects indicated: 
+•Whether or not black ball would change location if 
+bowl moved (location control)
+•Confidence in use of in 
+26this result clearly implicates location control in 
+the representation of the semantics of in 
+(Garrod et al. 1999: 179)
+(Garrod et al. 1999: 180)
+
+--- Page 27 ---
+Cross -Linguistic
+•Conceptual organisation of space not 
+reflective of objectively held relations
+•Number and extension of categories differs 
+across languages
+•Spatial discriminations not made in English 
+made in other languages
+•Korean tight vs. loose fit containment
+•Dutch point vs. surface contact
+27
+aan opnehta kkita
+
+--- Page 28 ---
+Thank
+youSelected References
+Coventry, K. and Garrod, S. (2004).  Saying, Seeing and Acting: The Psychological 
+Semantics of Spatial Prepositions . Psychology Press.
+Evans, V. and Tyler, A. (2004). Spatial experience, lexical structure and motivation: The 
+case of in. In G. Radden  and K. Uwe -Panther (eds.), Motivation in 
+Grammar . Mouton.
+Feist, M.I. and Gentner , D. (2003). Factors involved in the use of in and on. Proceedings 
+of the Twenty -Fifth Annual Meeting of the Cognitive Science Society . 
+Garrod, S., Ferrier, G. and Campbell, S. (1999). In and on: Investigating the functional 
+geometry of spatial prepositions. Cognition  72 (2): 167 -189.
+Gibbs, R.W. Jr. (2005). Embodiment and Cognitive Science . Cambridge University Press.
+Johnson,  M. (1987 ). The Body  in the Mind : The Bodily  Basis  of Meaning,  Imagination  and 
+Reason . Chicago : University  of Chicago  Press .
+Lakoff,  G. (1987 ). Women,  Fire and Dangerous  Things : What  Categories  Reveal  about  
+the Mind . Chicago : University  of Chicago  Press .
+Shapiro,  L. (2011 ). Embodied  Cognition . Routledge .
+Tyler,  A. and Evans,  V. (2001 ). Reconsidering  prepositional  polysemy  networks : The case  
+of over . Language  77 (4): 724-65. 
+Tyler,  A. and Evans,  V. (2003 ). The Semantics  of English  Prepositions : Spatial  Scenes,  
+Embodied  Meaning  and Cognition . Cambridge : Cambridge  University  Press .
+Vandeloise , C. (1994 ). Methodology  and analyses  of the preposition  in. Cognitive  
+Linguistics  5 (2): 157-184.

@@ -1,0 +1,426 @@
+Source: LING324 Lecture 4 - Conceptual Metaphor.pdf
+================================================================================
+
+--- Page 1 ---
+LING324 Cognitive Linguistics
+Professor Christopher Hart
+Lecture 4: Conceptual Metaphor
+
+--- Page 2 ---
+Overview•Classical accounts
+•Literal first hypothesis
+•Conceptual metaphor theory
+•Domains and mappings
+•Relations and entailments
+•Invariance
+•Highlighting and hiding
+•Experiential grounding
+•Multimodal metaphor
+2
+
+--- Page 3 ---
+Classical Accounts
+•Metaphor a matter of words
+•Literary and rhetorical functions
+•Emotion rather than reason
+•Exceptional rather than ordinary
+3An application of an alien name by 
+transference (Aristotle, Poetics , ca. 350 BC)
+All the artificial and figurative applications of words 
+eloquence hath invented, are for nothing else than to 
+insinuate wrong ideas, move the passions, and 
+thereby mislead the judgement; and so indeed are 
+perfect cheats (Locke 1690: 508)
+“But soft, what light through 
+yonder window breaks? It is the 
+east, and Juliet is the sun!” 
+(Romeo & Juliet, William Shakespeare) 
+
+--- Page 4 ---
+Literal First Hypothesis
+•Addressee computes literal interpretation
+•Rejects it on plausibility grounds
+•Assumes speaker cooperating 
+•Subsequently searches for possible 
+alternative meanings
+•Settles on most likely intended meaning
+4
+John Searle
+Paul Grice
+
+--- Page 5 ---
+Conceptual Metaphor Theory
+•Metaphor a matter of thought (and 
+action)
+•Important reasoning device
+•Reflected in ‘everyday’ language
+•Highly conventionalised
+•Conceptual metaphors accessed 
+directly by metaphorical expressions
+•Evidenced by systematicity  found in 
+metaphoric expressions
+•Not necessarily of X is Y form
+5metaphor is not just a matter of language, that 
+is, of mere words … [O]n the contrary, human 
+thought processes  are largely metaphorical … 
+[T]he human conceptual system is 
+metaphorically structured and defined. (Lakoff & 
+Johnson 1980: 6)
+the essence of metaphor is understanding 
+and experiencing one thing in terms of 
+another” (Lakoff and Johnson 1980: 5)
+
+--- Page 6 ---
+Conceptual Metaphor Theory
+a.Your claims are indefensible
+b.He attacked  every weak point in my argument
+c.His criticisms were right on target
+d.I demolished  his argument
+e.I’ve never won an argument with him
+f.You disagree? Okay, shoot !
+g.If you use that strategy , he’ll wipe you out
+h.He shot down  all of my arguments
+(Lakoff and Johnson 1980: 4)
+6
+
+--- Page 7 ---
+Domains and Mappings
+•At cognitive level, metaphor involves 
+mapping  from elements in a source 
+domain (SD) onto elements in a 
+target domain  (TD)
+•TD inherits conceptual structure 
+from SD
+•SD provides template for thinking, 
+feeling and acting with respect to TD
+•Domains structured by frames  and 
+image schemas
+7
+
+
+--- Page 8 ---
+Domains and Mappings
+•ARGUMENT  IS WAR
+8Fighting parties
+Attacking
+Weapons
+Defending
+SurrenderingParticipants in 
+argument
+Expressing alternative 
+standpoint
+Justifications
+Maintaining 
+standpoint
+Giving up standpoint
+WAR ARGUMENT
+
+--- Page 9 ---
+Domains and Mappings
+•SDs concrete, familiar areas of 
+experience:
+•E.g. HUMAN  BODY , PLANTS , ANIMALS , 
+FOOD , FORCES
+•TDs more abstract and otherwise 
+underspecified areas of experience
+•E.g. EMOTION , MORALITY , THOUGHT , 
+RELATIONSHIPS , TIME
+•Mappings unidirectional
+9
+
+
+--- Page 10 ---
+Domains and Mappings
+a.Our relationship has hit a dead end
+b.We’re going through a rough patch
+c.Look how far we’ve come
+d.We’re at a crossroads in our relationship
+e.We may have to go our separate ways
+f.This relationship isn’t going anywhere
+g.We’re spinning our wheels
+h.Their marriage is on the rocks
+(Lakoff 1993: 206 -7)
+10
+
+
+--- Page 11 ---
+Domains and Mappings
+a.That makes my blood boil
+b.I had reached boiling point
+c.Simmer down!
+d.Let him stew  for a while
+e.I was fuming
+f.I felt the anger rising inside me
+g.I needed to let off some steam
+h.He flipped his lid
+i.I hit the roof
+j.He bottled up his anger for a long time
+11
+(Lakoff 1987: 387; see also Kövecses  2003)
+
+--- Page 12 ---
+Relations and Entailments
+•Ontological  relations
+•Held between corresponding elements in SD 
+and TD
+•Epistemological  relations
+•Held between elements in SD
+•Transferred to corresponding elements in TD
+•Produce metaphoric  entailments
+•Implications and inferences arising from 
+metaphoric mapping
+•E.g. If time is money, and money is a finite 
+resource, then it follows that time is also a 
+finite resource
+12
+
+
+--- Page 13 ---
+Relations and Entailments
+•You’re wasting  my time
+•This gadget will save you hours
+•I don’t have  the time to give you
+•How do you spend  you’re time these days
+•That flat tyre cost me an hour
+•I don’t have enough  time to spare  for that
+•Is that worth  your while?
+•He’s living on borrowed  time
+(Lakoff & Johnson 1980: 8)
+13
+
+--- Page 14 ---
+Invariance
+•Partial mapping; not all aspects of SD 
+mapped 
+•Only aspects compatible with TD and in 
+way consistent with organisation of TD
+•Invariance Principle – “constraints on 
+fixed correspondences” (Lakoff 1993: 215)
+•Entailments incompatible with TD 
+blocked – TD Override
+14Metaphorical mappings preserve the 
+cognitive topology (that is, the image schema 
+structure) of the source domain, in a way 
+consistent with the inherent structure of the 
+target domain. (Lakoff 1993: 215)
+a.Ivy gave Wilbur a book and he kept it
+b.Ivy gave Wilbur a minute and he kept it
+
+--- Page 15 ---
+Highlighting and Hiding
+•Partial mapping leads to highlighting  and 
+hiding  effects
+•Framing power of metaphor in social 
+domains (e.g. Thibodeau & Boroditsky 2011) 
+15
+“In allowing us to focus on one aspect of a concept 
+(e.g. the battling aspects of arguing), a metaphorical 
+concept can keep us from focusing on other aspects of 
+the concept that are inconsistent with the metaphor 
+(Lakoff and Johnson 1980: 10)
+
+--- Page 16 ---
+Experiential Grounding
+•Motivation: resemblance  vs correlation  (Grady 1999)
+•Primary metaphors (Grady 1997) emerge through correlations of subjective 
+mental and sensorimotor experience 
+•E.g. QUANTITY  IS ELEVATION
+•Other orientational  metaphors
+•Link concepts that are equally basic or familiar where both directly 
+perceived or experienced 
+•Foundational and atomic – building blocks of compound  metaphors
+•E.g. EVENT  STRUCTURE  metaphor
+16
+
+--- Page 17 ---
+Experiential Grounding
+•QUANTITY  IS SIZE/ELEVATION
+•My child has a huge  amount of toys
+•Only a tiny number of people showed up
+•The price of shares is going up
+•Interest rates are falling
+•Quantity and size/elevation correlated 
+in everyday experience
+•When quantity increases, so does 
+mass and evaluation
+17
+
+
+--- Page 18 ---
+Experiential Grounding
+•Orientational  metaphors  organise whole system of concepts with respect to 
+spatial schemas (e.g. UP/DOWN )
+18HAPPY  IS UP; SAD IS DOWN
+I’m feeling  up.  That boosted  my spirits .  My spirits  rose.  Thinking  about  her gives  me a lift.  I’m feeling  down .  He’s really  low 
+these  days.  I fell into a depressions .  My spirits  sank.
+Physical  basis : drooping  posture  typically  accompanies  sadness  and depression  while  erect  posture  accompanies  positive  
+emotional  states  
+CONSCIOUS  IS UP; UNCONSCIOUS  IS DOWN
+He woke up.  He rises  early in the morning.  He fell asleep.  He dropped  off to sleep.  He’s under  hypnosis.  He sank into a coma.
+Physical basis: Humans and most other mammals sleep lying down and stand up when they awaken.
+HEALTH  AND LIFE ARE UP; SICKNESS  AND DEATH  ARE DOWN
+He’s at the peak  of health.  He’s in top shape.  He fell ill.  He’s sinking  fast.  He came down  with the flu.  His health is declining .  
+He dropped  dead.
+Physical basis: Serious illness forces us to lie down.  When you’re dead you’re physically down.
+
+--- Page 19 ---
+Experiential Grounding
+19AFFECTION  IS WARMTH Subjective judgement: Affection
+Sensorimotor domain: Temperature
+Example: They gave me a warm  welcome
+Basis: Feeling warm while being held affectionately
+INTIMACY  IS CLOSENESS Subjective judgement: Intimacy
+Sensorimotor domain: Proximity in space
+Example: We’ve been close  for years but we’re drifting apart
+Basis: Being physically close to people you’re intimate with
+SIMILARITY  IS CLOSENESS Subjective judgement: Similarity
+Sensorimotor domain: Proximity in space
+Example: They bear a close  resemblance to one another
+Basis: Observing similar objects clustered together
+CONTROL  IS UP Subjective judgement: Being in control
+Sensorimotor domain: Vertical orientation
+Example: I’m on top of the situation
+Basis: Easier to exert control over object from above
+UNDERSTANDING  IS GRASPING Subjective judgement: Comprehension
+Sensorimotor domain: Object manipulation
+Example: I finally grasped the idea
+Basis: Obtaining information about an object by handling it
+
+--- Page 20 ---
+Experiential Grounding
+•Event -Structure metaphor
+•Complex metaphor comprising multiple 
+primary metaphors
+•Aspects of event -structure ( STATES , 
+CHANGES , PROCESSES , ACTIONS , CAUSES , 
+PURPOSES , MEANS ) conceptualised in terms 
+of SPACE , FORCE  and MOTION
+•Generalises over wide range of more 
+specific metaphors (e.g. RELATIONSHIPS  ARE 
+A JOURNEY  or A CAREER  IS A JOURNEY )
+•Inheritance hierarchies
+20Metaphor
+ExampleSTATES  ARE LOCATIONS  (BOUNDED  REGIONS  IN SPACE )
+    John is in love
+Metaphor
+ExampleCHANGE  IS MOTION  (FROM  ONE LOCATION  TO ANOTHER )
+    Things went from bad to worse
+Metaphor
+ExampleCAUSES  ARE FORCES
+    Her argument forced me to change my mind
+Metaphor
+ExampleACTIONS  ARE SELF-PROPELLED  MOVEMENTS
+    We are moving forward with the new project
+Metaphor
+ExamplePURPOSES  ARE DESTINATIONS
+    We’ve finally reached the end of the project
+Metaphor
+ExampleMEANS  ARE PATHS  (TO DESTINATIONS )
+    We completed the project via an unconventional route
+Metaphor
+ExampleDIFFICULTIES  ARE IMPEDIMENTS  TO MOTION
+    It’s been uphill all the way on this project
+
+--- Page 21 ---
+TIME  IS SPACE
+•Time conceptualised as motion through space
+•Primary metaphor – time and motion correlated 
+in experience
+•In forward motion, posterior locations associated 
+with past time and anterior locations associated 
+with future time
+21Time is not conceptualised on its own terms, but rather is 
+conceptualised in significant part metaphorically and 
+metonymically (Lakoff & Johnson 1999: 137)
+
+
+--- Page 22 ---
+TIME  IS SPACE
+•Time Orientation metaphor
+a. He has a good future ahead  of him
+b. In the weeks ahead  of us
+c. I’m looking forward  to Christmas
+d. The past is behind  us now
+e. It’s no good looking backwards , we must 
+focus on what is in front  of us now
+•Not the same across all 
+languages! (e.g. Núñez  & 
+Sweetser 2006)
+22
+Source domain: SPACE Target domain: TIME
+Observer’s location Present
+Space in front of observer Future
+Space behind observer Past
+
+--- Page 23 ---
+TIME  IS SPACE
+•Moving Time vs. Moving Ego
+•Moving Time: Events in time 
+move toward and past 
+observer
+a.Christmas is getting closer and 
+closer
+b.The time for action has arrived
+c.Those days have long since passed
+23Source domain: SPACE Target domain: TIME
+Objects Times / Temporal events
+Motion of objects past observer ‘Passage’ of time
+Proximity of objects to observer Imminence of temporal event
+FUTURE PRESENT PAST
+
+--- Page 24 ---
+Source domain: SPACE Target domain: TIME
+Locations on observer’s path Times / temporal events
+Motion of the observer ‘Passage’ of time
+Distance moved by observer Amount of time ‘passed’
+Distance of observer from location Temporal ‘distance’ of event
+Rapidity of motion of observer Imminence of event’s occurrenceTIME  IS SPACE
+•Moving Time vs. Moving Ego
+•Moving Ego: Observer moves 
+toward and past events in 
+time
+a.We’re getting  closer  to Christmas
+b.We’ve come  to a point in time 
+where action is required
+c.We’ve moved on since then
+24
+FUTURE PRESENT PAST
+
+--- Page 25 ---
+Multimodal Metaphor
+•Metaphor primarily a matter of thought and only 
+derivatively of language (Lakoff & Johnson 1980: 
+153)
+•Follows that metaphor “should be capable of 
+assuming non -verbal and multimodal 
+manifestations as well as […] purely verbal ones” 
+(Forceville 2002: 2)
+•Non-verbal and multimodal specimens required to 
+validate claims of CMT
+•Found in texts like adverts and cartoons (Forceville 
+1996; Forceville & Urios -Aparisi  2009) 
+25
+
+
+--- Page 26 ---
+Thank
+youSelected References
+Forceville, C. (1996). Pictorial Metaphor in Advertising.  Routledge.
+Forceville, C. (2002). The identification of target and source in pictorial 
+metaphors. Journal of Pragmatics 34: 1 -14.
+Forceville, C. and Urios -Aparisi , E. (ed.) (2009). Multimodal Metaphor . Mouton.
+Grady, J. (1999). A typology of motivation for conceptual metaphor: Correlation 
+vs. resemblance. In G. Steen and R. Gibbs (eds.), Metaphor in Cognitive 
+Linguistics . Amsterdam: John Benjamins . pp.79 -100.
+Kövecses , Z. (2003). Metaphor and Emotion.  Cambridge University Press.
+Lakoff, G. (1993). The contemporary theory of metaphor. In A. Ortony  (ed.), 
+Metaphor and Thought,  2nd edn. Cambridge University Press. pp.202 -251.
+Lakoff, G. and Johnson, M. (1980). Metaphors We Live By. University of Chicago 
+Press.
+Lakoff, G. and Johnson, M. (1999). Philosophy in the Flesh: The Embodied Mind 
+and Its Challenge to Western Thought. Basic Books.
+Núñez , R. & Sweetser, E. (2006). With the future behind them: Convergent 
+evidence from Aymara language and gesture in the crosslinguistic 
+comparison of spatial construals of time. Cognitive Science  30: 401 -450.
+Thibodeau, P . and Boroditsky, L. (2011). Metaphors we think with: The role of 
+metaphor in reasoning. PLoS  ONE  6 (2): e16782.

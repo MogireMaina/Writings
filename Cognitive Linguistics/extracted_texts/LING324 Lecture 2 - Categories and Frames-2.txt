@@ -1,0 +1,381 @@
+Source: LING324 Lecture 2 - Categories and Frames-2.pdf
+================================================================================
+
+--- Page 1 ---
+LING324 Cognitive Linguistics
+Professor Christopher Hart
+Lecture 2: Categories and Frames
+
+--- Page 2 ---
+Overview•Introduction
+•Categories
+•The classic view
+•Prototypes
+•Theory of radial categories
+•Frames
+•The dictionary view
+•Frames
+•Frames and categories
+•FrameNet
+2
+
+--- Page 3 ---
+Introduction
+•Categorisation a central topic in philosophy, psychology and 
+linguistics
+•Cognitive tool implicated in learning, planning, communication 
+and economy of knowledge (Croft & Cruse 2004: 74)
+3The act of categorisation is one of the most basic human cognitive 
+activities. Categorisation involves the apprehension of some individual 
+entity, some particular of experience, as an instance of something 
+conceived more abstractly that also encompasses other actual and 
+potential instantiations. (Croft & Curse 2004: 74)
+
+
+--- Page 4 ---
+The Classic View
+•The ‘classical model’ traceable to Aristotle
+•Categories defined by sets of necessary and 
+sufficient features
+•Necessary in so far as required of all 
+members
+•Sufficient in so far as enough to 
+guarantee membership
+•Found in formal and structuralist approaches 
+to lexical semantics (Geeraerts 2010)
+4
+
+
+--- Page 5 ---
+The Classic View
+•E.g., BACHELOR  = [ADULT  +] [MARRIED  –] [MALE  +]
+•From this perspective:
+•Categories are binary 
+•Boundaries between categories are clearly 
+defined
+•All members of a category are equal 
+representatives
+5
+
+
+--- Page 6 ---
+The Classic View
+•Decompositional semantics or componential  analysis of meaning
+6A meaning is not a thing in itself, but only a set of 
+contrastive relations. There is no way to determine a 
+meaning apart from comparisons and contrasts with 
+other meanings within the same semantic set. (Nida 1975: 
+151)
+HUMAN ADULT FEMALE
+Man + + -
+Woman + + +
+Boy + - -
+Girl + - +
+
+--- Page 7 ---
+The Classic View
+game
+7
+
+--- Page 8 ---
+The Classic View
+•Problems with the classic view: E.g. GAME
+•Definition  – not always possible to arrive at 
+set of necessary and sufficient features
+•Fuzziness  – boundaries between some 
+categories blurred
+•Prototypicality  – some members judged as 
+‘better’ or more representative examples 
+than others
+8
+
+
+--- Page 9 ---
+The Classic View
+•Problems with the classical model: E.g. CHAIR
+9
+(Katz 1972)
+
+--- Page 10 ---
+Prototypes
+•Classical model debunked by experimental research of 
+Eleanor Rosch (e.g. Rosch 1973, 1978; Rosch & Mervis  1975)
+•Developed alternative prototype  model of category 
+structure
+•Goodness -Of-Exemplar  (GOE) experiments
+•Subjects presented with a category and a list of putative 
+members which asked to rate, on a 1 -7 scale, according to 
+how good an example they are of the category
+•Combining results across subjects shows graded structure 
+organised around a prototype
+10
+
+
+--- Page 11 ---
+Prototypes
+Rank BIRD FRUIT FURNITURE
+Top five (from more to less representative)
+1
+2
+3
+4
+5Robin
+Sparrow
+Bluejay
+Blue bird
+CanaryOrange
+Apple
+Banana
+Peach
+PearChair
+Sofa
+Couch
+Table
+Easy chair
+Bottom five (from more to less representative)
+5
+4
+3
+2
+1Turkey
+Ostrich
+Emu
+Penguin
+BatNut
+Gourd
+Olive
+Pickle
+SquashCloset
+Vase
+Ashtray
+Fan
+Telephone
+11(Rosch 1975: appendix)
+
+--- Page 12 ---
+Prototypes
+•GOE ratings culture dependent 
+•Correlate with independent properties:
+•Frequency and order of mention
+•Order of learning
+•Family resemblance
+•Verification speed
+•Priming
+12
+
+
+--- Page 13 ---
+Prototypes
+•Levels of categorisation – more specific categories nested 
+in more inclusive ones
+•E.g. fruit > apple  > granny smith
+•Basic level categories defined by substantive 
+characteristics:
+•Level at which patterns of behavioural interaction most 
+identifiable
+•Level at which clear visual image can be formed
+•Level at which part -whole information represented
+•Level used for everyday reference
+•Level to which subordinate items most rapidly categorised 
+as belonging  
+13
+
+
+--- Page 14 ---
+Theory of Radial Categories
+•Model developed in CL as explicit 
+theory of knowledge 
+representation accounting for 
+prototype effects (Lakoff 1987; Taylor 
+2003)
+•Categories are conceptual 
+structures in which a range of 
+lexicalised concepts are organised 
+radially in relation to a central 
+prototype
+•Gradient structure and fuzzy 
+boundaries
+14
+
+
+--- Page 15 ---
+Theory of Radial Categories
+•Members connected to 
+prototype directly or via series of 
+intermediaries
+•Extensions outward motivated
+•Distant members may lack 
+obvious connection
+•Relations between words and 
+between senses of same word 
+– polysemy 
+15
+
+
+--- Page 16 ---
+Theory of Radial Categories
+•Prototypicality observed at all levels of 
+linguistic structure “from phonology to 
+morphology to syntax to the lexicon” 
+(Lakoff 1987: 67) 
+•Applies across ontological and lexical 
+categories:
+•THINGS  (nouns)
+•ACTIONS  (verbs)
+•RELATIONS  (prepositions)
+16
+Radial structure of the polysemous verb drop 
+(Halas 2016: 129)
+
+--- Page 17 ---
+Theory of Radial Categories
+•Category structure and prototype effects born of idealised cognitive 
+models (cf. frames) – conceptual structures by means of which we 
+organise our knowledge (Lakoff 1987: 68)
+•Abstractions across experience and thus degrees of ‘fit’ with potential 
+instantiations
+•Prototypicality arises where more or less perfect fit between ICM and 
+specific case
+•E.g. BACHELOR  < MARRIAGE
+•The Pope / Tarzan
+17
+
+--- Page 18 ---
+Theory of Radial Categories
+•In many cases, prototypicality dependent on combinations of ICMs –   
+cluster models (Lakoff 1987: 74 -76)
+•E.g. MOTHER
+•BIRTH  MODEL  / GENETIC  MODEL  / NURTURANCE  MODEL  / MARITAL  MODEL  / 
+GENEALOGICAL  MODEL
+•Stepmothers, surrogate mothers, adoptive mothers, biological 
+mothers etc. all mothers but less prototypical by virtue of deviating 
+from one or more ICM
+18
+
+--- Page 19 ---
+The ‘Dictionary’ View
+•Linguistic meaning, as represented in the 
+lexicon, is distinct from world knowledge
+•Semantics is concerned with ‘core’ 
+linguistic meaning only - denotation
+•Connotation  not included
+•The lexicon is characterised as a kind of 
+mental dictionary 
+•Entries defined in terms of semantic 
+features or components
+19
+
+
+--- Page 20 ---
+The ‘Dictionary’ View
+discount
+20
+
+--- Page 21 ---
+Frames
+•Definition possible only with 
+reference to specific context – 
+frame
+•Structured bundles of knowledge 
+representing real -world situations, 
+arrangements, scenarios etc. 
+•Encyclopaedic
+•Inclusive of function, affect etc.
+•Open -ended but accessed with 
+different degrees of salience
+21The particular organisation of knowledge which stands 
+as a prerequisite to our ability to understand the meaning 
+of … associated words  (Fillmore 1985: 224)
+Any system of concepts related in such a way that to 
+understand any one of them you have to understand the 
+whole structure in which it fits (Fillmore 1982: 111)
+
+--- Page 22 ---
+Frames
+•COMMERCIAL  EVENT  frame
+•Words buy, sell, pay, spend, cost, charge, 
+tender, change and discount  meaningful 
+only within COMMERCIAL  EVENT  frame
+•Minimally made up of four core elements : 
+BUYER , SELLER , MONEY , GOODS
+•Words foreground roles and relations within 
+frame and encode perspective
+•Accounts for argument structure ( valence )
+22
+
+
+--- Page 23 ---
+Frames
+23
+
+
+--- Page 24 ---
+Frames
+•Frames provide perspective
+•E.g. coast  vs. shore
+•LAND  frame vs. SEA frame
+•Lexical choice imposes a particular framing  
+•E.g. stingy  vs. thrifty
+24
+land sea
+
+--- Page 25 ---
+Frames and Categories
+•Frames disambiguate polysemous words
+•E.g. menu
+•Meaning dependent on currently active frame
+•Frames represent prototypical scenarios
+•E.g. MARRIAGE  CEREMONY  or RESTAURANT
+•Prototypes provide default assignments for frame elements
+•Not fixed but dependent on currently active frame
+•E.g. ball or dog
+25
+
+
+--- Page 26 ---
+FrameNet
+•Inventory of frames, their elements 
+and interrelations
+•Core FEs: elements essential to 
+the meaning of a frame
+•Non-core FEs: elements 
+providing more circumstantial 
+information
+•Frame -Frame relations: 
+inheritance, sub -frame, 
+metaphor
+26
+
+
+--- Page 27 ---
+FrameNet
+27
+
+
+--- Page 28 ---
+Thank
+youSelected References
+Barsalou , L.W. (1985). Ideals, central tendency, and frequency of instantiation as determinants of 
+graded structure in categories.  Journal of Experimental Psychology  11 (4): 629 -54. 
+Fillmore, C. (1975). An alternative to checklist theories of meaning. Proceedings of the First 
+Annual Meeting of the Berkely Linguistics Society . North Holland.  pp. 123 -31.
+Fillmore, C. (1977).  Scenes and frame -semantics . In A. Zampoli  (ed.), Linguistic Structures 
+Processing . North Holland.  pp. 55 -82.
+Fillmore, C. (1982). Frame semantics.  In Linguistics Society of Korea (ed.), Linguistics in the 
+Morning Calm . Seoul: Hanshin Publishing. pp.111 -37. Reprinted in D. Geeraerts (ed.) 
+(2006) , Cognitive Linguistics: Basic Readings . Mouton.  pp. 373 -400. 
+Fillmore, C. (1985).  Frames in the semantics of understanding.  Quaderni  di Semantica  6: 222 -54.
+Lakoff, G. (1987). Women, Fire and Dangerous Things: What Categories Reveal About the Mind . 
+University of Chicago Press.
+Rosch, E. (1975).  Cognitive representations of semantic categories.  Journal of Experimental of 
+Psychology 104 (3): 192 -233.  
+Rosch, E. (1977).  Human categorization.  In N. Warren (ed.), Studies in Cross -linguistic 
+Psychology . Academic Press.  pp. 1 -49.
+Rosch, E. (1978).  Principles of categorization.  In B. Loyd and E. Rosch (eds.), Cognition and 
+Categorization . Hillsdale, NJ: Erlbaum.  pp. 27 -48. Reprinted in E. Margolis and S. Laurence 
+(eds.) (1999), Concepts: Core Readings . MIT Press.  pp. 189 -206.
+Rosch, E. and Mervis , C. (1975).  Family resemblances: Studies in the internal structure of 
+categories.  Cognitive Psychology  7: 573 -605.
+Rosch, E., Mervis , C., Gray, W., Johnson, D. and Boyes -Braem , P . (1976).  Basic objects in natural 
+categories.  Cognitive Psychology  8: 382 -439.
+Taylor, J. (2003).  Linguistic Categorization, 3rd edn. Oxford University Press.

@@ -1,0 +1,393 @@
+Source: LING324 Lecture 7 - Scenes and Events.pdf
+================================================================================
+
+--- Page 1 ---
+LING324 Cognitive Linguistics
+Professor Christopher Hart
+Lecture 7: Scenes and Events
+
+--- Page 2 ---
+Overview•Introduction
+•Figure/Ground
+•Concept structuring systems
+•Domains: Space and Time
+•Concept structuring systems:
+•Configurational system
+•Attentional system
+•Perspectival system
+•The Motion event
+•Fictive motion
+•Force -dynamics
+2
+
+--- Page 3 ---
+Introduction
+•Structuring of scenes and events addressed in cognitive 
+semantics (Talmy  2000a/b)
+•Focusses on conceptual specifications inherent in linguistic 
+representation of events
+•Reflect embodied experience
+•“Abstract, idealized and often virtually geometric delineations” (Talmy  
+2000a: 13) 
+•Link between semantic constituents within conceptual complex and 
+syntactic constituents within a sentence – meaning -form mappings
+3
+
+
+--- Page 4 ---
+Figure/Ground
+•Linguistic forms in discourse organise cognitive representation (CR) 
+of target situation
+•Most obvious way scene organised in CR is Figure/Ground
+•Reflective of perceptual experience
+•Based on objective properties
+•E.g. size; fixity of location; geometric complexity; topicality; 
+dependency; saliency
+•Encoded in language through Subject/Object distinction
+1.The bike stood near the house
+2.?The house stood near the bike
+4
+
+
+--- Page 5 ---
+Figure/Ground
+•Typical geometries  of Figure and Ground
+•F reduces to geometric point
+3.The statue is in the park at the end of the path
+•Exceptions:
+4. The board lay across the railway track  [F = linear]
+5. The tablecloth lay over the table  [F = planar]
+6. The odour spread throughout the room  [F = 3 -D distributed quantity] 
+•Further specifications in (x): axis of F horizontal; axes of F and G perpendicular; plane of 
+F parallel to plane of G; F touches both of G’s edges; extension of F not enormously 
+greater than width of G on either side
+5
+
+
+--- Page 6 ---
+Figure/Ground
+•G exhibits more elaborate range of geometric 
+distinctions:
+5.The bike stook near the tree   [G = single point]
+6.The bike stood between the trees  [G = point pair]
+7.The bike stood among the trees  [G = set of points]
+8.The bike stood amidst the trees  [G = aggregate mass]
+9.The bike sped across the field   [G = bounded plane]
+10.The bike sped into the sports hall  [G = container]
+11.The bike sped through the tunnel  [G = linear enclosure]
+6•Asymmetry of parts:
+ in front of
+12.   The bike is in back of behind         the church
+to left/right of
+  
+
+
+--- Page 7 ---
+Concept Structuring Systems
+•Beyond Figure/Ground
+•Two systems contribute meaning to 
+CR:
+•Content  system – associated primarily with 
+open -class (lexical) elements
+•Schematic  system – associated primarily 
+with closed -class (grammatical) elements
+•Four schematic sub -systems described
+•Conceptual alternativity
+7
+Thus, much as certain linguistic forms in a portion of discourse 
+organise a referent situation in terms of configurational structure, 
+so other linguistic forms specify where one is to locate one’s 
+perspective point from which to regard the now -structured 
+referent situation … Still further linguistic forms specify the 
+particular distribution of attention that one is to direct over the 
+structured situation from one’s adopted perspective point.  (Talmy  
+2000a: 12)
+
+--- Page 8 ---
+Domains: Space and Time
+•Structuring systems generalise across space and time
+•Homologous categories – shared structuring principles, e.g. 
+quantity
+•Matter  (space) vs. action  (time)
+•Continuous  vs. discrete (dividedness)
+•Conversion between domains
+•E.g. Reification  (action → matter)
+13.Ivy washed her → Ivy gave her a wash (discrete)
+14.Ivy helped her → Ivy gave her some help (continuous)
+8Domain Continuous Discrete
+Space (matter) Mass ( water ) Objects ( bike)
+Time (action) Activity ( sleep ) Acts ( breathe )
+
+--- Page 9 ---
+Configurational System
+•Provides structure to the 
+spatial and temporal 
+properties of scenes and 
+events
+•Distinctions encoded by both 
+open - and closed -class 
+elements 
+•Six schematic categories
+9
+
+
+--- Page 10 ---
+Configurational System
+•Plexity
+•Uniplex  = quantity consisting of only one element
+•Multiplex  = quantity consisting of multiple elements
+•Encoded through number (singular vs. plural) and lexical 
+aspect (semelfactive vs. iterative)
+•Boundedness
+•Bounded  = quantity conceived as having boundary
+•Unbounded  = quantity conceived as without boundary
+•Encoded through count/mass and grammatical aspect 
+(perfect vs. imperfect)
+•Bounding  vs. portion excerpting
+10MATTER ACTION
+Bounded He drank a glass of champagne He left the party
+Unbounded He drank champagne He is leaving the partyMATTER ACTION
+Uniplex A bird flew  in He sighed ( once)
+Multiplex Birds flew in He kept sighing
+
+--- Page 11 ---
+Configurational System
+•Dividedness, plexity and boundedness 
+together provide disposition of quantity
+ 
+11
+ (Talmy  2000a: 59)Dividedness Plexity Boundedness
+Furniture
+(to) breatheDiscrete Multiplex Unbounded
+Water
+(to) sleepContinuous Multiplex Unbounded
+(a) family
+(to) moltDiscrete Multiplex Bounded
+(a) sea
+(to) emptyContinuous Multiplex Bounded
+(a) bike
+(to) sighDiscrete Uniplex Bounded
+
+--- Page 12 ---
+Configurational System
+•Degree of extension
+•Point  vs. extent
+•Encoded through lexical 
+aspect (telicity)
+•Intersects with 
+boundedness
+12
+ (Talmy  2000a: 61)
+
+--- Page 13 ---
+Attentional System
+•Distributes attention over matter and action
+•Patterns of attention:
+•Focus of attention: Figure/Ground organisation
+•Window of attention (path windowing):
+15. The cargo fell from the plane   [initial]
+16. The cargo fell through the sky  [medial]
+17. The cargo fell into the sea   [final]
+•Level of attention
+18. The group decided …
+19. Members of the group decided …
+13
+
+--- Page 14 ---
+Perspectival System
+•Establishes a viewpoint from which 
+scene or event construed
+•Four schematic categories
+•Location :
+20. Interior : The office door slowly opened 
+and two men walked in
+21. Exterior : The two men slowly opened 
+the office door and walked in
+14Perspective
+Location Distance Mode Direction
+(Talmy  2000a: 68 -69)
+
+--- Page 15 ---
+Perspectival System
+•Mode :
+22.Synoptic : There are some houses in the valley
+23.Sequential : There is a house every now and then 
+throughout the valley
+•Direction :
+24.Prospective : I shopped at the store before I went home
+25.Retrospective : After I shopped at the store, I went home
+15
+ (Talmy  2000a: 73)
+
+--- Page 16 ---
+Motion Events
+•A situation containing motion or continuation of stationary 
+location (Talmy  2000b)
+•Translational  motion as opposed to rotation, oscillation 
+etc.
+•Six conceptual components:
+•Figure; Ground; Motion; Path; Manner; Cause
+1626.The ball        rolled             down   the slope
+         [Figure]   [Motion + Manner]    [Path]      [Ground]
+
+
+--- Page 17 ---
+Motion Events
+•Linked with clause constituents in different 
+ways 
+•Path expressed through prepositions or 
+verbs
+•Satellite -framed vs. verb-framed  languages
+•Manner expressed through verbs or 
+adverbial modifiers
+•Non-obligatory in V -languages
+17(Talmy  2000b: 49)
+
+
+--- Page 18 ---
+Motion Events
+•Types of motion
+•Object motion:
+27. The ball rolled down the slope
+•Self-motion:
+28. We rolled down the slope
+•Caused motion:
+29. The car was pushed down the slope
+18
+
+
+--- Page 19 ---
+Motion Events
+•Manner optional in Spanish but obligatory in English
+•Hypothesis: English speakers should pay more 
+attention to manner than Spanish speakers, who pay 
+more attention to path (Gennari  et al. 2002)
+•Which video is most similar to target video?
+19
+Spanish English
+(53% vs 75%, p = < .0001)
+(Gennari  et al. 2002)
+
+--- Page 20 ---
+Fictive Motion
+•Static scenes construed dynamically as motional
+30.The mountain range lies (longitudinally) between Canada and Mexico (factive )
+31.The mountain range goes from Canada to Mexico (fictional motion)
+32.The mountain range goes from Mexico to Canada (fictional motion)
+20Languages systematically and extensively refer to stationary 
+circumstances with forms and constructions shoes basic reference 
+is to motion (Talmy  2000a: 104)
+
+
+--- Page 21 ---
+Fictive Motion
+•Fictive paths
+•Spatial configuration 
+understood as static 
+conceptually sequentialised  to 
+include path of fictive motion
+•Trajectory exhibited as focus of 
+attention shifts over scene
+•X BE across Y from Z 
+construction
+•Subject to windowing of 
+attention
+2133. My bike is across the street from the bakery  [maximal windowing]
+        Ivy sat across the table from Wilbur
+34. My bike is across from the bakery   [medial gapping]
+        Ivy sat across from Wilbur
+35. My bike is across the street   [initial gapping]
+        Ivy sat across the table
+
+--- Page 22 ---
+Fictive Motion
+•Other types of fictive path  (Talmy  2000a: 106 -139)
+36. Orientation : The arrow on the signpost pointed toward  
+the town
+37.  Radiation : The sun is shining into the cave
+38.  Shadow : The tree cast its shadow down into the valley
+39.  Sensory : The enemy can see us from where they’re 
+positioned
+22
+
+
+--- Page 23 ---
+Force -Dynamic System
+•Structures events conceived as forceful
+•Constitutes naïve physics of conceptual system
+•Generalises over causation  to also include relations of 
+letting, helping and hindering 
+•Lexical and grammatical representation
+•Push, pull, stay, remain, block, stop, overpower
+•Against  (preposition), because/despite (conjunction), keep  
+(auxiliary)
+•Extends metaphorically to social and psychological 
+domains
+•Characterises grammatical category of modal verbs
+•Can, may, should, could, must … 
+23
+
+
+--- Page 24 ---
+Force -Dynamic System
+•Be Vping  / keep Vping
+40. The ball was rolling along the green
+41. The ball kept on rolling along the green
+42. The ball kept rolling because of the wind 
+blowing on it
+43. The ball kept rolling despite the stiff grass
+24
+
+
+--- Page 25 ---
+Force -Dynamic System
+•Steady -state  vs. shift-in-state  patterns
+•Onset causation and letting:
+44. The ball’s hitting it made the lamp topple from 
+the table
+45. The plugs coming loose let the water flow from 
+the tank
+•Shift in balance of strength:
+46.The enemy overcame us as we stood defending 
+the border
+25
+
+
+--- Page 26 ---
+Force -Dynamic System
+•Extends to inter -psychosocial and intra -psychological experience:
+47. Peer pressure pushed Wilbur into smoking
+48. Ivy persuaded Wilbur to stop smoking
+49. Wilbur resisted the temptation to smoke
+50. Wilbur gave in to the temptation to smoke
+26
+
+--- Page 27 ---
+Force -Dynamic System
+•Accounts for deontic  and epistemic  senses of modal verbs (Talmy  2000; 
+Sweetser 1990)
+•Deontic: permission/obligation
+51. The cake can/may/should/must stay in the box
+•Epistemic: truth/certainty
+52. The pear could/may/should/must be ripe by now
+•Epistemic senses derived metaphorically from deontic
+•Evidence and reason act as antagonist
+•Must  = ‘the available evidence forces me to the conclusion that P’
+•May = ‘I am not barred by any alternative evidence from drawing the conclusion that P’
+27
+
+--- Page 28 ---
+Thank
+youSelected References
+Gennari , S.P., S.A. Sloman , B.C. Malt  and W.T. Fitch  (2002 ). Motion  events  in 
+language  and cognition . Cognition  83: 49-79.
+Matlock,  T. (2004 ). The conceptual  motivation  of fictive  motion . In G. Radden  & 
+R. Dirven  (eds .), Studies  in linguistic  motivation . Mouton  de Gruyter . pp. 221- 
+248.
+Pourcel , S. (2010). Motion: A conceptual typology. In B. Bergen, V. Evans & J. 
+Zinken  (eds.), Language, Cognition and Space: The Ste of the Art and New 
+Directions.  Equinox. pp.419 -449.
+Talmy , L. (2000 a). Toward  a Cognitive  Semantics,  vol. I: Concept  Structuring  
+Systems . MIT Press . 
+Talmy , L. (2000 b). Toward  a Cognitive  Semantics,  vol. II: Typology  and Process  in 
+Concept  Structuring . MIT Press .

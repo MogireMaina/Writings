@@ -1,0 +1,416 @@
+Source: LING324 Lecture 5 - Mental Spaces.pdf
+================================================================================
+
+--- Page 1 ---
+LING324 Cognitive Linguistics
+Professor Christopher Hart
+Lecture 5: Mental Spaces
+
+--- Page 2 ---
+Overview•Introduction
+•Mental spaces
+•Modals
+•Semantic anomalies
+•Referential ambiguities
+•Change predicates
+•Tense
+•Conditionals 
+•Epistemic distance
+•Conceptual blending
+•Analogy
+•Counterfactual disanalogy
+•XYZ constructions
+•Non-linguistic examples
+2
+
+--- Page 3 ---
+Introduction
+•Focus on processes of meaning construction in 
+discourse
+•Developed in opposition to referential or truth -
+conditional theories of semantics
+•Resolves traditional semantic problems relating, 
+e.g., to reference, analogy, conditionality and 
+counterfactuality
+a.I am getting ahead of myself
+3
+
+
+--- Page 4 ---
+Mental Spaces
+•Words do not refer directly to real -world entities 
+but to elements  in a mental space
+•Meaning construction involves:
+•The building  of mental spaces
+•Mappings  between elements in mental spaces
+4Mental spaces are small conceptual packets constructed as we 
+think and talk, for purposes of local understanding and action. 
+They are interconnected, and can be modified as thought and 
+discourse unfold (Fauconnier & Turner 1996: 113)
+
+
+--- Page 5 ---
+Space Builders
+•As discourse unfolds, new spaces established relative to base space 
+•Established by space builders :
+•Prepositional phrases (during the last century)
+•Adverbial phrases (hypothetically)
+•Modal verbs (may, must)
+•Conditional conjunctions (if … then …)
+•Subject -verb combination followed by embedded sentence (Ivy thinks …)
+•Spaces populated by elements  – supplied in discourse by NPs
+•Structured internally by frames  and other ICMs
+5
+
+--- Page 6 ---
+Counterparts and Connectors
+•Elements assigned properties  and enter into 
+relations  with other elements in same space
+•Across spaces, elements linked to counterpart 
+elements by connectors
+•Counterparts established on basis of  pragmatic 
+function: role, identity, representation
+•Produces complex lattice  of spaces which 
+discourse participants ‘move through’ with 
+shifting viewpoint  and focus
+6
+
+--- Page 7 ---
+Access Principle
+•“An expression that names or describes an element in one mental space 
+can be used to access  a counterpart of that element in another space” 
+(Fauconnier 1997: 41)
+•Element named or described = trigger ; element accessed = target
+7Access Principle
+If two elements a and b are linked by a connector F (b = F(a)), then element 
+b can be identified by naming, describing or pointing to its counterpart a
+(Fauconnier 1997: 41)
+
+--- Page 8 ---
+Context and Ambiguity
+•Operations guided by context
+b.If I were your father, I would smack you
+•Different interpretations based on different mappings and relations in 
+counterfactual space
+•Lenient father: father inherits baby -sitter’s predisposition
+•Stern father: baby -sitter replaced by father
+•Role: baby -sitter is father 
+8 (Fauconnier 1997: 14 -16)
+
+--- Page 9 ---
+Modals
+c.Maybe Romeo is in love with Juliet
+9ba
+b’a’a: NAME  ROMEO
+b: NAME  JULIET  
+LOVE a’ b’
+Base
+Possibility
+(Fauconnier 1997: 42 -43)
+
+--- Page 10 ---
+Semantic Anomalies
+•Inherent contradiction resolved by 
+mental spaces
+•Trigger = girl in real world
+•Target = girl in painting
+•Pragmatic function = 
+representation
+10d.In the painting, the girl with blue eye has green eyes
+(Fauconnier 1994: 10ff)
+
+--- Page 11 ---
+Referential Ambiguities
+e.The Prime Minister changes every five years
+•Ambiguous between role and value  
+reading (Fauconnier 1994: 39ff)
+•Pragmatic function role vs. identity
+f.Rishi Sunak thinks he’s still the Prime Minister 
+and Kier Starmer is the leader of the opposition
+11
+
+
+--- Page 12 ---
+Change Predicates
+g.Ivy’s house keeps getting bigger
+•Keep  is space builder: establishes 
+series of chronologically ordered 
+spaces
+•Normal  interpretation: NP = 
+same entity
+•Variable  interpretation: NP = 
+range of different entities
+12
+
+
+--- Page 13 ---
+Tense
+•Function of tense is discourse 
+management : enables hearer to track 
+events in time 
+•Guides hearer through network of spaces 
+shifting viewpoint  and focus
+•Viewpoint = space from which other 
+spaces currently built or accessed
+•Focus = space where content 
+currently being added
+•Event = time associated with event 
+described (often same as focus)
+13Base
+Vpt, F, E
+Wilbur 23
+h.Wilbur is twenty -three. He has lived abroad. In 1990, 
+he lived in Rome. In 1991 he would move to Venice. 
+He would then have lived a year in Rome.
+(Fauconnier 1997:73 -75)
+
+--- Page 14 ---
+Tense
+14Base
+Vpt, F
+EWilbur 23
+live abroad
+h.Wilbur is twenty -three. He has lived abroad. In 1990, 
+he lived in Rome. In 1991 he would move to Venice. 
+He would then have lived a year in Rome.•Function of tense is discourse 
+management : enables hearer to track 
+events in time 
+•Guides hearer through network of spaces 
+shifting viewpoint  and focus
+•Viewpoint = space from which other 
+spaces currently built or accessed
+•Focus = space where content 
+currently being added
+•Event = time associated with event 
+described (often same as focus)
+(Fauconnier 1997:73 -75)
+
+--- Page 15 ---
+Tense
+15Base
+Vpt
+F, EWilbur 23
+1990, live in Romelive abroad
+h.Wilbur is twenty -three. He has lived abroad. In 1990, 
+he lived in Rome. In 1991 he would move to Venice. 
+He would then have lived a year in Rome.•Function of tense is discourse 
+management : enables hearer to track 
+events in time 
+•Guides hearer through network of spaces 
+shifting viewpoint  and focus
+•Viewpoint = space from which other 
+spaces currently built or accessed
+•Focus = space where content 
+currently being added
+•Event = time associated with event 
+described (often same as focus)
+(Fauconnier 1997:73 -75)
+
+--- Page 16 ---
+Tense
+16Base
+Wilbur 23
+live abroad
+1990, live in Rome
+1991, move VeniceVpt
+F, E
+h.Wilbur is twenty -three. He has lived abroad. In 1990, 
+he lived in Rome. In 1991 he would move to Venice. 
+He would then have lived a year in Rome.•Function of tense is discourse 
+management : enables hearer to track 
+events in time 
+•Guides hearer through network of spaces 
+shifting viewpoint  and focus
+•Viewpoint = space from which other 
+spaces currently built or accessed
+•Focus = space where content 
+currently being added
+•Event = time associated with event 
+described (often same as focus)
+(Fauconnier 1997:73 -75)
+
+--- Page 17 ---
+Tense
+17Base
+EWilbur 23
+live abroad
+1990, live in Rome
+1991, move Venice
+live a year in RomeFVpt
+h.Wilbur is twenty -three. He has lived abroad. In 1990, 
+he lived in Rome. In 1991 he would move to Venice. 
+He would then have lived a year in Rome.•Function of tense is discourse 
+management : enables hearer to track 
+events in time 
+•Guides hearer through network of spaces 
+shifting viewpoint  and focus
+•Viewpoint = space from which other 
+spaces currently built or accessed
+•Focus = space where content 
+currently being added
+•Event = time associated with event 
+described (often same as focus)
+(Fauconnier 1997:73 -75)
+
+--- Page 18 ---
+Conditionals
+•Form of ‘If A then B’
+•A = antecedent; B = consequent
+•Foundation  (F) and Expansion  (E) spaces 
+(Fauconnier 1997: 131 -138)
+•Foundation hypothetical  or counterfactual  
+relative to base
+i.If Britain leaves the EU, then fuel prices will rise
+j.If Britain had remained in the EU, then fuel prices 
+would not have risen
+18
+
+
+--- Page 19 ---
+Conditionals
+•Form of ‘If A then B’
+•A = antecedent; B = consequent
+•Foundation  (F) and Expansion  (E) spaces 
+(Fauconnier 1997: 131 -138)
+•Foundation hypothetical  or counterfactual  
+relative to base
+i.If Britain leaves the EU, then fuel prices will rise
+j.If Britain had remained in the EU, then fuel prices 
+would not have risen
+19
+
+
+--- Page 20 ---
+Epistemic Distance
+•Tense used to mark epistemic distance in conditional constructions
+•degree to which speaker assesses ‘hypothesis’ in F as likely or 
+unlikely to hold in reality space (Fauconnier 1997: 93)
+•Past tense marks greater epistemic distance
+•Spreads to all spaces subordinate to hypothetical space (Sweetser 1996)
+k. If Britain leaves the EU, then fuel prices will rise
+l. If Britain left the EU, then fuel prices would rise
+20
+
+--- Page 21 ---
+Conceptual Blending
+•Mental spaces enter into conceptual 
+integration networks to create blends  
+(Fauconnier & Turner 2002)
+•Implicated in creative aspects of meaning 
+construction like novel metaphor
+•Pervasive in human imagination, reason 
+and language
+21
+Blends abound in all kinds of cases that go largely 
+unnoticed. Some are created as we talk, others are 
+conventional, and others are even more firmly entrenched 
+in the grammatical structure. (Fauconnier 1997: 155)
+
+--- Page 22 ---
+Conceptual Blending
+•Four-space model of online meaning 
+construction
+•Mappings  and projections
+•Input spaces structured by frames
+•Vital relations held between counterpart 
+elements
+•change; identity; time; space; cause -effect; part -whole; 
+representation; role; analogy; disanalogy; property; similarity; 
+category; intentionality; uniqueness
+•Emergent structure through composition, 
+completion and elaboration 
+22
+
+
+--- Page 23 ---
+Analogy 
+•Metaphors not accounted for by 
+unidirectional mapping (CMT)
+m. This surgeon is a butcher
+        Inference: The surgeon is incompetent
+•Double -scope network: frame -level 
+structure projected from both input 
+spaces
+23In the blended space, the means of butchery have been 
+combined with the ends, the individuals and the surgical 
+context of the surgery space. The incongruity of the 
+butcher's means with the surgeon's ends leads to the 
+central inference that the butcher is incompetent. (Grady, 
+Oakley & Coulson 1999: 105)
+
+
+--- Page 24 ---
+Counterfactual Disanalogy
+n. In Italy, Partygate wouldn’t have done Boris 
+Johnson any harm
+•Highlights dissimilarity between two contexts: 
+ITALIAN  POLITICS  and UK POLITICS  
+•Disanalogy not explained by standard MST
+•Obtained based on integration of two spaces:
+•Partial projection resulting in blended structure
+•Imagined scenario in which Johnson is Prime 
+Minister of Italy and Partygate took place in Italian 
+context
+•Back projection highlighting contrast between Inputs
+24•Country
+•Prime Minister
+•Scandal
+•Citizens
+•UK
+•Boris Johnson
+•Partygate
+•UK voters•Italy
+•Prime Minister
+•Italian voters
+•Italy
+•Boris Johnson/PM
+•Partygate
+•Italian voters
+Emergent structure: Partygate doesn’t harm Johnson as 
+PM of Italy
+Inference: disanalogy between UK and Italy, UK voters and 
+French voters, attitudes to politicians and scandal, etc.
+
+--- Page 25 ---
+XYZ Constructions
+•X be Y of Z
+•A grammatical  construction  “whose  purpose  is to systematically  prompt  
+for blends”  (Fauconnier  & Tuner  2002 : 142)
+•Money  is the root of all evil
+•Religion  is the opiate  of the masses
+•Death  is the mother  of beauty
+•The Pope  is the father  of the Catholic  Church
+25x
+zy
+
+--- Page 26 ---
+Non -linguistic Examples
+•Blending independent of language
+•Operation fundamental to human 
+thinking
+•Manifest in non -linguistic forms of 
+imagination/creativity
+•E.g. anthropomorphism  (Turner 1996)
+ 
+26
+
+
+--- Page 27 ---
+Thank
+youSelected References
+Fauconnier, G. (1994). Mental Spaces: Aspects of Meaning Construction in Natural 
+Language, 2nd edn. Cambridge: Cambridge University Press.
+Fauconnier, G. (1997). Mappings in Thought and Language.  Cambridge: 
+Cambridge University Press.
+Fauconnier, G. and Turner, M. (1996). Blending as a central process of grammar. 
+In A.E. Goldberg (ed.), Conceptual Structure, Discourse and Language . CSLI 
+Publication. pp.113 -130.
+Fauconnier, G. & Turner, M. (2002). The Way We Think : Conceptual Blending and 
+the Mind’s Hidden Complexities. Basic Books.
+Grady, J., Oakley, T. and Coulson, S. (1999). Blending and metaphor. In G. Steen 
+and R. Gibbs (eds.), Metaphor in Cognitive Linguistics . John Benjamins . 
+pp.101 -124.
+Sweetser , E. (1996). Mental spaces and the grammar of conditional 
+constructions. In G. Fauconnier & E. Sweetser (eds.), Spaces, Worlds and 
+Grammar . University of Chicago Press. pp.318 -333.
+Turner, M. (1996). The Literary Mind . Oxford University Press.
