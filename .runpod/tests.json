@@ -9,7 +9,7 @@
     }
   ],
   "config": {
-    "gpuTypeId": "NVIDIA A40",
+    "gpuTypeId": "NVIDIA GeForce RTX 4090",
     "gpuCount": 1,
     "env": [
       { "key": "BASE_MODEL", "value": "Qwen/Qwen3-14B" },
