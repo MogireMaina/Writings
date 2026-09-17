@@ -1,0 +1,14 @@
+{
+  "input": {
+    "sentences": [
+      "Pip is shaped by the class system into which he is born.",
+      "Jeanette grows up inside a religious community that defines her role before she can choose it."
+    ],
+    "batch_size": 128,
+    "style": "scholar",
+    "temperature": 0.9,
+    "top_p": 0.9,
+    "candidates": 1,
+    "max_new_tokens": 192
+  }
+}

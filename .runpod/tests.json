@@ -1,0 +1,23 @@
+{
+  "tests": [
+    {
+      "name": "health_check",
+      "input": {
+        "health": true
+      },
+      "timeout": 30000
+    }
+  ],
+  "config": {
+    "gpuTypeId": "NVIDIA A40",
+    "gpuCount": 1,
+    "env": [
+      { "key": "BASE_MODEL", "value": "Qwen/Qwen3-14B" },
+      { "key": "ADAPTER_PATH", "value": "" },
+      { "key": "DEFAULT_BATCH_SIZE", "value": "16" },
+      { "key": "ALLOWED_BATCH_SIZES", "value": "16,32,64,128" },
+      { "key": "MAX_SENTENCES_PER_JOB", "value": "512" }
+    ],
+    "allowedCudaVersions": ["12.8", "12.7", "12.6", "12.5", "12.4", "12.3", "12.2", "12.1", "12.0"]
+  }
+}

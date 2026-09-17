@@ -1,0 +1,8 @@
+**
+!Dockerfile
+!.dockerignore
+!.runpod/
+!.runpod/**
+!runpod/
+!runpod/qwen14_serverless/
+!runpod/qwen14_serverless/**
