@@ -20,9 +20,6 @@ from datetime import datetime, timezone
 from typing import Any
 
 import runpod
-import torch
-from peft import PeftModel
-from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 BASE_MODEL = os.getenv("BASE_MODEL", "Qwen/Qwen3-14B")
 ADAPTER_PATH = os.getenv(
@@ -65,6 +62,10 @@ def get_model():
     global _model, _tokenizer, _load_info
     if _model is not None and _tokenizer is not None:
         return _tokenizer, _model
+
+    import torch
+    from peft import PeftModel
+    from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
     started = time.perf_counter()
     quantization = BitsAndBytesConfig(
