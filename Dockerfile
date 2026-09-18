@@ -17,9 +17,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
-COPY requirements.txt /app/requirements.txt
+COPY runpod/qwen14_serverless/requirements.txt /app/requirements.txt
 RUN python3 -m pip install --upgrade pip \
     && python3 -m pip install --ignore-installed -r /app/requirements.txt
-COPY handler.py /app/handler.py
+COPY runpod/qwen14_serverless/handler.py /app/handler.py
 
 CMD ["python3", "/app/handler.py"]
