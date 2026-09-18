@@ -186,6 +186,8 @@ def handler(event: dict[str, Any]) -> dict[str, Any]:
     if parsed.get("health"):
         return {"ok": True, "model_loaded": _model is not None, "load_info": _load_info}
 
+    import torch
+
     tokenizer, model = get_model()
     generation_started = time.perf_counter()
     results = []
