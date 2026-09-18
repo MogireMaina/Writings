@@ -1,6 +1,6 @@
 {
   "title": "Qwen14 Serverless Humanizer",
-  "description": "RunPod serverless endpoint for batched Qwen3-14B sentence rewriting with optional LoRA adapter from a mounted RunPod volume.",
+  "description": "RunPod serverless endpoint for batched Qwen3-14B sentence rewriting with optional LoRA adapter from a mounted RunPod volume. Health-check safe build.",
   "type": "serverless",
   "category": "image",
   "iconUrl": "https://raw.githubusercontent.com/runpod/docs/main/static/img/logo.png",
@@ -8,13 +8,34 @@
     "runsOn": "GPU",
     "containerDiskInGb": 30,
     "env": [
-      { "key": "BASE_MODEL", "value": "Qwen/Qwen3-14B" },
-      { "key": "ADAPTER_PATH", "value": "/runpod-volume/adapters/qwen3-14b-chat-style-lora-compact-r16" },
-      { "key": "DEFAULT_BATCH_SIZE", "value": "128" },
-      { "key": "ALLOWED_BATCH_SIZES", "value": "16,32,64,128" },
-      { "key": "MAX_SENTENCES_PER_JOB", "value": "512" },
-      { "key": "MAX_INPUT_LENGTH", "value": "1024" },
-      { "key": "HF_HOME", "value": "/runpod-volume/huggingface" }
+      {
+        "key": "BASE_MODEL",
+        "value": "Qwen/Qwen3-14B"
+      },
+      {
+        "key": "ADAPTER_PATH",
+        "value": "/runpod-volume/adapters/qwen3-14b-chat-style-lora-compact-r16"
+      },
+      {
+        "key": "DEFAULT_BATCH_SIZE",
+        "value": "128"
+      },
+      {
+        "key": "ALLOWED_BATCH_SIZES",
+        "value": "16,32,64,128"
+      },
+      {
+        "key": "MAX_SENTENCES_PER_JOB",
+        "value": "512"
+      },
+      {
+        "key": "MAX_INPUT_LENGTH",
+        "value": "1024"
+      },
+      {
+        "key": "HF_HOME",
+        "value": "/runpod-volume/huggingface"
+      }
     ]
   }
 }
