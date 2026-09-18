@@ -1,0 +1,7 @@
+runpod>=1.7.0
+transformers>=4.56.0,<5
+accelerate>=1.0.0
+bitsandbytes>=0.43.0
+peft>=0.17.0
+sentencepiece
+protobuf

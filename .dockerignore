@@ -1,6 +1,8 @@
 **
 !Dockerfile
 !.dockerignore
+!handler.py
+!requirements.txt
 !.runpod/
 !.runpod/**
 !runpod/
